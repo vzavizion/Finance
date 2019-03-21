@@ -1,0 +1,72 @@
+<div class="row">
+    <div class="col-md-12 result">
+        <div class="grid-wrapper">
+            <kendo-grid grid #gridDetailsRegionKendo [data]="regions" [style.maxHeight.px]="400" (cellClick)="cellClickHandler($event)"
+                (cellClose)="cellCloseHandler($event)" (add)="addHandler($event)" (remove)="removeHandler($event)">
+
+                <ng-template kendoGridToolbarTemplate>
+                    <button kendoGridAddCommand>Add new</button>
+                    <button kendoButton class='k-button' (click)="saveChanges(gridDetailsRegionKendo);">Save Changes</button>
+                    <button kendoButton class='k-button' (click)="cancelChanges(gridDetailsRegionKendo);">Cancel Changes</button>
+                </ng-template>
+
+                <kendo-grid-column *ngIf="true" field="name" title="Name" width="140">
+
+                    <ng-template kendoGridCellTemplate let-dataItem="dataItem" let-rowIndex="rowIndex">
+                        <div class="row" draggable="true" droppable="true" (dragstart)="drag($event, rowIndex)" (drop)="drop($event, rowIndex)" (dragover)="dragover($event, rowIndex)">
+                            <div class="col-md-12">
+                                {{dataItem.name}}
+                            </div>
+                        </div>
+                    </ng-template>
+
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem">
+                        <input #txtRegionName="ngModel" name="txtRegionName" [(ngModel)]="dataItem.name" kendoGridFocusable class="k-textbox" required
+                        />
+                    </ng-template>
+                </kendo-grid-column>
+
+                <kendo-grid-column *ngIf="false" field="description" title="Description" width="250">
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem">
+                        <input #txtRegionDescription="ngModel" name="txtRegionDescription" [(ngModel)]="dataItem.description" kendoGridFocusable
+                            class="k-textbox" />
+                    </ng-template>
+                </kendo-grid-column>
+
+                <kendo-grid-column *ngIf="true" field="places" title="Places" [filterable]="false" width="440">
+                    <ng-template kendoGridCellTemplate let-dataItem let-rowIndex="rowIndex">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div *ngFor="let place of dataItem.places">
+                                    <pre class="pre-travel">{{place.name}}</pre>
+                                </div>
+                            </div>
+                        </div>
+                    </ng-template>
+
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <app-details-places *ngIf="true" [places]="dataItem.places"></app-details-places>
+                            </div>
+                        </div>
+                    </ng-template>
+
+                </kendo-grid-column>
+
+                <kendo-grid-command-column title="" width="40">
+                    <ng-template kendoGridCellTemplate>
+                        <button kendoButton kendoGridRemoveCommand type="button"><span class="k-icon k-i-delete k-i-trash"></span></button>
+                    </ng-template>
+                </kendo-grid-command-column>
+
+                <!-- <ng-template kendoGridDetailTemplate let-dataItem let-rowIndex="rowIndex">
+                    <app-details-regions [regions]="dataItem.regions"></app-details-regions>
+                </ng-template> -->
+
+            </kendo-grid>
+        </div>
+    </div>
+</div>
+
+<div class="mt-2"></div>

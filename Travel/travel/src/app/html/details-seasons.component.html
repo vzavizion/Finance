@@ -1,0 +1,80 @@
+<div class="row">
+    <div class="col-md-12 result">
+        <div class="grid-wrapper">
+            <kendo-grid grid #gridDetailsSeasonKendo [data]="seasons" [style.maxHeight.px]="gridMaxHeight" (cellClick)="cellClickHandler($event)"
+                (cellClose)="cellCloseHandler($event)" (add)="addHandler($event)" (remove)="removeHandler($event)">
+
+                <ng-template kendoGridToolbarTemplate>
+                    <button kendoGridAddCommand>Add new</button>
+                    <button kendoButton class='k-button' (click)="saveChanges(gridDetailsSeasonKendo);">Save Changes</button>
+                    <button kendoButton class='k-button' (click)="cancelChanges(gridDetailsSeasonKendo);">Cancel Changes</button>
+                </ng-template>
+
+                <kendo-grid-column *ngIf="true" field="seasonFrom.month.name" title="Name" width="180">
+
+                    <ng-template kendoGridCellTemplate let-dataItem="dataItem" let-rowIndex="rowIndex">
+                        <div class="row" draggable="true" droppable="true" (dragstart)="drag($event, rowIndex)" (drop)="drop($event, rowIndex)" (dragover)="dragover($event, rowIndex)">
+                            <div class="col-md-12">
+                                <span *ngIf="dataItem.isNoVisit">no</span> {{dataItem.seasonFrom.range}} {{dataItem.seasonFrom.month.name}}
+                                - {{dataItem.seasonTo.range}} {{dataItem.seasonTo.month.name}}
+                            </div>
+                        </div>
+                    </ng-template>
+
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem">
+                        <div class="row">
+                            <div class="col-md-12">
+
+                                <kendo-dropdownlist #selectedSeasonFromRangeKendo #selectedSeasonFromRange="ngModel" name="selectedSeasonFromRange" [(ngModel)]="dataItem.seasonFrom.range"
+                                    [valuePrimitive]="true" [data]="seasonsRangeSource" class="width-17">
+                                </kendo-dropdownlist>
+
+                                <kendo-dropdownlist #txtCountryRegionSeasonFrom="ngModel" name="txtCountryRegionSeasonFrom" [(ngModel)]="dataItem.seasonFrom.month"
+                                    [valuePrimitive]="false" [data]="seasonsSource" [textField]="'name'" [valueField]="'sequenceNumber'"
+                                    class="width-27">
+                                </kendo-dropdownlist>
+
+                                -
+
+                                <kendo-dropdownlist #selectedSeasonToRangeKendo #selectedSeasonToRange="ngModel" name="selectedSeasonToRange" [(ngModel)]="dataItem.seasonTo.range"
+                                    [valuePrimitive]="true" [data]="seasonsRangeSource" class="width-17">
+                                </kendo-dropdownlist>
+
+                                <kendo-dropdownlist #txtCountryRegionSeasonTo="ngModel" name="txtCountryRegionSeasonTo" [(ngModel)]="dataItem.seasonTo.month"
+                                    [valuePrimitive]="false" [data]="seasonsSource" [textField]="'name'" [valueField]="'sequenceNumber'"
+                                    class="width-27">
+                                </kendo-dropdownlist>
+                            </div>
+                        </div>
+                    </ng-template>
+                </kendo-grid-column>
+
+                <kendo-grid-column *ngIf="isShowDescription" field="description" title="Description" width="120">
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem">
+                        <input #txtRegionDescription="ngModel" name="txtRegionDescription" [(ngModel)]="dataItem.description" kendoGridFocusable
+                            class="k-textbox" />
+                    </ng-template>
+                </kendo-grid-column>
+
+                <kendo-grid-column field="isNoVisit" title="Visit" width="50">
+                    <ng-template kendoGridCellTemplate let-dataItem let-rowIndex="rowIndex">
+                        <div class="col-md-12">
+                            <span *ngIf="dataItem.isNoVisit">No</span>
+                            <span *ngIf="!dataItem.isNoVisit">Yes</span>
+                        </div>
+                    </ng-template>
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem">
+                        <kendo-switch #cbIsNoVisitKendo [(ngModel)]="dataItem.isNoVisit" [onLabel]="'N'" [offLabel]="'Y'"></kendo-switch>
+                    </ng-template>
+                </kendo-grid-column>
+
+                <kendo-grid-command-column title="" width="30">
+                    <ng-template kendoGridCellTemplate>
+                        <button kendoButton kendoGridRemoveCommand type="button"><span class="k-icon k-i-delete k-i-trash"></span></button>
+                    </ng-template>
+                </kendo-grid-command-column>
+
+            </kendo-grid>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,28 @@
+.grid-wrapper {
+    position: relative;
+}
+
+.k-i-loading {
+    position: absolute;
+    top: 50%; left: 50%; transform: translate(-50%, -50%);
+    font-size: 32px;
+    background-color: rgba(255,255,255,.3);
+    color: #ff6358;
+}
+
+.grid-link {
+    color: #ff6358;
+    font-weight: bold;
+}
+
+.full-width {
+    width: 100% !important;
+}
+
+.width-27 {
+    width: 27% !important;
+}
+
+.width-17 {
+    width: 17% !important;
+}

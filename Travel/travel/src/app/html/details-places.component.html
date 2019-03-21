@@ -1,0 +1,41 @@
+<div class="row">
+    <div class="col-md-12 result">
+        <div class="grid-wrapper">
+            <kendo-grid grid #gridDetailsPlaceKendo [data]="places" [style.maxHeight.px]="400" (cellClick)="cellClickHandler($event)"
+                (cellClose)="cellCloseHandler($event)" (add)="addHandler($event)" (remove)="removeHandler($event)">
+
+                <ng-template kendoGridToolbarTemplate>
+                    <button kendoGridAddCommand>Add new</button>
+                    <button kendoButton class='k-button' (click)="saveChanges(gridDetailsPlaceKendo);">Save Changes</button>
+                    <button kendoButton class='k-button' (click)="cancelChanges(gridDetailsPlaceKendo);">Cancel Changes</button>
+                </ng-template>
+
+                <kendo-grid-column *ngIf="true" title="Place">
+
+                    <ng-template kendoGridCellTemplate let-dataItem="dataItem" let-rowIndex="rowIndex">
+                        <div class="row" draggable="true" droppable="true" (dragstart)="drag($event, rowIndex)" (drop)="drop($event, rowIndex)" (dragover)="dragover($event, rowIndex)">
+                            <div class="col-md-12">
+                                <pre class="pre-travel">{{dataItem.name}}</pre>
+                            </div>
+                        </div>
+                    </ng-template>
+
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <textarea kendoTextArea #txtPlace="ngModel" name="txtPlace" [(ngModel)]="dataItem.name" kendoGridFocusable class="k-textbox full-width"></textarea>
+                            </div>
+                        </div>
+                    </ng-template>
+                </kendo-grid-column>
+
+                <kendo-grid-command-column title="" width="50">
+                    <ng-template kendoGridCellTemplate>
+                        <button kendoButton kendoGridRemoveCommand type="button"><span class="k-icon k-i-delete k-i-trash"></span></button>
+                    </ng-template>
+                </kendo-grid-command-column>
+
+            </kendo-grid>
+        </div>
+    </div>
+</div>

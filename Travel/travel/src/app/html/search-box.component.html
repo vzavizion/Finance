@@ -1,0 +1,54 @@
+<div class="row">
+    <div class="col-md-2">
+        <kendo-combobox #txtCountryKendo #txtCountry="ngModel" name="txtCountry" [(ngModel)]="selectedCountry" [data]="countries"
+            [filterable]="true" (filterChange)="filterChangeCountry($event)" (valueChange)="onValueChangeCountry($event);" [placeholder]="'Select country...'"
+            class="full-width">
+        </kendo-combobox>
+    </div>
+    <div class="col-md-2">
+        <kendo-combobox #txtContinentKendo #txtContinent="ngModel" name="txtContinent" [(ngModel)]="selectedContinent" [data]="continents"
+            [filterable]="true" (filterChange)="filterChangeContinent($event)" (valueChange)="onValueChangeContinent($event);"
+            [placeholder]="'Select continent...'" class="full-width">
+        </kendo-combobox>
+    </div>
+    <div class="col-md-2">
+        <kendo-dropdownlist #txtCountryPriorityKendo #txtCountryPriority="ngModel" name="txtCountryPriority" [(ngModel)]="selectedCountryPriority"
+            (valueChange)="onValueChangeCountryPriority($event)" [valuePrimitive]="false" [data]="countryPrioritiesSource" [textField]="'name'"
+            [valueField]="'sequenceNumber'" class="full-width">
+        </kendo-dropdownlist>
+    </div>
+    <div class="col-md-1">
+        <kendo-switch #cbVisitedKendo [(ngModel)]="selectedIsVisited" [onLabel]="'Y'" [offLabel]="'N'" (valueChange)="onValueChangeVisited($event)">
+        </kendo-switch>
+    </div>
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col-md-5">
+                <kendo-dropdownlist #txtSeasonFromKendo #txtSeasonFrom="ngModel" name="txtSeasonFrom" [(ngModel)]="selectedSeasonFrom" [valuePrimitive]="true"
+                    [data]="seasons" [textField]="'name'" [valueField]="'sequenceNumber'" class="full-width">
+                </kendo-dropdownlist>
+            </div>
+            <div class="col-md-5">
+                <kendo-dropdownlist #txtSeasonToKendo #txtSeasonTo="ngModel" name="txtSeasonTo" [(ngModel)]="selectedSeasonTo" [valuePrimitive]="true"
+                    [data]="seasonsTo" [textField]="'name'" [valueField]="'sequenceNumber'" class="full-width">
+                </kendo-dropdownlist>
+            </div>
+
+            <div>
+                <button kendoButton class='k-button' (click)="onSeachBySeasonClick();" type="button"><span class="k-icon k-i-zoom k-i-search"></span></button>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2 float-right">
+        <kendo-switch #cbAllKendo [(ngModel)]="selectedIsAll" [onLabel]="'Y'" [offLabel]="'N'" (valueChange)="onValueChangeAll($event)">
+        </kendo-switch>
+        &nbsp;
+        <kendo-dropdownbutton [data]="newButtonsList" [icon]="'file-add'" (itemClick)="onNewButtonsClick($event)">
+            New
+        </kendo-dropdownbutton>
+         &nbsp;
+        <button kendoButton [icon]="'reload'" (click)="onRestartClick()"></button> &nbsp;        
+        <button *ngIf="false" kendoButton (click)="onRefreshClick()">Refresh</button> &nbsp;
+        <button *ngIf="false" kendoButton (click)="onTestServer()">Test</button>
+    </div>
+</div>

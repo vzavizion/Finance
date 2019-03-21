@@ -1,0 +1,13 @@
+[hidden] { display: none !important;}
+
+.full-width {
+    width: 100% !important;
+}
+
+.width-60 {
+    width: 60% !important;
+}
+
+.k-icon {
+    height: 20px !important;
+}

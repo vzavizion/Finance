@@ -1,0 +1,172 @@
+<div class="row">
+    <div class="col-md-4">
+
+        <div class="row">
+            <div class="col-md-12">
+                <kendo-textbox-container floatingLabel="Country">
+                    <input #txtCountryName="ngModel" name="txtCountryName" kendoTextBox [(ngModel)]="country.name" />
+                </kendo-textbox-container>
+            </div>
+        </div>
+
+        <div class="mt-2"></div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <label [for]="txtContinentKendo">Continent:&nbsp;</label>
+                <kendo-dropdownlist #txtContinentKendo #txtContinent="ngModel" name="txtContinent" [(ngModel)]="country.continent" [valuePrimitive]="true"
+                    [data]="continentSource" class="full-width">
+                </kendo-dropdownlist>
+            </div>
+        </div>
+
+        <div class="mt-2"></div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <label [for]="txtCountryPriorityKendo">Priority:&nbsp;</label>
+                <kendo-dropdownlist #txtCountryPriorityKendo #txtCountryPriority="ngModel" name="txtCountryPriority" [(ngModel)]="country.priority"
+                    [valuePrimitive]="false" [data]="countryPrioritiesSource" [textField]="'name'" [valueField]="'sequenceNumber'"
+                    class="full-width">
+                </kendo-dropdownlist>
+            </div>
+        </div>
+
+        <div class="mt-2"></div>
+        <div class="mt-2"></div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <label [for]="cbVisitedKendo">Visited:&nbsp;</label>
+                <kendo-switch #cbVisitedKendo [(ngModel)]="country.isVisited" [onLabel]="'Y'" [offLabel]="'N'"></kendo-switch>
+            </div>
+        </div>
+
+        <div class="mt-2"></div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <button kendoButton class='k-button' [primary]="true" (click)="save(gridDetailsInfoKendo)">Save</button> &nbsp;
+                <button kendoButton class='k-button' [primary]="true" (click)="onRefreshClick()">Refresh</button>
+            </div>
+        </div>
+
+    </div>
+    <div class="col-md-8">
+        <div class="row">
+            <div class="col-md-12">
+                <app-details-seasons *ngIf="true" [gridMaxHeight]="300" [gridSeasonWidth]="100" [gridDescriptionWidth]="100" [isShowDescription]="true"
+                    [seasons]="country.seasons"></app-details-seasons>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="mt-2"></div>
+
+
+<div class="row">
+    <div class="col-md-12 result">
+        <div class="grid-wrapper">
+            <kendo-grid #gridDetailsInfoKendo [data]="country.regions" [style.maxHeight.px]="1000" (cellClick)="cellClickHandler($event)"
+                (cellClose)="cellCloseHandler($event)" (add)="addHandler($event)" (remove)="removeHandler($event)">
+
+                <ng-template kendoGridToolbarTemplate>
+                    <button kendoGridAddCommand>Add new</button>
+                    <button kendoButton class='k-button' (click)="saveChanges(gridDetailsInfoKendo)">Save Changes</button>
+                    <button kendoButton class='k-button' (click)="cancelChanges(gridDetailsInfoKendo)">Cancel Changes</button>
+                    <button kendoButton class='k-button' (click)="saveFile(gridDetailsInfoKendo)">Export</button>
+
+                </ng-template>
+
+
+
+                <kendo-grid-column *ngIf="true" field="name" title="Name" width="110">
+                    <ng-template kendoGridCellTemplate let-dataItem="dataItem" let-rowIndex="rowIndex">
+                        <div class="row" draggable="true" droppable="true" (dragstart)="drag($event, rowIndex)" (drop)="drop($event, rowIndex)" (dragover)="dragover($event, rowIndex)">
+                            <div class="col-md-12">
+                                {{dataItem.name}}
+                            </div>
+                        </div>
+                    </ng-template>
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem" let-rowIndex="rowIndex">
+                        <input #txtCountryRegionName="ngModel" name="txtCountryRegionName" [(ngModel)]="dataItem.name" kendoGridFocusable class="k-textbox"
+                            required />
+                    </ng-template>
+                </kendo-grid-column>
+
+
+                <kendo-grid-column *ngIf="true" field="priority.name" title="Priority" width="30">
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem">
+                        <kendo-dropdownlist #txtCountryRegionPriorityKendo #txtCountryRegionPriority="ngModel" name="txtCountryRegionPriority" [(ngModel)]="dataItem.priority"
+                            [valuePrimitive]="false" [data]="countryRegionPrioritiesSource" [textField]="'name'" [valueField]="'sequenceNumber'"
+                            class="full-width">
+                        </kendo-dropdownlist>
+                    </ng-template>
+                </kendo-grid-column>
+
+                <kendo-grid-column *ngIf="true" title="More..." width="30">
+                    <ng-template kendoGridCellTemplate let-dataItem let-rowIndex="rowIndex">
+                        <div class="row">
+                            <div class="col-md-12">
+                                {{dataItem.isNestedRegions ? 'Y' : 'N' }}
+                            </div>
+                        </div>
+                    </ng-template>
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem">
+                        <kendo-switch #cbIsNestedRegionsKendo [(ngModel)]="dataItem.isNestedRegions" [onLabel]="'Y'" [offLabel]="'N'"></kendo-switch>
+                    </ng-template>
+                </kendo-grid-column>
+
+
+                <kendo-grid-column *ngIf="true" field="seasons.seasonFrom.month.name" title="Season" width="240">
+
+                    <ng-template kendoGridCellTemplate let-dataItem let-rowIndex="rowIndex">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div *ngFor="let season of dataItem.seasons">
+                                    <span *ngIf="season.isNoVisit">no</span> {{season.seasonFrom.range}} {{season.seasonFrom.month.name}}
+                                    - {{season.seasonTo.range}} {{season.seasonTo.month.name}}
+                                </div>
+                            </div>
+                        </div>
+                    </ng-template>
+
+                    <ng-template kendoGridEditTemplate let-dataItem="dataItem">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <app-details-seasons *ngIf="true" [gridMaxHeight]="400" [gridSeasonWidth]="200" [gridDescriptionWidth]="150" [isShowDescription]="true"
+                                    [seasons]="dataItem.seasons"></app-details-seasons>
+                            </div>
+                        </div>
+                    </ng-template>
+                </kendo-grid-column>
+
+
+
+                <kendo-grid-command-column title="" width="20">
+                    <ng-template kendoGridCellTemplate>
+                        <button kendoButton kendoGridRemoveCommand type="button"><span class="k-icon k-i-delete k-i-trash"></span></button>
+                    </ng-template>
+                </kendo-grid-command-column>
+
+                <ng-template kendoGridDetailTemplate let-dataItem let-rowIndex="rowIndex">
+                    <div class="row" *ngIf="dataItem.isNestedRegions">
+                        <div class="col-md-12">
+                            <app-details-regions [regions]="dataItem.regions"></app-details-regions>
+                        </div>
+                    </div>
+                    <div class="row" *ngIf="!dataItem.isNestedRegions">
+                        <div class="col-md-12">
+                            <app-details-places [places]="dataItem.places"></app-details-places>
+                        </div>
+                    </div>
+                </ng-template>
+
+            </kendo-grid>
+        </div>
+    </div>
+</div>
+
+<div class="mt-2"></div>

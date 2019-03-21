@@ -1,0 +1,54 @@
+<!-- [filter]="state.filter" [filterable]="true" (dataStateChange)="dataStateChange($event) -->
+
+<div class="row">
+    <div class="col-md-12 result">
+        <div class="grid-wrapper">
+            <kendo-grid #gridDetailsListKendo [data]="countries" [style.maxHeight.px]="800" [sortable]="{ allowUnsort: false, mode: 'single', allowUnsort: false }" [sort]="sort"
+                (sortChange)="sortChange($event)"
+                >
+
+                <ng-template kendoGridToolbarTemplate>
+                    <button kendoButton class='k-button' (click)="saveFile(gridDetailsListKendo)">Export</button>
+                </ng-template>
+
+                <kendo-grid-column *ngIf="true" field="name" title="Country" [filterable]="false" width="140">
+                    <ng-template kendoGridCellTemplate let-dataItem let-rowIndex="rowIndex">
+                        <div class="col-md-12 grid-link">
+                            <a [routerLink]="['/details/country', dataItem.name]">{{dataItem.name}}</a>
+                        </div>
+                    </ng-template>
+                </kendo-grid-column>
+
+                <kendo-grid-column field="continent" title="Continent" width="140">
+                </kendo-grid-column>
+
+                <kendo-grid-column field="priority.name" title="Priority" width="140">
+                </kendo-grid-column>
+
+                <kendo-grid-column field="isVisited" title="Visited" width="140">
+                    <ng-template kendoGridCellTemplate let-dataItem let-rowIndex="rowIndex">
+                        <div class="col-md-12">
+                            <span *ngIf="dataItem.isVisited">Yes</span>
+                            <span *ngIf="!dataItem.isVisited">No</span>
+                        </div>
+                    </ng-template>
+                </kendo-grid-column>
+
+                <kendo-grid-column *ngIf="true" field="seasons.seasonFrom.month.name" title="Season" [filterable]="false" width="140">
+                    <ng-template kendoGridCellTemplate let-dataItem let-rowIndex="rowIndex">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div *ngFor="let season of dataItem.seasons">
+                                    <span *ngIf="!season.isNoVisit">
+                                        {{season.seasonFrom.range}} {{season.seasonFrom.month.name}} - {{season.seasonTo.range}} {{season.seasonTo.month.name}} <span *ngIf="season.description">({{season.description}})</span>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </ng-template>
+                </kendo-grid-column>
+
+            </kendo-grid>
+        </div>
+    </div>
+</div>
