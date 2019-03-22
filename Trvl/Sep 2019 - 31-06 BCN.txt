@@ -72,14 +72,26 @@ Barcelona Thrifty
 	
 	
 
-Plan: Barcelona 2-3 days
+==========Plan: Barcelona 2-3 days
+
+
+Sep 5
+
+!!!
+
+
+Sep 6
 
 !!!
 Las Ramblas
-	La Boqueria
+				Luggage Storage
 	El Corte Inglés cafe - Plaça de Catalunya
 	Font de Canaletes
+	La Boqueria
+		breakfast
+	Palau Güell	
 
+!!!
 Barri Gòtic (Gothic Quarter)
 	Plaça del Rei
 	Cathedral of Barcelona aka La Seu
@@ -89,9 +101,21 @@ Barri Gòtic (Gothic Quarter)
 		Palau Episcopal
 		Plaça Nova
 		Església de Santa María del Pi
+	Plaça Reial 
+	
+!!!
+La Ribera
+	Mercat Santa Caterina
+	Carrer de Montcada
+	Basílica de Santa Maria del Mar	
 
+	
+	
+	
 
-
+	
+	
+Hospital de la Santa Creu i de Sant Pau aka Recinte Modernista de Sant Pau
 Sagrada Família
 Parc de Montjuïc
 Museu Nacional d'Art de Catalunya - MNAC
@@ -100,16 +124,10 @@ Font Màgica
 CaixaForum 
 Parc de la Ciutadella
 Montserrat Monastery
-Plaça Reial 
-Palau de la Música Catalana aka Palau de la Musica Orfeo Catala
-Mercat Santa Caterina
-Basílica de Santa Maria del Mar
-Palau Güell
 Museu d’Història de Catalunya
 Casa Amatller
 Casa Batlló
 La Pedrera
-Hospital de la Santa Creu i de Sant Pau aka Recinte Modernista de Sant Pau
 Mirador del Migdia
 Monestir de Pedralbes
 
@@ -117,17 +135,20 @@ Monestir de Pedralbes
 
 
 
+==========Add to EN: Next Time
 
 
-
-
-! Next Time - TB Approval needed
-Museu Diocesà / Gaudí Exhibition Center
-	10am–8pm
-	€15
-	Gaudí Exhibition Center in the Museu Diocesà
-		devoted to Antoni Gaudí
-		
+!!! Next Time - TB Approval needed
+Palau de la Música Catalana aka Palau de la Musica Orfeo Catala
+	guided tours (in English on the hour) daily: Sept–June 10am–3.30pm
+	
+	stunning interior
+		high point of Barcelona’s Modernista architecture, a symphony in tile, brick, sculpted stone and stained glass
+	
+	try to join the 2000-plus audience at a performance in the main auditorium, ideally in daylight
+	
+	
+!!! Next Time - TB Approval needed
 Museu d’Història de Barcelona (MUHBA)
 	Tues–Sat 10am–7pm
 	Sun 10am–8pm
@@ -142,19 +163,52 @@ Museu d’Història de Barcelona (MUHBA)
 		
 	incorporates the beautiful Capella de Santa Agata (also known as the Capella Palatina) and the impressive Saló del Tinell
 	
+	
+!!! Next Time - TB Approval needed
+Museu Diocesà / Gaudí Exhibition Center
+	10am–8pm
+	€15
+	Gaudí Exhibition Center in the Museu Diocesà
+		devoted to Antoni Gaudí
 
-La Ribera
-El Raval
+		
+? Next Time - TB Approval needed
+Museo Picasso
+	Tues, Wed & Fri–Sun 9am–7pm, Thurs 9am–9.30pm
+	€11
+	free for everyone Sun 3–7pm & all day on first Sun of month
+	free guided tours in English Sat 3.30pm
+	
+	contains none of his best-known pictures, and few in the Cubist style
+		
+	collection concentrates on the artist’s early years
+		fascinating opportunity to trace Picasso’s development from his early paintings as a young boy to the major works of later years
+	
+	Velázquez Las meninas through a prism reflecting all the styles Picasso had worked
+	
+	
+? Next Time - TB Approval needed
+Passeig del Born
+	one of Barcelona’s biggest bar scenes
+	
+	
+
+	
+	
+	
+	
+
+
 Eixample 
 Park Güell
 Port Vell 
-Hospital de la Santa Creu
 Museu del Modernisme Barcelona
 
 
 
 
 
+==========Add to EN: Other
 
 
 ???
@@ -165,12 +219,30 @@ Gran Teatre del Liceu
 Arts Santa Mònica
 Museu de la Cera
 Museu Frederic Marès
+Museu de Cultures del Món
+El Born Centre de Cultura I Memòria
+El Raval
+Museu d’Art Contemporani de Barcelona (MACBA)
+Centre de Cultura Contemporània de Barcelona (CCCB)
+Hospital de la Santa Creu
+	Garden
+		Daily 8am–dusk	
+	La Capella
+		Tues–Sat noon–8pm, Sun 11am–2pm
+	Free
+	
+	founded as the city’s main hospital in 1402, a role that it assumed for over five hundred years
+
+	after the hospital shifted to Domènech i Montaner’s new creation in the Eixample in 1930, the spacious fifteenth-century wards were converted for cultural and educational use; they now hold the Royal Academy of Medicine, an art and design school and two libraries, including the Catalan national library, the Biblioteca de Catalunya.
+
+	Antoni Gaudí, knocked down by a tram in 1926, was brought here for treatment but died three days later.
+	
+	visitors can wander freely through the charming medieval cloistered garden, while the former chapel, La Capella (entered separately from C/l’Hospital) is an exhibition space for contemporary artists	
+Rambla del Raval
+	
 
 
 
-
-MACBA
-Museo Picasso
 Montjuïc Castle aka Castell de Montjuïc
 Torre Agbar
 Disseny Hub aka Design Museum aka Museu del Disseny
@@ -180,11 +252,6 @@ Port Olímpic
 Tibidabo
 Placa George Orwell
 La Mercè
-Museu de Cultures del Món
-Passeig del Born
-El Born Centre de Cultura I Memòria
-Centre de Cultura Contemporània de Barcelona (CCCB)
-Rambla del Raval
 Filmoteca de Catalunya
 Mirador de Colón aka Columbus Monument
 Museu Marítim
