@@ -82,14 +82,20 @@ Sep 5
 
 Sep 6
 
+!!!Add Times - how all site work - same as in Peru
+
 !!!
 Las Ramblas
-				Luggage Storage
+	Luggage Storage
 	El Corte Inglés cafe - Plaça de Catalunya
-	Font de Canaletes
+	other - self-walking tour
+		Font de Canaletes
+		Font de la Portaferrissa
+		Mosaïc de Miró
 	La Boqueria
 		breakfast
 	Palau Güell	
+		English guided tour Fri 2pm
 
 !!!
 Barri Gòtic (Gothic Quarter)
@@ -101,7 +107,9 @@ Barri Gòtic (Gothic Quarter)
 		Palau Episcopal
 		Plaça Nova
 		Església de Santa María del Pi
-	Plaça Reial 
+		Plaça de Sant Just
+			Basílica dels Sants Màrtirs
+	Plaça Reial
 	
 !!!
 La Ribera
@@ -110,8 +118,13 @@ La Ribera
 	Basílica de Santa Maria del Mar	
 
 	
+!!!
+Eixample	
 	
+
 	
+
+
 
 	
 	
@@ -124,9 +137,6 @@ Font Màgica
 CaixaForum 
 Parc de la Ciutadella
 Montserrat Monastery
-Museu d’Història de Catalunya
-Casa Amatller
-Casa Batlló
 La Pedrera
 Mirador del Migdia
 Monestir de Pedralbes
@@ -138,9 +148,11 @@ Monestir de Pedralbes
 ==========Add to EN: Next Time
 
 
+
 !!! Next Time - TB Approval needed
 Palau de la Música Catalana aka Palau de la Musica Orfeo Catala
 	guided tours (in English on the hour) daily: Sept–June 10am–3.30pm
+	€18, discounted to €14.40 for online
 	
 	stunning interior
 		high point of Barcelona’s Modernista architecture, a symphony in tile, brick, sculpted stone and stained glass
@@ -170,7 +182,7 @@ Museu Diocesà / Gaudí Exhibition Center
 	€15
 	Gaudí Exhibition Center in the Museu Diocesà
 		devoted to Antoni Gaudí
-
+	
 		
 ? Next Time - TB Approval needed
 Museo Picasso
@@ -185,24 +197,57 @@ Museo Picasso
 		fascinating opportunity to trace Picasso’s development from his early paintings as a young boy to the major works of later years
 	
 	Velázquez Las meninas through a prism reflecting all the styles Picasso had worked
-	
-	
+
+
 ? Next Time - TB Approval needed
 Passeig del Born
 	one of Barcelona’s biggest bar scenes
 	
 	
+? Next Time - TB Approval needed
+Port Vell (Old Port)
+	remodelled inner harbour and marina
+	Rambla del Mar
+		wooden swing bridge
+		
+		
+? Next Time - TB Approval needed		
+Museu Marítim
+	10am–8pm
+	€10
+	free Sun after 3pm
+	sailing excursions Sat 10am–1pm €3, free with Museu Marítim ticket
 
+	Barcelona’s medieval shipyards, or Drassanes, date back to the fourteenth century
 	
+	seven vessels, starting with a Greek merchant ship from the fourth century BC
 	
+	full-size replica of the magnificent, 60m-long Royal Galley, which was built right here in 1568, and fought as the Spanish flagship in the Battle of Lepanto against the Turks three years later
 	
+	replica of Don Juan of Austria’s Flagship
+		clever audiovisual display aboard the vessel brings to life the ghastly existence of the slaves, prisoners and volunteers (!) who, at full steam, could haul this vessel along at 9 knots. They remained chained to their seats, four to an oar, at all times. Here they worked, drank (fresh water was stored below decks, where the infirmary was also located), ate, slept and went to the loo. You could smell a galley like this from miles away
+		
+	life-size replica of the Ictíneo I, one of the world’s first submarines
+
+	Santa Eulàlia, built in 1918, a three-masted ocean schooner that once made the run between Barcelona and Cuba
 	
 
-
-Eixample 
-Park Güell
-Port Vell 
+? Next Time - TB Approval needed
 Museu del Modernisme Barcelona
+	10.30am–7pm
+	€10
+	
+	small private enterprise of the celebrated local Gothsland antiques gallery
+		two exhibition floors	
+
+
+		
+	
+	
+
+
+Park Güell
+
 
 
 
@@ -214,6 +259,7 @@ Museu del Modernisme Barcelona
 ???
 Las Golondrinas 
 Plaça de Catalunya
+Placa George Orwell
 Església de Betlem
 Gran Teatre del Liceu
 Arts Santa Mònica
@@ -238,28 +284,32 @@ Hospital de la Santa Creu
 	Antoni Gaudí, knocked down by a tram in 1926, was brought here for treatment but died three days later.
 	
 	visitors can wander freely through the charming medieval cloistered garden, while the former chapel, La Capella (entered separately from C/l’Hospital) is an exhibition space for contemporary artists	
-Rambla del Raval
+Església de Sant Pau del Camp
+	Mon–Fri 9.30am–12.30pm & 3.30–6.30pm
+	admission to cloister €3
 	
+	dark and rather plain	
+Rambla del Raval
+Museu Europeu d’Art Modern
+Mirador de Colón aka Columbus Monument
+Maremàgnum
+L’Aquàrium	
+Museu d’Història de Catalunya
+Fundació Antoni Tàpies
+Museu Egipci de Barcelona
+La Mercè
+Filmoteca de Catalunya
+Gràcia
+
 
 
 
 Montjuïc Castle aka Castell de Montjuïc
 Torre Agbar
 Disseny Hub aka Design Museum aka Museu del Disseny
-Gràcia
 Barceloneta
 Port Olímpic
 Tibidabo
-Placa George Orwell
-La Mercè
-Filmoteca de Catalunya
-Mirador de Colón aka Columbus Monument
-Museu Marítim
-Rambla del Mar
-Maremàgnum
-L’Aquàrium
-Fundació Antoni Tàpies
-Museu Egipci de Barcelona
 Plaça de les Glòries Catalanes
 Teatre Nacional de Catalunya
 El Encants Vells
@@ -273,6 +323,7 @@ Diagonal Mar
 Museu Blau aka Museu de Ciencies Naturals de Barcelona
 Parc del Fòrum
 Palau de Pedralbes
+
 
 
 
