@@ -75,6 +75,15 @@ Barcelona Thrifty
 ==========Plan: Barcelona 2-3 days
 
 
+
+
+Sep 4 Evening
+
+
+
+
+
+
 Sep 5
 
 !!!
@@ -91,6 +100,11 @@ Montjuïc - Walk from Plaça d’Espanya
 		10am–8pm
 		free, fees for some fantastic exhibitions €4		
 		
+	Pavelló Mies van der Rohe
+		10am–8pm
+		€5	
+		outside only, there’s little to see inside		
+		
 	Museu Nacional d’Art de Catalunya (MNAC)
 		Tues–Sat 10am–8pm, Sun 10am–3pm
 		€12, ticket valid for two days within a month
@@ -99,9 +113,25 @@ Montjuïc - Walk from Plaça d’Espanya
 
 
 Montjuïc - Few minutes’ walk from Montjuïc funicular and Telefèric de Montjuïc stations
+
+	Fundació Joan Miró
+		10am–8pm
+		general admission to all areas €12, otherwise exhibitions €7, Espai 13 €2.50
 		
 
 Montjuïc - Telefèric de Montjuïc
+
+	Castell de Montjuïc
+		10am–8pm
+		€5
+		Sun free for everyone after 3pm
+		grounds free
+		
+		grounds only		
+		
+	Mirador del Migdia		
+
+	Gardens of Montjuïc
 
 
 
@@ -255,10 +285,7 @@ Eixample
 	
 
 
-
-Parc de la Ciutadella
 Montserrat Monastery
-Mirador del Migdia
 Monestir de Pedralbes
 
 
@@ -266,6 +293,7 @@ Monestir de Pedralbes
 
 
 ==========Add to EN: Next Time
+
 
 
 
@@ -302,7 +330,27 @@ Museu Diocesà / Gaudí Exhibition Center
 	€15
 	Gaudí Exhibition Center in the Museu Diocesà
 		devoted to Antoni Gaudí
-	
+
+		
+! - Next Time - TB Approval needed
+Gràcia
+	Plaça del Sol
+	Plaça Vila de Gràcia
+	Plaça de la Revolució de Setembre de 1886
+	Carrer de Verdi
+	Plaça de la Virreina
+		
+		
+! Next Time - TB Approval needed
+Barceloneta
+	Plaça de la Barceloneta
+	!!!
+	Mercat de la Barceloneta
+		7am–3pm		
+	Peix Olímpic Frank Gehry
+		huge copper fish, courtesy of Frank Gehry, architect of Bilbao’s Guggenheim			
+	Passeig Marítim de la Barceloneta
+
 		
 ? Next Time - TB Approval needed
 Museo Picasso
@@ -360,15 +408,36 @@ Museu del Modernisme Barcelona
 	small private enterprise of the celebrated local Gothsland antiques gallery
 		two exhibition floors	
 
-		
 
-		
-	
-	
-	
-
-
+? - Next Time - TB Approval needed
 Park Güell
+	you have to pay for access to the most iconic sites, the Zona Monumental	
+	each ticket is only valid for a specific half-hour time-slot (once inside, you can stay as long as you like)
+	tickets can be reserved online up to three months in advance
+	
+	access to the rest of the park remains free, but it’s unlikely to hold your interest for long
+
+
+	Antoni Gaudí’s extraordinary Park Güell, his most ambitious project
+	
+	commissioned by Eusebi Güell, it was originally planned as a private housing estate of sixty dwellings, furnished with ornamental paths, recreational areas and decorative monuments. The idea was to build a “Garden City” of the type then popular in England. Gaudí worked on the project from 1900 until 1914, but in the end only two houses were actually built, and the park was opened to the public instead in 1922
+	
+	Zona Monumental
+		8am–8.30pm
+		€8, €7 online
+		guided tours €7 extra
+		
+		approach via the original main entrance, on C/Olot
+			porter’s lodge
+			monumental stairway climbs past a giant mosaic salamander known as el drac (the dragon) to reach the vast Hall of Columns, where 84 Doric columns soar at disconcertingly irregular angles to enclose a space that Gaudí intended to be the estate’s market
+			
+			the best-known element of the park is the long, meandering ceramic bench that snakes along the edge of the terrace that forms the roof of the Hall of Columns
+			
+	Casa Museu Gaudí
+		9am–8pm
+		€5.50
+		
+		Gaudí lived here from 1906 until 1925, when he left to camp out at the Sagrada Família for good
 
 
 
@@ -430,21 +499,27 @@ Parc Joan Miró
 Poble Espanyol
 Olympic stadium
 	vast terrace to one side provides one of the finest vantage points in the city		
-
-
-
-
-
-
-Barceloneta
+Parc de la Ciutadella
+city beaches 
+	close to a city centre – the water might not be as clean as it could be	
+	Nova Icària
+	Bogatell
+	Mar Bella
+	Nova Mar Bella
+		offers an area for nudists
+	Llevant
 Port Olímpic
-Tibidabo
-Plaça de les Glòries Catalanes
-Teatre Grec
-Jardí Botànic de Barcelona
 Diagonal Mar
 Museu Blau aka Museu de Ciencies Naturals de Barcelona
+Plaça de les Glòries Catalanes
+Jardí Botànic de Barcelona
 Parc del Fòrum
+
+
+
+
+Tibidabo
+Teatre Grec
 Palau de Pedralbes
 
 
@@ -488,7 +563,7 @@ La Selva
 
 
 Costa Daurada - Sitges
-Tarragona	
+Tarragona
 cava vineyards around Sant Sadurní d’Anoia
 romantic monastery of Poblet 
 
