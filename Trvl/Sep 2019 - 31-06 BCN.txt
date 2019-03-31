@@ -112,6 +112,7 @@ Montjuïc - Walk from Plaça d’Espanya
 		audioguide costs €4
 
 
+!!!
 Montjuïc - Few minutes’ walk from Montjuïc funicular and Telefèric de Montjuïc stations
 
 	Fundació Joan Miró
@@ -119,6 +120,7 @@ Montjuïc - Few minutes’ walk from Montjuïc funicular and Telefèric de Montj
 		general admission to all areas €12, otherwise exhibitions €7, Espai 13 €2.50
 		
 
+!!!
 Montjuïc - Telefèric de Montjuïc
 
 	Castell de Montjuïc
@@ -162,6 +164,7 @@ Las Ramblas
 		English guided tour Fri 2pm, no extra charge
 		audioguide is worth listening to for the detailed descriptions of the architecture, as well as the music and the illustrations of the Güell family’s life
 
+		
 !!!
 Barri Gòtic (Gothic Quarter)
 	Plaça del Rei
@@ -194,6 +197,7 @@ Barri Gòtic (Gothic Quarter)
 				free
 				
 	Plaça Reial
+	
 	
 !!!
 La Ribera
@@ -286,7 +290,6 @@ Eixample
 
 
 Montserrat Monastery
-Monestir de Pedralbes
 
 
 
@@ -330,7 +333,72 @@ Museu Diocesà / Gaudí Exhibition Center
 	€15
 	Gaudí Exhibition Center in the Museu Diocesà
 		devoted to Antoni Gaudí
+		
+		
+!!! Next Time - TB Approval needed
+Casa Vicens
+	10am-8pm
+	
+	€16
+	30-minute guided tour additional €3
+	
+	created for stock and currency broker Manuel Vicens i Montaner 
 
+	Antoni Gaudí’s first major private commission, when the architect was aged just 30
+		Gaudí sought inspiration from the past, in this case the rich heritage of building in the Mudéjar-style brick, typical in those parts of Spain reconquered from the Moors. Mudéjar architecture was created by those Arabs and Berbers allowed to remain in Spain after the Christian reconquests
+		
+		decorative iron railings are a reminder of Gaudí’s early training as a metalsmith
+		
+		Gaudí also designed much of the mansion’s furniture
+
+
+!!! Next Time - TB Approval needed
+Camp Nou
+	magnificent stadium - home to FC Barcelona
+	
+	museum and stadium tour – “Camp Nou Experience”
+		Mon–Sat 10am–6.30pm, Sun 10am–2.30pm
+		€25
+		
+		self-guided stadium tour winds through the visitors’ changing rooms and players’ tunnel out onto the pitch, and then leads up to the press gallery and directors’ box for stunning views
+		
+		set aside about 2½ hours for the whole visit
+
+	tickets
+		tickets to FC Barcelona matches are available at Camp Nou, online (through FC Barcelona’s official website), and through various city locations. Tourist offices sell them – the main office at Plaça de Catalunya is a centrally located option – as do FC Botiga stores. Tickets can cost anything from €39 to upwards of €250, depending on the seat and match. On match day the ticket windows open from 9.15am until kick off
+		
+		you will almost definitely find scalpers lurking near the ticket windows. They are often club members and can sometimes get you in at a significant reduction. Don’t pay until you are safely seated
+
+		if you attend a game, go early so you’ll have ample time to find your seat (this stadium is massive) and soak up the atmosphere.
+
+		
+!!! Next Time - TB Approval needed
+Monestir de Pedralbes
+	Tues–Fri 10am–5pm, Sat 10am–7pm, Sun 10am–8pm
+	€5, free Sun after 3pm, and all of first Sun of each month
+	
+	museum of monastic life
+	
+	entire monastic village preserved on the outskirts of the city, within medieval walls
+		clear impression of medieval convent life, from the chapter house and austere refectory to a fully equipped kitchen and infirmary
+	
+	founded in 1326 for the nuns of the Order of St Clare
+		it took craftsmen a little over a year to prepare Pedralbes (from the Latin petras albas, “white stones”) for its first community of nuns. The speed of that initial construction and the subsequent uninterrupted habitation by the order helps explain the perfect architectural harmony
+	
+		after six hundred years of isolation, the monastery was sequestered by the Generalitat during the Civil War and it later opened to the public in 1983
+
+	architectural highlight is the large, elegant, three-storey cloister
+		
+	cloisters
+		real highlight here is a small chapel to the right of the entrance, the Capella de Sant Miquel, which is adorned with remarkably vivid frescoes.
+		
+		small room beside the chapel itself holds the carved marble tomb of the monastery’s original sponsor, Elisenda de Montcada, wife of Jaume II. Widowed in 1327, six months after she and her husband laid the first stone, Elisenda retired to an adjacent palace, where she lived until her death in 1364. One side in the cloister shows her dressed as a penitent widow, while the other part, an alabaster masterpiece inside the adjacent church, shows her dressed as queen
+		
+	eating in the refectory must not have been a whole lot of fun, judging by the inscriptions around the walls exhorting Silentium (Silence) and Audi Tacens (Listen and Keep Quiet)
+		
+	upstairs is a grand hall that was once the dormidor (sleeping quarters). It was lined by tiny night cells, but they were long ago removed		
+		
+		
 		
 ! - Next Time - TB Approval needed
 Gràcia
@@ -339,6 +407,8 @@ Gràcia
 	Plaça de la Revolució de Setembre de 1886
 	Carrer de Verdi
 	Plaça de la Virreina
+	Mercat de la Llibertat
+		Mon–Fri 8am–8.30pm, Sat 8am–3pm	
 		
 		
 ! Next Time - TB Approval needed
@@ -350,6 +420,12 @@ Barceloneta
 	Peix Olímpic Frank Gehry
 		huge copper fish, courtesy of Frank Gehry, architect of Bilbao’s Guggenheim			
 	Passeig Marítim de la Barceloneta
+	
+	
+! Next Time - TB Approval needed
+Parc del Laberint
+	10am–dusk
+	€2.50; free Wed & Sun	
 
 		
 ? Next Time - TB Approval needed
@@ -409,7 +485,7 @@ Museu del Modernisme Barcelona
 		two exhibition floors	
 
 
-? - Next Time - TB Approval needed
+? Next Time - TB Approval needed
 Park Güell
 	you have to pay for access to the most iconic sites, the Zona Monumental	
 	each ticket is only valid for a specific half-hour time-slot (once inside, you can stay as long as you like)
@@ -514,13 +590,11 @@ Museu Blau aka Museu de Ciencies Naturals de Barcelona
 Plaça de les Glòries Catalanes
 Jardí Botànic de Barcelona
 Parc del Fòrum
-
-
-
-
-Tibidabo
-Teatre Grec
 Palau de Pedralbes
+Teatre Grec
+Tibidabo
+
+
 
 
 
