@@ -34,6 +34,10 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAE
 
 
 
+https://www.expediafortd.com/Hotel-Search?destination=Arequipa,+Arequipa+(region),+Peru&startDate=04/05/2019&endDate=06/05/2019&adults=2&regionId=410&guestRating=40&sort=price
+
+
+
 
 ==================	
 ========May 06-07
@@ -73,6 +77,17 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAE
 
 
 
+
+https://www.expediafortd.com/Hotel-Search?destination=Cusco,+Cusco+(region),+Peru&startDate=08/05/2019&endDate=10/05/2019&adults=2&regionId=941&guestRating=40&sort=price&latLong=-13.532395,-71.967255
+
+
+Amaru Inka
+https://www.expediafortd.com/Cusco-Hotels-Amaru-Colonial.h19445259.Hotel-Information?chkin=08%2F05%2F2019&chkout=10%2F05%2F2019&rm1=a2&sort=price&hwrqCacheKey=19aa51d7-5ca7-4d81-9927-f5ad783775f8HWRQ1554071907451&cancellable=false&regionId=941&vip=false&guestRating=40&c=81244031-33b5-4bba-ad0f-38f5a8ad6f01&&exp_dp=72.51&exp_ts=1554071904804&exp_curr=CAD&swpToggleOn=false&exp_pg=HSR
+
+
+
+
+
 Private Bathroom
 Free Cancellation + No Prepayment
 Rating 9+ (8+)
@@ -95,6 +110,10 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAE
 
 
 https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=11&checkin_year=2019&checkout_month=5&checkout_monthday=13&checkout_year=2019&city=-353770&class_interval=1&dest_id=-356201&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&nflt=pri%3D1%3Bfc%3D2%3Bfc%3D5%3Broomfacility%3D800038%3Breview_score%3D90%3B&no_dorms=1&no_rooms=1&offset=0&order=price&pop_filter_id=review_score-90&pop_filter_pos=1&pop_filter_rank=2&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=2a0b414951700169&ss=Ollantaytambo%2C%20Cusco%2C%20Peru&ss_all=0&ss_raw=ollanta&ssb=empty&sshis=0&ssne_untouched=Machu%20Picchu&rsf=review_score-90
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Ollantaytambo,+Cusco+(region),+Peru&startDate=11/05/2019&endDate=13/05/2019&adults=2&regionId=6084546&guestRating=40&sort=price&latLong=-13.258469,-72.2642
 
 
 
@@ -126,15 +145,12 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAE
 
 
 
-https://www.booking.com/hotel/ec/dolphin-house.en-gb.html?aid=304142;label=gen173nr-1BCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQHoAQGIAgGoAgM;sid=c2dac7161d4c1ed86c2e5a8843851532;checkin=2019-05-15;checkout=2019-05-20;room1=A,A;homd=1;srpvid=42cc96729a3b002a;srepoch=1549833879;atlas_src=hp_iw_btn#map_closed
 
-358 CAD
-
+https://www.expediafortd.com/Hotel-Search?destination=Puerto+Baquerizo+Moreno,+Galapagos,+Ecuador&startDate=15/05/2019&endDate=20/05/2019&adults=2&regionId=6138894&guestRating=40&sort=price&latLong=-0.899221,-89.599711
 
 
-https://www.booking.com/hotel/ec/casita-de-la-isla.en-gb.html?aid=356293;label=metatripad-link-dmetaca-hotel-4030044_xqdz-2171131b0b2fabf89bb3f4d1eff16687_los-05_bw-093_dom-ca_curr-CAD_gst-02_nrm-01_clkid-XGCmhQokHXkAAevKgPoAAAAO_aud-13720_mbl-L_pd-B_sc-2_defdate-0;sid=8a6734e76ac5fec55fe7ee30cfec66da;all_sr_blocks=403004403_123922705_2_0_0;checkin=2019-05-15;checkout=2019-05-20;dest_id=-932274;dest_type=city;dist=0;group_adults=2;hapos=1;highlighted_blocks=403004403_123922705_2_0_0;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1549837961;srpvid=6d529e84cb7402f5;type=total;ucfs=1&#map_closed
 
-398
+https://www.expediafortd.com/San-Cristobal-Island-Hotels-La-Casita-De-La-Isla.h13118064.Hotel-Information?chkin=15%2F05%2F2019&chkout=20%2F05%2F2019&rm1=a2&sort=price&hwrqCacheKey=19aa51d7-5ca7-4d81-9927-f5ad783775f8HWRQ1554072922516&cancellable=false&regionId=6138894&vip=false&guestRating=40&c=e6a03676-335d-493f-8057-dbab25ab9d6c&&exp_dp=62.41&exp_ts=1554072920211&exp_curr=CAD&swpToggleOn=false&exp_pg=HSR
 
 
 ==================	
@@ -144,6 +160,13 @@ https://www.booking.com/hotel/ec/casita-de-la-isla.en-gb.html?aid=356293;label=m
 
 
 https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=20&checkin_year=2019&checkout_month=5&checkout_monthday=21&checkout_year=2019&class_interval=1&dest_id=-932268&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=2f0044dbe8fd002b&ss=Puerto%20Ayora%2C%20Galapagos%2C%20Ecuador&ss_raw=puerto%20ay&ssb=empty&ssne_untouched=Puerto%20Villamil&nflt=pri%3D1%3Breview_score%3D80%3Bfc%3D2%3Bfc%3D5%3Broomfacility%3D800038%3B&rsf=roomfacility-800038&lsf=roomfacility%7C800038%7C5&update_av=1
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Puerto+Ayora,+Galapagos,+Ecuador&startDate=20/05/2019&endDate=21/05/2019&adults=2&regionId=602686&guestRating=40&sort=price&latLong=-0.707657,-90.312311
+
+
+
 
 
 
@@ -166,6 +189,13 @@ https://www.booking.com/searchresults.en-gb.html?aid=939121&sid=d7bc46f99e6908bf
 https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=23&checkin_year=2019&checkout_month=5&checkout_monthday=24&checkout_year=2019&class_interval=1&dest_id=-932268&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=2f0044dbe8fd002b&ss=Puerto%20Ayora%2C%20Galapagos%2C%20Ecuador&ss_raw=puerto%20ay&ssb=empty&ssne_untouched=Puerto%20Villamil&nflt=pri%3D1%3Breview_score%3D80%3Bfc%3D2%3Bfc%3D5%3Broomfacility%3D800038%3B&rsf=roomfacility-800038&lsf=roomfacility%7C800038%7C5&update_av=1
 
 
+
+https://www.expediafortd.com/Hotel-Search?destination=Puerto+Ayora,+Galapagos,+Ecuador&startDate=23/05/2019&endDate=24/05/2019&adults=2&regionId=602686&guestRating=40&sort=price&latLong=-0.707657,-90.312311
+
+
+
+
+
 ==================	
 ========May 24-26
 ========Quito
@@ -175,11 +205,20 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAE
 https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=24&checkin_year=2019&checkout_month=5&checkout_monthday=26&checkout_year=2019&class_interval=1&dest_id=-932573&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&srpvid=f87d450905bc005d&ss=Quito&ssb=empty&ssne=Quito&ssne_untouched=Quito&nflt=pri%3D1%3Breview_score%3D90%3Bfc%3D2%3Bfc%3D5%3Broomfacility%3D800038%3B&rsf=fc-2%2Cfc-5%2Croomfacility-800038&lsf=fc%7C2%7C61&update_av=1#map_closed
 
 
-Los Andes
-https://www.booking.com/hotel/ec/los-andes.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=d3738c08e655a0f20a907dfbe6675f19;atlas_src=sr_iw_btn;checkin=2019-05-24;checkout=2019-05-26;dist=0;group_adults=2;nflt=pri%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;room1=A%2CA;sb_price_type=total;type=total;ucfs=1&
 
 Baquedano
 https://www.booking.com/hotel/ec/casa-baquedano.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=3bdaa20e13373dd9f96cab64451fe719&checkin=2019-05-24&checkout=2019-05-26
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Quito+(and+vicinity),+Ecuador&startDate=24/05/2019&endDate=26/05/2019&adults=2&regionId=6053672&guestRating=40&sort=price&latLong=-0.191085,-78.486115
+
+
+
+https://www.expediafortd.com/La-Mariscal-Hotels-Hotel-Arte.h13133286.Hotel-Information?chkin=24%2F05%2F2019&chkout=26%2F05%2F2019&rm1=a2&sort=price&hwrqCacheKey=19aa51d7-5ca7-4d81-9927-f5ad783775f8HWRQ1554074123982&cancellable=false&regionId=6053672&vip=false&guestRating=40&c=df139a93-4f51-44ee-9b61-cc6254bd01dd&&exp_dp=32.96&exp_ts=1554074121380&exp_curr=CAD&swpToggleOn=false&exp_pg=HSR
+
+
+
 
 
 
@@ -188,24 +227,6 @@ La Mariscal
 Gonzalez Suarez
 La Carolina
 Quito Old Town
-
-
-77 (was 68 for Sep for Deluxe Room)
-Safe
-https://www.booking.com/hotel/ec/hostal-zentrum.en-gb.html?aid=939121;atlas_src=sr_iw_btn;checkin=2019-05-24;checkout=2019-05-26;dist=0;group_adults=2;nflt=pri%3D1%3Breview_score%3D90%3B;room1=A%2CA;sb_price_type=total;type=total&
-
-https://www.booking.com/hotel/ec/hostal-zentrum.en-gb.html?aid=939121;atlas_src=sr_iw_btn;checkin=2018-09-24;checkout=2018-09-26;dist=0;group_adults=2;nflt=pri%3D1%3Breview_score%3D90%3B;room1=A%2CA;sb_price_type=total;type=total&
-
-
-BOOKED
-109 (was 80 for Sep for Suite)
-Safe
-https://www.booking.com/hotel/ec/casa-jazmin-bed-amp-breakfast.en-gb.html?aid=939121;atlas_src=sr_iw_btn;checkin=2019-05-24;checkout=2019-05-26;dist=0;group_adults=2;nflt=pri%3D1%3Breview_score%3D90%3B;room1=A%2CA;sb_price_type=total;type=total&
-
-
-BOOKED
-16 (error fare - was 132 for Sep)
-https://www.booking.com/hotel/ec/los-andes.en-gb.html?aid=356936;label=metagha-link-localuniversalCA-hotel-285923_dev-desktop_los-1_bw-4_dow-Thursday_defdate-1_room-0_lang-en_curr-CAD_gstadt-2_rateid-0_cid-74;sid=a34390b77a84b7271802f4b653e449aa&checkin=2019-05-24&checkout=2019-05-26
 
 
 
@@ -292,6 +313,8 @@ May 2019
 ==========================================
 ==========================================
 ==========================================
+========Car
+
 				
 				
 
@@ -312,7 +335,7 @@ May 2019
 	
 	Barcelona	175 CAD / 140 EUR
 		https://www.ca.kayak.com/cars/BCN-a22567/Barcelona,Cataluna,Spain-c22567/2019-08-31/2019-09-04-22h?sort=price_a
-		https://www.expedia.ca/carsearch?date1=31%2F08%2F2019&date2=04%2F09%2F2019&dpln=5129026&drid1=179992&loc2=Barcelona%2C%20Spain&locn=Barcelona%2C%20Spain%20(BCN-Barcelona%20Intl.)&selSort=Price&time1=1200PM&time2=1000PM
+		https://www.expedia.ca/carsearch?date1=31%2F08%2F2019&date2=04%2F09%2F2019&dpln=5129026&drid1=179992&loc2=Barcelona%2C%20Spain&locn=Barcelona%2C%20Spain%20(BCN-Barcelona%20Intl.)&selSort=Price&time1=0100PM&time2=1000PM
 		
 		
 		https://www.budget.ca/en/locations/es/barcelona/c11
@@ -343,6 +366,45 @@ Tbilisi
 		SUV
 			110 GEL / day (+ 10% discount)
 			should be 375 USD
+			
+			
+			
+==========================================
+==========================================
+==========================================			
+========Hotel			
+
+			
+			
+
+
+==========================================			
+
+
+
+==========================================			
+
+
+Sep 4-6 Barcelona
+
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=f37c9f0e0191b67567e681e8bca07246&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=4&checkin_year=2019&checkout_month=9&checkout_monthday=6&checkout_year=2019&class_interval=1&dest_id=-372490&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&iata=BCN&inac=0&index_postcard=0&label_click=undef&nflt=oos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Breview_score%3D80%3B&no_rooms=1&offset=0&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=7efaa5ea990e00d9&ss=Barcelona%2C%20Catalonia%2C%20Spain&ss_all=0&ss_raw=barcelona&ssb=empty&sshis=0&ssne=Quito&ssne_untouched=Quito&no_dorms=1
+
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Barcelona+(and+vicinity),+Spain&startDate=04/09/2019&endDate=06/09/2019&adults=2&regionId=179992&guestRating=40&sort=price&latLong=41.37785,2.17055
+
+
+
+
+
+
+==========================================			
+			
+			
+			
 			
 			
 ==========================================
