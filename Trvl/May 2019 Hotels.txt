@@ -167,7 +167,22 @@ https://www.expediafortd.com/Hotel-Search?destination=Puerto+Ayora,+Galapagos,+E
 
 
 
+Hostal La Mirada del Solitario George 
 
+https://www.booking.com/hotel/ec/la-mirada-del-solitario-george.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM;sid=ecf6a804866893aaaff3a902b2e5218e;all_sr_blocks=125133002_136412158_2_0_0;checkin=2019-05-20;checkout=2019-05-21;dest_id=-932268;dest_type=city;dist=0;group_adults=2;hapos=6;highlighted_blocks=125133002_136412158_2_0_0;hpos=6;nflt=rpt%3D1%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D800038%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1554336787;srpvid=d39d018908980228;type=total;ucfs=1&#map_closed
+
+
+https://www.booking.com/hotel/ec/la-mirada-del-solitario-george.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM;sid=ecf6a804866893aaaff3a902b2e5218e;all_sr_blocks=125133002_136412158_2_0_0;checkin=2019-05-23;checkout=2019-05-24;dest_id=-932268;dest_type=city;dist=0;group_adults=2;hapos=6;highlighted_blocks=125133002_136412158_2_0_0;hpos=6;nflt=rpt%3D1%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D800038%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1554336787;srpvid=d39d018908980228;type=total;ucfs=1&#map_closed
+
+
+
+
+Muyuyo
+
+https://www.booking.com/hotel/ec/hostal-muyuyo.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM;sid=ecf6a804866893aaaff3a902b2e5218e;all_sr_blocks=257151401_122953320_2_0_0;checkin=2019-05-20;checkout=2019-05-21;dest_id=-932268;dest_type=city;dist=0;group_adults=2;hapos=27;highlighted_blocks=257151401_122953320_2_0_0;hpos=27;nflt=rpt%3D1%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D800038%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1554336787;srpvid=d39d018908980228;type=total;ucfs=1&#map_closed
+
+
+https://www.booking.com/hotel/ec/hostal-muyuyo.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM;sid=ecf6a804866893aaaff3a902b2e5218e;all_sr_blocks=257151401_122953320_2_0_0;checkin=2019-05-23;checkout=2019-05-24;dest_id=-932268;dest_type=city;dist=0;group_adults=2;hapos=27;highlighted_blocks=257151401_122953320_2_0_0;hpos=27;nflt=rpt%3D1%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D800038%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1554336787;srpvid=d39d018908980228;type=total;ucfs=1&#map_closed
 
 
 ==================	
@@ -403,13 +418,38 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAE
 https://www.expediafortd.com/Hotel-Search?destination=Barcelona+(and+vicinity),+Spain&startDate=04/09/2019&endDate=06/09/2019&adults=2&regionId=179992&guestRating=40&sort=price&latLong=41.37785,2.17055
 
 
+==========================================
 
 
 
-
-==========================================			
+==========================================
 			
 			
+https://www.expedia.ca/Flights-Search?flight-type=on&starDate=30%2F08%2F2019&mode=search&trip=oneway&leg1=from%3AToronto%2C+ON%2C+Canada+%28YYZ-Pearson+Intl.%29%2Cto%3ABarcelona%2C+Spain+%28BCN-All+Airports%29%2Cdeparture%3A30%2F08%2F2019TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY
+	440
+	https://www.google.ca/flights?hl=en#flt=YYZ.BCN.2019-08-30;c:CAD;e:1;sd:1;t:f;tt:o
+https://www.expedia.ca/Flights-Search?trip=oneway&leg1=from%3AMoscow%2C%20Russia%20(MOW)%2Cto%3AToronto%2C%20ON%2C%20Canada%20(YYZ)%2Cdeparture%3A16%2F10%2F2019TANYT&passengers=adults%3A1%2Cchildren%3A0%2Cseniors%3A0%2Cinfantinlap%3AY&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.ca	
+	300
+	https://www.google.ca/flights?hl=en#flt=/m/04swd.YYZ.2019-10-16;c:CAD;e:1;sd:1;t:f;tt:o
+
+https://wizzair.com/en-gb#/booking/select-flight/BCN/KUT/2019-09-06/null/1/0/0/0/null
+	90+34 (OR 122, then 121)	74 / 99
+
+https://www.google.ca/flights?hl=en#flt=IAS.TBS.2019-09-14;c:CAD;e:1;sd:1;t:f;tt:o
+	220 (112)
+https://www.google.ca/flights?hl=en#flt=OTP.TBS.2019-09-15;c:CAD;e:1;sd:1;t:f;tt:o	https://www.expedia.ie/Flights-Search?flight-type=on&starDate=15%2F09%2F2019&mode=search&trip=oneway&leg1=from%3ABucharest%2C+Romania+%28OTP-Henri+Coanda+Intl.%29%2Cto%3ATbilisi%2C+Georgia+%28TBS-Tbilisi+Intl.%29%2Cdeparture%3A15%2F09%2F2019TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY&fareCalendarPrice=108
+	170
+https://www.google.ca/flights?hl=en#flt=KIV.TBS.2019-09-13;c:CAD;e:1;sd:1;t:f;tt:o
+https://www.google.ca/flights?hl=en#flt=KIV.KBP.2019-09-13;c:CAD;e:1;sd:1;t:f;tt:o
+https://www.google.ca/flights?hl=en#flt=KBP.TBS.2019-09-13;c:CAD;e:1;sd:1;t:f;tt:o
+	220 (112)
+https://www.google.ca/flights?hl=en#flt=KIV.TBS.2019-09-15;c:CAD;e:1;sd:1;t:f;tt:o
+	220 (112)
+	
+https://www.google.ca/flights?hl=en#flt=TBS.LED.2019-09-19;c:CAD;e:1;sd:1;t:f;tt:o
+	131 CAD
+https://www.google.ca/flights?hl=en#flt=TBS./m/04swd.2019-09-19;c:CAD;e:1;sd:1;t:f;tt:o
+	188 CAD (99EUR)
 			
 			
 			
@@ -472,3 +512,157 @@ end Jan - Feb - end Mar (Feb-beg Mar!!!)
 	https://www.ca.kayak.com/flights/YYZ-PUQ/2020-01-22-flexible/2020-02-12-flexible?sort=price_a
 	https://www.ca.kayak.com/flights/SCL-PUQ/2020-01-22-flexible/2020-02-12-flexible?sort=price_a	
 	
+
+	
+	
+	
+	
+	
+==========================================
+==========================================
+==========================================	
+	
+	
+	
+	
+	
+	
+Hi
+
+My name is Vasile Zavizion
+I have 2 bookings with you - May 3-4, 2019 and May 13-14, 2019
+
+I have some questions about our 1st stay
+
+1. We are arriving at Lima airport at 1.40am on May 4, 2019 (in the middle of the night). Just want to confirm that late check-in is OK and you'll be waiting for us.
+2. Could you get a taxi / shuttle from airport for us and how much will it cost?
+3. How do we pay - is credit card OK, is there any surcharge for credit card payment?
+4. We are flying from Lima to Arequipa on May 4 in the evening. Is it possible to leave luggage with you for a couple of hours, we will pick it up at 3pm?
+
+Thank you for your time,
+Vasile
+
+
+
+Hi, Liliana
+
+50 soles for taxi is OK
+Here are our flight details
+Airline: Avianca
+Flight number: 931 (AV 931 from San Salvador)
+Arrival time flight: 01:40 (early morning of May 4)
+
+Please send us some confirmation message when you arrange the taxi
+
+ANd we would appreciate if you could wait for us, not the doorman
+
+Thank you,
+Vasile
+
+
+
+
+
+
+Hi
+
+My name is Vasile Zavizion
+I have a booking with you - May 4-6, 2019
+
+I have some questions about our stay
+
+1. We are arriving at Arequipa airport at 7.30pm on May 4, 2019. Just want to confirm that late check-in is OK and you'll be waiting for us around 8-9pm?
+2. Could you get a taxi / shuttle from airport for us and how much will it cost?
+3. How do we pay - is credit card OK, is there any surcharge for credit card payment?
+4. We have tourist bus to Colca at 3am on May 6, 2019 (in the middle of the night). Just want to confirm that early check-out is OK and there will be somebody at 3am to open the door and let us out
+
+Thank you for your time,
+Vasile
+
+
+
+
+
+
+
+
+Hi
+
+My name is Vasile Zavizion
+I have a booking with you - May 8-10, 2019
+
+I have some questions about our stay
+
+
+1. As far as I understand, your address is Calle Tecsecocha 566. But location on Google Maps is different from location on Booking.com map. Can you help us with your exact location - maybe nearest intersection or something that is nearby (restaurant, etc) or Google coordinates
+
+2. How do we pay - is credit card OK, is there any surcharge for credit card payment?
+
+3. We are planning to hike to Huchuy Quosco on May 9. Would you be able to get a taxi for us from Cusco to Laguna Piuray and how much will it cost?
+
+4. Is it possible to leave luggage (1 suitacase) with you for 4 days until May 13. We will pick it up around 5pm
+
+
+Thank you for your time,
+Vasile
+	
+	
+	
+	
+	
+	
+	
+Hi, Walter
+
+We are coming with Peru Rail train #75 at 20:45 on May 10, 2019
+
+But we are thinking about buying bus tickets before going to hotel - I think ticket booth should still be open
+
+Thank you,
+Tatiana	
+
+
+
+
+
+Hi
+
+My name is Vasile Zavizion
+
+I have a booking with you for May 14-15, 2019
+
+How could we get your free airport shuttle - where is the pick up stop?
+
+Thank you,
+Vasile
+
+
+
+
+reservations@sixt.com.pe
+
+Information Request
+
+
+Hi
+
+My name is Vasile Zavizion
+
+I have a reservation with you for dates from 10.05.2019 15:30 to 13.05.2019 15:30 
+
+Reservation number: 9872194588
+
+Your web-site says that there is no Sixt branch at the airport and you are offering Meet & Greet Service
+
+We do not have a flight, we arrive in Cusco by bus on May 8.
+Is it possible to pick up the car in Cusco city centre on May 10?
+
+My email
+vzavizion@yahoo.com
+
+My phone number (also WhatsApp)
++1 416 434 0154
+
+
+Thank you,
+Vasile
