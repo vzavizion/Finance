@@ -246,13 +246,6 @@ Quito Old Town
 
 
 
-==================	
-========Car
-
-
-https://www.expedia.ca/carsearch?age=35&ageInRange=false&date1=10%2F05%2F2019&date2=13%2F05%2F2019&loc2=&locn=Cuzco&selSort=Price&time1=330PM&time2=330PM
-
-https://www.ca.kayak.com/cars/Cuzco,Peru-c12159/2019-05-10-16h/2019-05-13-16h;map?sort=rank_a&attempt=1&lastms=1547808529090&force=true
 
 
 
@@ -390,7 +383,17 @@ Tbilisi
 ========Hotel			
 
 
-Sep 31-2 Barcelona
+Sep 31-2 Sant Feliu de Boada
+
+Now 270 CAD (130 CAD Terrafortuna)
+
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=236710e4083dbaeff4cdbaa6529f6dd0&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=8&checkin_monthday=31&checkin_year=2019&checkout_month=9&checkout_monthday=2&checkout_year=2019&city=-372490&class_interval=1&dest_id=-400732&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_rooms=1&order=price&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=cda76338b563025a&ss=Sant%20Feliu%20de%20Boada%2C%20Catalonia%2C%20Spain&ss_raw=boada&ssb=empty&ssne=Barcelona&ssne_untouched=Barcelona&nflt=oos%3D1%3Breview_score%3D90%3Bfc%3D2%3Bprice%3DCAD-min-150-1%3B&rdf=
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Sant+Feliu+de+Boada,+Palau-Sator,+Spain&startDate=31/08/2019&endDate=02/09/2019&adults=2&regionId=6349073&guestRating=40&sort=price
 			
 			
 
@@ -399,7 +402,20 @@ Sep 31-2 Barcelona
 
 
 
-Sep 2-4 Barcelona
+Sep 2-4 Llagostera
+
+
+Now 285 CAD (130 CAD Terrafortuna)
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=236710e4083dbaeff4cdbaa6529f6dd0&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=2&checkin_year=2019&checkout_month=9&checkout_monthday=4&checkout_year=2019&city=-372154&class_interval=1&dest_id=-389317&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=d80b630f327801d9&ss=Llagostera%2C%20Catalonia%2C%20Spain&ss_all=0&ss_raw=llagostera&ssb=empty&sshis=0&ssne=Begur&ssne_untouched=Begur&nflt=fc%3D2%3Boos%3D1%3Breview_score%3D90%3Bprice%3DCAD-min-150-1%3B&rdf=
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Llagostera,+Catalonia,+Spain&startDate=02/09/2019&endDate=04/09/2019&adults=2&regionId=6123066&guestRating=40&sort=price
+
+
+
 
 
 
@@ -407,6 +423,9 @@ Sep 2-4 Barcelona
 
 
 Sep 4-6 Barcelona
+
+
+Now 255 CAD
 
 
 
@@ -422,7 +441,188 @@ https://www.expediafortd.com/Hotel-Search?destination=Barcelona+(and+vicinity),+
 
 
 
+Sep 6-7 Plane
+
+
+
 ==========================================
+
+Sep 7-12 Kazbegi
+
+Now 112 CAD
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=3&checkin_month=9&checkin_monthday=7&checkin_year=2019&checkout_month=9&checkout_monthday=12&checkout_year=2019&city=-400732&class_interval=1&dest_id=-2327687&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=624764b683aa01ac&ss=Stepantsminda%2C%20Mtkheta-Mtianeti%2C%20Georgia&ss_all=0&ss_raw=kazbegi&ssb=empty&sshis=0&ssne=Sant%20Feliu%20de%20Boada&ssne_untouched=Sant%20Feliu%20de%20Boada&nflt=rpt%3D1%3Boos%3D1%3Bfc%3D2%3Breview_score%3D90%3Bprice%3DCAD-min-65-1%3B&rsf=
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Stepantsminda,+Kazbegi,+Georgia&startDate=07/09/2019&endDate=12/09/2019&adults=2&regionId=3000375498&guestRating=40&sort=price&latLong=42.658293,44.641248&view=results
+
+
+
+==========================================
+
+Sep 7-8 Kazbegi
+
+Now 45 and 55
+
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=3&checkin_month=9&checkin_monthday=7&checkin_year=2019&checkout_month=9&checkout_monthday=8&checkout_year=2019&city=-400732&class_interval=1&dest_id=-2327687&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=624764b683aa01ac&ss=Stepantsminda%2C%20Mtkheta-Mtianeti%2C%20Georgia&ss_all=0&ss_raw=kazbegi&ssb=empty&sshis=0&ssne=Sant%20Feliu%20de%20Boada&ssne_untouched=Sant%20Feliu%20de%20Boada&nflt=rpt%3D1%3Boos%3D1%3Bfc%3D2%3Breview_score%3D90%3Bprice%3DCAD-min-65-1%3B&rsf=
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Stepantsminda,+Kazbegi,+Georgia&startDate=07/09/2019&endDate=08/09/2019&adults=2&regionId=3000375498&guestRating=40&sort=price&latLong=42.658293,44.641248&view=results
+
+
+==========================================
+
+
+Sep 8-9 Roshka
+
+Now 36 and 60
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=8&checkin_year=2019&checkout_month=9&checkout_monthday=9&checkout_year=2019&city=-2327687&class_interval=1&dest_id=118045&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=773e65bdcda101ce&ss=Roshka%2C%20Mtkheta-Mtianeti%2C%20Georgia&ss_all=0&ss_raw=roshka&ssb=empty&sshis=0&ssne=Stepantsminda&ssne_untouched=Stepantsminda&nflt=fc%3D2%3Boos%3D1%3B&rsf=
+
+
+==========================================
+
+
+Sep 9-12 Kazbegi
+
+Now 135 and 165
+
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=3&checkin_month=9&checkin_monthday=9&checkin_year=2019&checkout_month=9&checkout_monthday=12&checkout_year=2019&city=-400732&class_interval=1&dest_id=-2327687&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=624764b683aa01ac&ss=Stepantsminda%2C%20Mtkheta-Mtianeti%2C%20Georgia&ss_all=0&ss_raw=kazbegi&ssb=empty&sshis=0&ssne=Sant%20Feliu%20de%20Boada&ssne_untouched=Sant%20Feliu%20de%20Boada&nflt=rpt%3D1%3Boos%3D1%3Bfc%3D2%3Breview_score%3D90%3Bprice%3DCAD-min-65-1%3B&rsf=
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Stepantsminda,+Kazbegi,+Georgia&startDate=09/09/2019&endDate=12/09/2019&adults=2&regionId=3000375498&guestRating=40&sort=price
+
+
+==========================================
+
+
+Sep 12-14 Tbilisi
+
+Now 110 and 130 and 160
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=12&checkin_year=2019&checkout_month=9&checkout_monthday=14&checkout_year=2019&city=118045&class_interval=1&dest_id=900047975&dest_type=city&from_sf=1&group_adults=3&group_children=0&highlighted_hotels=3770785&hp_sbox=1&iata=TBS&label_click=undef&nflt=oos%3D1%3Bfc%3D2%3Breview_score%3D90%3Bprice%3DCAD-min-100-1%3B&no_rooms=1&offset=0&order=price&raw_dest_type=city&room1=A%2CA%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=7db56730c97703f5&ss=Tbilisi%20City%2C%20Tbilisi%20Region%2C%20Georgia&ss_raw=tbilisi&ssb=empty&ssne=Roshka&ssne_untouched=Roshka&no_dorms=1
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Tbilisi,+Georgia&startDate=12/09/2019&endDate=14/09/2019&adults=3&regionId=3381&guestRating=45&sort=price
+
+
+==========================================
+
+
+Sep 14-15 Lagodekhi
+
+Now 40 and 45
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=14&checkin_year=2019&checkout_month=9&checkout_monthday=15&checkout_year=2019&city=900047975&class_interval=1&dest_id=-2328437&dest_type=city&from_sf=1&group_adults=3&group_children=0&highlighted_hotels=3770785&label_click=undef&no_rooms=1&order=price&raw_dest_type=city&room1=A%2CA%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=5ed16a603b06015d&ss=Lagodekhi%2C%20Kakheti%2C%20Georgia&ss_raw=Lagodekhi&ssb=empty&ssne=Tbilisi%20City&ssne_untouched=Tbilisi%20City&nflt=oos%3D1%3Bfc%3D2%3Bprice%3DCAD-min-70-1%3Breview_score%3D90%3B&rdf=
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Lagodekhi,+Kakheti,+Georgia&startDate=14/09/2019&endDate=15/09/2019&adults=3&regionId=3000034627&guestRating=40&sort=price&latLong=41.82831,46.166947
+
+
+
+==========================================
+
+
+Sep 15-16 Kvareli
+
+Now 35 and 55
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=15&checkin_year=2019&checkout_month=9&checkout_monthday=16&checkout_year=2019&city=-2328437&class_interval=1&dest_id=-2329452&dest_type=city&from_sf=1&group_adults=3&group_children=0&highlighted_hotels=3770785&label_click=undef&no_rooms=1&order=price&raw_dest_type=city&room1=A%2CA%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=5caf6be7c224034e&ss=Kvareli%2C%20Kakheti%2C%20Georgia&ss_raw=kvareli&ssb=empty&ssne=Lagodekhi&ssne_untouched=Lagodekhi&nflt=price%3DCAD-min-70-1%3Boos%3D1%3Bfc%3D2%3Breview_score%3D90%3B&rsf=
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Kvareli,+Kakheti,+Georgia&startDate=15/09/2019&endDate=16/09/2019&adults=3&regionId=6352368&guestRating=40&sort=price&latLong=41.970137,45.860075
+
+
+
+==========================================
+
+
+Sep 16-17 Telavi
+
+Now 50
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=1&checkin_month=9&checkin_monthday=16&checkin_year=2019&checkout_month=9&checkout_monthday=17&checkout_year=2019&city=-2329452&class_interval=1&dest_id=-2330100&dest_type=city&dtdisc=0&from_sf=1&group_adults=3&group_children=0&highlighted_hotels=3770785&inac=0&index_postcard=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=48796c589eb1027d&ss=Telavi%2C%20Kakheti%2C%20Georgia&ss_all=0&ss_raw=telavi&ssb=empty&sshis=0&ssne=Kvareli&ssne_untouched=Kvareli&nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3B&rsf=
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Telavi,+Kakheti,+Georgia&startDate=16/09/2019&endDate=17/09/2019&adults=3&regionId=6205084&guestRating=40&sort=price&latLong=41.927831,45.473713
+
+
+
+==========================================
+
+
+Sep 17-19 Tbilisi
+
+Now 110 and 130 and 160
+
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=17&checkin_year=2019&checkout_month=9&checkout_monthday=19&checkout_year=2019&city=118045&class_interval=1&dest_id=900047975&dest_type=city&from_sf=1&group_adults=3&group_children=0&highlighted_hotels=3770785&hp_sbox=1&iata=TBS&label_click=undef&nflt=oos%3D1%3Bfc%3D2%3Breview_score%3D90%3Bprice%3DCAD-min-100-1%3B&no_rooms=1&offset=0&order=price&raw_dest_type=city&room1=A%2CA%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=7db56730c97703f5&ss=Tbilisi%20City%2C%20Tbilisi%20Region%2C%20Georgia&ss_raw=tbilisi&ssb=empty&ssne=Roshka&ssne_untouched=Roshka&no_dorms=1
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Tbilisi,+Georgia&startDate=17/09/2019&endDate=19/09/2019&adults=3&regionId=3381&guestRating=45&sort=price
+
+
+
+==========================================
+
+
+Sep 19-22 Skt Petersburg
+
+Now 250 and 280 and 310 and 375
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=19&checkin_year=2019&checkout_month=9&checkout_monthday=22&checkout_year=2019&city=-2330100&class_interval=1&dest_id=-2996338&dest_type=city&dtdisc=0&from_sf=1&group_adults=3&group_children=0&highlighted_hotels=3770785&iata=LED&inac=0&index_postcard=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=e6426dbb1aaf0089&ss=Saint%20Petersburg%2C%20Russia&ss_all=0&ss_raw=petersburg&ssb=empty&sshis=0&ssne=Telavi&ssne_untouched=Telavi&nflt=rpt%3D1%3Bprice%3DCAD-min-150-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3B&rdf=
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Saint+Petersburg,+Russia&startDate=19/09/2019&endDate=22/09/2019&adults=3&regionId=553248635975749278&guestRating=40&sort=price&latLong=59.963134,30.065347
+
+
+==========================================
+
+
+Sep 22-23 Train
+
+
+
+==========================================
+
+
+Sep 23-24 Moscow
+
+Now 50 and 60
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&checkin_month=9&checkin_monthday=23&checkin_year=2019&checkout_month=9&checkout_monthday=24&checkout_year=2019&class_interval=1&dest_id=187&dest_type=airport&from_sf=1&group_adults=2&group_children=0&highlighted_hotels=3770785&label_click=undef&no_dorms=1&no_rooms=1&order=price&raw_dest_type=airport&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=7a196f8c7ad80143&ss=Domodedovo&ssb=empty&ssne=Domodedovo&ssne_untouched=Domodedovo&nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bhotelfacility%3D17%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3B&rsf=
+
+
+
+https://www.expediafortd.com/Hotel-Search?destination=Moscow,+Russia+(DME-Domodedovo+Intl.)&startDate=23/09/2019&endDate=24/09/2019&adults=3&regionId=6024359&guestRating=40&sort=price&latLong=55.414495,37.899907
+
+
+
+==========================================
+==========================================
+==========================================
+
+
+Sep 2019
 			
 			
 https://www.expedia.ca/Flights-Search?flight-type=on&starDate=30%2F08%2F2019&mode=search&trip=oneway&leg1=from%3AToronto%2C+ON%2C+Canada+%28YYZ-Pearson+Intl.%29%2Cto%3ABarcelona%2C+Spain+%28BCN-All+Airports%29%2Cdeparture%3A30%2F08%2F2019TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY
@@ -452,6 +652,8 @@ https://www.google.ca/flights?hl=en#flt=TBS./m/04swd.2019-09-19;c:CAD;e:1;sd:1;t
 	188 CAD (99EUR)
 			
 			
+
+
 			
 ==========================================
 ==========================================
