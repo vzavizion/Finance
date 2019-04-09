@@ -395,9 +395,9 @@ May 11 MP
 		hotel Ollanta
 			57 CAD / 42.50 USD / 140 soles
 		restaurant Ollanta
-			20 CAD / 50 soles
+			40 CAD / 100 soles
 		grocery Ollanta
-			10 CAD / 25 soles
+			20 CAD / 50 soles
 			
 		TOTAL
 			??? CAD / ??? soles
@@ -417,8 +417,7 @@ May 12 Sacred Valley
 				
 				with us
 					yellow backpack
-					EB backback	
-			
+					EB backback				
 	
 
 		bakery Chinchero breakfast
@@ -431,13 +430,15 @@ May 12 Sacred Valley
 			soles
 			
 		grocery Urubamba
-			soles			
+			20 CAD / 50 soles
+			
 		restaurant beer
 			soles			
+			
 		restaurant Ollanta
-			soles
+			40 CAD / 100 soles
 		grocery Ollanta
-			soles
+			20 CAD / 50 soles
 			
 		TOTAL
 			??? CAD / ??? soles			
