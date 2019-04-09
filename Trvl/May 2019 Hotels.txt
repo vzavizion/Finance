@@ -73,16 +73,13 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAE
 
 
 
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=12&checkin_year=2019&checkout_month=5&checkout_monthday=13&checkout_year=2019&city=-342568&class_interval=1&dest_id=-345275&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&iata=CUZ&inac=0&index_postcard=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=85c73d79057f0042&ss=Cusco%2C%20Cusco%2C%20Peru&ss_all=0&ss_raw=cusco&ssb=empty&sshis=0&ssne_untouched=Chivay&nflt=pri%3D1%3Breview_score%3D90%3Broomfacility%3D800038%3Brshl%3D9%3Bfc%3D2%3Bfc%3D5%3B&rsf=rshl-9%2Cfc-2%2Cfc-5&lsf=rshl%7C9%7C20&update_av=1
-
-
 
 
 https://www.expediafortd.com/Hotel-Search?destination=Cusco,+Cusco+(region),+Peru&startDate=08/05/2019&endDate=10/05/2019&adults=2&regionId=941&guestRating=40&sort=price&latLong=-13.532395,-71.967255
 
 
 Amaru Inka
-https://www.expediafortd.com/Cusco-Hotels-Amaru-Colonial.h19445259.Hotel-Information?chkin=08%2F05%2F2019&chkout=10%2F05%2F2019&rm1=a2&sort=price&hwrqCacheKey=19aa51d7-5ca7-4d81-9927-f5ad783775f8HWRQ1554071907451&cancellable=false&regionId=941&vip=false&guestRating=40&c=81244031-33b5-4bba-ad0f-38f5a8ad6f01&&exp_dp=72.51&exp_ts=1554071904804&exp_curr=CAD&swpToggleOn=false&exp_pg=HSR
+https://www.expediafortd.com/Cusco-Machu-Picchu-Hotels-Amaru-Inca.h8429591.Hotel-Information?chkin=08%2F05%2F2019&chkout=10%2F05%2F2019&rm1=a2&sort=price&hwrqCacheKey=5218e7bb-f0c1-4906-8038-794845252ca8HWRQ1554725085467&cancellable=false&regionId=941&vip=false&guestRating=40&c=22ab85e4-4d02-4398-b721-b981f8651143&&exp_dp=72.7&exp_ts=1554725084668&exp_curr=CAD&swpToggleOn=false&exp_pg=HSR
 
 
 

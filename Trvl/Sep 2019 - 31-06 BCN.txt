@@ -74,7 +74,7 @@ Sep 1 - France beaches (2.5 hrs drive OW)
 	OR
 
 Without France
-Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Sant Pere de Rodes, Figueres Teatre-Museu Dalí)
+Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Figueres Teatre-Museu Dalí - 45mins drive OW, Sant Pere de Rodes - additional 45mins drive OW)
 			optional: Cadaqués beaches (1.5 hrs drive OW)
 			optional: Empúries
 			
@@ -138,8 +138,9 @@ Sep 1 - France beaches (2.5 hrs drive OW)
 	OR
 
 Without France
-Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Sant Pere de Rodes, Empúries, Figueres Teatre-Museu Dalí)
+Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Figueres Teatre-Museu Dalí - 45mins drive OW, Sant Pere de Rodes - additional 45mins drive OW)
 			optional: Cadaqués beaches (1.5 hrs drive OW)
+			optional: Empúries
 	Morning
 		Palafrugell beaches
 		
@@ -163,7 +164,7 @@ Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Sant Pere de Rodes, Emp
 	
 	
 	Evening
-		inland (Sant Pere de Rodes, Empúries, Figueres Teatre-Museu Dalí)
+		inland (Figueres Teatre-Museu Dalí, Sant Pere de Rodes)
 	
 			
 
