@@ -147,7 +147,8 @@ https://www.expediafortd.com/Hotel-Search?destination=Puerto+Baquerizo+Moreno,+G
 
 
 
-https://www.expediafortd.com/San-Cristobal-Island-Hotels-La-Casita-De-La-Isla.h13118064.Hotel-Information?chkin=15%2F05%2F2019&chkout=20%2F05%2F2019&rm1=a2&sort=price&hwrqCacheKey=19aa51d7-5ca7-4d81-9927-f5ad783775f8HWRQ1554072922516&cancellable=false&regionId=6138894&vip=false&guestRating=40&c=e6a03676-335d-493f-8057-dbab25ab9d6c&&exp_dp=62.41&exp_ts=1554072920211&exp_curr=CAD&swpToggleOn=false&exp_pg=HSR
+https://www.expediafortd.com/San-Cristobal-Island-Hotels-La-Casita-De-La-Isla.h13118064.Hotel-Information?chkin=15%2F05%2F2019&chkout=20%2F05%2F2019&rm1=a2&sort=price&hwrqCacheKey=19aa51d7-5ca7-4d81-9927-f5ad783775f8HWRQ1554884764634&cancellable=false&regionId=6138894&vip=false&guestRating=40&c=b3816acb-2d22-40c2-9cc0-424fc63a40ff&&exp_dp=62.32&exp_ts=1554884744465&exp_curr=CAD&swpToggleOn=false&exp_pg=HSR
+
 
 
 ==================	
@@ -224,11 +225,6 @@ https://www.booking.com/hotel/ec/casa-baquedano.en-gb.html?aid=304142;label=gen1
 
 
 https://www.expediafortd.com/Hotel-Search?destination=Quito+(and+vicinity),+Ecuador&startDate=24/05/2019&endDate=26/05/2019&adults=2&regionId=6053672&guestRating=40&sort=price&latLong=-0.191085,-78.486115
-
-
-
-https://www.expediafortd.com/La-Mariscal-Hotels-Hotel-Arte.h13133286.Hotel-Information?chkin=24%2F05%2F2019&chkout=26%2F05%2F2019&rm1=a2&sort=price&hwrqCacheKey=19aa51d7-5ca7-4d81-9927-f5ad783775f8HWRQ1554074123982&cancellable=false&regionId=6053672&vip=false&guestRating=40&c=df139a93-4f51-44ee-9b61-cc6254bd01dd&&exp_dp=32.96&exp_ts=1554074121380&exp_curr=CAD&swpToggleOn=false&exp_pg=HSR
-
 
 
 

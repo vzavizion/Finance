@@ -29,6 +29,13 @@
 ===================Clothes
 
 
+	Cash
+		404 CAD = 300 USD = 990 soles
+	ATM
+		411 CAD = 330 soles ATM
+			we lose 2.75 CAD for each 100 CAD if compare to cash
+
+
 
 plane clothes (3, 4, 13, 14, 15, 24, 26)
 	7 days
@@ -123,7 +130,7 @@ May 4 LIM to AQP
 		hotel
 			40 CAD / 29.50 USD / 100 soles
 		grocery Lima
-			20 CAD / 50 soles
+			10 CAD / 25 soles
 		taxi to restaurant Lima
 			5 CAD / 10 soles
 		restaurant
@@ -139,9 +146,9 @@ May 4 LIM to AQP
 		taxi to hotel AQP
 			10 CAD / 25 soles
 		hotel
-			50 CAD / 35 USD
+			50 CAD / 35 USD / 125 soles
 		grocery AQP
-			20 CAD / 50 soles
+			10 CAD / 25 soles
 		restaurant AQP sandwiches
 			20 CAD / 50 soles
 			
@@ -168,7 +175,7 @@ May 5 AQP
 	
 	
 		grocery AQP
-			20 CAD / 50 soles
+			10 CAD / 25 soles
 		Colca tousist bus
 			25 CAD / 60 soles
 		taxi to restaurant
@@ -207,15 +214,12 @@ May 6 Colca
 					EB backback
 	
 	
-	
-		Chivay to Cusco tousist bus
-			175 CAD / 130 USD / 430 soles
-		Colca ro Chivay taxi
-			50 CAD / 120 soles
+		park entrance
+			60 CAD / 140 soles
 		hotel
 			30 CAD / 21 USD / 70 soles
 		dinner + breakfast + water in hotel
-			30 CAD / 75 soles
+			10 CAD / 25 soles
 			
 		TOTAL
 			??? CAD / ??? soles
@@ -245,10 +249,14 @@ May 7 Chivay
 			10 CAD / 25 soles
 		hotel
 			35 CAD / 26 USD / 90 soles
-		restaurant Chivay + extra burger to go for bus Chivay to Cusco
-			80 CAD / 200 soles
+		Chivay to Cusco tousist bus
+			175 CAD / 130 USD / 430 soles
+		Colca to Chivay taxi
+			50 CAD / 120 soles
+		restaurant Chivay
+			40 CAD / 100 soles
 		grocery Chivay for bus Chivay to Cusco
-			30 CAD / 75 soles
+			20 CAD / 50 soles
 			
 		TOTAL
 			??? CAD / ??? soles
@@ -274,11 +282,11 @@ May 8 Bus to Cusco
 		hotel
 			120 CAD / 90 USD / 300 soles
 		grocery Cusco for Huchuy Qosco trail
-			40 CAD / 100 soles
+			30 CAD / 75 soles
 		restaurant Cusco
 			35 CAD / 80 soles
 		chocolate ChocoMuseo
-			20 CAD / 50 soles
+			15 CAD / 40 soles
 		
 		TOTAL
 			??? CAD / ??? soles
@@ -307,11 +315,11 @@ May 9 Huchuy Qosco
 		collectivo to hotel
 			10 CAD / 25 soles
 		restaurant Cusco
-			40 CAD / 100 soles
+			20 CAD / 50 soles
 		grocery Cusco
-			20 CAD / 50 soles			
+			20 CAD / 50 soles
 		chocolate ChocoMuseo
-			20 CAD / 50 soles			
+			20 CAD / 50 soles
 
 		TOTAL
 			??? CAD / ??? soles
@@ -351,15 +359,15 @@ May 10 Cusco to MP
 		Quorikancha
 			10 CAD / 20 soles
 		restaurant Cusco
-			40 CAD / 100 soles
+			20 CAD / 50 soles
 		chocolate ChocoMuseo
 			20 CAD / 50 soles
 		grocery Cusco for MP
-			40 CAD / 100 soles			
+			40 CAD / 100 soles
 		taxi to rental car pick up
 			5 CAD / 10 soles
 		car rental
-			140 CAD / 103 USD / 350 soles			
+			140 CAD / 103 USD / 350 soles
 		parking Ollanta
 			20 CAD / 45 soles
 		bus to/from MP
@@ -367,7 +375,7 @@ May 10 Cusco to MP
 		hotel MP
 			60 CAD / 45 USD / 150 soles
 		grocery MP
-			20 CAD / 50 soles
+			10 CAD / 25 soles
 
 		TOTAL
 			??? CAD / ??? soles
@@ -395,9 +403,9 @@ May 11 MP
 		hotel Ollanta
 			57 CAD / 42.50 USD / 140 soles
 		restaurant Ollanta
-			40 CAD / 100 soles
-		grocery Ollanta
 			20 CAD / 50 soles
+		grocery Ollanta
+			10 CAD / 25 soles
 			
 		TOTAL
 			??? CAD / ??? soles
@@ -421,36 +429,27 @@ May 12 Sacred Valley
 	
 
 		bakery Chinchero breakfast
-			soles
+			30 CAD / 75 soles
 		Chinchero market
-			soles
+			200 CAD / 500 soles
 		tourist ticket Chinchero, Ollanta, Maray
-			soles			
+			60 CAD / 140 soles
 		tourist ticket Maras
-			soles
-			
-		grocery Urubamba
-			20 CAD / 50 soles
-			
-		restaurant beer
-			soles			
-			
+			10 CAD / 20 soles
+		grocery Urubamba / Ollanta
+			10 CAD / 25 soles
+		restaurant Cerveceria del Valle Sagrado
+			30 CAD / 75 soles
 		restaurant Ollanta
-			40 CAD / 100 soles
-		grocery Ollanta
 			20 CAD / 50 soles
 			
 		TOTAL
 			??? CAD / ??? soles			
 			
 			
-May 13
+			
+May 13 Ollanta to LIM
 
-	what to wear
-	what backpacks to use
-	how much money we need	
-	
-	
 		hiking clothes
 			t-shirt + pants + hiking shoes		
 			
@@ -469,25 +468,28 @@ May 13
 			old t-shirt + jeans + snickers
 			
 			luggage						
-			with us
-				suitcase
-					EB backback
-					dry bag
-				yellow backpack
-				grey backback			
-
+				with us
+					suitcase
+						EB backback
+						dry bag
+					yellow backpack
+					grey backback
 			
 
-		bakery Chinchero lunch
-			soles
+		bakery Chinchero breakfast
+			30 CAD / 75 soles
 		gas car return
-			soles
+			50 CAD / 150 soles
 		taxi to restaurant Cusco
 			5 CAD / 10 soles
 		restaurant Cusco
-			40 CAD / 100 soles
-		grocery Cusco		
-			soles
+			20 CAD / 50 soles
+		chocolate ChocoMuseo
+			20 CAD / 50 soles
+		Iglesia de La Merced
+			5 CAD / 12 soles			
+		grocery Cusco
+			10 CAD / 25 soles			
 		taxi to airport Cusco
 			10 CAD / 20 soles
 		taxi to hotel Lima
@@ -495,15 +497,13 @@ May 13
 		hotel
 			40 CAD / 29.50 USD / 100 soles
 			
+		TOTAL
+			??? CAD / ??? soles
+			
 
 			
 May 14 LIM to GYE
 
-	what to wear
-	what backpacks to use
-	how much money we need	
-	
-	
 		plane clothes
 			old t-shirt + jeans + snickers				
 			
@@ -531,29 +531,32 @@ May 14 LIM to GYE
 	
 
 		grocery Lima
-			soles
-		grocery Lima
-			soles			
+			10 CAD / 25 soles
 		taxi to airport
-			soles
-		restaurant Lima airport sandwiches
-			soles	
+			20 CAD / 50 soles
+		restaurant LIM sandwiches
+			20 CAD / 50 soles
 		hotel
-			soles
-		taxi to Park
-			soles
+			50 CAD / 37 USD
+		taxi to Parque Histórico Guayaquil
+			5 CAD / 2 USD
 		taxi to restaurant
-			soles
+			10 CAD / 5 USD
 		restaurant
-			soles
+			70 CAD / 50 USD
 		grocery
-			soles			
+			15 CAD / 10 USD
+		cafe with cakes for breakfast
+			30 CAD / 22 USD
 		taxi to hotel
-			soles
+			10 CAD / 5 USD
 
+		TOTAL
+			??? CAD / ??? soles
+			
 		
 
-May 15
+May 15 GYE to San Cristobal
 		plane clothes
 			old t-shirt + jeans + snickers	
 			
@@ -570,6 +573,260 @@ May 15
 			t-shirt + shorts
 			
 			luggage						
+				hotel
+					suitcase					
+						grey backback	
+					yellow backpack
+				
+				with us
+					dry bag
+					EB backback				
+		
+		
+		GYE Airport Galapagos Card Tax
+			55 CAD / 40 USD		
+		SCY Airport Galapagos Card Tax
+			270 CAD / 200 USD			
+		taxi to hotel
+			5 CAD / 2 USD
+		hotel
+			440 CAD / 327.6 USD			
+		grocery
+			30 CAD / 22 USD
+		bakery lunch
+			20 CAD / 15 USD
+		taxi to beach
+			5 CAD / 2 USD
+		taxi from beach
+			5 CAD / 2 USD			
+		restaurant
+			60 CAD / 45 USD
+			
+		TOTAL
+			??? CAD / ??? soles
+			
+			
+			
+May 16 San Cristobal
+				
+		beach clothes
+			t-shirt + shorts
+			
+			luggage						
+				hotel
+					suitcase					
+						grey backback	
+					yellow backpack
+				
+				with us
+					dry bag
+					EB backback				
+		
+		
+		bakery breakfast
+			20 CAD / 15 USD
+		grocery
+			30 CAD / 22 USD			
+		restaurant
+			60 CAD / 45 USD
+			
+		TOTAL
+			??? CAD / ??? USD
+			
+			
+			
+May 17 San Cristobal
+				
+		beach clothes
+			t-shirt + shorts
+			
+			luggage						
+				hotel
+					suitcase					
+						grey backback	
+					yellow backpack
+				
+				with us
+					dry bag
+					EB backback				
+		
+		
+		kayaking tour
+			40 CAD / 30 USD
+		bakery breakfast
+			20 CAD / 15 USD
+		grocery
+			30 CAD / 22 USD
+		restaurant
+			60 CAD / 45 USD
+			
+		TOTAL
+			??? CAD / ??? USD			
+			
+			
+			
+May 18 San Cristobal
+				
+		beach clothes
+			t-shirt + shorts
+			
+			luggage						
+				hotel
+					suitcase					
+						grey backback	
+					yellow backpack
+				
+				with us
+					dry bag
+					EB backback				
+				
+				
+		360 tour		
+			470 CAD / 350 USD				
+		bakery breakfast
+			20 CAD / 15 USD
+		grocery
+			30 CAD / 22 USD			
+		restaurant
+			60 CAD / 45 USD
+			
+		TOTAL
+			??? CAD / ??? USD
+		
+
+		
+May 19 San Cristobal
+				
+		beach clothes
+			t-shirt + shorts
+			
+			luggage						
+				hotel
+					suitcase					
+						grey backback	
+					yellow backpack
+				
+				with us
+					dry bag
+					EB backback				
+		
+		
+		south tour
+			15 CAD / 10 USD			
+		ferry tickets
+			80 CAD / 60 USD
+		bakery breakfast
+			20 CAD / 15 USD
+		grocery
+			30 CAD / 22 USD
+		restaurant
+			60 CAD / 45 USD
+			
+		TOTAL
+			??? CAD / ??? USD
+						
+		
+		
+May 20 Santa Cruz
+				
+		beach clothes
+			t-shirt + shorts
+			
+			luggage						
+				hotel
+					suitcase					
+						grey backback	
+					yellow backpack
+				
+				with us
+					dry bag
+					EB backback				
+		
+		
+		hotel
+			115 CAD / 85.59 USD
+		ferry tickets
+			80 CAD / 60 USD
+		bakery breakfast
+			20 CAD / 15 USD			
+		grocery
+			30 CAD / 22 USD
+		Santa Cruz Brewery
+			20 CAD / 15 USD
+		restaurant
+			60 CAD / 45 USD
+
+		TOTAL
+			??? CAD / ??? USD			
+
+			
+
+May 21
+				
+		beach clothes
+			t-shirt + shorts
+			
+			luggage						
+				hotel
+					suitcase					
+						grey backback	
+					yellow backpack
+				
+				with us
+					dry bag
+					EB backback				
+		
+		
+		hotel
+			130 CAD / 94.75 USD			
+		Kayak Tintoreras
+			200 CAD / 150 USD
+		grocery
+			30 CAD / 22 USD			
+		restaurant
+			75 CAD / 55 USD
+
+		TOTAL
+			??? CAD / ??? USD
+			
+
+
+May 22
+				
+		beach clothes
+			t-shirt + shorts
+			
+			luggage						
+				hotel
+					suitcase					
+						grey backback	
+					yellow backpack
+				
+				with us
+					dry bag
+					EB backback				
+		
+		
+		ferry tickets
+			80 CAD / 60 USD			
+		Tonneles tour
+			295 CAD / 220 USD
+		grocery
+			30 CAD / 22 USD
+		restaurant
+			75 CAD / 55 USD
+
+		TOTAL
+			??? CAD / ??? USD
+			
+			
+			
+May 23
+				
+		beach clothes
+			t-shirt + shorts
+			
+			luggage						
 			hotel
 				suitcase					
 					grey backback	
@@ -579,6 +836,133 @@ May 15
 				dry bag
 				EB backback				
 		
+		
+		hotel
+			115 CAD / 85.59 USD
+		bakery breakfast
+			20 CAD / 15 USD
+		grocery
+			30 CAD / 22 USD
+		Santa Cruz Brewery
+			20 CAD / 15 USD
+		restaurant
+			60 CAD / 45 USD
+			
+		TOTAL
+			??? CAD / ??? USD
+			
+			
+			
+May 24
+
+		plane clothes
+			old t-shirt + jeans + snickers
+			
+			luggage
+				with us
+					suitcase
+						EB backback
+						dry bag
+					yellow backpack
+					grey backback
+					
+				
+		city clothes
+			t-shirt + jeans + snickers
+
+			luggage			
+				hotel
+					suitcase
+						EB backback
+						dry bag
+					yellow backpack
+			
+				with us
+					grey backback
+		
+		
+		bakery breakfast
+			20 CAD / 15 USD		
+		taxi to bus station
+			5 CAD / 2 USD			
+		bus to ferry
+			10 CAD / 7 USD
+		ferry
+			5 CAD / 2 USD
+		taxi to hotel
+			40 CAD / 30 USD
+		hotel
+			70 CAD / 53.30 USD			
+		brewery happy hour
+			30 CAD / 22 USD
+		grocery
+			30 CAD / 22 USD
+		taxi to restaurant
+			5 CAD / 3 USD
+		restaurant
+			60 CAD / 45 USD
+		taxi to hotel
+			5 CAD / 3 USD
+
+		TOTAL
+			??? CAD / ??? USD
+			
+			
+
+May 25
+
+				
+		city clothes
+			t-shirt + jeans + snickers
+
+			luggage			
+				hotel
+					suitcase
+						EB backback
+						dry bag
+					yellow backpack
+			
+				with us
+					grey backback
+					
+					
+		plane clothes
+			old t-shirt + jeans + snickers
+			
+			luggage
+				with us
+					suitcase
+						EB backback
+						dry bag
+					yellow backpack
+					grey backback	
+		
+				
+		breakfast cafe
+			30 CAD / 22 USD
+		free walking tour
+			15 CAD / 10 USD
+		La Compañía de Jesús
+			15 CAD / 10 USD			
+		lunch Las Corvinas de Don Jimmy
+			30 CAD / 22 USD
+		chocolates / coffee
+			15 CAD / 10 USD			
+		brewery happy hour
+			30 CAD / 22 USD
+		grocery
+			30 CAD / 22 USD			
+		taxi to restaurant
+			5 CAD / 3 USD
+		restaurant
+			60 CAD / 45 USD
+		taxi to hotel
+			5 CAD / 3 USD
+		taxi to airport
+			40 CAD / 30 USD
+			
+		TOTAL
+			??? CAD / ??? USD			
 			
 
 =======================================================
@@ -589,25 +973,6 @@ May 15
 
 Now
 		
-
-	!!!
-	Sant Pere de Rodes
-		Tues–Sun 10am–8pm
-		€5
-		Tues free
-		
-		Benedictine monastery
-		one of the most romantic ruins in all of Catalunya	
-			Catedral retains its original stonework from the tenth to fourteenth centuries
-		
-		independent, answerable only to Rome
-		thanks to the Roman connection the monks became tremendously rich and powerful			
-
-		Castell de Sant Salvador
-			stands above the monastery (and contemporary with it)
-			thirty-minute scramble up a steep, narrow path
-			
-			
 	!!!
 	Girona
 
@@ -722,72 +1087,10 @@ Now
 					
 					pay regular entry at any of the five, pick up the card and then you’ll receive fifty percent discount to the other museums			
 		
-		
-	!!!
-	Figueres
-
-		!!!
-		Teatre-Museu Dalí + Dalí Joies aka Dalí Jewels Collection
-			9am–8pm
-			€14
-			
-			most visited museum outside Madrid
-				reserve tickets online in advance
-				arrive early to avoid long queues
-			
-			inside is full of surprises, tricks and illusions, and contains a substantial portion of Dalí’s life’s work
-
-			all-round sensory and surreal experience
-				look through binoculars to see Gala Nude Looking at the Sea Which at Twenty Metres is Transformed into a Portrait of Abraham Lincoln
-				
-				revive a “dead” body in a coffin made of circuit boards
-				
-				check out The Face of Mae West That Can Be Used as a Drawing Room, in which Mae’s giant nose has a fireplace (complete with logs) built into each nostril, and her fleshy red lips are a couch
-				
-				Taxi Plujós (Rainy Taxi), an early Cadillac, surmounted by statues
-					famous Rainy Cadillac, where you can water the snail-encrusted occupants of a steamy Cadillac by feeding it with coins
-			
-				tiny mysterious room with a mirrored flamingo
-				
-			Sala de Tresor 
-				many of Dalí’s better-known works
-					The Spectre of Sex Appeal, which explores the artist’s famous sex phobia
-					Soft Self-Portrait with Fried Bacon, in which Dalí’s dripping visage is held up by little sticks
-					Venus de Milo with Drawers
-					
-			Dalí Joies exhibit
-				jewels designed by Dalí
-
-
-
-		Next Time
-		!!!
-		Castell de Sant Ferran
-			10am–8pm
-			€3
-			
-			walk 4km perimeter and you’ll get a sense of just how massive it is			
 
 			
-	Next Time
-	!!!
-	Besalú
-		beautifully preserved medieval core
-		
-			impressive eleventh-century Romanesque Pont Fortificat
-				first records of the bridge date to 1075
+			
 
-			Església de Sant Pere and Església de Sant Vicenç
-				only open for services			
-			
-			
-	Next Time
-	!!!
-	Cava vineyards
-		Sant Sadurní d’Anoia
-		Vilafranca del Penedès	
-		
-	
 
 
 
@@ -940,12 +1243,6 @@ https://www.tripadvisor.ca/Restaurant_Review-g315921-d995810-Reviews-El_Motel_Re
 
 
 
-Besalú
-
-eating
-!!!
-Pont Vell C/Pont Vell 24 972 591 027, restaurantpontvell.com. Named after the bridge that it overlooks, this rustic restaurant with a lovely outdoor terrace offers traditional Catalan cuisine with a modern twist, including squid stuffed with wild mushrooms; escudella, a typical Catalan stew of meat and vegetables; and the Pont Vell speciality – sweet and sour rabbit. Mains €15–25. Wed–Mon 1.30–4pm & 8.30–10.30pm; occasionally closed Sun & Mon nights.
-https://www.tripadvisor.ca/Restaurant_Review-g609018-d986770-Reviews-Pont_Vell-Besalu_Province_of_Girona_Catalonia.html
 
 
 
@@ -960,15 +1257,9 @@ https://www.tripadvisor.ca/Restaurant_Review-g609018-d986770-Reviews-Pont_Vell-B
 
 
 
-The Monestir de Poblet
-Prades
-If you have time and transport, a couple of excursions into the countryside surrounding Poblet are well worth making. The red-stone walled village of PRADES, in the Serra de Prades, 20km from the monastery, is a beautifully sited and tranquil place that needs no other excuse for a visit. It’s also the place to be during the second weekend of July, when they replace the water in the fountain with cava, and you can join in and help yourself – or order a bottle of bubbly at a terrace bar in the porticoed plaça and enjoy the scene. The area around Poblet is also home to two more twelfth-century Cistercian monasteries.
-Reial Monestir de Santes Creus
-June–Sept Tues–Sat 10am–6.30pm, Oct–May 10am–5pm • €4.50 • larutadelcister.info
-The Reial Monestir de Santes Creus lies 7km north of the Barcelona–Lleida highway, and is clearly signposted. It’s built in Transitional style, with a grand Gothic cloister and some Romanesque traces, and you can explore the dormitory, chapterhouse and main church.
-Monestir de Vallbona de les Monges
-March–Oct Tues–Sat 10.30am–1.30pm & 4.30–6.30pm, Sun noon–1.30pm & 4.30–6.30pm; Nov–Feb closes 5.30pm • €4 • larutadelcister.info
-The Monestir de Vallbona de les Monges is about 16km north of Poblet, and reached via Montblanc. This monastery of monges (nuns) has been occupied continuously for over 800 years. The church, built over the twelfth to fourteenth centuries, is a particularly noteworthy example of the transition between Romanesque and Gothic, and has a rectangular nave and elegant cloisters.
+
+
+
 
 
 ???
@@ -1061,16 +1352,14 @@ Ateneu Unió Pl. Joan Güell 5 936 613 111. The big, old-fashioned, if a bit fad
 
 
 
-========NEW
-========NEW
-========NEW
+
 
 
 
 Figueres
 
 EATING
-
+!!!
 Can Jeroni C/Castelló 36 972 500 983, canjeroni.com. Locals flock to this tiled tavern opposite the market, where country-style dishes and grills (torrades, salads, steaks, sausages) go for €8–19. Mid-Sept to mid-June Mon–Thurs 8am–3.30pm, Fri & Sat 8am–3.30pm & 8.30–10pm; mid-June to mid-Sept Mon, Tues & Sat 8am–3.30pm, Wed–Fri 8am–3.30pm & 8.30–10pm.
 
 
@@ -1157,35 +1446,6 @@ https://www.tripadvisor.ca/Restaurant_Review-g187499-d5963688-Reviews-Ham_Sessio
 
 
 ========NEW
-========NEW
-========NEW
-
-
-Figueres
-5Eating
-Sidrería Txot’s
-CATALAN, BASQUE€
-( GOOGLE MAP ; www.sidreriatxots.com; Avinguda Salvador Dalí 114; mains €10; hnoon-midnight; W)
-Perch on a wooden seat and watch your Basque cider poured from on high from the barrel – the way it’s supposed to be – before tucking into cold and hot pintxos (Basque tapas), tasty burgers, cured meats, cheeses and salads, as well as dishes such as potato omelette, chorizo in cider and L’Escala anchovies on toast. The kitchen's open all afternoon – handy for a post-Dalí meal.
-	
-
-	
-
-
-Besalú
-
-Eating
-Restaurant La Cúria ReialCATALAN€€
-(%972 59 02 63; www.curiareial.com; Plaça Libertat 8-9; mains €12; h1-3.30pm & 8.30-10.30pm Wed-Mon)
-Whether dining beneath the arches in its snug stone interior or out on the terrace overlooking the bridge, an atmospheric experience is assured at Cúria Reial. The menu, spanning market fare and cuina volcànica from the fertile Garrotxa hills, delights with tasty lunch menus (€18.50), juicy grilled fish and lavish desserts, such as jasmine ice cream served in chilled melon soup.
-
-Pont VellCATALAN€€
-(%972 59 10 27; www.restaurantpontvell.com; Pont Vell 26; mains €15-24; h1-3.30pm Wed-Mon, 8.30pm-10.30pm Wed-Sat, closed late Dec-late Jan)
-The views to the old bridge (after which the restaurant is named) are enough to tempt you to take a seat here, even without considering the wide-ranging menu full of locally sourced delights, such as home-made terrines, ox tail in red wine, and cannelloni of guineafowl and truffles.
-
-
-
-
 
 
 
@@ -1239,41 +1499,9 @@ This friendly tourist office on the main pedestrian street has maps and local ti
 8Getting There & Away
 From the centrally located bus station ( GOOGLE MAP ; off Avenida Blondel), southwest of the old town, off Avenida Blondel, regular services include Zaragoza (€11.38, 1¾ to 2½ hours, three to five daily), Barcelona and El Prat airport (€21, two to 3¼ hours, 12 to 18 daily); Vielha (€13.87, 2½ to three hours, seven to nine daily) and La Seu d’Urgell (€19.25, 2¼ hours, four daily).
 Regular trains reach Barcelona from Lleida (€17.65 to €42.60, one hour), with some proceeding to Madrid (€51.15 to €123.20, two hours, 10 daily) via Zaragoza (€14.85 to €27.10, one hour).
-WORTH A TRIP
-CISTERCIAN ROUTE
-
-Cistercian RouteMONASTERIES
-(Ruta del Cister; www.larutadelcister.info; combined 3-monastery ticket €12)
-A combined ticket gives access to three monasteries on the Cistercian Route, plus discounts on other regional museums. Tackling all three in a single day-trip from Tarragona is doable if you start early, but it requires careful timing: some visits are by irregular guided tours only. Start with Santa Maria de Poblet (whose long lunch hour can disrupt day-trip schedules), before heading to Reial Monestir de Santes Creus. Finish with Santa Maria de Vallbona de les Monges, the latest closing of the trio.
-oReial Monestir de Santes CreusMONASTERY
-(Plaça de Jaume el Just, Santes Creus; adult/senior & student €4.50/3.50; h10am-6.30pm Jun-Sep, 10am-5pm Oct-May)
-An atmosphere of awe descends before entering the monastery, in broad Plaça de Sant Bernat Calbó: its mix of architectural styles spans six centuries, including retired monks' quarters and an ornamental 18th-century fountain. Behind the monastery's Romanesque and Gothic facade lies a 14th-century sandstone cloister, a 12th-century chapter house whose ceiling ripples with rib-shaped vaults, a cavernous dormitory, and royal apartments where the comtes-reis (count-kings; rulers of the joint state of Catalonia and Aragón) often stayed. There's also a church, whose construction began in the 12th century.
-Reial Monestir de Santa Maria de PobletMONASTERY
-(www.poblet.cat; Vimbodí-Poblet; adult/student €7.50/4.50; h10am-12.30pm & 3-5.30pm Mon-Sat, 10.30am-12.30pm & 3-5.30pm Sun)
-The largest monastery of the Cistercian Route, Unesco-listed Santa Maria de Poblet was founded by monks from southern France in 1150. It rose rapidly to become Catalonia’s most powerful monastery. Highlights include the mostly Gothic main cloister and the alabaster sculptural treasures of the Panteón de los Reyes (Kings’ Pantheon). The raised alabaster sarcophagi contain such greats as Jaume I (the conqueror of Mallorca and Valencia) and Pere III. Entry is strictly by semi-guided tours (Catalan and Spanish), which operate every 20 minutes during opening hours.
-Reial Monestir de Santa Maria de Vallbona de les MongesCONVENT
-(%973 33 02 66; www.monestirvallbona.cat; Carrer Major, Vallbona de les Monges; adult/child €4/1; h10.30am-1.30pm & 4.30-6.45pm Tue-Sat, noon-1.30pm & 4.30-6.45pm Sun Mar-Oct, closes 5.30pm rest of year)
-A dozen monges (nuns) still live and pray at this 12th-century institution, the only women's monastery along the Cistercian Route. The monastery has undergone years of restoration, which has finally cleared up most of the remaining civil-war damage. Queen Violant of Hungary, a queen consort of Aragon and formidable political influencer, is entombed within (note the bilingual plaque outside the monastery in Catalan and Hungarian). Visits are by guided tour (Spanish or Catalan).
-4Sleeping
-Fèlix HotelHOTEL€
-( GOOGLE MAP ; %977 60 90 90; http://felixhotel.net; Ctra N240, Km 17, Valls; s/d €54/62; pW)
-This comfortable, if slightly creaky, hotel has rooms as cosy and ample as the welcome. It's well located for monastery-hopping along the Cistercian Route and also makes an excellent alternative to staying in central Tarragona (with free parking to boot). Fèlix Hotel is 17km north of Tarragona in quiet Valls.
-COSTA DAURADA & AROUND
 
 
 
-
-
-
-Delta de L'Ebre
-
-
-WORTH A TRIP
-CASTELL DE MIRAVET
-
-Castell de MiravetCASTLE
-(adult/child €3.50/2.30; h10am-5.30pm Tue-Sun, to 8pm summer)
-Southern Catalonia's finest castle is at Miravet, 6km off the N420, 60km west of Tarragona. Built in the 11th century, it was reconquered then given to the Templars. It's a formidable stronghold, with incredibly solid walls, and it towers above the pretty village that cascades down a hill on the banks of the Ebro. Opening hours vary seasonally.
 
 
 
@@ -1286,24 +1514,6 @@ Southern Catalonia's finest castle is at Miravet, 6km off the N420, 60km west of
 
 
 
-
-========NEW
-
-
-
-
-CENTRAL CATALAN’S WINERIES & MONASTERIES
-
-
-
-TOP OF CHAPTER
-8 Reial Monestir de Santa Maria de Poblet
-A Unesco World Heritage site, the fortified Reial Monestir de Santa Maria de Poblet (www.poblet.cat; Vimbodí-Poblet; adult/student €7/4; 10am-12.45pm & 3-6pm Mon-Sat, 10am-12.30pm & 3-5.30pm Sun) was founded in 1151. It became Catalonia’s most powerful monastery and the burial place of many of its rulers. Poblet was sacked in 1835 by marauding peasants as payback for the monks’ abuse of their feudal powers, which included imprisonment and torture. High points include the mostly Gothic main cloister and the alabaster sculptural treasures of the Panteón de los Reyes (Kings’ Pantheon). The raised alabaster sarcophagi contain eight Catalan kings, such greats as Jaume I (the conqueror of Mallorca and Valencia) and Pere III.
-The Drive » The last stop is another 30km north. You’ll take the T700 back through L’Espluga de Francolí, then hop onto the T232. You’ll take the L220 as you reach Els Omells de na Gaia. Follow this north, about another 1km, then look for the signed right turn leading to Vallbona de les Monges.
-TOP OF CHAPTER
-9 Reial Monestir de Santa Maria de Vallbona de les Monges
-The Reial Monestir de Santa Maria de Vallbona de les Monges (973 33 02 66; Carrer Major, Vallbona de les Monges; adult/child €4/1; 10.30am-1.30pm & 4.30-6.45pm Tue-Sat, noon-1.30pm & 4.30-6.45pm Sun Mar-Oct, closes 5.30pm rest of year) was founded in the 12th century and is where a dozen monges (nuns) still live and pray. The monastery has undergone years of restoration, which has finally cleared up most of the remaining scars of civil war damage.
-EATING & SLEEPING
 
 
 

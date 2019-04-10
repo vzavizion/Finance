@@ -66,7 +66,7 @@ Barcelona Thrifty
 ==========Plan: Summary
 
 
-Aug 31 - to hotel (2 hrs drive, arrive 3pm) + Palafrugell beaches + inland (Pals, Peratallada, Castell de Púbol)
+Aug 31 - to hotel (2 hrs drive, arrive 3pm) + Palafrugell beaches + inland (Pals, Peratallada)
 
 With France
 Sep 1 - France beaches (2.5 hrs drive OW)
@@ -74,12 +74,16 @@ Sep 1 - France beaches (2.5 hrs drive OW)
 	OR
 
 Without France
-Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Figueres Teatre-Museu Dalí - 45mins drive OW, Sant Pere de Rodes - additional 45mins drive OW)
+Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Figueres Teatre-Museu Dalí - 45mins drive OW)
+			optional: Sant Pere de Rodes - additional 45mins drive OW beyond Figueres
 			optional: Cadaqués beaches (1.5 hrs drive OW)
 			optional: Empúries
 			
 Sep 2 - Palafrugell beaches + to hotel (0.5 hrs drive)			
 Sep 3 - Tossa de Mar beaches + Girona (0.5 hrs drive)
+			optional: Besalú - additional 30mins drive OW beyond Girona
+			optional: Jardins de Santa Clotilde
+			optional: Tossa de Mar
 Sep 4 - Tossa de Mar beaches + Montserrat (1.5 hrs drive) + to hotel (1 hr drive)
 Sep 5 - Eixample + Free Walking Tours + Montjuïc
 Sep 6 - Barri Gotic + to airport (1 hr)
@@ -90,7 +94,7 @@ Sep 6 - Barri Gotic + to airport (1 hr)
 ==========Plan: Detailed
 
 
-Aug 31 - to hotel (2 hrs drive, arrive 3pm) + Palafrugell beaches + inland (Pals, Peratallada, Castell de Púbol)
+Aug 31 - to hotel (2 hrs drive, arrive 3pm) + Palafrugell beaches + inland (Pals, Peratallada)
 	Morning
 		arrive BCN
 		car pick-up
@@ -138,10 +142,12 @@ Sep 1 - France beaches (2.5 hrs drive OW)
 	OR
 
 Without France
-Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Figueres Teatre-Museu Dalí - 45mins drive OW, Sant Pere de Rodes - additional 45mins drive OW)
+Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Figueres Teatre-Museu Dalí - 45mins drive OW)
+			optional: Sant Pere de Rodes - additional 45mins drive OW beyond Figueres
 			optional: Cadaqués beaches (1.5 hrs drive OW)
 			optional: Empúries
-	Morning
+			
+	Morning + Afternoon
 		Palafrugell beaches
 		
 				!!!
@@ -159,19 +165,24 @@ Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Figueres Teatre-Museu D
 					Tamariu
 					
 					magnificent 4km walk along the coast between three towns
-					
-	Afternoon
 	
 	
 	Evening
 		inland (Figueres Teatre-Museu Dalí, Sant Pere de Rodes)
+		
+				!!!
+				Teatre-Museu Dalí + Dalí Joies aka Dalí Jewels Collection
+					9am–8pm
+					€14
+
+
 	
 			
 
 	
 
 Sep 2 - Palafrugell beaches + to hotel (0.5 hrs drive)
-	Morning
+	Morning + Afternoon
 		Palafrugell beaches
 		
 				!!!
@@ -189,10 +200,8 @@ Sep 2 - Palafrugell beaches + to hotel (0.5 hrs drive)
 					Tamariu
 					
 					magnificent 4km walk along the coast between three towns
+
 					
-	Afternoon		
-	
-	
 	Evening
 		drive to hotel
 
@@ -200,6 +209,10 @@ Sep 2 - Palafrugell beaches + to hotel (0.5 hrs drive)
 
 
 Sep 3 - Tossa de Mar beaches + Girona (0.5 hrs drive)
+			optional: Besalú - additional 30mins drive OW beyond Girona
+			optional: Jardins de Santa Clotilde
+			optional: Tossa de Mar
+			
 	Morning
 	Afternoon
 	Evening
@@ -770,18 +783,7 @@ La Roca Village
 
 	
 	
-=======================================================
-=======================================================
-=======================================================
-==========Do Not Add to EN: Next Time - TB Approval needed	
 
-
-Jardins de Santa Clotilde	
-	10am–8pm
-	€5
-	
-	
-Tossa de Mar
 
 	
 
