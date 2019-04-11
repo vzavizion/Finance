@@ -1,15 +1,11 @@
 ========NEW
-			Costa Brava
 			France
 			Costa Brava beaches - select which beach to visit + parking  + add to EN
 
 					plan for each day
-						what to wear
-						what backpacks to use
 						how much money we need
 							calculate USD / soles needed for each day
-						add working hours to EN plan
-			
+
 			
 			Lounges
 				YYZ	2
@@ -94,7 +90,8 @@ May 3 YYZ to LIM
 					yellow backpack
 					grey backback
 		
-		
+
+	
 
 May 4 LIM to AQP
 
@@ -153,7 +150,10 @@ May 4 LIM to AQP
 			20 CAD / 50 soles
 			
 		TOTAL
-			??? CAD / ??? soles
+			20 + 40 + 10 + 5 + 80 + 5 + 25 + 5 + 20 + 10 + 50 + 10 + 20
+			300 CAD / 225 USD / 750 soles
+				LIM 210 CAD / 525 soles
+				AQP 90 CAD / 225 soles			
 		
 	
 	
@@ -194,8 +194,9 @@ May 5 AQP
 			40 CAD / 100 soles
 			
 		TOTAL
-			??? CAD / ??? soles
-
+			10 + 25 + 5 + 80 + 5 + 10 + 20 + 40 + 40
+			235 CAD / 175 USD / 580 soles
+			
 			
 			
 May 6 Colca
@@ -222,7 +223,8 @@ May 6 Colca
 			10 CAD / 25 soles
 			
 		TOTAL
-			??? CAD / ??? soles
+			60 + 30 + 10
+			100 CAD / 75 USD / 250 soles
 			
 			
 			
@@ -259,9 +261,10 @@ May 7 Chivay
 			20 CAD / 50 soles
 			
 		TOTAL
-			??? CAD / ??? soles
+			10 + 10 + 35 + 175 + 50 + 40 + 20
+			340 CAD / 255 USD / 840 soles
 			
-			
+						
 			
 May 8 Bus to Cusco
 	
@@ -279,8 +282,6 @@ May 8 Bus to Cusco
 
 		taxi to hotel Cusco
 			5 CAD / 10 soles
-		hotel
-			120 CAD / 90 USD / 300 soles
 		grocery Cusco for Huchuy Qosco trail
 			30 CAD / 75 soles
 		restaurant Cusco
@@ -289,7 +290,8 @@ May 8 Bus to Cusco
 			15 CAD / 40 soles
 		
 		TOTAL
-			??? CAD / ??? soles
+			5 + 30 + 35 + 15
+			85 CAD / 65 USD / 210 soles			
 			
 			
 			
@@ -322,7 +324,8 @@ May 9 Huchuy Qosco
 			20 CAD / 50 soles
 
 		TOTAL
-			??? CAD / ??? soles
+			20 + 10 + 20 + 20 + 20
+			90 CAD / 70 USD / 225 soles
 			
 
 			
@@ -378,9 +381,10 @@ May 10 Cusco to MP
 			10 CAD / 25 soles
 
 		TOTAL
-			??? CAD / ??? soles
+			10 + 20 + 20 + 40 + 5 + 140 + 20 + 65 + 60 + 10
+			390 CAD / 295 USD / 965 soles
 
-			
+
 			
 May 11 MP
 
@@ -401,16 +405,17 @@ May 11 MP
 		bakery MP
 			20 CAD / 50 soles
 		hotel Ollanta
-			57 CAD / 42.50 USD / 140 soles
+			60 CAD / 42.50 USD / 140 soles
 		restaurant Ollanta
 			20 CAD / 50 soles
 		grocery Ollanta
 			10 CAD / 25 soles
 			
 		TOTAL
-			??? CAD / ??? soles
+			20 + 60 + 20 + 10
+			110 CAD / 85 USD / 275 soles
 			
-			
+
 			
 May 12 Sacred Valley
 
@@ -444,8 +449,9 @@ May 12 Sacred Valley
 			20 CAD / 50 soles
 			
 		TOTAL
-			??? CAD / ??? soles			
-			
+			30 + 200 + 60 + 10 + 10 + 30 + 20
+			360 CAD / 250 USD / 890 soles
+
 			
 			
 May 13 Ollanta to LIM
@@ -498,7 +504,8 @@ May 13 Ollanta to LIM
 			40 CAD / 29.50 USD / 100 soles
 			
 		TOTAL
-			??? CAD / ??? soles
+			30 + 50 + 5 + 20 + 20 + 5 + 10 + 10 + 20 + 40
+			210 CAD / 160 USD / 520 soles
 			
 
 			
@@ -552,9 +559,10 @@ May 14 LIM to GYE
 			10 CAD / 5 USD
 
 		TOTAL
-			??? CAD / ??? soles
+			10 + 20 + 20 + 50 + 5 + 10 + 70 + 15 + 30 + 10
+			240 CAD / 180 USD / 125 soles
 			
-		
+
 
 May 15 GYE to San Cristobal
 		plane clothes
@@ -584,13 +592,13 @@ May 15 GYE to San Cristobal
 		
 		
 		GYE Airport Galapagos Card Tax
-			55 CAD / 40 USD		
+			55 CAD / 40 USD
 		SCY Airport Galapagos Card Tax
-			270 CAD / 200 USD			
+			270 CAD / 200 USD
 		taxi to hotel
 			5 CAD / 2 USD
 		hotel
-			440 CAD / 327.6 USD			
+			440 CAD / 327.6 USD
 		grocery
 			30 CAD / 22 USD
 		bakery lunch
@@ -598,14 +606,15 @@ May 15 GYE to San Cristobal
 		taxi to beach
 			5 CAD / 2 USD
 		taxi from beach
-			5 CAD / 2 USD			
+			5 CAD / 2 USD
 		restaurant
 			60 CAD / 45 USD
 			
 		TOTAL
-			??? CAD / ??? soles
+			55 + 270 + 5 + 440 + 30 + 20 + 5 + 5 + 60
+			890 CAD / 670 USD
 			
-			
+
 			
 May 16 San Cristobal
 				
@@ -626,14 +635,15 @@ May 16 San Cristobal
 		bakery breakfast
 			20 CAD / 15 USD
 		grocery
-			30 CAD / 22 USD			
+			30 CAD / 22 USD
 		restaurant
 			60 CAD / 45 USD
 			
 		TOTAL
-			??? CAD / ??? USD
+			20 + 30 + 60
+			110 CAD / 85 USD
 			
-			
+
 			
 May 17 San Cristobal
 				
@@ -661,9 +671,10 @@ May 17 San Cristobal
 			60 CAD / 45 USD
 			
 		TOTAL
-			??? CAD / ??? USD			
+			40 + 20 + 30 + 60
+			150 CAD / 115 USD
 			
-			
+
 			
 May 18 San Cristobal
 				
@@ -681,8 +692,8 @@ May 18 San Cristobal
 					EB backback				
 				
 				
-		360 tour		
-			470 CAD / 350 USD				
+		360 tour
+			470 CAD / 350 USD
 		bakery breakfast
 			20 CAD / 15 USD
 		grocery
@@ -691,7 +702,8 @@ May 18 San Cristobal
 			60 CAD / 45 USD
 			
 		TOTAL
-			??? CAD / ??? USD
+			470 + 20 + 30 + 60
+			580 CAD / 435 USD
 		
 
 		
@@ -712,7 +724,7 @@ May 19 San Cristobal
 		
 		
 		south tour
-			15 CAD / 10 USD			
+			15 CAD / 10 USD
 		ferry tickets
 			80 CAD / 60 USD
 		bakery breakfast
@@ -723,7 +735,8 @@ May 19 San Cristobal
 			60 CAD / 45 USD
 			
 		TOTAL
-			??? CAD / ??? USD
+			15 + 80 + 20 + 30 + 60
+			205 CAD / 155 USD
 						
 		
 		
@@ -748,7 +761,7 @@ May 20 Santa Cruz
 		ferry tickets
 			80 CAD / 60 USD
 		bakery breakfast
-			20 CAD / 15 USD			
+			30 CAD / 22 USD
 		grocery
 			30 CAD / 22 USD
 		Santa Cruz Brewery
@@ -757,9 +770,10 @@ May 20 Santa Cruz
 			60 CAD / 45 USD
 
 		TOTAL
-			??? CAD / ??? USD			
+			115 + 80 + 30 + 30 + 20 + 60
+			335 CAD / 250 USD
 
-			
+
 
 May 21
 				
@@ -782,12 +796,13 @@ May 21
 		Kayak Tintoreras
 			200 CAD / 150 USD
 		grocery
-			30 CAD / 22 USD			
+			30 CAD / 22 USD
 		restaurant
 			75 CAD / 55 USD
 
 		TOTAL
-			??? CAD / ??? USD
+			130 + 200 + 30 + 75
+			435 CAD / 325 USD
 			
 
 
@@ -808,7 +823,7 @@ May 22
 		
 		
 		ferry tickets
-			80 CAD / 60 USD			
+			80 CAD / 60 USD
 		Tonneles tour
 			295 CAD / 220 USD
 		grocery
@@ -817,9 +832,10 @@ May 22
 			75 CAD / 55 USD
 
 		TOTAL
-			??? CAD / ??? USD
+			80 + 295 + 30 + 75
+			480 CAD / 360 USD
 			
-			
+
 			
 May 23
 				
@@ -840,7 +856,7 @@ May 23
 		hotel
 			115 CAD / 85.59 USD
 		bakery breakfast
-			20 CAD / 15 USD
+			30 CAD / 22 USD
 		grocery
 			30 CAD / 22 USD
 		Santa Cruz Brewery
@@ -849,8 +865,8 @@ May 23
 			60 CAD / 45 USD
 			
 		TOTAL
-			??? CAD / ??? USD
-			
+			115 + 30 + 30 + 20 + 60
+			255 CAD / 190 USD
 			
 			
 May 24
@@ -882,9 +898,9 @@ May 24
 		
 		
 		bakery breakfast
-			20 CAD / 15 USD		
+			30 CAD / 22 USD
 		taxi to bus station
-			5 CAD / 2 USD			
+			5 CAD / 2 USD
 		bus to ferry
 			10 CAD / 7 USD
 		ferry
@@ -892,7 +908,7 @@ May 24
 		taxi to hotel
 			40 CAD / 30 USD
 		hotel
-			70 CAD / 53.30 USD			
+			70 CAD / 53.30 USD
 		brewery happy hour
 			30 CAD / 22 USD
 		grocery
@@ -905,12 +921,12 @@ May 24
 			5 CAD / 3 USD
 
 		TOTAL
-			??? CAD / ??? USD
+			30 + 5 + 10 + 5 + 40 + 70 + 30 + 30 + 5 + 60 + 5
+			290 CAD / 220 USD
 			
-			
+
 
 May 25
-
 				
 		city clothes
 			t-shirt + jeans + snickers
@@ -943,15 +959,19 @@ May 25
 		free walking tour
 			15 CAD / 10 USD
 		La Compañía de Jesús
-			15 CAD / 10 USD			
+			15 CAD / 10 USD
 		lunch Las Corvinas de Don Jimmy
 			30 CAD / 22 USD
 		chocolates / coffee
-			15 CAD / 10 USD			
+			30 CAD / 22 USD
+		taxi to museum
+			5 CAD / 3 USD
+		taxi from museum
+			5 CAD / 3 USD
 		brewery happy hour
 			30 CAD / 22 USD
 		grocery
-			30 CAD / 22 USD			
+			15 CAD / 10 USD
 		taxi to restaurant
 			5 CAD / 3 USD
 		restaurant
@@ -962,9 +982,15 @@ May 25
 			40 CAD / 30 USD
 			
 		TOTAL
-			??? CAD / ??? USD			
+			30  + 15 + 15 + 30 + 30 + 5 + 5 + 30 + 15 + 5 + 60 + 5 + 40		
+			285 CAD / 215 USD
 			
 
+TOTAL			
+	300 + 235 + 100 + 340 + 85 + 90	+ 390 + 110	+ 360 + 210 + 240 + 890	+ 110 + 150 + 580 + 205	+ 335 + 435	+ 480 + 255 + 290 + 285
+	
+	6475
+			
 =======================================================
 =======================================================
 =======================================================
@@ -1078,205 +1104,6 @@ https://www.tripadvisor.ca/Restaurant_Review-g580326-d995939-Reviews-Restaurant_
 
 
 
-Girona
-	
-!!!
-Divinum C/Albereda 7 872 080 218, divinum.cat; map. Feast on creative contemporary Catalan cuisine at this sleek restaurant, with dishes like succulent veal with port wine and apples, and sardines with strawberries and yogurt. Don’t miss the superb array of artisanal cheeses. This is a place where it’s well worth going for the tasting menu (€45; €73 with wine), which shows off the best of the kitchen. Dishes €14–26. Mon–Sat 1.30–3.45 & 8.30–11pm.
-	individual dishes like foie gras with black garlic or steak tartare at €14–26, and a wonderful €45 tasting menu (€73 with wine)
-https://www.tripadvisor.ca/Restaurant_Review-g187499-d1960442-Reviews-Divinum-Girona_Province_of_Girona_Catalonia.html
-
-!!!
-Massana C/Bonastruc de Porta 10 972 213 820, restaurantmassana.com; map. This elegant, deservedly celebrated restaurant takes locally sourced cuisine to a high art, serving such inventive dishes as juicy duck with herbal oils, pear and rosemary, and sea cucumber with a “veil” of bacon. Dishes €24–29; tasting menu €105. Tues 1.15–3.45pm, Wed–Sat 1.15–3.45pm & 8.30–10.45pm.
-https://www.tripadvisor.ca/Restaurant_Review-g187499-d996041-Reviews-Massana-Girona_Province_of_Girona_Catalonia.html
-
-!!!
-Mimolet C/Pou Rodó 12 972 202 124, mimolet.net; map. Classy, welcoming restaurant with a Catalan menu built around local produce, including monkfish with olives and foie with a sweet apple glaze. Menu starts at €18, while individual dishes range €18–24. Tues–Sat 1–3pm & 8.30–10.30pm.
-https://www.tripadvisor.ca/Restaurant_Review-g187499-d9600750-Reviews-Mimolet-Girona_Province_of_Girona_Catalonia.html
-
-!!!
-Sentits Travessera de la Creu 33 972 299 386, restaurantsentits.com; map. Living up to its name, this elegant little spot appeals to all the senses (sentits). The menu springs from the hyper-local “Km 0” concept – seafood from the lonja (fish auction) at Blanes and Arenys de Mar, and vegetables from the gardens of the verdant Maresme along the Mediterranean. Dishes include smoked aubergine cream served with anchovies from nearby Escala. Mains €12–21. Mon–Thurs 1–4pm, Fri & Sat 1–4pm & 8–11pm.
-https://www.tripadvisor.ca/Restaurant_Review-g187499-d9883995-Reviews-Restaurant_Sentits-Girona_Province_of_Girona_Catalonia.html
-
-
-
-
-
-Figueres
-
-Eating
-!!!
-Antaviana C/Llers 5–7 972 510 377, restaurantantaviana.cat; map. The airy dining room, with light woods and sleek lighting, matches the contemporary Catalan cuisine, with a focus on seafood, from fresh mussels to cod with spinach. They also serve a good selection of local Empordà wines. Dishes €11–23. Mon–Sat 1–3.30pm & 8.30–11.45pm.
-https://www.tripadvisor.ca/Restaurant_Review-g315921-d995811-Reviews-Antaviana-Figueres_Province_of_Girona_Catalonia.html
-!!!
-El Motel Hotel Empordà, Avda. Salvador Dalí i Domènech 170, 1km northwest of Figueres 972 500 562, elmotel.cat; map. Before the foams of Ferran Adrià and the “emotional cuisine” of the Roca brothers, there was the Hotel Empordà (originally called the Motel Ampurdan, in part because it sits on a busy roadway), where chef Jaume Subirós is credited with elevating traditional cooking from home kitchen to restaurant quality. Considered the birthplace of modern Catalan cuisine, El Motel (as the restaurant is now called in homage to its roots) continues to serve some of the finest and most innovative food in the region. The chefs find inspiration in the sea, with dishes like wild sea bass from Cadaqués with lime leaves and polenta, and rock lobster from Cap de Creus with fragrant rice, shrimp from Roses and sea cucumbers. Dishes start at €22. Book ahead. Daily 1–3.30pm & 8.30–10.30pm.
-	Jaume Subirós, the chef and owner of this hotel-restaurant on a busy road 1km north of the centre, is a seminal figure of the transition from traditional Catalan home cooking to the polished, innovative affair it is today. Highlights are such dishes as sea urchins from Cadaqués, cod with truffle and calf’s cheek in red wine. There are also appealing rooms in which to sleep off the gastronomic indulgence (single €94, double €109, suite €140).
-	Local, seasonal ingredients star on the menu, which may feature highlights like salted Roses shrimp, ricotta-and-parmesan-stuffed courgette flowers, and rice with Cap de Creus lobster.
-	Josep Mercader opened El Motel in 1961 in Figueres, where he brought together the elegance and creamy richness of French cuisine and the natural bounty of Catalunya. Mercader’s son-in-law, chef and hotelier Jaume Subirós, now runs this iconic restaurant, serving quietly profound Catalan dishes like a salad of pomegranate, ceps (porcini mushrooms) and pine nuts; and Empordà quail with pork cracklings. Mains €25. Daily 1–3.30pm & 8.30–10.30pm.
-https://www.tripadvisor.ca/Restaurant_Review-g315921-d995810-Reviews-El_Motel_Restaurant-Figueres_Province_of_Girona_Catalonia.html
-
-
-
-
-
-
-
-
-
-
-
-
-
-========NEW
-========NEW
-========NEW
-
-
-
-BCN - Add to EN: Next Time - TB Approval needed
-
-
-
-
-
-???
-Lleida
-LLEIDA (Lérida), at the heart of a fertile plain in inland Catalunya, has a rich history. First a municipium under the Roman Empire and later the centre of a small Arab kingdom, it was reconquered by the Catalans and became the seat of a bishopric in 1149. Little of those periods survives in today’s city but there is one building of outstanding interest, the splendid Catedral, which is sufficient justification in itself to visit. Several interesting museums and a steep set of old-town streets will easily occupy any remaining time. Rooms are easy to come by, and the students at the local university fill the streets and bars on weekend evenings, including at the breezy Pl. de Sant Joan, in good-natured throngs.
-Seu Vella and Castillo del Rey
-Catedral Summer Tues–Sat 10am–7.30pm, Sun 10am–3pm; winter Tues–Fri 10am–1.30pm & 3–5.30pm, Sat 10am–5.30pm, Sun 10am–3pm; last entry 30min before closing • turoseuvella.cat • Castillo del Rey Summer Tues–Sat 10.30am–2pm & 4–7.30pm, Sun 10am–3pm; winter Tues–Sat 10am–1.30pm & 3–5.30pm, Sun 10am–3pm; last entry 30min before closing • €7 for Catedral and castle
-The Seu Vella, or old Catedral, is enclosed within the walls of the ruined Castillo del Rey (also called La Suda), high above the Ríu Segre, a twenty-minute climb from the centre of town. It’s a peculiar fortified building, which in 1707 was deconsecrated and taken over by the military, remaining in their hands until 1940. Enormous damage was inflicted over the years but the church remains a notable example of the Transitional style, similar in many respects to the Catedral of Tarragona. The Gothic cloisters – among the largest cloisters in the world – are masterly, each walk comprising arches different in size and shape but sharing delicate stone tracery. They served the military as a canteen and kitchen. You can also visit parts of the reconstructed castle, such as the fortified walls – the views from the walls over the plain are stupendous. Note: From the old town, there is an elevator that you can enter at Pl. de Sant Joan, which will whisk you to the Seu Vella complex.
-Seu Nova
-Mon–Fri 9.30am–1pm & 5.30–7.30pm, Sat & Sun 9.30am–1pm & 5.30–8.30pm • Free
-You can climb back down from the old Catedral towards the river by way of the new Catedral, La Seu Nova. It’s an austere eighteenth-century building with Neoclassical doorways, a main facade topped by a large crest of the Casa de Borbón and a series of minuscule, high stained-glass windows.
-Museu de Lleida
-C/Sant Crist 1 • June–Sept Tues–Thurs & Sat 10am–2pm & 4–7pm, Fri & Sun 10am–2pm; Oct–May Tues–Thurs & Sat 10am–2pm & 4–6pm, Fri & Sun 10am–2pm • €5 • 973 28 30 75, museudelleida.cat
-The spacious Museu de Lleida is the city’s flagship museum. Two floors show off ancient finds from throughout Lleida and Catalunya, including Romanesque altarpieces, a Visigoth baptismal font and stone sculptures from the Seu Vella.
-Centre d’Art La Panera
-Pl. de la Panera 2 • Tues–Fri 10am–2pm & 4–7pm, Sat 11am–2pm & 5–8pm, Sun 11am–2pm • Free • 973 262 185, lapanera.cat
-For top-notch exhibits of contemporary art, check out the creative Centre d’Art La Panera. The building’s history is as interesting as the art inside: it dates back to the twelfth century, when it was Lleida’s trading exchange and market, and you can still see evidence of its medieval roots in the original colonnade, made up of a line of 21 stone columns. In the early 1600s, the building was acquired by the canonry of the Catedral, who used it to store and sell food products – hence its official name, La Panera dels Canonges, or The Canons’ Pantry.
-THE SNAIL TRAIL IN LLEDIA
-You don’t need to visit France for the finest escargot. Lleida’s snails – caragols – rival their neighbours to the north. This small capital of inland Catalunya is one of Spain’s most famous snail cities. With snails, simpler is better: the most delicious preparation is caragols a la llauna – grilled, and seasoned with olive oil, salt, pepper and garlic. On the side? A generous dollop of allioli. This being Spain, there is of course a dedicated festival – the Aplec del Caragol in late May is one of the largest snail festivals in the country, with more than twelve tons (yes, tons) of snails served. But, you don’t need to wait until then to feast on snails: Lleida is filled with restaurants that serve the delicacy.
-Arrival and information: Lleida
-By train Trains regularly connect Lleida to Barcelona via Valls or Reus/Tarragona (17 daily; 2hr–4hr 15min, AVE 1hr). There are also services to: La Pobla de Segur (3 daily; 2hr 10min); Tarragona (8 daily; 1hr 30min–2hr); and Zaragoza (20 daily; 1hr 50min). For current timetables and ticket information, consult RENFE (902 240 202, renfe.es). It’s a 15–20min walk east of the train station to Pl. de Sant Joan.
-By bus Lleida has regular buses to Barcelona (Mon–Sat 10 daily, Sun 4 daily; 2hr 15min); Huesca (5 daily; 2hr 30min); La Seu d’Urgell (2 daily; 3hr); Montblanc (6 daily; 1hr 30min); La Pobla de Segur (daily; 2hr); Poblet (Mon–Sat 3 daily; 1hr 15min); Tarragona (3 daily; 2hr); Vielha, via Túnel de Vielha (2 daily; 3hr); and Zaragoza (Mon–Sat 6 daily, Sun 2; 2hr 30min). It’s a 15–20min walk west of the bus station, down Avda. de Blondel, to Pl. de Sant Joan.
-By plane The Lleida-Alguaire airport (973 032 700, aeroportlleida.cat), 15km northwest of Lleida, is a regional hub. UK charter flights also occasionally fly here, ferrying skiers to the Pyrenees.
-Turisme C/Mayor 31 (Mon–Sat 10am–2pm & 4–7pm, Sun 10am–2pm; 973 700 402, turismedelleida.cat).
-Accommodation and eating
-Lleida is dotted with a variety of accommodation, including near the train station; along Rambla Ferran, which leads into the centre; and on central Pl. Sant Joan. The streets north of the church of Sant Martí hold a range of restaurants; this is where the students come to eat and hang out at the loud music-bars along the block formed by C/Sant Martí, C/Camp de Mart, C/Balmes and Avda. Prat de la Riba.
-El Celler del Roser C/Cavallers 24 973 239 070. One of the better spots to sample the celebrated snails is at this amiable, mid-priced restaurant, with wood tables and exposed brick. There’s a strong local wine list. Mon–Sat 1–4pm & 8.30–11pm.
-Ferreruela C/Bobalà 8 973 221 159, ferreruela.com. Showcasing cocina de la terra (local cuisine), this jovial restaurant serves an excellent range, including Lleida’s signature snails with allioli, grilled cod with samfaina (ratatouille) and juicy lamb. Plus, as part of the dessert menu, they offer an excellent assortment of local cheeses. Dishes €15–25. Mon–Wed 1–4pm, Thurs–Sat 1–4pm & 8–11pm.
-Hotel Zenit Lleida C/General Brito 21 973 229 191, zenithoteles.com. This central hotel – you’re within easy walking distance to train station and city centre – has modern, simple and clean rooms. €60
-La Huerta Avda. Tortosa 7 973 245 040, lahuerta-restaurant.com. Dive into platters of succulent snails and other traditional Catalan fare at this Lleida institution, which was established in the mid-1960s. Dishes €9–22. Daily 1–4pm & 8.30–11pm.
-< Back to Catalunya
-
-
-
-=======================================================
-=======================================================
-=======================================================
-
-
-========NEW
-
-
-
-
-Out of the city
-Benedictine monastery at Sant Cugat del Vallès and the complex of early medieval churches at Terrassa
-
-
-
----
-Sant Cugat and Terrassa
-A series of remarkable churches lies on the commuter train line northwest of Barcelona, the first in the town of Sant Cugat del Vallès – just 25 minutes from the city – and the second (actually a group of three) another fifteen minutes beyond in the industrial city of Terrassa. You can easily see all the churches in a morning, but throw in lunch and this just about stretches to a day-trip, and it’s not a bad ride in any case – after Sarrià, the train emerges from the city tunnels and chugs down the wooded valley into Sant Cugat.
-Sant Cugat del Vallès
-Reial Monestir Mon–Sat 8am–noon & 4–9pm, Sun open for Mass from 9am • Free Museu del Monestir May–Sept Tues–Sat 10.30am–1.30pm & 5–8pm, Sun & hols 10.30am–2.30pm; Oct–April Tues–Sat 10.30am–1.30pm & 4–7pm, Sun & hols 10.30am–2.30pm • Free Museu del Tapís Contemporani May–Sept Tues–Fri 5–8pm, Sat 10.30am–1.30pm & 5–8pm, Sun & hols 10.30am–2.30pm; Oct–April Tues–Fri 4–7pm, Sat 10.30am–1.30pm & 4–7pm, Sun & hols 10.30am–2.30pm • Free • 936 759 951, www.museu.santcugat.cat
-The Benedictine Reial Monestir (Royal Monastery) at Sant Cugat del Vallès was founded as far back as the ninth century, though most of the surviving buildings date from three or four hundred years later. Its fawn stone facade and triple-decker bell tower make a lovely sight as you approach from the square outside, through the gate, past the renovated Bishop’s Palace and under a splendid rose window. Finest of all, though, is the beautiful twelfth-century Romanesque cloister, with noteworthy capital carvings of mythical beasts and biblical scenes. Their unusual homogeneity owes to the fact that all were completed by a single sculptor, Arnau Gatell.
-The monastery complex encompasses the Museu de Sant Cugat, which includes the restored dormitory, kitchen and refectory of the monastery, and holds exhibitions about its history and monastic life. What were once the monastery’s kitchen gardens lie across from the Bishop’s Palace, though the formerly lush plots that sustained the brothers are now mere dusty gardens, albeit with views over the low walls to Tibidabo and the Collserola hills. The Museu del Tapís Contemporani (Contemporary Tapestry Museum) also forms part of the museum grounds. Set in the 1926 Casa Aymat, once the workshop and factory of textile artist Tomàs Aymat, the museum explores the formidable textile history of Catalunya.
-
-
-
-ARRIVAL AND INFORMATION: SANT CUGAT DEL VALLÈS
-By train FGC trains on the S1 line connect Pl. de Catalunya in Barcelona with Sant Cugat, which is in Zone 2, every 10–15min (fgc.cat). Once in Sant Cugat, walk straight ahead out of the train station and down the pedestrianized C/Valldoreix, taking the first right and then the first left (it’s still C/Valldoreix), and then keep straight along the shopping street (C/Santa María and then C/Santiago Rusiñol) until you see the monastery bell tower (10min walk).
-Oficina de Turisme Sant Cugat del Vallès, Pl. Octavia 10, inside the main doorway of the monastery (June–Sept Tues–Fri 10.30am–1.30pm & 5.30–7pm, Sat 10am–2pm & 5–8pm, Sun & hols 10am–2pm; Oct–May Tues–Fri 10.30am–1.15pm & 4.15–5.45pm, Sat 10am–2pm & 4–6pm, Sun & hols 10am–2pm; 936 759 952, turisme.santcugat.cat).
-
----
-Terrassa
-Terrassa, a large city with a population of 200,000 located 25km northwest of Barcelona, was an important textile producer in the nineteenth century, and retains many fine modernista-style factories, mills and warehouses that now enjoy protected status. But Terrassa has a much longer history, and its true treasures stand on the edge of the city centre, built on the site of the Roman town of Ègara – three pre-Romanesque churches, dating from the fifth to the tenth centuries.
-La Seu d’Ègara
-La Seu d’Ègara, Pl. del Rector Horns 1 • Tues–Sat 10am–1.30pm & 4–7pm, Sun & hols 11am–2pm • €7, under-6s free • 937 833 702, seudegara.cat
-Known as La Seu d’Ègara, Terrassa’s fully restored ecclesiastical complex centres on its largest church, Sant Pere, which sports a badly faded Gothic mural and a tenth-century mosaic fragment within its walls. The church of Santa María is far better endowed, featuring a mosaic pavement outside and sunken baptismal font inside, both of which date from the fifth century. Much later Gothic (fourteenth- and fifteenth-century) murals and altarpieces – one by Catalan master Jaume Huguet – are also on display. But it’s the fifth-century baptistry of Sant Miquel that’s the most fascinating – a tiny, square building of rough masonry, steeped in gloom, with eight assorted columns supporting the dome, each with a carved Roman or Visigothic capital. Underneath sits the partially reconstructed baptismal bath, while steps lead down into a simple crypt.
-ARRIVAL AND INFORMATION: TERRASSA
-By train FGC trains from Barcelona (S1 line from Pl. de Catalunya; fgc.cat) depart every 20–30min – get off at Terrassa-Rambla, the last stop, which is in Zone 3. The churches are a 20min walk from the station – turn right from the Rambla d’Ègara exit, then immediately right again into Pl. de Clavé, follow C/Major up to Pl. Vella, cross the square, turn up C/Gavatxons and follow C/Sant Pere, C/Nou de Sant Pere and C/Creu Gran, finally crossing a viaduct to arrive at the entrance. There is a more convenient Renfe mainline train station in Terrassa (direct trains from Barcelona Sants every 20min; renfe.com) – a straight 10min walk down C/Mas Adel to the churches – but only the FGC line connects both Sant Cugat and Terrassa.
-Oficina de Turisme Masia Freixa, Plaça Freixa i Argemí 11 (Tues–Fri 9am–2pm & 5–7pm, Sat–Sun 10am–2pm; Aug open mornings only; 937 397 019, visitaterrassa.cat). Organizes guided tours throughout the city, including many of its historic buildings.
-
-???
-Colònia Güell
-Before work at Barcelona’s Park Güell got under way, Antoni Gaudí had already been charged with the design of parts of Eusebi Güell’s earliest attempts to establish a Utopian industrial estate, or colònia (colony), on the western outskirts of the city. The Colònia Güell (gaudicoloniaguell.org) at Santa Coloma de Cervelló was very much of its time – more than seventy similar colonies were established along Catalan rivers in the late nineteenth century, using water power to drive the textile mills. The concept was also familiar in Britain, where enlightened Victorian entrepreneurs had long created idealistic towns (Saltaire, Bournville) to house their workers.
-The Colònia Güell was begun in 1890, and by 1920 incorporated over one hundred houses and public buildings, plus the chapel and crypt for which Gaudí was responsible. The Güell company was taken over in 1945 and the whole complex closed as a going concern in 1973, though the buildings have since been restored – and, indeed, many are still lived in today. There are rows of terraced houses, with front gardens tended lovingly by the current inhabitants, while brick towers, ceramic panels and stained glass elevate many of the houses above the ordinary. It’s a working village, so you’ll also find a bank and pharmacy, as well as two or three cafés and restaurants, and on Saturdays there is a farmers’ market, with fresh fruit and vegetables from the Baix Llobregat area.
-Gaudí’s church
-May–Oct Mon–Fri 10am–7pm, Sat & Sun 10am–3pm; Nov–April Mon–Fri 10am–5pm, Sat & Sun 10am–3pm; generallly closed for visits during Mass on Sun (11am & 1pm) • €7 • gaudicoloniaguell.org
-Gaudí’s church – built into the pine-clad hillside above the colony – is a masterpiece. While you can see the angular exterior from the outside for free, to see the far more dramatic interior you’ll first have to buy a ticket at the visitor centre. The crypt was designed to carry the weight of the chapel above, its palm-tree-like columns supporting a brick vault, and the whole lot resembling a labyrinth of caves fashioned from a variety of different stone and brick. Several of Gaudí’s more extraordinary flights of fancy – like the original scalloped pews, the conch shells used as water stoups, the vivid stained glass and the window that opens up like the wings of a butterfly – presage his later work on the Sagrada Família. Despite appearances, the church was never actually finished, and Gaudí stopped work on it in 1914. Ongoing restoration aims to complete the outer walls, though Gaudí’s planned 40m-high central dome is unlikely ever to be realized.
-ARRIVAL AND INFORMATION: COLÒNIA GÜELL
-By train Take the FGC train S4, S8 or S33 (direction Martorell; departures every 15–20min; fgc.cat) from Pl. d’Espanya to the small Colònia Güell station; the ride takes 20min. From the station, follow the painted blue footprints across the highway and into the colònia; they lead directly to the visitor centre (10min).
-Centre d’Acollida de Visitants (May–Oct Mon–Fri 10am–7pm, Sat & Sun 10am–3pm; Nov–April Mon–Fri 10am–5pm, Sat & Sun 10am–3pm; 936 305 807, gaudicoloniaguell.org). The visitor centre has an exhibition (with English notes).
-Guided tours Tours of the church, or of both the church and the rest of Colònia Güell, are available daily throughout the year; admission with one tour €9.50, with both €11.50. An audio-guide (€9, including admission) is also offered.
-EATING AND DRINKING
-Ateneu Unió Pl. Joan Güell 5 936 613 111. The big, old-fashioned, if a bit faded, bar-restaurant on the quiet central square is good for sandwiches, tapas and a decent menú del dia (from €12) served on the sunny terrassa. Daily 6am–11pm.
-
-
-
-
-
-
-
-
-
-
-Figueres
-
-EATING
-!!!
-Can Jeroni C/Castelló 36 972 500 983, canjeroni.com. Locals flock to this tiled tavern opposite the market, where country-style dishes and grills (torrades, salads, steaks, sausages) go for €8–19. Mid-Sept to mid-June Mon–Thurs 8am–3.30pm, Fri & Sat 8am–3.30pm & 8.30–10pm; mid-June to mid-Sept Mon, Tues & Sat 8am–3.30pm, Wed–Fri 8am–3.30pm & 8.30–10pm.
-
-
-
-
-
-
-
-=======================================================
-=======================================================
-=======================================================
-
-
-
-
-========NEW
-
-
-
-Catalonia
-
-
-Best Places to Eat
-A Cal Ton
-A El Jardinet
-A Can Ventura
-
-Best Places to Sleep
-A Mil Estrelles
-A Hotel Durán
-A Hotel Els Caçadors
-A Villa Paulita
-
-
-Catalonia Highlights
-4 Cistercian Route Admiring stately monasteries along this hilly inland driving route.
-
-
-
-COSTA BRAVA
-
 
 
 Peratallada
@@ -1286,6 +1113,8 @@ La Riera
 CATALAN€€
 (%972 63 41 42; www.lariera.es; Plaça de les Voltes 3; mains €12-20; h1-3.30pm & 8-10.30pm Wed-Mon)
 This sophisticated eatery within an esteemed old town hostal simmers up an excellent range of rice dishes, from simple seafood paella to arròs de llamàntol (lobster on rice), as well as earthy roasted meats such as slow-cooked lamb and grilled duck.
+
+
 
 
 
@@ -1310,6 +1139,35 @@ This smart minimalist arrocería serves the finest arròs negre (rice cooked in 
 https://www.tripadvisor.ca/Restaurant_Review-g187499-d3619517-Reviews-L_Alqueria-Girona_Province_of_Girona_Catalonia.html
 
 
+!!!
+Divinum C/Albereda 7 872 080 218, divinum.cat; map. Feast on creative contemporary Catalan cuisine at this sleek restaurant, with dishes like succulent veal with port wine and apples, and sardines with strawberries and yogurt. Don’t miss the superb array of artisanal cheeses. This is a place where it’s well worth going for the tasting menu (€45; €73 with wine), which shows off the best of the kitchen. Dishes €14–26. Mon–Sat 1.30–3.45 & 8.30–11pm.
+	individual dishes like foie gras with black garlic or steak tartare at €14–26, and a wonderful €45 tasting menu (€73 with wine)
+https://www.tripadvisor.ca/Restaurant_Review-g187499-d1960442-Reviews-Divinum-Girona_Province_of_Girona_Catalonia.html
+
+!!!
+Massana C/Bonastruc de Porta 10 972 213 820, restaurantmassana.com; map. This elegant, deservedly celebrated restaurant takes locally sourced cuisine to a high art, serving such inventive dishes as juicy duck with herbal oils, pear and rosemary, and sea cucumber with a “veil” of bacon. Dishes €24–29; tasting menu €105. Tues 1.15–3.45pm, Wed–Sat 1.15–3.45pm & 8.30–10.45pm.
+https://www.tripadvisor.ca/Restaurant_Review-g187499-d996041-Reviews-Massana-Girona_Province_of_Girona_Catalonia.html
+
+!!!
+Mimolet C/Pou Rodó 12 972 202 124, mimolet.net; map. Classy, welcoming restaurant with a Catalan menu built around local produce, including monkfish with olives and foie with a sweet apple glaze. Menu starts at €18, while individual dishes range €18–24. Tues–Sat 1–3pm & 8.30–10.30pm.
+https://www.tripadvisor.ca/Restaurant_Review-g187499-d9600750-Reviews-Mimolet-Girona_Province_of_Girona_Catalonia.html
+
+!!!
+Sentits Travessera de la Creu 33 972 299 386, restaurantsentits.com; map. Living up to its name, this elegant little spot appeals to all the senses (sentits). The menu springs from the hyper-local “Km 0” concept – seafood from the lonja (fish auction) at Blanes and Arenys de Mar, and vegetables from the gardens of the verdant Maresme along the Mediterranean. Dishes include smoked aubergine cream served with anchovies from nearby Escala. Mains €12–21. Mon–Thurs 1–4pm, Fri & Sat 1–4pm & 8–11pm.
+https://www.tripadvisor.ca/Restaurant_Review-g187499-d9883995-Reviews-Restaurant_Sentits-Girona_Province_of_Girona_Catalonia.html
+
+
+!!!
+oLA FÁBRICA
+CAFE€
+(MAP GOOGLE MAP; http://lafabrica.cc; Carrer de la Llebre 3; dishes €3-8; h9am-3pm; Wv) S
+Girona’s culinary talents morph into top-quality coffee and Catalan-inspired brunchy favourites starring local ingredients at this energetic German-Canadian–owned cycle-themed cafe. Pillowy artisan torrades (toasts) – perhaps topped with avocado, feta and peppers – arrive on wooden sliders, washed down with expertly poured brews made with beans sourced from ecoconscious suppliers.
+https://www.tripadvisor.ca/Restaurant_Review-g187499-d7687976-Reviews-La_Fabrica_Girona-Girona_Province_of_Girona_Catalonia.html
+
+
+
+
+
 6Drinking & Nightlife
 !!!
 Ham Session
@@ -1321,121 +1179,36 @@ https://www.tripadvisor.ca/Restaurant_Review-g187499-d5963688-Reviews-Ham_Sessio
 
 
 
-========NEW
-
-
-
-???
-THE PYRENEES
-
-
-
-Lleida
-Pop 138,416
-Lleida’s battletorn history has faded into memory, replaced by a pacey, workaday vibe. During the 14th and 15th centuries, this arid, inland city was a centre of economic activity, fed in part by Jewish and Muslim communities. Culture and art flourished, thanks to surrounding monasteries and a university founded in 1300. Relics of the holy cloth and thorns made Lleida’s cathedral a revered stopping point on the Way of St James pilgrimage route.
-Battle lines were drawn here across Catalonia’s history, with Lleida nearly always backing the losing side. The old town was reduced to rubble during the War of the Spanish Succession. The conquerors built a citadel to protect their new acquisitions, only for it to be sacked by the French in 1812.
-The fortress-cathedral crowning the city, La Seu Vella, evokes Lleida’s former grandeur, while a scattering of museums and Modernista buildings offer reasons to linger.
-1Sights
-oLa Seu VellaCATHEDRAL
-( GOOGLE MAP ; www.turoseuvella.cat; cathedral/cathedral plus tower €7/5; h10am-1.30pm & 3-5.30pm Tue-Fri, 10am-5.30pm Sat, 10am-3pm Sun)
-Lleida’s ‘old cathedral’, enclosed within a later fortress complex, towers above the city from its commanding hilltop location. Work began on the cathedral in 1203, though today it is a masterpiece of the Transitional style, with bold Romanesque forms complemented by Gothic vaults and elaborate tracery. The octagonal bell tower, crowned with Gothic flourishes, rises at the southwest end of the beautiful cloisters, a forest of slender columns from which you can gaze at expansive views over Lleida.
-Church of Sant LlorençCHURCH
-( GOOGLE MAP ; Plaça Sant Josep; h9.30am-12.30pm & 5-8pm Mon-Fri, 10am-1.30pm & 5-8pm Sat & Sun)F
-This well-refurbished 12th-century Romanesque church is worth admiring for its elegant octagonal belltower and the gargoyles leaping from its eaves.
-Museu de LleidaMUSEUM
-( GOOGLE MAP ; www.museudelleida.cat; Carrer del Sant Crist 1; adult/child €5/2.50; h10am-2pm & 4-6pm Tue-Thu & Sat, 10am-2pm Fri & Sun)
-This expansive museum brings together artefacts reaching back to the Stone Age, through Roman remains and medieval art into the 19th century. Highlights include the atmospherically lit collection of medieval religious sculptures and the delicate 1st- to 5th-century mosaics from the El Romeral mansion, a patchwork of peacock feathers and leaves.
-Castell de GardenyCASTLE
-( GOOGLE MAP ; Turó de Gardeny; adult/child €2.60/1.60; h10am-1.30pm Sat & Sun)
-The Knights Templar built a monastery complex here shortly after Lleida was taken from the Muslims in 1149. It was later expanded into a fortress in the 17th century. Today you can still see the original Romanesque Església de Santa Maria de Gardeny and a hefty tower. An imaginative audiovisual display (in Spanish or Catalan) lends insight into the monastic life of the Knights Templar.
-Museu d’Art Jaume MoreraGALLERY
-( GOOGLE MAP ; http://mmorera.paeria.es; Carrer Major 31; hnoon-2pm & 5-8pm Tue-Sat, 11am-2pm Sun)F
-This impressive collection of Catalan art focuses particularly on work by Lleida-associated artists, such as the surrealist sculptures by Leandre Cristòfol, with excellent temporary photography exhibitions held here as well.
-zFestivals & Events
-Aplec del CargolFOOD
-( GOOGLE MAP ; http://aplec.org; hlate May)
-Munch on molluscs at Lleida's annual snail-eating festival.
-4Sleeping & Eating
-Hotel RealHOTEL€
-( GOOGLE MAP ; %973 23 94 05; www.hotelreallleida.com; Avinguda de Blondel 22; r €41-56; paW)
-A modern mid-rise place, business-oriented Hotel Real overlooks the river near the train and bus stations. The rooms are bright and clean; the better ones have generous balconies and all have decent bathrooms. Very good value.
-Hotel ZenitHOTEL€€
-( GOOGLE MAP ; %973 22 91 91; http://lleida.zenithoteles.com; Carrer General Brito 21; d/tr from €62/82; paW)
-This business-focused hotel is somewhat bland, but makes up for it with comfortable rooms in a simple palette of beige and white, good wi-fi speed, and helpful multilingual staff. It's well-located to explore the city, with La Seu Vella and Lleida's museums barely a 10-minute stroll from the hotel. Parking costs an additional €10.
-El Cau de Sant LlorençCATALAN€€
-( GOOGLE MAP ; %973 28 91 63; www.elcaudesantllorenç.com; Plaça Sant Josep 4; mains €14-19; h1-3.30pm & 9-11.30pm Tue-Sat, 1-3.30pm Sun)
-On a quiet night, it's all rather hush-hush in this old-town corner. But once you get buzzed in, it's as if you've entered a private club: excellent service, elegant contemporary decor and smartly presented modern Catalan cuisine.
-ol’estel de la MercèCATALAN, FUSION€€€
-( GOOGLE MAP ; %973 28 80 08; www.lesteldelamerce.com; Carrer Cardenal Cisneros 30; mains €16-25; h1-4pm & 8.30-11.30pm Wed-Sat, 1-4pm Tue & Sun)
-A 1.5km walk from central Lleida, this sleek fine-dining place creates fusion dishes using fresh seasonal produce. Feast on the likes of crispy suckling pig terrine with orange and cloves, Asian-inspired fish dishes like tuna on crispy rice, and strawberries flambéed with pepper.
-8Information
-Tourist OfficeTOURIST INFORMATION
-( GOOGLE MAP ; %973 70 03 19; www.turismedelleida.cat; Carrer Major 31; h10am-1.30pm & 4-7pm Mon-Sat, 10am-1pm Sun)
-This friendly tourist office on the main pedestrian street has maps and local tips galore. There's another branch in the cathedral complex, whose opening hours follow those of La Seu Vella.
-8Getting There & Away
-From the centrally located bus station ( GOOGLE MAP ; off Avenida Blondel), southwest of the old town, off Avenida Blondel, regular services include Zaragoza (€11.38, 1¾ to 2½ hours, three to five daily), Barcelona and El Prat airport (€21, two to 3¼ hours, 12 to 18 daily); Vielha (€13.87, 2½ to three hours, seven to nine daily) and La Seu d’Urgell (€19.25, 2¼ hours, four daily).
-Regular trains reach Barcelona from Lleida (€17.65 to €42.60, one hour), with some proceeding to Madrid (€51.15 to €123.20, two hours, 10 daily) via Zaragoza (€14.85 to €27.10, one hour).
 
 
 
 
-
-
-
-
-
-=======================================================
-=======================================================
-=======================================================
-
-
-
-
-
-
-
-
-=======================================================
-=======================================================
-=======================================================
-
-
-
-
-
-========NEW
-
-
-
-
-Day Trips from Barcelona
-
-
-
-
-Girona
-5EATING & DRINKING
-!!!
-oLA FÁBRICA
-CAFE€
-(MAP GOOGLE MAP; http://lafabrica.cc; Carrer de la Llebre 3; dishes €3-8; h9am-3pm; Wv) S
-Girona’s culinary talents morph into top-quality coffee and Catalan-inspired brunchy favourites starring local ingredients at this energetic German-Canadian–owned cycle-themed cafe. Pillowy artisan torrades (toasts) – perhaps topped with avocado, feta and peppers – arrive on wooden sliders, washed down with expertly poured brews made with beans sourced from ecoconscious suppliers.
-https://www.tripadvisor.ca/Restaurant_Review-g187499-d7687976-Reviews-La_Fabrica_Girona-Girona_Province_of_Girona_Catalonia.html
-
-
-
-
-========NEW
-========NEW
-========NEW
 
 
 Figueres
-5EATING & DRINKING
-RESTAURANT DURÁN
-CATALAN€€
-(%972 50 12 50; www.hotelduran.com; Carrer Lasauca 5; mains €16-25; h12.45-4pm & 8.30-11pm)
-Dine under the same roof as Salvador Dalí at this top-class, chandelier-lit restaurant, where smart service and plush decor are matched by such expertly prepared delights as smoked-salmon tartare, sole in orange sauce and pineapple carpaccio topped by mango ice cream. There’s a €22, three-course set menu, along with a seasonal tasting menu (€49) if you can’t decide.
+
+Eating
+!!!
+Antaviana C/Llers 5–7 972 510 377, restaurantantaviana.cat; map. The airy dining room, with light woods and sleek lighting, matches the contemporary Catalan cuisine, with a focus on seafood, from fresh mussels to cod with spinach. They also serve a good selection of local Empordà wines. Dishes €11–23. Mon–Sat 1–3.30pm & 8.30–11.45pm.
+https://www.tripadvisor.ca/Restaurant_Review-g315921-d995811-Reviews-Antaviana-Figueres_Province_of_Girona_Catalonia.html
+!!!
+El Motel Hotel Empordà, Avda. Salvador Dalí i Domènech 170, 1km northwest of Figueres 972 500 562, elmotel.cat; map. Before the foams of Ferran Adrià and the “emotional cuisine” of the Roca brothers, there was the Hotel Empordà (originally called the Motel Ampurdan, in part because it sits on a busy roadway), where chef Jaume Subirós is credited with elevating traditional cooking from home kitchen to restaurant quality. Considered the birthplace of modern Catalan cuisine, El Motel (as the restaurant is now called in homage to its roots) continues to serve some of the finest and most innovative food in the region. The chefs find inspiration in the sea, with dishes like wild sea bass from Cadaqués with lime leaves and polenta, and rock lobster from Cap de Creus with fragrant rice, shrimp from Roses and sea cucumbers. Dishes start at €22. Book ahead. Daily 1–3.30pm & 8.30–10.30pm.
+	Jaume Subirós, the chef and owner of this hotel-restaurant on a busy road 1km north of the centre, is a seminal figure of the transition from traditional Catalan home cooking to the polished, innovative affair it is today. Highlights are such dishes as sea urchins from Cadaqués, cod with truffle and calf’s cheek in red wine. There are also appealing rooms in which to sleep off the gastronomic indulgence (single €94, double €109, suite €140).
+	Local, seasonal ingredients star on the menu, which may feature highlights like salted Roses shrimp, ricotta-and-parmesan-stuffed courgette flowers, and rice with Cap de Creus lobster.
+	Josep Mercader opened El Motel in 1961 in Figueres, where he brought together the elegance and creamy richness of French cuisine and the natural bounty of Catalunya. Mercader’s son-in-law, chef and hotelier Jaume Subirós, now runs this iconic restaurant, serving quietly profound Catalan dishes like a salad of pomegranate, ceps (porcini mushrooms) and pine nuts; and Empordà quail with pork cracklings. Mains €25. Daily 1–3.30pm & 8.30–10.30pm.
+https://www.tripadvisor.ca/Restaurant_Review-g315921-d995810-Reviews-El_Motel_Restaurant-Figueres_Province_of_Girona_Catalonia.html
+!!!
+Can Jeroni C/Castelló 36 972 500 983, canjeroni.com. Locals flock to this tiled tavern opposite the market, where country-style dishes and grills (torrades, salads, steaks, sausages) go for €8–19. Mid-Sept to mid-June Mon–Thurs 8am–3.30pm, Fri & Sat 8am–3.30pm & 8.30–10pm; mid-June to mid-Sept Mon, Tues & Sat 8am–3.30pm, Wed–Fri 8am–3.30pm & 8.30–10pm.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1451,13 +1224,21 @@ Dine under the same roof as Salvador Dalí at this top-class, chandelier-lit res
 
 
 ========NEW
+========NEW
+========NEW
 
 
 
-At the feet of the Canigou, the little town of Prades, place of exile from Franco’s Spain of cellist Pablo (Pau) Casals, served as a focus of Catalan resistance until 1975.
-  Most of the region’s attractions are easily reached by public transport from Roussillon’s capital, Perpignan. The coast and foothills between it and the Spanish frontier are beautiful, especially at Collioure, though predictably crowded and in most places overdeveloped. You’ll find the finest spots in the Tech and Têt valleys which slice southwest towards the high peaks, among them the Romanesque monasteries of Serrabona, St-Michel-de-Cuixà and St-Martin-du-Canigou, the world-class modern art museum at Céret, and Mont Canigou itself, lapped by foothill orchards of peaches and cherries.
+Perpignan
+Collioure
+finest spots in the Tech and Têt valleys 
+Romanesque monasteries of Serrabona, St-Michel-de-Cuixà and St-Martin-du-Canigou
+world-class modern art museum at Céret
+Mont Canigou
 
-Perpignan and around
+
+
+Perpignan
 This far south, climate and geography alone would ensure a palpable Spanish influence. Moreover, a good part of PERPIGNAN’s population is of Spanish origin – refugees from the Civil War and their descendants. The southern influence is further augmented by a substantial contingent of North Africans, including both Arabs and white French settlers repatriated after Algerian independence in 1962. Given its relatively grubby appearance, few will want to stay here for more than a day or two; if you have your own transport, you may prefer to base yourself somewhere in the surrounding area.
 
 Casa Païral
