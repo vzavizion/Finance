@@ -147,8 +147,6 @@ https://www.expediafortd.com/Hotel-Search?destination=Puerto+Baquerizo+Moreno,+G
 
 
 
-https://www.expediafortd.com/San-Cristobal-Island-Hotels-La-Casita-De-La-Isla.h13118064.Hotel-Information?chkin=15%2F05%2F2019&chkout=20%2F05%2F2019&rm1=a2&sort=price&hwrqCacheKey=19aa51d7-5ca7-4d81-9927-f5ad783775f8HWRQ1554884764634&cancellable=false&regionId=6138894&vip=false&guestRating=40&c=b3816acb-2d22-40c2-9cc0-424fc63a40ff&&exp_dp=62.32&exp_ts=1554884744465&exp_curr=CAD&swpToggleOn=false&exp_pg=HSR
-
 
 
 ==================	
@@ -883,3 +881,31 @@ I have some questions about our stay
 
 Thank you for your time,
 Vasile
+
+
+
+
+Hi, Jenny 
+
+My name is Vasile Zavizion
+I have a booking with you - May 24-26, 2019
+I wrote you on Booking.com and received your reply
+
+We would like to book a taxi from airport to your hotel for 26 USD for 2 persons
+
+Here are our flight details
+
+Flight number
+LATAM  XL1410
+
+24 May
+11:25 - 15:52
+
+Departure Baltra, Galapagos Islands (11:25)
+Arrival Quito (15:52)
+1 stop in Guayaquil
+
+
+Thank you for your prompt response,
+Vasile
+

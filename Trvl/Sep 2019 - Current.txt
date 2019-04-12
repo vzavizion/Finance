@@ -1,10 +1,13 @@
 ========NEW
+			Find ATMs!!!
+			Expedia for Europe Hotels
+
 			France
 			Costa Brava beaches - select which beach to visit + parking  + add to EN
 
-					plan for each day
-						how much money we need
-							calculate USD / soles needed for each day
+			plan for each day
+				how much money we need
+					calculate USD / soles needed for each day
 
 			
 			Lounges
@@ -23,13 +26,6 @@
 =======================================================
 =======================================================
 ===================Clothes
-
-
-	Cash
-		404 CAD = 300 USD = 990 soles
-	ATM
-		411 CAD = 330 soles ATM
-			we lose 2.75 CAD for each 100 CAD if compare to cash
 
 
 
@@ -73,8 +69,242 @@ Warm jacket
 Socks 3-4
 Underwear 3-4
 	
+
+	
+=======================================================
+=======================================================
+=======================================================
+===================Money
+
+
+Comparison
+	Cash
+		404 CAD = 300 USD = 990 soles
+	ATM
+		411 CAD = 990 soles ATM
+			we lose 2.75 CAD for each 100 CAD if compare to cash
+	
 	
 
+How much to withdraw and where
+	Take with us USD cash
+		2315 USD
+			130 + 105 + 150 + 1930
+			
+			130 USD (bus Chivay to Colca)
+			105 USD (car rental)
+			150 USD (Chinchero Market)
+			1930 USD (Galapagos - GYE withdrawal: 2330 USD - 400 USD)
+
+		2315 USD
+			Small Bills
+			Large Bills (hotels, tours)
+		
+		
+======================================
+
+		
+ATM
+	Always withdraw max amount because of fees!!!
+
+	Peru
+		ATMs allow 500 soles withdrawal (can be as low as S/.400, but S/.700 is more common)
+			Banco de la Nación/Multired ATMs don't charge anything and allow up to 400 soles
+			BCP charges 13.50 soles for 700 soles withdrawal
+	Ecuador
+		ATM limits per account are usually at the $500 USD level per day			
+			Banco Pichincha and Banco del Austro do not charge any ATM fees. Banco Pichincha is virtually everywhere in Ecuador
+			Banco Internacional does not charge a fee
+			Banco del Pacifico fee was about $3.50 for $400
+			
+		$20-dollar bill is considered a “big bill” - bring a lot of $5 and $1 bills!!!
+	
+	
+	
+
+	LIM				May 4									withdraw in LIM (2 withdrawals 400 CAD / 1000 soles Airport + Hotel)
+		300 CAD						750 soles (min 525 soles for LIM only)
+		
+	AQP				May 5									withdraw in AQP (2 withdrawals 400 CAD / 1000 soles Hotel, including 250 soles for Colca)
+		235 CAD						580 soles
+		
+	Colca			May 6									no withdrawals
+		100 CAD						250 soles (withdraw in AQP!!!)
+		
+				===Total needed up to Chivay						withdraw in LIM and AQP (4 withdrawals May 4-5)
+					1060 CAD											1580 soles
+		
+
+		
+	Chivay			May 7									withdraw in Chivay (optional: 1 withdrawals 200 CAD / 500 soles Hotel)
+		340 CAD						840 soles
+		
+				===Total needed up to Cusco							withdraw in Chivay (1 optional: May 7)
+					340 CAD (165 CAD + 130 USD cash)					410 soles (430 soles + 130 USD cash)
+
+					
+======================================
+					
+					
+	Cusco			May 8-10
+		565 CAD						1400 soles			withdraw in Cusco (3 withdrawals 600 CAD / 1500 soles Hotel, including 275 soles for MP)
+			85 CAD						210 soles
+			90 CAD						225 soles
+			390 CAD						965 soles
+
+	
+	MP			May 11									no withdrawals
+		110 CAD						275 soles (withdraw in Cusco!!!)
+	
+				===Total needed up to Ollanta						withdraw in Cusco (3 withdrawals May 8-10)
+					675 CAD (535 CAD + 105 USD cash)					1675 soles (1325 soles + 105 USD cash)
+
+					
+======================================
+					
+					
+	Ollanta			May 12-13							withdraw in Ollanta (2 withdrawals 400 CAD / 1000 soles Hotel, including 125 soles for Lima)
+		570 CAD						1410 soles
+			360 CAD						890 soles
+			210 CAD						520 soles
+	
+	Lima		May 13-14								no withdrawals
+		50 CAD						125 soles
+	
+				===Total needed up to GYE							withdraw in Ollanta (2 withdrawals May 11-13)
+					620 CAD (420 CAD + 150 USD cash)					1535 soles (1040 soles + 150 USD cash)
+
+
+======================================
+
+					
+	GYE				May 14-15							withdraw in GYE (2 withdrawals 450 CAD / 600 USD Hotel, including 400 USD for Galapagos)
+		240 CAD						190 USD
+			190 CAD						145 USD
+			55 CAD						45 USD
+			
+				===Total needed up to San Cristobal					withdraw in GYE (2 withdrawals May 14-15)
+					240 CAD												190 USD
+
+
+					
+					
+					
+					
+					
+					
+======================================
+
+			
+	San Cristobal	May 15-19							???DELETE??? no withdrawals
+		1880 CAD					1415 USD
+			835 CAD						625 USD
+			110 CAD						85 USD
+			150 CAD						115 USD
+			580 CAD						435 USD
+			205 CAD						155 USD			
+
+				===Total needed up to Santa Cruz					???DELETE??? no withdrawals
+					1880 CAD													1415 USD
+					
+						Small Bills
+						Large Bills (hotels, tours)
+						
+		GYE Airport Galapagos Card Tax
+			55 CAD / 40 USD
+		SCY Airport Galapagos Card Tax
+			270 CAD / 200 USD
+		hotel
+			440 CAD / 327.6 USD						
+		360 tour
+			470 CAD / 350 USD
+		ferry tickets
+			80 CAD / 60 USD
+
+		hotel
+			115 CAD / 85.59 USD			
+		ferry tickets
+			80 CAD / 60 USD
+
+		hotel
+			130 CAD / 94.75 USD			
+		Kayak Tintoreras
+			200 CAD / 150 USD
+		Tonneles tour
+			295 CAD / 220 USD			
+		ferry tickets
+			80 CAD / 60 USD
+			
+		hotel
+			115 CAD / 85.59 USD
+			
+
+
+======================================
+
+
+	Santa Cruz		May 20								???DELETE??? withdraw in Santa Cruz (2 withdrawals 1350 CAD / 1000 USD Hotel, including ??? soles for Isabella)
+	
+		335 CAD / 250 USD
+		
+
+	Isabella		May 21-22							no withdrawals
+		915 CAD						685 USD
+			435 CAD						325 USD
+			480 CAD						360 USD		
+
+				===Total needed up to Santa Cruz					???DELETE??? no withdrawals
+					915 CAD												685 USD
+					
+						Small Bills
+						Large Bills (hotels, tours)
+
+
+						
+======================================
+
+					
+	Santa Cruz		May 23-24							???DELETE??? withdraw in Santa Cruz (2 withdrawals 1350 CAD / 1000 USD Hotel)
+		305 CAD						230 USD
+			255 CAD						190 USD					
+			50 CAD						40 USD
+	
+				===Total needed up to Quito							???DELETE??? withdraw in Ollanta (May 7)
+					305 CAD												230 USD
+					
+
+					
+					
+				===Total needed Galapagos							???DELETE??? no withdrawals
+					3100 CAD											2330 USD
+						1880 CAD											1415 USD
+						915 CAD												685 USD
+						305 CAD												230 USD
+
+						Small Bills
+						Large Bills (hotels, tours)
+
+
+======================================
+					
+		
+	Quito		May 24-25								withdraw in Quito (2 withdrawals 535 CAD / 400 USD Hotel)
+		525 CAD						395 USD
+			240 CAD						180 USD	
+			285 CAD						215 USD
+
+	
+	
+				===Total needed up to YYZ							withdraw in Quito (2 withdrawals May 24-25)
+					525 CAD												395 USD
+					
+					
+					
+=======================================================
+=======================================================
+=======================================================
+===================Money Detailed
+	
 
 
 May 3 YYZ to LIM
@@ -153,7 +383,7 @@ May 4 LIM to AQP
 			20 + 40 + 10 + 5 + 80 + 5 + 25 + 5 + 20 + 10 + 50 + 10 + 20
 			300 CAD / 225 USD / 750 soles
 				LIM 210 CAD / 525 soles
-				AQP 90 CAD / 225 soles			
+				AQP 90 CAD / 225 soles
 		
 	
 	
@@ -291,7 +521,7 @@ May 8 Bus to Cusco
 		
 		TOTAL
 			5 + 30 + 35 + 15
-			85 CAD / 65 USD / 210 soles			
+			85 CAD / 65 USD / 210 soles
 			
 			
 			
@@ -561,7 +791,8 @@ May 14 LIM to GYE
 		TOTAL
 			10 + 20 + 20 + 50 + 5 + 10 + 70 + 15 + 30 + 10
 			240 CAD / 180 USD / 125 soles
-			
+				LIM 50 CAD / 125 soles
+				GYE 190 CAD / 145 USD
 
 
 May 15 GYE to San Cristobal
@@ -612,7 +843,9 @@ May 15 GYE to San Cristobal
 			
 		TOTAL
 			55 + 270 + 5 + 440 + 30 + 20 + 5 + 5 + 60
-			890 CAD / 670 USD
+			890 CAD / 670 USD				
+				GYE 55 CAD / 45 USD
+				SCY 835 CAD / 625 USD
 			
 
 			
@@ -923,6 +1156,8 @@ May 24
 		TOTAL
 			30 + 5 + 10 + 5 + 40 + 70 + 30 + 30 + 5 + 60 + 5
 			290 CAD / 220 USD
+				Santa Cruz	50 CAD / 40 USD
+				Quito		240 CAD / 180 USD
 			
 
 
