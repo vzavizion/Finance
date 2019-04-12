@@ -96,9 +96,10 @@ How much to withdraw and where
 			150 USD (Chinchero Market)
 			1930 USD (Galapagos - GYE withdrawal: 2330 USD - 400 USD)
 
-		2315 USD
 			Small Bills
+				435 USD
 			Large Bills (hotels, tours)
+				1900 USD	19 x 100 / 38 x 50
 		
 		
 ======================================
@@ -118,6 +119,12 @@ ATM
 			Banco del Pacifico fee was about $3.50 for $400
 			
 		$20-dollar bill is considered a “big bill” - bring a lot of $5 and $1 bills!!!
+			Bring small bills – $10s and $5s are ideal. You won’t be able to use bills over $20
+			
+	Galapagos
+		2 banks with ATMs in Puerto Ayora on Santa Cruz island, and an additional ATM at the Proinsular supermarket
+		In Puerto Baquerizo Moreno on San Cristóbal Island there is one bank with an ATM		
+		ATMs will limit your withdrawals to $300 per day.
 	
 	
 	
@@ -185,12 +192,6 @@ ATM
 			
 				===Total needed up to San Cristobal					withdraw in GYE (2 withdrawals May 14-15)
 					240 CAD												190 USD
-
-
-					
-					
-					
-					
 					
 					
 ======================================
@@ -207,37 +208,12 @@ ATM
 				===Total needed up to Santa Cruz					???DELETE??? no withdrawals
 					1880 CAD													1415 USD
 					
-						Small Bills
 						Large Bills (hotels, tours)
-						
-		GYE Airport Galapagos Card Tax
-			55 CAD / 40 USD
-		SCY Airport Galapagos Card Tax
-			270 CAD / 200 USD
-		hotel
-			440 CAD / 327.6 USD						
-		360 tour
-			470 CAD / 350 USD
-		ferry tickets
-			80 CAD / 60 USD
-
-		hotel
-			115 CAD / 85.59 USD			
-		ferry tickets
-			80 CAD / 60 USD
-
-		hotel
-			130 CAD / 94.75 USD			
-		Kayak Tintoreras
-			200 CAD / 150 USD
-		Tonneles tour
-			295 CAD / 220 USD			
-		ferry tickets
-			80 CAD / 60 USD
-			
-		hotel
-			115 CAD / 85.59 USD
-			
+							1000 USD 													10 x 100
+								270 CAD / 200 USD (SCY Airport Galapagos Card Tax)			2 x 100
+								440 CAD / 327.6 USD	(hotel)									3 x 100
+								470 CAD / 350 USD (360 tour)								4 x 100
+								80 CAD / 60 USD (ferry tickets)								1 x 100
 
 
 ======================================
@@ -258,7 +234,14 @@ ATM
 					
 						Small Bills
 						Large Bills (hotels, tours)
+							800 USD 													8 x 100
+								115 CAD / 85.59 USD	(hotel)									1 x 100
+								80 CAD / 60 USD (ferry tickets)								1 x 100
 
+								130 CAD / 94.75 USD	(hotel)									1 x 100
+								200 CAD / 150 USD (Kayak Tintoreras)						2 x 100
+								295 CAD / 220 USD (Tonneles tour)							2 x 100
+								80 CAD / 60 USD (ferry tickets)								1 x 100						
 
 						
 ======================================
@@ -271,10 +254,14 @@ ATM
 	
 				===Total needed up to Quito							???DELETE??? withdraw in Ollanta (May 7)
 					305 CAD												230 USD
-					
+
+						Large Bills (hotels, tours)
+							100 USD 													1 x 100
+								115 CAD / 85.59 USD	(hotel)									1 x 100						
 
 					
 					
+				=========================================
 				===Total needed Galapagos							???DELETE??? no withdrawals
 					3100 CAD											2330 USD
 						1880 CAD											1415 USD
@@ -283,6 +270,10 @@ ATM
 
 						Small Bills
 						Large Bills (hotels, tours)
+							1900 USD 													19 x 100
+								1000 USD 													10 x 100
+								800 USD 													8 x 100
+								100 USD 													1 x 100							
 
 
 ======================================
