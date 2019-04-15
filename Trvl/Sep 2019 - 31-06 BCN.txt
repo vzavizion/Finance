@@ -1,35 +1,23 @@
-Palafrugell
-Llagostera
-Sils
-Celrà
-Girona
-	Aug 31-Sep 04
-	
-Barcelona
-	Sep 04-Sep 06
-
-	
-
-To the right of Barcelona
-Aug 31 Arrival + Beach + small town in the evening
-			Palafrugell						0.5 beach
-Sep 01 Beach + small town in the evening
-			Palafrugell						1
-Sep 02 France / Beach + small town in the evening
-			Palafrugell						1
-Sep 03 Beach + small town in the evening
-			Llagostera						1
-Sep 04 Beach + Montserrat (+ optional: Sant Sadurní d'Anoia) + arrive to Barcelona
-			Llagostera / Montserrat			1
-Sep 05 Barcelona
-			Barcelona						1
-Sep 06 Barcelona + leave Barcelona
-			Barcelona						0.5
+Initial Plan - to the right of Barcelona
+	Aug 31 Arrival + Beach + small town in the evening
+				Palafrugell						0.5 beach
+	Sep 01 Beach + small town in the evening
+				Palafrugell						1
+	Sep 02 France / Beach + small town in the evening
+				Palafrugell						1
+	Sep 03 Beach + small town in the evening
+				Llagostera						1
+	Sep 04 Beach + Montserrat (+ optional: Sant Sadurní d'Anoia) + arrive to Barcelona
+				Llagostera / Montserrat			1
+	Sep 05 Barcelona
+				Barcelona						1
+	Sep 06 Barcelona + leave Barcelona
+				Barcelona						0.5
 
 			
-Days:
-	3 + 2 x 0.5 Beach
-	0.5 + 1 + 0.5 BCN
+	Days:
+		3 + 2 x 0.5 Beach
+		0.5 + 1 + 0.5 BCN
 
 
 
@@ -66,7 +54,7 @@ Barcelona Thrifty
 ==========Plan: Summary
 
 
-Aug 31 - to hotel (2 hrs drive, arrive 3pm) + Palafrugell beaches + inland (Pals, Peratallada)
+Aug 31 - drive from airport to hotel (2 hrs drive, arrive 3pm) + Palafrugell beaches + inland (Pals, Peratallada)
 
 With France
 Sep 1 - France beaches (2.5 hrs drive OW)
@@ -79,17 +67,22 @@ Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Figueres Teatre-Museu D
 			optional: Cadaqués beaches (1.5 hrs drive OW)
 			optional: Empúries
 			
-Sep 2 - Palafrugell beaches + to hotel (0.5 hrs drive)			
+Sep 2 - Palafrugell beaches + drive to hotel (0.5 hrs drive)			
+
 Sep 3 - Tossa de Mar beaches + Girona (0.5 hrs drive)
 			optional: Besalú - additional 30mins drive OW beyond Girona
 			optional: Jardins de Santa Clotilde
 			optional: Tossa de Mar
-Sep 4 - Tossa de Mar beaches + Montserrat (1.5 hrs drive) + to hotel (1 hr drive)
-Sep 5 - Eixample + Free Walking Tours + Montjuïc
-Sep 6 - Barri Gotic + to airport (1 hr)
+			
+Sep 4 - Tossa de Mar beaches + Montserrat (1.5 hrs drive) + drive to hotel (1 hr drive)
+
+Sep 5 - Barcelona: Eixample + Free Walking Tours + Montjuïc
+
+Sep 6 - Barcelona: Locker + Plaça del Pi Farmers’ Market + Free Walking Tours + Las Ramblas / La Ribera / Barri Gotic  + ride to airport (1 hr)
+
 
 			
-			
+
 
 ==========Plan: Detailed
 
@@ -463,7 +456,7 @@ Sep 5 - Eixample + Free Walking Tours + Montjuïc
 
 		
 
-Sep 6 - Barri Gotic + to airport (1 hr)
+Sep 6 - Barri Gotic + to airport
 	Morning
 		Locker + Barri Gotic + La Ribera
 		
@@ -589,6 +582,8 @@ Sep 6 - Barri Gotic + to airport (1 hr)
 						
 						separate buses run to either Terminal T1 or T2
 						services to the airport from Plaça de Catalunya leave from in front of El Corte Inglés department store        
+						
+						time: 1 hr ride to airport
 					
 					OR
 					
@@ -596,6 +591,8 @@ Sep 6 - Barri Gotic + to airport (1 hr)
 						from Barcelona Sants (main train station) or Passeig de Gràcia
 						€4.10
 						Zone 1 city travel passes (targetes), the T-10 ticket are valid on the airport train service
+						
+						time: 1 hr ride to airport
 
 				
 
@@ -605,53 +602,4 @@ Sep 6 - Barri Gotic + to airport (1 hr)
 =======================================================
 =======================================================
 =======================================================
-
-
-
-
-Lleida
-
-Girona
-Cadaqués
-Figueres
-	Teatre-Museu Dalí
-Costa Brava
-
-	!
-	Lloret de Mar
-		Lloret de Mar beach	
-			beach-driven commercialism
-		Fenals beach
-			less crowded
-		tiny coves
-			Cala Santa Cristina
-			Cala Treumal 
-			Cala Boadella 
-				nudists
-		Jardins de Santa Clotilde
-
-	!!!
-	Tossa de Mar	
-		medieval walled town
-		Platja de la Mar Menuda
-		Platja Gran
-			crowded
-		tiny coves north and south
-
-
-Costa Daurada - Sitges
-Tarragona
-cava vineyards around Sant Sadurní d’Anoia
-romantic monastery of Poblet 
-
-
-
-
-
-
-=======================================================
-=======================================================
-=======================================================
-
-
 

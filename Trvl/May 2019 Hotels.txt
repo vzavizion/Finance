@@ -146,6 +146,9 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAE
 https://www.expediafortd.com/Hotel-Search?destination=Puerto+Baquerizo+Moreno,+Galapagos,+Ecuador&startDate=15/05/2019&endDate=20/05/2019&adults=2&regionId=6138894&guestRating=40&sort=price&latLong=-0.899221,-89.599711
 
 
+https://www.expedia.ca/Hotel-Search?destination=Puerto+Baquerizo+Moreno,+Galapagos,+Ecuador&startDate=15/05/2019&endDate=20/05/2019&adults=2&regionId=6138894&guestRating=40&sort=price&latLong=-0.899221,-89.599711
+
+
 
 
 
@@ -164,6 +167,9 @@ https://www.expediafortd.com/Hotel-Search?destination=Puerto+Ayora,+Galapagos,+E
 
 
 Hostal La Mirada del Solitario George 
+Apr 14
+2 rooms
+55 CAD
 
 https://www.booking.com/hotel/ec/la-mirada-del-solitario-george.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM;sid=ecf6a804866893aaaff3a902b2e5218e;all_sr_blocks=125133002_136412158_2_0_0;checkin=2019-05-20;checkout=2019-05-21;dest_id=-932268;dest_type=city;dist=0;group_adults=2;hapos=6;highlighted_blocks=125133002_136412158_2_0_0;hpos=6;nflt=rpt%3D1%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D800038%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1554336787;srpvid=d39d018908980228;type=total;ucfs=1&#map_closed
 
@@ -173,12 +179,13 @@ https://www.booking.com/hotel/ec/la-mirada-del-solitario-george.en-gb.html?aid=3
 
 
 
-Muyuyo
 
-https://www.booking.com/hotel/ec/hostal-muyuyo.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM;sid=ecf6a804866893aaaff3a902b2e5218e;all_sr_blocks=257151401_122953320_2_0_0;checkin=2019-05-20;checkout=2019-05-21;dest_id=-932268;dest_type=city;dist=0;group_adults=2;hapos=27;highlighted_blocks=257151401_122953320_2_0_0;hpos=27;nflt=rpt%3D1%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D800038%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1554336787;srpvid=d39d018908980228;type=total;ucfs=1&#map_closed
+Also
+
+https://www.booking.com/hotel/ec/ocean-dreams-puerto-ayora.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM;sid=1e2f000b93202e89be9823b3018ea505;all_sr_blocks=133556001_85782795_2_2_0;checkin=2019-05-23;checkout=2019-05-24;dest_id=-932268;dest_type=city;dist=0;group_adults=2;hapos=33;highlighted_blocks=133556001_85782795_2_2_0;hpos=13;nflt=rpt%3D1%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D800038%3Boos%3D1%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1555255489;srpvid=7a736c60df3100a1;type=total;ucfs=1&#availability
 
 
-https://www.booking.com/hotel/ec/hostal-muyuyo.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM;sid=ecf6a804866893aaaff3a902b2e5218e;all_sr_blocks=257151401_122953320_2_0_0;checkin=2019-05-23;checkout=2019-05-24;dest_id=-932268;dest_type=city;dist=0;group_adults=2;hapos=27;highlighted_blocks=257151401_122953320_2_0_0;hpos=27;nflt=rpt%3D1%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D800038%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1554336787;srpvid=d39d018908980228;type=total;ucfs=1&#map_closed
+
 
 
 ==================	
@@ -386,6 +393,9 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAE
 
 https://www.expediafortd.com/Hotel-Search?destination=Sant+Feliu+de+Boada,+Palau-Sator,+Spain&startDate=31/08/2019&endDate=02/09/2019&adults=2&regionId=6349073&guestRating=40&sort=price
 			
+			
+			
+https://www.expediafortd.com/Caldes-De-Malavella-Hotels-BB-El-Ranxo.h26750456.Hotel-Information?chkin=02%2F09%2F2019&chkout=04%2F09%2F2019&rm1=a2&sort=price&hwrqCacheKey=5218e7bb-f0c1-4906-8038-794845252ca8HWRQ1554812047447&cancellable=false&regionId=6123066&vip=false&guestRating=40&c=3a35f54f-ce61-434f-a90c-e2e27c3f3c2b&&exp_dp=109.14&exp_ts=1554812047397&exp_curr=CAD&exp_pg=HSR			
 			
 
 
@@ -802,6 +812,8 @@ Vasile
 	
 	
 	
+
+
 	
 	
 	
@@ -818,6 +830,9 @@ Tatiana
 
 
 
+
+
+
 Hi
 
 My name is Vasile Zavizion
@@ -828,6 +843,8 @@ How could we get your free airport shuttle - where is the pick up stop?
 
 Thank you,
 Vasile
+
+
 
 
 
@@ -866,6 +883,9 @@ Vasile
 
 
 
+
+
+
 Hi
 
 My name is Vasile Zavizion
@@ -881,7 +901,6 @@ I have some questions about our stay
 
 Thank you for your time,
 Vasile
-
 
 
 
@@ -909,3 +928,25 @@ Arrival Quito (15:52)
 Thank you for your prompt response,
 Vasile
 
+
+
+
+
+
+
+
+
+
+Hi
+
+My name is Vasile Zavizion
+I have a booking with you - May 11-13, 2019
+
+I have a question about our stay
+
+We will be coming from Machu Picchu with Peru Rail train #84 at 20:05 on May 11, 2019
+Just want to confirm that late check-in is OK and you'll be waiting for us around 8-9pm?
+
+
+Thank you,
+Vasile
