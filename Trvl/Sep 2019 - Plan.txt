@@ -4,6 +4,7 @@ YYZ
 	TB + VZ		
 		CENEIW
 
+		
 BCN 6 days		31-6
 	Wizzair
 	Leave Sep 6
@@ -25,6 +26,7 @@ TBS	12		7-19
 	VZ, TB and Mama
 		3N1BP8
 	
+	
 MOW	3.5 days		19-22
 	TAP
 	Leave Sep 24
@@ -36,6 +38,7 @@ MOW	3.5 days		19-22
 		
 	Mama
 		P8RPE
+	
 	
 MOW 1 days			22-23 23-24
 	https://pass.rzd.ru/main-pass/public/en/
