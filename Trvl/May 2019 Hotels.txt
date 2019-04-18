@@ -589,10 +589,10 @@ Sep 19-22 Skt Petersburg
 Now 250 and 280 and 310 and 375
 
 
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=19&checkin_year=2019&checkout_month=9&checkout_monthday=22&checkout_year=2019&city=-2330100&class_interval=1&dest_id=-2996338&dest_type=city&dtdisc=0&from_sf=1&group_adults=3&group_children=0&highlighted_hotels=3770785&iata=LED&inac=0&index_postcard=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=e6426dbb1aaf0089&ss=Saint%20Petersburg%2C%20Russia&ss_all=0&ss_raw=petersburg&ssb=empty&sshis=0&ssne=Telavi&ssne_untouched=Telavi&nflt=rpt%3D1%3Bprice%3DCAD-min-150-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3B&rdf=
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=944bf7bc875c639b2197b4e9b8c07922&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=19&checkin_year=2019&checkout_month=9&checkout_monthday=22&checkout_year=2019&city=-2330100&class_interval=1&dest_id=-2996338&dest_type=city&dtdisc=0&from_sf=1&group_adults=4&group_children=0&highlighted_hotels=3770785&iata=LED&inac=0&index_postcard=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=e6426dbb1aaf0089&ss=Saint%20Petersburg%2C%20Russia&ss_all=0&ss_raw=petersburg&ssb=empty&sshis=0&ssne=Telavi&ssne_untouched=Telavi&nflt=rpt%3D1%3Bprice%3DCAD-min-150-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3B&rdf=
 
 
-https://www.expediafortd.com/Hotel-Search?destination=Saint+Petersburg,+Russia&startDate=19/09/2019&endDate=22/09/2019&adults=3&regionId=553248635975749278&guestRating=40&sort=price&latLong=59.963134,30.065347
+https://www.expediafortd.com/Hotel-Search?destination=Saint+Petersburg,+Russia&startDate=19/09/2019&endDate=22/09/2019&adults=4&regionId=553248635975749278&guestRating=40&sort=price&latLong=59.963134,30.065347
 
 
 ==========================================
