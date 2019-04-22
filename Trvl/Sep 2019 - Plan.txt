@@ -149,12 +149,12 @@ Aug 30 - Sep 29
 YYZ - BUD / PRG / BCN / IST - BCN / IST - YYZ
 
 
-Norway/Iceland + Georgia + Morocco + Israel/Jordan/Egypt + Greece/Turkey/Barcelona/Cyprus/Corsica/Sicily/Sardegna + Russia (St Petersburg)/Prague + Seychelles
+Norway/Iceland + Georgia + Switzerland + Morocco + Israel/Jordan/Egypt + Greece/Turkey/Barcelona/Cyprus/Corsica/Sicily/Sardegna + Russia (St Petersburg)/Prague + Seychelles
 
 !!!
-Norway + Georgia + Morocco + Israel / Jordan / Egypt + Barcelona / Turkey + Russia (St Petersburg) / Prague + Seychelles
+Norway + Georgia + Switzerland + Morocco + Israel / Jordan / Egypt + Barcelona / Turkey + Russia (St Petersburg) / Prague + Seychelles
 
-	Mountains: Norway + Georgia
+	Mountains: Norway + Georgia + Switzerland
 	Exotic: Morocco + Israel / Jordan / Egypt
 	Sea: Barcelona / Turkey	
 	City: Russia (St Petersburg) / Prague
