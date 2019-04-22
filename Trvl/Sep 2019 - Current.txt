@@ -1,5 +1,5 @@
 ========NEW
-			Check Booking.com - all bookings are valid and hotels are still on Booking.com
+			Check Booking.com - all BCN bookings are valid and hotels are still on Booking.com
 
 			Expedia for TD: SA Hotels
 				AQP
@@ -17,8 +17,20 @@
 			
 			Expedia for TD: Europe Car
 
-			France
+			
 			Costa Brava beaches - select which beach to visit + parking  + add to EN
+				Create map:
+					 Siteseeing
+						remove beaches that we do not visit
+					 Grocery
+					 Gas Station
+					 Parking and Transport
+					 Bars and Restaurants
+					 ATM
+					 Beaches
+						https://en.costabrava.org/what-to-do/beaches-what-to-do
+				
+				
 			
 
 
