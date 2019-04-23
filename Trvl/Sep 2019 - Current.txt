@@ -17,18 +17,7 @@
 			
 			Expedia for TD: Europe Car
 
-			
-			Costa Brava beaches - select which beach to visit + parking  + add to EN
-				Create map:
-					 Siteseeing
-						remove beaches that we do not visit
-					 Grocery
-					 Gas Station
-					 Parking and Transport
-					 Bars and Restaurants
-					 ATM
-					 Beaches
-						https://en.costabrava.org/what-to-do/beaches-what-to-do
+
 				
 				
 			

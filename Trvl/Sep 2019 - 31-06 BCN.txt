@@ -104,14 +104,20 @@ Aug 31 - to hotel (2 hrs drive, arrive 3pm) + Palafrugell beaches + inland (Pals
 	Morning
 		arrive BCN
 		car pick-up
+		grocery store!!!
 	
 	Afternoon
 		drive to hotel
 		arrive hotel 3pm
-		Palafrugell beaches
-		
-				!!!!!!!!!!!!!!!!!!!!!!!
-				Add beach names here!!!
+		Palafrugell beaches		
+				Aug 31
+					Platja de Pals + Platja de l'Illa Roja					
+				Sep 01
+					Platja Fonda
+					Platja de Tamariu + Cala d'Aigua Xelida				
+				Sep 02
+					Playa El Golfet + Cala del Crit + Cala Estreta						
+
 		
 				!!!
 				one of the most appealing stretches of the Costa Brava
@@ -158,9 +164,14 @@ Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Figueres Teatre-Museu D
 			
 	Morning + Afternoon
 		Palafrugell beaches
-
-				!!!!!!!!!!!!!!!!!!!!!!!
-				Add beach names here!!!
+				Aug 31
+					Platja de Pals + Platja de l'Illa Roja					
+				Sep 01
+					Platja Fonda
+					Platja de Tamariu + Cala d'Aigua Xelida				
+				Sep 02
+					Playa El Golfet + Cala del Crit + Cala Estreta						
+		
 		
 				!!!
 				one of the most appealing stretches of the Costa Brava
@@ -192,9 +203,13 @@ Sep 1 - Palafrugell beaches (0.5 hrs drive OW) + inland (Figueres Teatre-Museu D
 Sep 2 - Palafrugell beaches + to hotel (0.5 hrs drive)
 	Morning + Afternoon
 		Palafrugell beaches
-		
-				!!!!!!!!!!!!!!!!!!!!!!!
-				Add beach names here!!!
+				Aug 31
+					Platja de Pals + Platja de l'Illa Roja					
+				Sep 01
+					Platja Fonda
+					Platja de Tamariu + Cala d'Aigua Xelida				
+				Sep 02
+					Playa El Golfet + Cala del Crit + Cala Estreta						
 		
 				!!!
 				one of the most appealing stretches of the Costa Brava
@@ -225,10 +240,11 @@ Sep 3 - Tossa de Mar beaches + Girona (0.5 hrs drive)
 			
 	Morning + Afternoon
 			Costa Brava + Beach
-			
-				!!!!!!!!!!!!!!!!!!!!!!!
-				Add beach names here!!!
-			
+				Sep 03
+					Cala del Senyor Ramon + Platja de Vallpresona + Cala Futadera					
+				Sep 04				
+					Platja de Belladona + Cala del Pi
+								
 			
 	Evening
 		Girona (0.5 hrs drive)
@@ -281,9 +297,10 @@ Sep 3 - Tossa de Mar beaches + Girona (0.5 hrs drive)
 Sep 4 - Tossa de Mar beaches + Montserrat (1.5 hrs drive) + to hotel (1 hr drive)
 	Morning
 		Costa Brava + Beach
-	
-				!!!!!!!!!!!!!!!!!!!!!!!
-				Add beach names here!!!
+				Sep 03
+					Cala del Senyor Ramon + Platja de Vallpresona + Cala Futadera					
+				Sep 04				
+					Platja de Belladona + Cala del Pi
 				
 	
 	Afternoon
