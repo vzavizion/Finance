@@ -1,6 +1,14 @@
 ========NEW
 			Check Booking.com - all BCN bookings are valid and hotels are still on Booking.com
+			
 
+			Create map:
+				 Siteseeing
+				 Hotels
+				 Gas Station
+				 Parking and Transport
+
+				 
 			Expedia for TD: SA Hotels
 				AQP
 				CUZ
@@ -109,43 +117,81 @@ Tbilisi
 	
 	
 	
+Tbilisi Restaurants
+
+
+
+
+GEORGIAN WINE
+http://www.gwa.ge
+http://georgianwine.gov.ge
+
+
+
+
+Salobie Bia
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d12671087-Reviews-Salobie_Bia-Tbilisi.html
+
+
+Sabatono 
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d7946001-Reviews-Sabatono_Restaurant-Tbilisi.html
+
+
+Nikolozi
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d14126175-Reviews-Nikolozi-Tbilisi.html
+
+
+Duqani
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d10758910-Reviews-Duqani-Tbilisi.html
+
+
+Funicular Restaurant Complex
+CAFE$
+( MAP GOOGLE MAP ; Funicular Complex, Mtatsminda; cakes & pastries 1.20-6 GEL; h1pm-midnight; W)
+Excellent cafe with awesome views at the top of the funicular, and strawberry tarts and chocolate cake worthy of the location.
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d4700470-Reviews-Funicular_Restaurant_Complex-Tbilisi.html
+
+
+
+Khinkali
+Pasanauri Leonidze
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d15318553-Reviews-Pasanauri_Leonidze-Tbilisi.html
+https://www.menu.ge/en/restaurant/pasanauri-leonidze/lobiani_35356
+
+
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d14141879-Reviews-Pasanauri_Restaurant-Tbilisi.html
+
+
+Desert
+
+Entree
+CAFE$$
+( MAP GOOGLE MAP ; www.entree.ge; Kote Abkhazi 47; breakfast combos 5-15 GEL; h8am-10pm or later; Wv)
+Bright cafe with very good Euro-style breakfasts, baked goods and coffee. Not bad for salads and pasta, either. There are several other branches around the city.
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d10259246-Reviews-Entree_Artisan_Bakery-Tbilisi.html
+
+
+
+Far away
+
+Bina N37
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d12328730-Reviews-Bina_N37-Tbilisi.html
+
+Kakhelebi
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d3422580-Reviews-Kakhelebi-Tbilisi.html
+
+Sormoni Meidan
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d14251069-Reviews-Sormoni_Meidan-Tbilisi.html
+
+Taglaura
+https://www.tripadvisor.ca/Restaurant_Review-g294195-d4380049-Reviews-Taglaura-Tbilisi.html
+
+
 	
 	
 	
 
-================
-
-
-
-
-!!!
-Mtskheta
-
-	cradle of Georgian culture
-		region is known as Kartli, after the mythical father of the Georgian people, Kartlos, whose progeny made their home at Mtskheta
-		St Nino converted the Iverian kingdom to Christianity in the 4th century
-
-		
-	easy and enjoyable day trip from Tbilisi
          
-		 
-	!!!
-	Svetitskhoveli Cathedral
-		Mtskheta Jew, Elioz, was in Jerusalem at the time of Jesus' Crucifixion and returned with the robe to Mtskheta. His sister Sidonia took it from him and immediately died in a passion of faith. The robe was buried with her and as years passed, people forgot the exact site. When King Mirian built the first church at Mtskheta in the 4th century, the wooden column designed to stand in its centre could not be raised from the ground. But after an all-night prayer vigil by St Nino, the column miraculously moved of its own accord to the robe's burial site. The column subsequently worked many miracles and Svetitskhoveli means ‘Life-Giving Column’.
-             
-          
-	!!!
-	Jvari Church
-		the holiest of holies
-		
-		spectacular views over Mtskheta and the confluence of the Aragvi and Mtkvari
-			road up here is 11km route
-				taxi should cost 20 GEL for a return trip, including waiting time
-		
-              
-            
-	Samtavro Church
-	          
            
           
         
@@ -157,16 +203,26 @@ Mtskheta
 !!!	  
 Kazbegi
 
-	easily accessible destination
-	reached by dramatic Georgian Military Hwy
-
-
 	!!!
 	Ananuri
 		fortress
-		Zhinvali Reservoir 
-		two 17th-century churches
+		
+		beautiful old Georgian architecture in a beautiful location of turquoise Zhinvali Reservoir 
+			fortress belonged to the eristavis (dukes) of Aragvi, who ruled from the 13th to 18th centuries
+		
+		within the fortress are two 17th-century churches
+		
+		climb the tallest of the fortress towers for fine views: it was here that the last defenders were killed in 1739 when a rival eristavi set fire to Ananuri and murdered the Aragvi eristavi’s family		
 	
+	
+	!!!
+	2379m Jvari Pass 
+	
+	
+	
+	
+	
+	=======NOT DONE
 
 	!!!
 	Kazbegi aka Stepantsminda
@@ -184,6 +240,7 @@ Kazbegi
             Juta Valley
 				9-10 hrs hike to Mt Chaukhi
         
+		
 		
 	Shatili
 		wonderful walk from Roshka to three Abudelauri lakes 
@@ -285,41 +342,6 @@ Sighnaghi
             
 	
 
-!!!
-David Gareji aka Davit Gareja
-	2-3 hr to explore Lavra and Udabno
-	
-	about 15 cave monasteries  - cradle of medieval monastic culture and fresco painting
-	
-	visitors usually just see two monasteries
-	
-		Lavra
-			founded by Davit Gareja, one of the 13 ascetic Syrian fathers who returned from the Middle East to spread Christianity in Georgia in the 6th century. The complex grew until monasteries were spread over a wide area. Manuscripts were translated and copied, and a celebrated school of fresco painting flourished here. The monasteries were destroyed by the Mongols in 1265, revived in the 14th century by Giorgi V the Brilliant, sacked by Timur, and then destroyed on Easter night 1615 when Shah Abbas’ soldiers killed 6000 monks and trashed many of the artistic treasures. The monasteries never regained their former importance, though they remained active until the end of the 19th century. During the Soviet era, the military used the area for exercises and vandalised the monasteries
-			
-			restored since Soviet times and is now again inhabited by monks
-			
-			monastery is on three levels, with buildings from many periods. You enter by a gateway decorated with reliefs illustrating stories of the monks’ harmony with the natural world. Inside you descend to a courtyard with the caves of Davit and his Kakhetian disciple Lukiane along one side, and the 6th-century cave church Peristsvaleba (Transfiguration Church) on the other side. Davit's tomb sits to the right of the church's icon screen
-			
-			
-		Udabno Monastery
-			on the hill above Lavra
-				to reach Udabno, take the path uphill beside the church shop outside Lavra monastery. At a watchtower overlooking Lavra, take the path straight up the hill. In about 10 minutes you reach a metal railing. Follow this to the top of the ridge, then to the left along the far side of the ridge (where the railing deteriorates to a series of posts). The caves above the path here are the Udabno monastery
-			
-			series of caves along a steep escarpment looking down to grassy plains in Azerbaijan
-						
-			beautiful frescoes painted in the 10th to 13th centuries
-				most outstanding frescoes are about halfway along the hillside. Walk along till you reach some caves numbered with green paint
-				
-					seventy metres past cave 50, a side path heads up and back to cave 36, the monastery’s refectory, where the monks had to kneel to eat at low stone tables. It’s decorated with beautiful light-toned frescoes, the principal one being an 11th-century Last Supper
-					
-					further up above here are the Annunciation Church (cave 42), with very striking frescoes showing Christ and his disciples (you need some agility to get inside it); and St George’s Church (cave 41)
-					
-					return to the main path and continue 25m to the left to Udabno’s main church. Paintings here show Davit Gareja and his disciple Lukiane surrounded by deer, depicting the story that deer gave them milk when they were wandering hungry in this remote wilderness. Below them are Kakhetian princes.
-					
-			path eventually climbs to a stone chapel on the clifftop, then heads down back to the watchtower you passed earlier
-
-
-	
         
 ================
 
@@ -349,352 +371,167 @@ Vashlovani Protected Areas
 
 
 
-========NEW
-========NEW
-========NEW
-
-
-
-
-
-Tbilisi Restaurants
-
-
-
-
-GEORGIAN WINE
-Wine (ghvino) is a national passion. After all, Georgians have been making and drinking it for at least 8000 years. Wine may well have been invented here, but perhaps more importantly, Georgians have continued to make wine by basically the same method ever since they started – fermenting it along with grape skins, pips and often stalks, in large clay amphorae known as qvevri, buried in the earth. This 'skin contact' is why traditionally made Georgian whites have a more amber/orangey tint than other white wines. 'European-style' winemaking – fermenting the grape juice without the pulp – has also been around in Georgia since the 19th century, but the basic local method practised by tens of thousands of families throughout Georgia has remained unchanged. It also yields the potent, grappa-like, firewater chacha, distilled from the pulp left after the wine is eventually drawn off.
-Qvevri wine (also sometimes called 'unfiltered' wine) is beloved by followers of the fashion for 'natural wine' because it contains little or none of the additives (such as yeast, sugar or sulphur) commonly put into wine today. Qvevri wines certainly taste different from the wines most of the world is accustomed to. If there's one word that embraces their varied tastes, it could be, yes, 'natural'.
-In Soviet times, larger-scale winemaking in Georgia was geared to the Russian taste for strong wine with lots of sugar, resulting in a decline in quality. Since the Soviet collapse Georgian commercial winemakers have been steadily upgrading their operations. The result is a wider and much better range of European-style wines, many of which are exported to the West and Asia. Today many winemakers produce both European-style and qvevri wines.
-Wine is made all over Georgia, but more than half of it comes from the eastern Kakheti region. Over 500 of the world’s 2000 grape varieties are Georgian. Most commonly used for wine today are the white Rkatsiteli, Mtsvane and Kisi, and the red Saperavi.
-Appellations of origin, such as Tsinandali and Mukuzani from Kakheti or Khvanchkara from Racha, denote the provenance of many of the country's better wines. Bottles of good commercially produced Georgian wine start at around 10 GEL in Georgian shops. Names on labels may denote the appellation of origin, or the type(s) of grape, or the producing company. You’ll find further helpful information at Georgian Wine Association (www.gwa.ge) and National Wine Agency (http://georgianwine.gov.ge).
-
-
-
-
-Salobie Bia
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d12671087-Reviews-Salobie_Bia-Tbilisi.html
-
-
-Sabatono 
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d7946001-Reviews-Sabatono_Restaurant-Tbilisi.html
-
-
-Nikolozi
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d14126175-Reviews-Nikolozi-Tbilisi.html
-
-
-Duqani
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d10758910-Reviews-Duqani-Tbilisi.html
-
-
-Funicular Restaurant Complex
-CAFE$
-( MAP GOOGLE MAP ; Funicular Complex, Mtatsminda; cakes & pastries 1.20-6 GEL; h1pm-midnight; W)
-Excellent cafe with awesome views at the top of the funicular, and strawberry tarts and chocolate cake worthy of the location.
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d4700470-Reviews-Funicular_Restaurant_Complex-Tbilisi.html
-
-
-
-Khinkali
-Pasanauri Leonidze
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d15318553-Reviews-Pasanauri_Leonidze-Tbilisi.html
-https://www.menu.ge/en/restaurant/pasanauri-leonidze/lobiani_35356
-
-
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d14141879-Reviews-Pasanauri_Restaurant-Tbilisi.html
-
-
-Desert
-
-Entree
-CAFE$$
-( MAP GOOGLE MAP ; www.entree.ge; Kote Abkhazi 47; breakfast combos 5-15 GEL; h8am-10pm or later; Wv)
-Bright cafe with very good Euro-style breakfasts, baked goods and coffee. Not bad for salads and pasta, either. There are several other branches around the city.
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d10259246-Reviews-Entree_Artisan_Bakery-Tbilisi.html
-
-
-
-Far away
-
-Bina N37
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d12328730-Reviews-Bina_N37-Tbilisi.html
-
-Kakhelebi
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d3422580-Reviews-Kakhelebi-Tbilisi.html
-
-Sormoni Meidan
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d14251069-Reviews-Sormoni_Meidan-Tbilisi.html
-
-Taglaura
-https://www.tripadvisor.ca/Restaurant_Review-g294195-d4380049-Reviews-Taglaura-Tbilisi.html
-
-
-
-
 
 
 ========NEW
 ========NEW
 ========NEW
+
 
 
 	
 	
+	
+Kazbegi aka Stepantsminda
+	superb base for walking
 
-
-
-AROUND TBILISI
-A cradle of Georgian culture, the region west and south of the capital is known as Kartli, after the mythical father of the Georgian people, Kartlos, whose progeny made their home at Mtskheta. Nobody can understand Georgian spirituality without visiting Mtskheta, where St Nino converted the Iverian kingdom to Christianity in the 4th century. By contrast Gori is best known as the town where Joseph Stalin was born in 1879.
-
-
-Mtskheta მცხეთა
-%32 / Pop 9800
-Mtskheta has been Georgia’s spiritual heart since Christianity was established here in about 327, and holds a near-mystical significance in Georgian culture. It had already been capital of most of eastern Georgia from about the 3rd century BC, and remained so to the 5th century AD, when King Vakhtang Gorgasali switched his base to Tbilisi. Mtskheta has always kept its status as a spiritual capital, and its Svetitskhoveli Cathedral is still the setting for important ceremonies of the Georgian Orthodox Church. With an alluring setting where the Mtkvari and Aragvi Rivers meet, Mtskheta makes an easy and enjoyable day trip from Tbilisi.
-
-1Sights
-oSvetitskhoveli CathedralCATHEDRAL
-( MAP GOOGLE MAP ; Arsukidze; h8am-8pm)
-This grand (and for its time, enormous) building dates from the 11th century, early in the golden age of Georgian church architecture. It has an elongated cross plan and is adorned with beautiful stone carving outside and in. Christ’s robe is believed to lie beneath the central nave, under a square pillar decorated with colourful if faded frescoes of the conversion of Kartli.
-The story goes that a Mtskheta Jew, Elioz, was in Jerusalem at the time of Jesus' Crucifixion and returned with the robe to Mtskheta. His sister Sidonia took it from him and immediately died in a passion of faith. The robe was buried with her and as years passed, people forgot the exact site. When King Mirian built the first church at Mtskheta in the 4th century, the wooden column designed to stand in its centre could not be raised from the ground. But after an all-night prayer vigil by St Nino, the column miraculously moved of its own accord to the robe's burial site. The column subsequently worked many miracles and Svetitskhoveli means ‘Life-Giving Column’.
-In the 5th century Vakhtang Gorgasali replaced Mirian’s church with a stone one, and the present building was constructed between 1010 and 1029 under Patriarch Melqisedek. It's still one of the most beautiful churches in the country.
-Several Georgian monarchs are buried here. The tomb of Erekle II, king of Kartli and Kakheti from 1762 to 1798, lies before the icon screen (marked with his birth and death dates, 1720 and 1798). Vakhtang Gorgasali’s tomb is behind this, with his sword-holding image carved on a raised flagstone.
-oJvari ChurchCHURCH
-(Holy Cross; MAP GOOGLE MAP ; h8am-7pm)
-Visible for miles around on its hilltop overlooking Mtskheta from the east, Jvari is, to many Georgians, the holiest of holies. It stands where King Mirian erected a wooden cross soon after his conversion by St Nino in the 4th century. Between 585 and 604 Stepanoz I, the eristavi (duke) of Kartli, constructed the church over the cross.
-Jvari is a beautifully symmetrical little building and a classic of early Georgian tetraconch design. It has a cross-shaped plan with four equal arms, rounded on the inside (with the angles between them filled in by corner rooms), and a low dome sitting on a squat, octagonal drum. The interior is bare, ancient stone, except for a carved wooden cross on the central plinth.
-The site provides spectacular views over Mtskheta and the confluence of the Aragvi and Mtkvari. The road up here from Mtskheta takes a highly circuitous 11km route; a taxi should cost 20 GEL for a return trip, including waiting time.
-Samtavro ChurchCHURCH
-( MAP GOOGLE MAP ; Davit Aghmashenebelis qucha; h8am-8pm)
-This large church, now part of a nunnery, was built in the 1130s. King Mirian and Queen Nana are buried in its southwest corner, under a stone canopy. The little church in the grounds, Tsminda Nino, dates back to the 4th century.
-Armaztsikhe-BaginetiARCHAEOLOGICAL SITE
-( MAP GOOGLE MAP ; admission free; h24hr)
-Mtskheta was an important place as capital of the Iverian kingdom well before St Nino arrived. At Armaztsikhe-Bagineti, on the south side of the Mtkvari, you can inspect the excavated residence of Iverian rulers, including bathhouses, a royal sarcophagus, a wine cellar, a six-apse temple and what may have been a palace.
-It's 3km from Svetitskhoveli – back across the Mtkvari bridge, then 900m along the Tbilisi road to an 'Armaztsikhe-Bagineti' signpost, from which it's about 800m along a path to the site.
-4Sleeping
-Mtskheta is an easy day trip from Tbilisi, but if you fancy getting away from the city it has a few decent accommodation options.
-Hotel TamarindiHOTEL$
-( MAP GOOGLE MAP ; %2512764, 579037772; www.hoteltamarindi.com; Arsukidze 23; s 40 GEL, d 50-80 GEL, f 100 GEL; aiW)
-This small hotel has three very comfy, large rooms and a good terrace looking across the street to Svetitskhoveli. Host Jemal speaks a little English and has a comfortable 4WD for outings.
-Hotel Old CapitalHOTEL, HOSTEL$$
-( MAP GOOGLE MAP ; %593631786; giorgi.zurabishvili.73@mail.ru; Erekle II 7; dm 20 GEL, d 60-80 GEL, apt for 3-8 130-200 GEL, breakfast 5 GEL; aW)
-Just across the street from Svetitskhoveli, this friendly place has three neat, clean rooms and two new two-bedroom apartments upstairs, all with private bathroom. There's a small hostel section at the side.
-5Eating
-Mtskheta is famous for its lobio (beans with herbs and spices), which can be found in any local restaurant, served in a traditional clay pot.
-SalobieGEORGIAN$
-( MAP GOOGLE MAP ; mains 2-7 GEL; h9am-11pm)
-Mtskheta's best-value and most popular eatery is 5km back along the road towards Tbilisi (the marshrutky pass the door). It's a rambling place with several rooms and terraces and staff bustling about serving all of Georgia's favourite basic dishes – khachapuri, mtsvadi, khinkali and, of course, lobio and lobiani (bean pie).
-Old TavernaGEORGIAN$$
-( MAP GOOGLE MAP ; Arsukidze; mains 5-12 GEL; h10am-11pm)
-This little place serves decent Georgian fare such as ostri (spicy meat in a tomato-based sauce), khachapuri and mushroom dishes. In good weather it’s lovely to sit outside facing Svetitskhoveli.
-8Information
-Tourism Information CentreTOURIST INFORMATION
-( GOOGLE MAP ; %2512128; ticmtskheta@gmail.com; Arsukidze 3; h10am-7pm; W)
-Has helpful English-speaking staff and free wi-fi.
-8Getting There & Away
-Marshrutky to Tbilisi leave about every 20 minutes, 8am to 8pm, from the bus stop on Davit Aghmashenebelis qucha. Trains to Gori (1 GEL to 6 GEL, one hour) stop at Mtskheta station, on the south side of the Mtkvari, 2km west of the town centre, at about 7am, 9.15am, 5pm and 9.30pm.
-ST NINO & THE CONVERSION OF GEORGIA
-
-While some of the legends that have grown up around St Nino are ridiculously far-fetched, there is no doubt that Nino is the historical figure to whom the 4th-century Christian conversion of Iveria (eastern Georgia) can be attributed. She is believed to have hailed from Cappadocia in Turkey and a widespread version has it that she was the daughter of a Roman general, raised in Jerusalem under the eye of an uncle who was the Christian Patriarch of Jerusalem, and that at the age of 14 she experienced a vision of the Virgin telling her that her destiny was to convert the Iverians to Christianity. Coming to Iveria in the 320s, Nino gained a royal convert at Mtskheta when her prayers were deemed to have saved Queen Nana of Iveria from serious illness. Then King Mirian was struck blind while hunting, only for his sight to be miraculously restored after he prayed to the Christian God – leading to mass baptism in the Aragvi River for the folk of Mtskheta. Mirian made Christianity Iveria’s official religion in about 327. The vine-branch cross that the Virgin is believed to have given Nino (and which Nino later bound with her own hair) is kept at Sioni Cathedral in Tbilisi. She remains Georgia’s most venerated saint, and is buried at Bodbe Convent in Kakheti.
-Gori გორი
-%370 / Pop 49,000
-Gori, 80km west of Tbilisi, has long been synonymous with just one man: this is the town where Stalin was born and went to school. The large Stalin Museum is Gori’s best known attraction, but there are also some fascinating older sights, notably Uplistsikhe cave city, nearby.
-In the 2008 war over South Ossetia (whose border reaches within 13km north of Gori), Gori was bombed by Russia, with at least 20 civilians killed, and most of the population fled before the town fell under Russian control for 10 days. Rows of single-storey refugee houses visible at Tserovani on the Tbilisi–Gori highway, and on Gori's northern edge, are reminders of that war.
-The centre of town is the wide Stalinis moedani (Stalin Sq). The main street, Stalinis gamziri (Stalin Ave), runs 600m north from here to the large Stalin Museum. The bus station is 500m west of Stalinis moedani, along Chavchavadze.
-1Sights
-oStalin MuseumMUSEUM
-(%225398; http://stalinmuseum.ge/new; Stalinis gamziri 32; admission incl guide in English 10 GEL, incl train carriage 15 GEL; h10am-6pm Apr-Oct, 10am-5pm Nov-Mar)
-The museum makes no serious attempt to present a balanced account of Stalin's career or deeds. It remains, much as when it opened in 1957, a reverent homage to the Gori boy who became a key figure of 20th-century world history – although guides do now at least refer to the purges, the Gulag and his 1939 pact with Hitler. As well as the halls of memorabilia, the visit includes the tiny wood-and-mudbrick house where Stalin lived for the first four years of his life.
-The house, where Stalin's parents rented a single room, stands in front of the main museum building, under its own temple-like superstructure.
-The museum charts Stalin’s journey from the Gori church school to leadership of the USSR, the Yalta Conference at the end of WWII and his death in 1953. The first hall upstairs covers his childhood and adolescence, including his rather cringeworthy pastoral poetry, and then his early revolutionary activities in Georgia, his seven jail terms under the tsarist authorities (six of them in Siberia), the revolution of 1917 and Lenin’s death in 1924. The text of Lenin’s 1922 political testament that described Stalin as too coarse and power-hungry, advising Communist Party members to remove him from post of General Secretary, is on display.
-One room is devoted to a bronze copy of Stalin’s eerie death mask, lying in state. The next has a large collection of gifts from world leaders and other Bolsheviks. Off the staircase is a reconstruction of his first office in the Kremlin, plus personal memorabilia such as his pipes, glasses, cigars and slide rule. One small two-room section beside the foot of the stairs deals with political repression under Stalin.
-To one side of the museum is Stalin’s train carriage, in which he travelled to Yalta in 1945 (he didn’t like flying). Apparently bulletproof, its elegant interior includes a bathtub and a primitive air-conditioning system.
-Gori FortressFORTRESS
-(h24hr)F
-This oval citadel stands on the hill at the heart of Gori, a short walk west from Stalinis gamziri. It dates mostly from the Middle Ages, with 17th-century additions. With fine views, it’s a good place to be around sunset. At its northeast foot, a circle of mutilated metal warriors forms an eerie memorial to those lost in 2008.
-War MuseumMUSEUM
-(Stalinis gamziri 19; admission 3 GEL; h10am-6pm Tue-Sun Mar-Nov, 10am-5pm Tue-Sat Dec-Feb)
-The War Museum, 400m south of the Stalin Museum, is mostly devoted to the Gori people’s involvement in WWII, but also contains a small display on the 2008 war. In the lobby are a few pieces of Russian ordnance from that war, including a cluster bomb that was dropped on Gori's main square.
-STALIN & GEORGIA
-
-Few would question the achievements of Iosif Jughashvili, the Gori cobbler’s son who rose to rule the largest country on earth for a quarter of a century: were it not for the Soviet role in WWII, Nazi Germany may well have won, and in the space of a decade Stalin turned the USSR from a peasant economy into an industrial powerhouse – ‘taking it with the plough and leaving it with nuclear weapons’, as Churchill observed.
-Yet Stalin’s Gulag camps were responsible for the deaths of many millions, he is blamed for the 1932 Ukraine famine in which an estimated seven million died, and his ruthless secret police terrorised the Soviet population from the late 1920s until his death in 1953.
-Stalin is still respected by some Georgians. When the government finally decided to remove the large Stalin statue from Gori’s central square in 2010, they did it at night, with police sealing off the square. Yet any admiration for the man seems to be more a matter of pride in a local lad who rose to rule Russia – and a nostalgia for the days when the Soviet Union was a great power – than any thumbs-up for his murderous policies. Meanwhile Gori has reason to thank Stalin for the daily stream of tourists he brings to the town. Gori's souvenir shops now sell Stalin mugs, Stalin hipflasks and Stalin paperweights, and tourists pose for selfies before a small Stalin statue outside the museum. It's as if, with the passing of the decades, people are losing the memory of the horrors he perpetrated, and the leader of world communism has become just another capitalist commodity to be marketed to a pliable public.
-4Sleeping
-Guesthouses are the way to go here, with the smattering of hotels being pretty drab.
-Guesthouse SvetlanaGUESTHOUSE$
-(%599583001; kasatik56@mail.ru; Abashidze 8; s/d 30/50 GEL, breakfast 5 GEL; naW)
-Good-size rooms with comfy beds in a large, well-kept house with parquet floors and excellent modern furnishings, plus a welcoming, English-speaking hostess, add up to one of the best bets in town. Dinner is available on request. It's in a small street off Samepo, 300m south from Chavchavadze.
-Guesthouse NitsaGUESTHOUSE$
-(%599142488; liazauta@gmail.com; Kutaisi 58; per person with/without breakfast 30/25 GEL, dinner 10 GEL; naW)
-This friendly family, speaking English and a little French, provides four cosy rooms in their spacious house with its sweeping staircase and large lounge-dining room. A great assortment of homemade jams too! It's 200m east of the Stalin Museum.
-Guesthouse LevaniGUESTHOUSE$
-(%598268045; www.facebook.com/guesthouselevani; Aghmeshenebelis gamziri 29; r per person 25-30 GEL, breakfast 5 GEL; W)
-The few rooms here are relatively modest, but the warmth of your host, who speaks some French and a little English, makes up for that. The bathrooms are good. It's 400m southeast from the south end of Stalinis moedani, on the corner at the end of Zurab Antonov.
-Hostel KaliforniaHOSTEL$
-(%551300802; okalifornia@mail.ru; Rustaveli 79; dm 12 GEL, d 50-60 GEL; W)
-You can sleep very cheap in the bunk dorm at this almost-new hostel a few steps north off Chavchavadze. It has two colourful mansard private rooms too – plus a kitchen, free tea and coffee, and a washing machine (5 GEL).
-5Eating
-Cake HouseCAFE$
-(Stalinis gamziri 22; cakes & pastries 1-2.50 GEL; h10am-midnight; W)
-A rattan-chaired cafe between the Stalin Museum and Stalinis moedani, serving super-sweet, gooey cakes, Turkish coffee and draft beer.
-Sport KafeGEORGIAN$$
-(Stalinis gamziri 11; mains 5-18 GEL; h11am-midnight; Wv)
-A large, bright and popular place just south of Stalinis moedani, Sport prepares a big range of Georgian fare pretty well – including chakhrakina, a rare khachapuri species containing beetroot leaves and sour cream as well as cheese. It's a popular spot for evening drinks too.
-The picture menu is helpful – just don't be deterred by some of the English translations (bowels on clay dish etc).
-8Information
-Tourism Information CentreTOURIST INFORMATION
-(%270776; ticgori@gmail.com; Kutaisi 23a; h10am-7pm Jun-Sep, 10am-6pm Oct-May)
-Behind the Stalin Museum.
-8Getting There & Away
-Marshrutky to Tbilisi (3 GEL, one hour) leave about every 15 minutes, 7am to 6pm. There are four daily marshrutky to Borjomi (5 GEL, 1½ hours), two to Akhaltsikhe (7 GEL, 2½ hours) and one to Batumi (17 GEL, five hours, 9.30am). For Kutaisi, guesthouses or the tourist office can organise a taxi driver to take you out to the highway for 5 GEL and flag down a Kutaisi-bound marshrutka (7 GEL, three hours).
-About 10 daily trains head east to Tbilisi (4 GEL to 32 GEL, one to 1¼ hours) from Gori train station (Gorijvari), across the Mtkvari from the south end of Stalinis gamziri. Westbound, there are two each to Borjomi, Kutaisi, Zugdidi and Batumi.
-Around Gori
-Uplistsikhe უფლისციხე
-This fascinating and once enormous cave city (admission 3 GEL, guide in English 15 GEL; h10am-6pm; p) sits 10km east of Gori above the north side of the Mtkvari River, with expansive views along the Mtkvari valley. Between the 6th century BC and 1st century AD, Uplistsikhe developed into one of the chief political and religious centres of pre-Christian Kartli, with temples dedicated principally to the sun goddess. After the Arabs occupied Tbilisi in AD 645, Uplistsikhe became the residence of the Christian kings of Kartli and an important trade centre on a main caravan road from Asia to Europe. At its peak it housed 20,000 people. Its importance declined after King David the Builder retook Tbilisi in 1122 and it was irrevocably destroyed by the Mongols in 1240. What you visit today is the 40,000-sq-metre Shida Qalaqi (Inner City), less than half of the original whole. Almost everything here has been uncovered by archaeologists since 1957.
-1Sights
-Main GateGATE
-To enter Uplistsikhe by its old main access track, go about 5m up the rocks opposite the cafe at the entrance, and follow the rock-cut path to the left. Metal-railed steps lead up through what was the main gate, with the excavated main tower of the Shida Qalaqi’s defensive walls to the right.
-TheatreTEMPLE
-Ahead from the cave city's main gate you’ll find a cave overlooking the river with a pointed arch carved in the rock above it. Known as the Theatre, this is probably a temple from the 1st or 2nd century AD, where religious mystery plays may have been performed.
-Main StreetSTREET, TEMPLE
-Uplistsikhe's old main street winds up to the right after you've passed through the main gate, with several important cave structures either side of it.
-Down to the right is the large pre-Christian Temple of Makvliani, with an inner recess behind an arched portico. A little further up on the left is the big hall known as Tamaris Darbazi (Hall of Queen Tamar), where an ancient stone seat sits behind two columns cut from the rock, and the stone ceiling is carved to look like wooden beams. This was almost certainly a pre-Christian temple. To its left is an area with stone niches, thought to have been a pharmacy or dovecote.
-A large cave building to the right of the Tamaris Darbazi was probably a sun temple used for animal sacrifices, later converted into a Christian basilica.
-Uplistsulis EklesiaCHURCH
-(Uplistsulis Church)
-This triple-church basilica near the top of the hill was built in the 10th century over what was probably Uplistsikhe’s most important pagan temple.
-TunnelTUNNEL
-On your way back down out of the cave city, don’t miss the long tunnel running down to the Mtkvari, an emergency escape route that could also be used for carrying water up to the city. Its entrance is behind a reconstructed wall beside the old main gate.
-8Getting There & Away
-A return taxi from Gori, including one hour's waiting time, costs 20 GEL to 30 GEL. Marshrutky leave Gori bus station a few times a day for Kvakhvreli (1 GEL, 20 minutes), a 2km walk from Uplistsikhe.
-Ateni Sioni ატენის სიონი
-This impressively ancient church (Sioni Church at Ateni; h10am-5pm; p) has a beautiful setting above a bend of the pretty, grapevine-strewn Tana valley, 12km south of Gori. Ateni Sioni was built in the 7th century and modelled on Mtskheta’s Jvari Church. Beautiful reliefs of stags, a hunting scene and a knight were carved into the exterior walls later. Inside, the 11th-century frescoes, depicting biblical scenes and Georgian rulers, are among the finest medieval art in the country.
-At the time of writing the frescoes were under restoration but you could still see them through a forest of scaffolding.
-A return taxi from Gori to the church should cost about 20 GEL, or 30 GEL to 40 GEL if combined with Uplistsikhe. Alternatively, buses and marshrutky run from Gori bus station to Ateni Sioni (1 GEL, 30 minutes) once or twice hourly until 6pm.
-
-
-
-Georgian Military Highway საქართველოს სამხედრო გზა
-This ancient passage across the Caucasus towards Vladikavkaz in Russia provides the quickest access from Tbilisi to the high Caucasus, leading to the spectacular Kazbegi area – a highlight of any trip to Georgia. A track through the challenging mountain terrain was first properly engineered as a road in the 19th century with the Russian occupation of the Caucasus. As you head north from Tbilisi, the road clings to the side of the turquoise Zhinvali Reservoir and passes beautiful Ananuri and the Gudauri ski resort before crossing the 2379m Jvari Pass then descending the Tergi valley to the small town of Kazbegi, a superb base for walking, climbing and bird-watching.
-
-Ananuri ანანური
-This fortress (p) 66km north of Tbilisi is a classic example of beautiful old Georgian architecture in a beautiful location, enhanced by the Zhinvali Reservoir spreading out below. Within the fortress are two 17th-century churches, the larger of which, the Assumption Church, is covered with wonderful stone carving, including a large cross on every wall. The fortress belonged to the eristavis (dukes) of Aragvi, who ruled as far as the Tergi valley from the 13th to 18th centuries.
-Inside the Assumption Church are vivid 17th- and 18th-century frescoes including a Last Judgement on the south wall. You can climb the tallest of the fortress towers for fine views: it was here that the last defenders were killed in 1739 when a rival eristavi set fire to Ananuri and murdered the Aragvi eristavi’s family.
-SOUTH OSSETIA
-
-The breakaway region of South Ossetia stretches up to the main Caucasus ridge north of the Georgian town of Gori. At research time, South Ossetia was not letting any foreigners in from Georgia and this looked unlikely to change soon. It may be possible to enter South Ossetia from Vladikavkaz in North Ossetia (Russia), although Georgia considers this illegal, and the British Foreign Office (www.fco.gov.uk) and US State Department (http://travel.state.gov) advise against travel to both South and North Ossetia.
-The first step is to obtain clearance from the de facto Ministry of Foreign Affairs (%7-997-4452243; www.mfa-rso.su; ulitsa Khetagurova 1, Zdanie Pravitelstva, 3 etazh, Tskhinvali) in Tskhinvali, South Ossetia's capital. At the time of writing clearances for independent travellers are near-impossible to get: you stand a better chance if you go with an agency such as Caucasus Explorer (http://caucasus-explorer.com) and are able to fork out around US$250 for the clearance.
-You can look at South Ossetia any time you travel between Tbilisi and Gori, as the boundary comes to within 400m of the highway just west of Karapila village.
-Gudauri გუდაური
-Elev 2000m
-About 110km from Tbilisi, the highway climbs 500m by a series of hairpins up to the Gudauri ski resort (www.facebook.com/gudauriofficial), Georgia’s best and most popular ski station, with recently improved and expanded facilities and highly rated by many foreign skiers. The 57km of pistes (black, red, blue and green) are served by five chairlifts, rising from 1990m to 3285m, and one cable car. Normally the ski season lasts from shortly before Christmas to April, with the best snow in January and February. A one-day lift pass costs 30 GEL; equipment rental starts around 25 GEL.
-Gudauri also offers good freeriding, and heliskiing with the Georgian-French company Heliksir (http://heliski.travel). Ski touring is best in March and usually possible into May: one of Georgia’s top mountain guides, Irakli Kapanadze, organises trips for 100 GEL to 250 GEL per person per day from Tbilisi.
-Public marshrutky from Tbilisi to Kazbegi will drop you in Gudauri (10 GEL, two hours) but you may have trouble finding one with free seats going down to Tbilisi. The central point of Gudauri is marked by the roadside Smart supermarket (h24hr), which has an ATM.
-4Sleeping & Eating
-Gudauri has around 40 hotels, aparthotels and hostels, plus rental apartments. Most can help with ski rental and instruction, and transfers from Tbilisi.
-Happy Yeti HostelHOSTEL$$
-(%571268800; http://happyyetihostel.com; dm incl breakfast & dinner US$35; pnW)
-Ukrainian- and Polish-run and dedicated to everybody having a good time, the Yeti revolves happily around its sociable bar-restaurant. It's 600m down the road from the resort centre.
-Hotel Gudauri HutHOTEL$$
-(%595939911; www.gudaurihut.com; s/d half board US$80/120; pnW)
-A friendly, medium-sized hotel a short distance up the road from the centre of the resort, Gudauri Hut offers pleasant, clean, yellow-painted rooms with good views, plus three bars, a restaurant and sauna.
-Hotel ShamoHOTEL$$
-(%599500142; allgudauri.ge; d incl breakfast & dinner US$100-120; pnW)
-A relaxed, smallish hotel with a homely, log-cabin-type feel and excellent traditional Georgian meals. It's about 1km down the road from the resort centre, then 400m along a side road (indicated by a small sign).
-Kazbegi (Stepantsminda) ყაზბეგი (სტეფანწმინდა)
-%345 / Pop 2500 / Elev 1750m
-This is most people’s destination on the Georgian Military Hwy: a valley town with the famous hilltop silhouette of Tsminda Sameba Church and the towering snowy cone of Mt Kazbek looking down from the west. Now officially named Stepantsminda, but still commonly known as Kazbegi, it's a base for some wonderful walking and mountain-biking.
-The highway brings you straight into the main square, Kazbegis moedani. From here Kazbegis qucha forks to the right, while the main road leads down to a bridge over the Tergi River then continues 15km north to the Russian border in the Dariali Gorge. Immediately after the Tergi bridge a side road turns up to Gergeti village on the west side of the valley, almost a suburb of Kazbegi.
-1Sights & Activities
-Stepantsminda Historical MuseumMUSEUM
-(Kazbegis qucha 2; admission 3 GEL; h9am-6pm)
-The museum is set in the childhood home of writer Alexander Kazbegi (1848–93), 300m north of Kazbegis moedani. Kazbegi made the unusual decision to become a shepherd after studying in Tbilisi, St Petersburg and Moscow. Later he wrote the novels and plays that made him famous. The museum’s ground floor contains photos, paintings and traditional artefacts documenting local life; the upstairs is devoted to the man.
-Kazbegi's grave lies under a large stone sculpture near the fence outside: he asked to be buried in sight of Mt Kazbek.
-Mountain Travel AgencyADVENTURE SPORTS
-(%555649291; www.mtainfo.ge; Kazbegis moedani; hMay-Nov)
-A one-stop shop for your mountaineering and camping needs and more. It rents mountain bikes (just 15 GEL per day at the time of writing and an excellent way of exploring the region) and equipment, including crampons, ice axes and harnesses (each 10 GEL per day), climbing rope (15 GEL), three-person tents (20 GEL), sleeping bags (8 GEL) and mats (5 GEL), and it sells cooking gas and trekking maps.
-It also arranges mountain guides, including English speakers – €400/500 for four/five people for a Mt Kazbek ascent – plus packhorses, transport and accommodation bookings.
-Fly CaucasusPARAGLIDING
-(%568114453; www.flycaucasus.com; 10min flight 160-200 GEL, 30min flight 350-400 GEL)
-Caucasus scenery is a paraglider's dream and you can do tandem flights year-round with this experienced English-speaking, Ukrainian-run outfit.
-DON'T MISS
-THE CHURCH ABOVE KAZBEGI
-
+	Tsminda Sameba Church 
 The 14th-century Tsminda Sameba Church (Holy Trinity Church; Gergeti) above Kazbegi at 2200m has become almost a symbol of Georgia for its incomparably photogenic hilltop setting with mighty Mt Kazbek rising behind it, and the fierce determination involved in building it on such a lofty, isolated perch. A rough, circuitous 6km motor track leads up to the church (return trip by taxi 40 GEL to 60 GEL), but you can walk up to the church in one to 1½ hours from Kazbegi.
 Vakhushti Batonishvili wrote in the 18th century that in times of danger the treasures from Mtskheta, as well as St Nino’s cross, were kept at Tsminda Sameba for safety. In 1988 the Soviet authorities constructed a cable-car line to the church, with one station right next to Tsminda Sameba. The people of Kazbegi felt it defiled their sacred place and soon destroyed it.
 The beautifully weathered stone church is decorated with intriguing carvings, one on the bell tower appearing to show two dinosaurs.
 There are several ways of walking up from Kazbegi. For the best distance-gradient compromise, walk up through Gergeti village to a T-junction 1.25km from the main road (80m after signs indicating the car track to the right). Go left at the T-junction, out past the last village buildings, and up beside a stream. About 120m past the last building, fork up to the right, passing to the right of a ruined stone tower; 200m after the tower take an initially lesser path diverging up to the right. This curves up round the hillside to reach the church in 1km.
-4Sleeping & Eating
-Kazbegi is very well supplied with guesthouses, all providing meals. Apart from the excellent Rooms Hotel, eating-out choices boil down to a handful of cafes around Kazbegis moedani.
-Ketino's GuesthouseGUESTHOUSE$
-(%558131828, 571032439; www.facebook.com/ketino.kazbegi; Kvemo Gergeti; per person 20-25 GEL, full board 50 GEL; iW)
-A large, sociable, rambling house with a helpful, multilingual hostess and good food (vegan, vegetarian and kosher available). There are several dorm-type rooms, plus a couple of doubles, and four showers. Take the first street on the left going up the Gergeti road, and it's 250m along on the left.
-HQ of Nove SujashviliHOSTEL$
-(%593392278; Khevisberi, Kvemo Gergeti; dm 17-22 GEL, breakfast/dinner 5/10 GEL; pnW)
-A friendly, English-speaking brother-and-sister team run this popular little hostel, 250m along the second street on the left as you walk up the Gergeti road. The two dorms have their own bathrooms.
-Nazi ChkareuliGUESTHOUSE$
-(Guest House Nazy; %252480, 598382700; ssujashvili@yahoo.co.uk; Khevisberi 7, Kvemo Gergeti; per person with/without bathroom 30/20 GEL, incl 3 meals 15 GEL; pW)
-Nazi’s large house has two rooms with private bathroom and several dorm-style rooms with four or five beds. It's well-kept, the washing machine is free, and the meals are a bargain. Take the second street on the left going up the Gergeti road: it's almost immediately on the right.
-oAnano GuesthouseGUESTHOUSE$$
-(%595099449; ananoqushashvili@yahoo.com; Vazha Pshavela 7; d/q 50/80 GEL, s/d with bathroom 50/60 GEL, breakfast per person 10 GEL; nW)
-Six bright, spick-and-span rooms with polished pine floors, good breakfasts and helpful English-speaking owners add up to one of Kazbegi's best guesthouses. From Kazbegis moedani take the uphill street passing Nunu's Guesthouse, turn left at the top and take the entry to the right after 30m.
-Diana PitskhelauriGUESTHOUSE$$
-(%599570313, 598522525; Vazha Pshavela 90; per person with/without breakfast 35/25 GEL, half board 50 GEL; pW)
-Terrific meals, a welcoming hostess and bright, clean rooms (some with private bathroom) in modern buildings make this one of the best picks. From Kazbegis moedani take the uphill street passing Nunu's Guesthouse, then go 750m to the right. It's on the left at the end of the street.
-Nunu’s GuesthouseGUESTHOUSE$$
-(%599570915, 558358535; gvanci9191@gmail.com; dm/s/d 20/25/50 GEL, breakfast/dinner 10/15 GEL; iW)
-A good option just 50m up the uphill street from the marshrutka stand, with a friendly hostess, good meals and lovely mountain views from the balcony. It has vehicles for outings.
-oRooms HotelDESIGN HOTEL$$$
-(%32-2710099; www.roomshotels.com; Gorgasali 1; incl breakfast s US$165-260, d US$183-277; pnWs)
-One of the best hotels in Georgia, Rooms is an inspired conversion of a former Soviet turbaza (group holiday residence). The once-spartan building is now clad almost entirely in appealing dark wood and makes brilliant use of its elevated position looking across the valley.
-The rooms are contemporary, comfy and well equipped, but what's really special is the wonderful long front terrace gazing over at Mt Kazbek, plus the long, library-style lounge and 24-hour bar just inside, and the superb restaurant (mains 12-40 GEL; h8am-midnight; W) with gourmet Georgian, European and fusion dishes – the likes of local trout with walnut pesto, freerange chicken with Dijon sauce and spinach, and many other enticing concoctions.
-There's also a very good indoor pool (and a casino should you need one of those). The cheaper back-view rooms are nice enough but don't have that Kazbek magic. Friday and Saturday nights are more expensive than Sunday to Thursday; and there are discounts for advance booking.
-8Information
-Liberty BankBANK
-(Kazbegis qucha 11; h9.30am-5.30pm Mon-Fri, 9.30am-2.30pm Sat)
-The ATM here gives up to 400 GEL per withdrawal with Visa or MasterCard. The bank also exchanges euros and US dollars.
-8Getting There & Away
-Marshrutky to Tbilisi (10 GEL, three hours) are timetabled hourly from 7am to noon and at 1.30pm, 3.30pm, 5pm and 6pm. A taxi to or from Tbilisi can cost anywhere between 80 GEL and 120 GEL. Taxis waiting at the north end of the Tergi bridge often ask lower fares than those on Kazbegis moedani.
-Vladikavkaz (Russia) is 45km north through the Dariali Gorge. To go through the Larsi border point (Verkhny Lars; h7am-7pm), 15km from Kazbegi, you must be in a vehicle, or at least on a bicycle – no pedestrians. Taxis from Kazbegi to Vladikavkaz cost around 100 GEL. Driving time is under an hour, but the border itself can take anywhere from 20 minutes to a few hours depending on traffic and how slow/fast the Russians are processing people.
-MT KAZBEK
+	
+	
+	towering snowy cone of Mt Kazbek 
+		5047m extinct volcano
+		
+		has much folk history
+			Greek Prometheus was supposedly chained up here for stealing fire from the gods
+			
+			Betlemi (Bethlehem) cave, 4000m above sea level, was believed to be the abode of many very sacred objects – Christ’s manger, Abraham’s tent and a dove-rocked golden cradle whose sight would blind a human being. There were taboos against hunting on the mountain and climbing it. Not surprisingly, the first to conquer Kazbek’s peak were foreigners: Freshfield, Tucker and Moore of the London Alpine Club in 1868
+			
 
-This 5047m extinct volcano (also called Mkinvartsveri or Mt Kazbegi), towering west of Kazbegi, has much folk history. The Greek Prometheus was supposedly chained up here for stealing fire from the gods, as was the Georgian Amirani, for challenging God’s omnipotence. The Betlemi (Bethlehem) cave, 4000m above sea level, was believed to be the abode of many very sacred objects – Christ’s manger, Abraham’s tent and a dove-rocked golden cradle whose sight would blind a human being. There were taboos against hunting on the mountain and climbing it. Not surprisingly, the first to conquer Kazbek’s peak were foreigners: Freshfield, Tucker and Moore of the London Alpine Club in 1868.
-Today many thousands of people attempt to reach Kazbek’s summit each year (it's especially popular with Poles), but this is a serious mountaineering challenge that requires fitness and acclimatisation to altitude: perhaps half of those who try do not reach the top. Unless you're suitably experienced, it's highly advisable to take a guide, which you can organise through agencies in Tbilisi or locally, including Mountain Travel Agency. Climbers should register at the Emergency Management Department building at the bottom of the Gergeti road, on their way up to the mountain.
-The ascent is technically straightforward, though there is some danger in crevasses. It takes three or four days from Kazbegi, with the first day hiking up from Kazbegi and over the Gergeti Glacier to the Betlemi Hut (Meteo Station; %32-2922533; www.facebook.com/bethlemihut; dm US$15, camping per tent US$5; hMay-Nov), a former weather station at 3650m altitude where you can sleep. The hut accommodates around 50 people indoors, which is often far from enough: in the busiest climbing season (late June to mid-September) there can be hundreds of people there. You can reserve places through Mountain Travel Agency in Kazbegi or Geoland in Tbilisi. Bring food, a warm sleeping bag and cooking gear. The wind can be fierce.
-The second day is usually spent acclimatising, often with a climb to the Maili Plateau (4500m). On day three you start for the summit from Betlemi Hut around 2am. The ascent takes up to six hours, with the final 150m involving about three rope lengths of 35° to 40° ice. The descent to Betlemi Hut for the third night takes up to another six hours.
-Packhorses can reach the Betlemi Hut from about July to mid-September.
+	Travel Agency
+
+			
+
+	Taxis 
+		north end of the Tergi bridge (lower fare)
+		Kazbegis moedani
+
+
+
+Karaoke - Restaurant "Cozy Corner" in Kazbegi
+https://www.tripadvisor.ca/Restaurant_Review-g13002079-d8373479-Reviews-Karaoke_Restaurant_Cozy_Corner_in_Kazbegi-Stepantsminda_Mtskheta_Mtianeti_Regio.html
+
+
+Cafe Mada
+https://www.tripadvisor.ca/Restaurant_Review-g13002079-d14761621-Reviews-Cafe_Mada-Stepantsminda_Mtskheta_Mtianeti_Region.html
+
+
+BeBa Bari
+https://www.google.com/maps/place/BeBa+Bari/@42.6569665,44.6398683,17z/data=!3m1!4b1!4m5!3m4!1s0x4045350358cefd1d:0xcecc6ebd4e2271cd!8m2!3d42.6569626!4d44.642057
+
+
+
+
+
+
 Around Kazbegi
 There are many wonderful walks and riding routes in the valleys and mountains around Kazbegi.
+
 1Sights
 The walking and climbing season is from May or June to October or November, depending on the weather.
-Truso Valley
 
+Truso Valley
 The beautiful Truso Valley , source of the Tergi River, heads west off the Georgian Military Hwy 17km south of Kazbegi. It's dotted with ancient towers, abandoned Ossetian villages and strange mineral phenomena, notably the Abano mineral lake which bubbles with carbon dioxide. Take your passport: the South Ossetia boundary is close so there are Georgian soldiers in the valley. They may stop you going beyond Ketrisi, 14km up the valley, or you may be able to go as far as Zakagori, a further 3km.
 A return taxi from Kazbegi (including waiting time while you explore) costs about 100 GEL to Kvemo Okrokana, 4km up the valley, or 150 GEL to Ketrisi. Mountain biking is also a popular means of exploring Truso.
-Sno Valley & Around
 
+Sno Valley & Around
 The Sno Valley runs southeast off the Georgian Military Hwy from Achkhoti, 4km south of Kazbegi. The small village of Juta at 2150m, an outpost of Khevsur people from over the mountains to the east, is about 15km up the mostly unpaved valley road, and is a starting point for some great hikes. A taxi from Kazbegi to Juta costs about 80 GEL for a one-way or return trip.
+
+
+
+Does anyone know please if it's possible to drive the Truso Valley and also to Juta with a 2 wheel drive car please?
+	I wouldn't risk going to both locations with 2w car, yes, to Juta you can go in good weather but you will get stressed.
+	In Kazbegi there are a bunch of locals who will gladly offer their services to do trips to both locations. Its not a daily tour, you just negotiate with them individually.
+
+	
+
+
 2Activities
+
 oMt Chaukhi & Chaukhi PassHIKING
 One beautiful short walk from Juta goes southeast to the foot of Mt Chaukhi (3842m), a multi-pinnacled peak popular with climbers, 1½ hours from Juta. In a long, spectacular day of nine or 10 hours you can continue up to and over the 3338m Chaukhi Pass (passable from about July to mid-October) and down to Roshka in Khevsureti via the stunning Abudelauri lakes.
 The trail over the pass itself and down to the lakes is not particularly obvious: a guide with a packhorse costs 100 GEL from Juta to the pass or 250 GEL to Roshka.
+
+	Spent an amazing day hiking in Juta Valley. The beginning og the trail is a bit challenging (quite an ascent! ) but after that it's pretty easy. You can expect beautiful mountain views, small waterfalls and a nice little lake. Coffee and refreshments available at several spots
+	
+	It takes some time to drive to Juta and the road is quite bumpy, better take a 4x4. But it is well worth it
+	
+	For me, the juta valley is the hike to the chaukhi pass at 3338 meters. A lovely, challenging hike of about 4 hours up and 2 down, surrounded by flowering meadows, rushing rivers, grazing cows and horses and always the imposing sight of the jagged massif. From the top of the pass, a misty, wild place, you can also see 3 lakes on the other (roshka) side. I reccomend to do it while staying in juta and not on a rushed daytrip from kazbegi. The trail is marked.
+	
+	Amazing valley with beautiful surrounding mountains, roaring rivers and alpine meadows. We hiked from Juta to Roshka village via Chaukhi pass. Stunning hiking trail. You can overnight in tents or in hostels/hotel located near the village
+
+	The Sno valley runs southeast off the Georgian Military Highway from Achkhoti village, 4km south of Kazbegi. The small village of Juta (2150m), an outpost of the Khevsur people from over the mountains to the east, is about 15km along the mostly unpaved valley road and a starting point for some great hikes. A taxi from Kazbegi to Juta costs about 80 GEL; for the same price the driver will often wait and take you back again after a few hours if you want.
+
+	From village you walk about 45 minutes to get to the bottom of Chaukhi mountains.
+	
+	If you visit Georgia, you should not miss this magnificent place. From village Juta there is about 5k hike to reach mount Chaukhebi and the view is worth every step. There are 2 camping spots on the way where you can chill and taste really good local cuisine. Stay alert on your way up to spot a waterfall on your left, very near to the lake. It's not easily spotted as it's hidden in a way but if you ask locals they will give some directions. Make sure you dip into waterfall as well, it's ice cold but sooo refreshing❤️ Best time to hike Jul-Sept.
+
+	this place is one of the best in Georgia for professional climbing and also for just sighting and tracking. there is good places for camping also. You can walk from Chaukhi rocks by the Roshka pass to Khevsureti region, this place is very diverse for different kind of tours and attractions. I like Juta Valley for climbing much , the rocks are hard and different.
+	
+	Juta- Most peaceful and green place!
+		The road condition is very bad, so if you want to visit it by your car, it have to be a SUV or you can take Delica-taxi from Kazbegi. By car you can go till village Juta. After village - by walk. Most impressive view of the mountains ("Chaukhebi") is from the hotel "5th season". In a root of mountains (right hand side) is a little, beautiful lake. Near is a yellow camp/cafe, you can see it from far.
+		
+	Access by 4*4 on an unpaved road better than Truso Valley or Gerreti
+
+	Our group piled into the ubiquitous 4x4 vans, in the square at Stepantsminda, for the 15 km. drive up the Dzhuta Valley to our destination at Juta Village; a tiny hamlet comprising a handful of basic herders' houses --- and a modern guest house! This last is strategically located on the dammed Jutistskali River, which results in a rapid flow of wild white-water almost on the doorstep, before continuing on its furious way down the valley.
+		One could easily acknowledge that this is truly Swiss alpine, especially since the village and surrounding mountains and valleys are totally snowbound for half a year! Access and exit is impossible, except for an emergency helicopter option. The few hardy, mostly elderly, souls remaining in their homes, survive the winter by means of basic rations stockpiled for that purpose. 
+		In summer, the slopes are aflame with wild-flowers, still blooming after their long dormancy under the snow, while rushing streams and cascades are in evidence both on the surrounding slopes and the valley floor.
+		Our admiration of our van drivers was boundless, and we appreciated their skills in negotiating the steep, narrow gravel 'goat-track' scratched out precariously on the mountain-slopes, with sheer drops on our off-side wheels to the valley floor, hundreds of meters below. No guard-rails, naturally... Overtaking or allowing approaching vehicles to pass was an encounter of a different kind! One really needs to concentrate on the awesome mountain vistas and to leave the risks to the able guy behind the wheel...
+		While not for the faint-hearted, this is truly an adventure not to be missed and one is probably safer on these rude alpine tracks than on the terrifyingly confrontational highways of Georgia. 
+		We made a brief stop, on our way back to our base, on the banks of the icy river and enjoyed a soothing coffee and cookie break, laid on by our local guides.
+		
+	Don't be put down by a difficult road that connects Georgian Military Highway with Juta - any 4x4 will manage to get there with a driver that drove 4x4 before, or just take a taxi.
+
+
+
+	
+	
+
+
+
+
 Gergeti Glacier HikeHIKING
 If you’re up for another 1000m of ascent after climbing to the famous Tsminda Sameba Church above Kazbegi, this walk rewards with spectacular views, especially of Mt Kazbek. The path heads straight up the ridge behind the church. Allow up to eight hours from the church to the glacier and down again.
 An alternative route, less panoramic but more protected on windy days, forks off to the left from the main ridge path after about 500m. The two paths meet again at the Saburtse Pass at about 3000m altitude. From here you descend slightly to cross a small river before ascending to the side of the Gergeti (Ortsveri) Glacier. Stream water is normally OK to drink beyond the pass as there are no animals up here.
-4Sleeping & Eating
-Juta has several places to stay, most only open from July to September.
-oZeta CampCAMPGROUND, LODGE$
-(%577501057; www.zeta.ge; Juta; per person dm/tent/own tent 30/17/10, tr 135 GEL; hJun-Sep; n)
-A 10-minute walk above Juta with fabulous views up the green valley to Mt Chaukhi, Zeta provides good tents with sleeping bags and mats, three good rooms in a wooden building, hot showers, and good food in its popular cafe (dishes 7GEL to 14 GEL). A fun place to stay!
-B&B Jago ArabuliGUESTHOUSE$$
-(%593422951; Juta; per person 25 GEL, breakfast/dinner 10/15 GEL; happrox Jun-Sep; n)
-Signposted from the bridge at Juta, this house has two fine four-bed rooms and a bathroom with a hot shower and seat toilet. The lady of the house, Maia, speaks English and it's worth calling ahead as they're sometimes fully booked.
-Soso ArabuliGUESTHOUSE$$
-(%555690045; Juta; per person half board 50 GEL; pn)
-This is the red-roofed house just above the river about 300m upstream from the bridge at Juta. It's run by an amiable couple, here year-round, who provide cosy rooms, solid meals, a hot shower and an indoor squat toilet.
-THE TRANSCAUCASIAN TRAIL
 
+		We are planning to hike from the trinity church to the base of Mount Kazbeg. Is there a trail map that we can refer to or is the trail pretty obvious on a well trodden path.
+		Also, would the gergeti glacier also be on the same trail
+				The trail is rather obvious, you will eventually arrive at the foot of the glacier. There you can decide to cross the glacier to the old hut.
+				There is no other trail and it is also marked, a lot of people will move the same way so do not worry.
+
+				
+		It was easy to walk up to the hut without any special mountaineering equipment. To go up was around 2 hours come down around 1. Have a nice and save trip!
+
+		
+		This is a fabulous but challenging hike. Though we are experienced hikers and started from the church, it still took most of the day. The gain in elevation was more than 3000 feet—or 331 floors on our fitbits. 
+
+			There are two routes. Most hikers, including us, seem to take the lower one, which is a bit more protected but withholds the glacier view until the end. Even without that view, though, this is a gorgeous hike, with lots of friendly hikers from all over the world, as well as some friendly dogs. 
+
+			There are a few portions of the trail that are slippery with gravel, so be ready for a fall or two. But the footing was mostly pretty good. 
+
+			Most hikers stop at the glacier view point. One of ours continued all the way to the edge of the glacier, which was a bit tricky, she said, but worth the extra effort and time (perhaps 1.5 hours round trip.). 
+
+			You can do this hike from the bottom, going up to the church first then continuing on. Or, if you have already done the church hike, you can taxi up and back from the church. The ride is CRAZY. If you are lucky, you will get our driver, who supplied shots of chacha. Too funny!
+			
+		
+		The hike is not very easy, need to pass some rocky and snowy areas even in summer but the view is worth of it. Can have a superb lunch at the top with a glacier view. It took a bit more than 4 hours to climb up from Stepantsminda.It was the first hike of this long to me, so maybe more experienced could reach the top quicker.
+		
+		
+		Place is very beautiful , for 4-5 hours walking you get real wild feeling, its easy to get there and directly back to Stepantsminda, also very near to Betlemi Hut. cool place!!!
+		
+		
+		The hike can be one day good adventure climbing up to 3,100 metres and back, it can be done in 4-5 hours. The views are fantastic.
+		 
+		
+				
+				
+In Kazbegi you can visit Gveleti waterfall (1-hour trek), Gergeti church (more than an hour). New day visit Truso gorge and Sno. 
+				
+
+THE TRANSCAUCASIAN TRAIL
 It sounds an improbable dream: a waymarked walking trail running the whole 700km length of the Caucasus, from the Black Sea to the Caspian Sea. But it's a dream that is taking steps towards reality with a bold project, initiated by two former US Peace Corps volunteers in Georgia, to establish the Transcaucasian Trail (www.transcaucasiantrail.org).
 This is a long-term project to map, mark and, where necessary build, the trail; provide maps and guides for hikers; bring sustainable tourism to remote regions; raise the profile of protected areas; and promote connections between communities along the way.
 The first steps were taken in 2015 with the mapping of the route across Svaneti and from Kazbegi to Tusheti. Check the website for the latest progress.
@@ -719,6 +556,7 @@ Kakheti is also rich in history: here you’ll find the picturesque hilltop town
 Telavi თელავი
 %350 / Pop 20,000
 The largest town in Kakheti, Telavi is set in the vineyard-strewn Alazani valley, between the Gombori Mountains and the Caucasus (visible to the northeast). It’s the perfect base for exploring the region's viticultural, historical and architectural riches.
+
 History
 Telavi was one of Georgia’s main medieval trade centres, but it was caught in the onslaught of the 13th-century Mongol invasion and then twice devastated by Persia’s Shah Abbas I in the early 17th century (Abbas killed around 60,000 Kakhetians and carted another 100,000 off to Persia). In 1744 Persia's Nader Shah installed the local prince Erekle II here as ruler of Kakheti. Erekle united Kakheti with Kartli, to the west, as a more or less independent state, ruling with a progressive Westernising policy. He still occupies an honoured place in Kakheti annals.
 
@@ -726,64 +564,44 @@ Telavi was one of Georgia’s main medieval trade centres, but it was caught in 
 Batonistsikhe CastleCASTLE, PALACE
 ( MAP GOOGLE MAP )
 Batonistsikhe was the residence of the Kakhetian kings in the 17th and 18th centuries. The complex includes a Persian-style palace where Erekle II was born and died, and art and history museums, but at research time was completely closed for renovations, probably till at least 2017.
-HARVEST TIME
 
+HARVEST TIME
 A very good time to visit Kakheti is during the rtveli (grape harvest) from about 20 September to 20 October, when grapes are picked and pressed, to the accompaniment of feasts, musical events and other celebrations. Many accommodation places can organise for you to join in the harvest and the partying.
+
 4Sleeping
 Most places can organise taxi trips around the area’s sights and/or wineries at reasonable prices.
-oTushishvili GuesthouseGUESTHOUSE$
-( MAP GOOGLE MAP ; %271909, 577756625; www.globalsalsa.com/telavi; Nadikvari 15; per person with/without breakfast 30/25 GEL, dinner 15 GEL; pniW)
-This welcoming house is a long-time travellers’ favourite and justly so. Hostess Svetlana serves fabulous dinners and is more than helpful in organising local taxi trips and providing transport information. Rooms are comfy and well maintained.
-Hotel Neli TelaviGUESTHOUSE$
-(Guesthouse Nelly; MAP GOOGLE MAP ; %599581820; www.facebook.com/hotelneli; Chonqadze 11; per person incl breakfast 30 GEL, half board 50 GEL; piW)
-Five of the eight big, bright rooms here have private bathrooms. Best of all is the slightly more expensive top-floor 'lux' room with great panoramas. Nelly cooks excellent Georgian meals with fresh, local ingredients, and the natural wine flows.
-Eto’s GuesthouseGUESTHOUSE$
-( MAP GOOGLE MAP ; %599782050, 277070; eto.neka@yahoo.com; Akhvlediani 27; r per person 20-25 GEL, breakfast/dinner 5/15 GEL; iW)
-This friendly place has four bright, clean rooms sharing a good bathroom, and a lovely garden where you can sit out under a big apricot tree. Meals are made from fresh local produce and guests can use the kitchen.
-Milorava’s Guest HouseGUESTHOUSE$
-( MAP GOOGLE MAP ; %551505550, 271257; www.miloravagh.ge; Akhvlediani 67; r per person incl breakfast 30 GEL, half board 40-45 GEL; W)
-Can accommodate six or seven people in rooms with comfy beds in a cottage beside the garden. Good meals and an amiable, helpful host.
-oVilla AlazaniGUESTHOUSE$$
-(%577414842; www.villaalazani.com; Kisiskhevi; r/whole house incl breakfast €50/180; pnW)
-This ample village house in Kisiskhevi, 7km southeast of Telavi, is a wonderful rural hideaway. It has been beautifully restored by its owners (a group of international journalists and film-makers) with wooden pillars, lovely spacious common areas, a marvellous collection of antique carpets, four good-sized bedrooms and a spacious kitchen.
-A taxi from Telavi costs 5 GEL, and the amiable Russian-speaking caretaker Temuri is normally available to taxi guests around for excursions. Dinner, Georgian music performances and cooking lessons are available on request.
-Schuchmann Wines ChateauHOTEL$$
-(%577508005; www.schuchmann-wines.com; Kisiskhevi; r incl breakfast, wine tour & tasting 160-220 GEL; pnWs)
-A good hotel at one of Georgia's top wineries, with spacious, balconied rooms in an attractive stone, wood and brick building, plus ample dining areas and excellent Georgian food. It's 7km southwest of town in Kisiskhevi. A range of Kakheti tours is on offer.
-Marinella Guest HouseGUESTHOUSE$$
-( MAP GOOGLE MAP ; %577516001; www.marinella.ge; Chavchavadze 131; s/d incl breakfast 50/70 GEL; pnW)
-Has six cheerful, spotless, good-sized rooms in a modern style, plus a nice breezy terrace. English and German spoken.
+
+========NEW
+========NEW
+========NEW
 5Eating
 Restaurants are improving, and in a guesthouse you’ll usually eat excellently.
+
 BazariMARKET$
 ( MAP GOOGLE MAP ; cnr Chavchavadze & Alazanis gamziri; h7am-6pm)
 Telavi’s busy market bursts with fresh produce from the area’s villages.
+
 BravoGEORGIAN$$
 ( MAP GOOGLE MAP ; Nadikvari 11; mains 6-14 GEL; h10am-midnight; v)
 Bravo does an excellent job on a wide range of Georgian favourites, all nicely presented, and there's a good terrace to enjoy them on. Plus delicious salads, home-made wine and pizza too, all served up by helpful staff.
+
 Chadiri RestaurantGEORGIAN$$
 ( MAP GOOGLE MAP ; Chadari 1; mains 8-20 GEL; h10am-11pm; W)
 Chadiri does good Georgian dishes including specialities like veal khashlama (meat braised with herbs and onions) and foil-baked trout. It has great valley and mountain views, and a revered 900-year-old plane tree outside.
-8Information
-Tourism Information CentreTOURIST INFORMATION
-( MAP GOOGLE MAP ; %275317; Erekle II 9; h9am-6pm Mon-Thu & Sat, 10am-4pm Fri, 10am-5pm Sun)
-Helpful office upstairs in a verandaed building on the main square. It can help arrange shared 4WDs to Tusheti, among other things.
-8Getting There & Away
-Telavi has several marshrutka and taxi departure points:
-New Bus Station ( MAP GOOGLE MAP ; %272083; Alazanis gamziri)
-Old Bus Station (Alazanis gamziri MAP GOOGLE MAP ; %271619; Alazanis gamziri)
-Roki Bus Station ( MAP GOOGLE MAP ; Alazanis gamziri)
-Shared taxis to Tbilisi (10 GEL, 1¾ hours) wait at the top of Alazanis gamziri. Marshrutky to Ikalto (0.50 GEL) go about hourly, 8am to 6pm, from Chavchavadze.
+
 
 
 
 Around Telavi
+
 The villages and lovely countryside around Telavi are full of fascinating wineries and old castles, palaces, monasteries and churches. Public transport reaches most of them, but you can pack a lot more into your day by taking a taxi tour. Most Telavi accommodation places either have their own vehicles or can organise one to take you to several destinations in a trip for 70 GEL to 80 GEL. Knowledgeable, English-speaking David Luashvili (%593761216, 551300620; purgatorium@rambler.ru) is a recommended driver-guide.
+
 Ikalto იყალთო
 Ikalto MonasteryMONASTERY
 (h9am-6pm; p)
 This monastery, beautifully situated in a cypress grove, was one of two famous medieval Georgian Neoplatonist academies, the other being Gelati near Kutaisi. Shota Rustaveli, the national poet, is thought to have studied here. The main Transfiguration Church was built in the 8th and 9th centuries. The roofless building along the south side of the compound was the Academy; an 8th-century stone wine press survives to its left (Georgian monasteries have always been enthusiastic winemakers).
 The monastery is 2km uphill from the Telavi–Akhmeta road: turn off just after the 54/19 Km post. Marshrutky from Telavi terminate in Ikalto village, leaving you with a pleasant-enough 1.5km road walk up to the monastery.
+
 Alaverdi ალავერდი
 Alaverdi CathedralCATHEDRAL
 (h8am-6pm; p)
@@ -791,128 +609,109 @@ At the beginning of the 11th century, when Georgia was entering its cultural and
 Note the 16th-century St-George-and-dragon fresco over the west door. The Virgin and Child high in the apse is from the 11th century.
 Also in the cathedral compound are the summer palace of Shah Abbas’ governor (now the bishop’s residence) and the Alaverdi Marani winery. The millennium-old winery, recently renovated, makes some of Georgia's best wines: it's not generally open to visitors but the cafe across the road sells bottles of traditionally made Alaverdi wine proudly bearing the slogan 'Since 1011', for a (by Georgian standards) whopping 75 GEL to 100 GEL.
 The late-September religious-cum-grape-harvest festivities of Alaverdoba last several days, with people coming from remote mountain areas to worship, celebrate and enjoy the local wine.
+
 Gremi გრემი
 Gremi FortressFORTRESS
 (admission to tower 3 GEL; h9am-6pm Tue-Sun; p)
 This picturesque brick citadel stands beside the Telavi–Kvareli road, 19km from Telavi. Kvareli-bound marshrutky will stop here. From 1466 to 1672 Gremi was the capital of Kakheti, but the town down to the west of the citadel was totally devastated by Shah Abbas in 1616. Within the citadel, the Church of the Archangels was built in 1565 by King Levan (who is buried inside) and contains frescoes from 1577. You can climb up inside the adjacent 15th-century tower-palace.
 By the road below stands a large portrait of the Kakhetian Queen Ketevan, who was tortured to death by Abbas for refusing to renounce Christianity. A small roadside museum (admission 3 GEL; h10am-6pm Tue-Sun; p) contains explanatory panels on old Gremi, plus artefacts from the site.
+
 Nekresi ნეკრესი
 Nekresi MonasteryMONASTERY
 Nekresi’s early Georgian architecture and the views across the Alazani valley from its hillside-woodland site are marvellous. The monastery is 4km off the Kvareli road from a turning 10km past Gremi (Kvareli-bound marshrutky will drop you at the turn-off). Vehicles must park 1.5km before the monastery; from there marshrutky (1 GEL return trip) shuttle up and down the hill from about 9am to 5pm, approximately mid-April to mid-December.
 Considerable repair and reconstruction has been done in recent years. The first church you come to is a three-church basilica from the 8th and 9th centuries, with a plan unique to early Georgian churches, the three naves being divided by solid walls into what are effectively three churches. Nekresi’s tiny first church (one of the earliest in Georgia, dating from the 4th century) stands in the centre of the complex. Beside it stands a 9th-century bishop’s palace, complete with wine cellar and a 16th-century tower. Immediately east is the main Church of the Assumption, another three-church basilica, from the 6th to 7th centuries, with 17th-century murals adorning its smoke-blackened interior.
+
 Tsinandali წინანდალი
 This village, home of a famous white wine and site of the storied Chavchavadze estate, lies 7km southeast of Telavi. The Shumi winery is next door to the estate, and the Schuchmann winery is just 4km west in Kisiskhevi village.
+
 oChavchavadze EstatePALACE, GARDENS
 (www.tsinandali.com/index_en.html; gardens 2 GEL, museum & park incl guide in Georgian, English or Russian 5 GEL, with tasting 1/several wines 7/20 GEL; h10am-7pm; p)
 Prince Alexander Chavchavadze (1786–1846) was one of the most colourful and influential characters in Georgian history, and the palace and gardens he created at Tsinandali are a don't-miss stop on any Kakheti tour. The palace tour takes you around half a dozen rooms restored in 19th-century style and relates interesting episodes from the family story. The park is beautifully laid out in an English style, with venerable trees and exotic plants such as ginkgo, sequoia and yucca.
 The multi-talented Chavchavadze was born into elite circles in St Petersburg as the son of Kakheti-Kartli's ambassador to Russia. He learned seven languages and was an influential Romantic poet and translator, helping to introduce European Enlightenment ideals to Georgia – as well as the grand piano, horse-drawn carriage and billiards. He rose to lieutenant-general in the Russian army but also joined Georgian rebellions against Russian rule (for which he spent time in exile). His homes at Tsinandali and in Tbilisi hosted illustrious visitors including writers Dumas, Pushkin, Lermontov and Griboedov – and he was a pioneer of European winemaking techniques in Georgia, helping to give Kakheti its current premier position in the Georgian wine world. (His famous cellars, containing 16,000 bottles, are being renovated for eventual opening for visits.)
 In 1854 Lezgin tribesmen from Dagestan ransacked the Chavchavadze palace, kidnapping 23 women and children (what we see now is the house that was rebuilt after the Lezgin attack). Alexander’s son David had to mortgage the house to ransom the hostages. He was unable to repay the loan and the house passed to Tsar Alexander III.
-KAKHETI WINERIES
 
+
+KAKHETI WINERIES
 Visiting a few of Kakheti’s wineries is a must while you’re here. With about 60% of Georgia's vineyards (225 sq km), making wine by both the traditional qvevri method and modern European-style techniques, this is a region where wine plays a big part in daily life even by Georgian standards.
 Kakheti's five main appellations of origin are Tsinandali (dry whites from Rkatsiteli grapes mixed with 15% to 20% Mtsvane); Mukuzani (quality dry reds from the Saperavi grape); Kindzmarauli (dry and semisweet Saperavi reds); Akhasheni (dry Saperavi reds); and Napareuli (whites and Saperavi reds).
 Many wineries welcome visitors for tours and tastings. Some have restaurants and even hotels. The Kakheti Wine Guild ( MAP GOOGLE MAP ; %350-279090; www.kwg.ge; Rustaveli 1, Telavi; h10am-7pm) can help organise visits; it also sells over 100 types of wine direct. Here are four recommended and varied wineries within reach of Telavi, none requiring reservations for tastings and tours.
+
 ShumiWINERY
 (%598985130, 598503501; www.shumi.ge; Tsinandali; tour & 4-wine tasting free; h10am-6pm; p)F
 This interesting smallish winery produces wines of numerous appellations under the Shumi and Iberiuli labels, and has a vineyard of about 400 vine varieties, along with a museum housing some astonishingly old wine-related objects. Tastings take place in a pretty garden.
+
 SchuchmannWINERY
 (%577508005; www.schuchmann-wines.com; Kisiskhevi; tour & tasting per person with 3/5/7 wines 15/25/35 GEL; h10am-evening; p)
 A very professional modern operation 7km southeast of central Telavi, producing 1.5 million bottles a year – 30% is qvevri wine (under the Vinoterra label) and the rest 'European' wine, fermented and aged in stainless-steel tanks, under the Schuchmann label.
 There's also an excellent hotel here, and you can have lunch for 30 GEL to 50 GEL.
+
 Twins Old CellarWINERY
 (%595226404; www.cellar.ge; Napareuli; tour & tasting 22 GEL; h9am-10pm; p)
 A family-run operation making qvevri and European wine, 23km north of Telavi. Visits include its comprehensive qvevri wine museum and tasting of three wines and one chacha. It also has a small hotel (%595226404, 551747474; www.cellar.ge; Napareuli; r incl breakfast 80-120 GEL; pnaW) overlooking vineyards, and a restaurant.
+
 Winery KharebaWINERY
 (%32-2497770; www.winery-khareba.com; Kvareli; tour with 2-wine tasting European/qvevri wines 10/12 GEL, without tasting 3 GEL; h10am-8pm May–mid-Nov, 10am-6pm mid-Nov–Apr; p)
 What's special here is the 7.7km of wine tunnels, dug out of a hillside in the early 1960s for storing and ageing wine at constant temperatures. Today the tunnels store over 25,000 bottles of the Khareba company's European and qvevri wines. Tours go into part of the tunnels (where tastings also take place) then up to the viewing tower and restaurant.
 It's a 4.5km drive east from Kvareli town centre.
+
+
+
+
 Sighnaghi სიღნაღი
 %355 / Pop 2150
 Sighnaghi is the prettiest town in Kakheti, sitting on a hilltop 60km southeast of Telavi and full of 18th- and 19th-century architecture with an Italianate feel. A big tourism-oriented renovation program has seen a rash of new accommodation spring up, but the town’s original style has been maintained. Sighnaghi has wonderful views over the Alazani valley to the Caucasus beyond, and is a pleasant place to spend a night or two. Hopefully they will have stopped the rented quad-bikes roaring up and down the main street by the time you get there.
 Sighnaghi was originally developed in the 18th century by King Erekle II, partly as a refuge for the area’s populace against Lezgin and Persian attacks.
+
 1Sights & Activities
 Sighnaghi MuseumMUSEUM
 (Rustavelis chikhi 8; admission 3 GEL; h10am-6pm Tue-Sun)
 This well-displayed, modern museum has good exhibits on Kakheti archaeology and history, and a room of 16 paintings by the great Kakheti-born artist Pirosmani – the biggest collection of his work after the National Gallery in Tbilisi.
+
 WallsARCHITECTURE
 Most of Erekle II’s 4km defensive wall still stands, with 23 towers and each of its six gates named after a local village. Part of the wall runs along Chavchavadze on the hilltop on the northwest side of town, where you can enter the tiny Stepan Tsminda Church inside a tower. Another stretch runs down beside Gorgasali on the northeast side of town. Here you can climb up inside one tower and walk atop the walls down to two more.
+
 Living RootsHORSE RIDING
 (www.travellivingroots.com; per 1/2/3hr 35/60/85 GEL)
 Living Roots does recommended horse rides, for all levels of experience, from its ranch in the hills just outside Sighnaghi. You can make arrangements through Pheasant's Tears.
-4Sleeping
-Sighnaghi has a few good hotels and plenty of guesthouses (mostly with shared bathrooms), several of which are on or just off Gorgasali, the street leading north down to the Tsnori road.
-Kusika Guest HouseGUESTHOUSE$$
-(%599099812; kusikashvili.ilia@rambler.ru; Gorgasali 15; r 50 GEL, breakfast 10 GEL; paW)
-This friendly little place has a vine-shaded courtyard with superb views over the Alazani valley to the distant Caucasus, and four cosy, clean rooms, two of them enjoying the same panoramas. The breakfasts are great and it's altogether a very nice find.
-Nana’s GuesthouseGUESTHOUSE$$
-(%599795093; www.facebook.com/pages/nanas-guest-house/268413209818; Sarajishvili 2; dm 25 GEL, s 30-50 GEL, d 60-70 GEL, f 120 GEL, breakfast 7 GEL; niW)
-English-speaking Nana Kokiashvili has four good, big rooms and wide balconies in her fine 18th-century house overlooking the central Bebris Park, and provides home-cooked, organic breakfasts and plenty of help organising transport and excursions.
-Guesthouse MATEGUESTHOUSE$$
-(%598899799; m.axmeteli@mail.ru; Gorgasali 20; per person 25 GEL, breakfast/dinner 10/15 GEL; pnaiW)
-MATE is a very good-value guesthouse with a lovely garden and big meals with home-made wine served by the welcoming owner Manana. Rooms, for up to five people, are carpeted, comfy and slightly frilly (the best are the newer ones on the upper floor).
-Central Guest HouseGUESTHOUSE$$
-(%592404031; www.facebook.com/SighnaghiCentralGuesthouse; 9 Apri No 30; dm/d/tr/ste 15/60/70/80 GEL, breakfast 10 GEL; pnaiW)
-Just off one of the central squares, Erekle II moedani, and overlooking a deep, green valley, the Central offers six neat, clean, wood-floored rooms with private bathroom, in a recently converted 200-year-old house. The brick-walled dining room is decked with historical photos and artefacts, which your friendly English-speaking hostess Ana likes to explain to guests.
+
+
 5Eating & Drinking
 oPheasant’s TearsGEORGIAN$$
 (www.pheasantstears.com; Baratashvili 18; tasting of 4 wines & 1 chacha 15 GEL, meals 25 GEL, tasting & meal for 2 70 GEL; h11am-11pm; v)S
 Pheasant's Tears, a Georgian-American joint venture, makes top-class natural wines by the traditional qvevri method at its vineyards out of town. Here in Sighnaghi it offers wine tastings and delicious Georgian meals prepared from fresh, mainly organic and local produce, which you can enjoy in a pretty garden-courtyard.
+
 Restaurant NikalaGEORGIAN$$
 (Lolashvili 9; mains 5-17 GEL; h11am-11pm; v)
 A decent little place on the main street for Georgian fare, including plenty of bean, mushroom and salad options.
-8Information
-Tourism Information CentreTOURIST INFORMATION
-(%232414; Kostava 10; h10am-7pm Jun-Sep, 10am-6pm Oct-May)
-Just off Erekle II moedani.
-8Getting There & Away
-Marshrutky depart from the yard behind the police station on Erekle II moedani to Tbilisi (7 GEL, 1¾ hours, six daily) and Telavi (4.50 GEL, 1½ hours, 9.15am Monday to Saturday). For marshrutky to Lagodekhi and Dedoplistskaro, and further services to Telavi, head 7km east down the hill to Tsnori (by marshrutka 1 GEL, every half-hour 9.45am to 5.15pm Monday to Friday; by taxi 4 GEL from in front of Hotel Kabadoni).
+
+
 Around Sighnaghi
+
 Bodbe Convent (h9am-6pm; p), the revered final resting place of St Nino, is set among tall cypresses 2km south of Sighnaghi, a pleasant walk on country roads. The little church was originally built, over the saint’s grave, by King Mirian in the 4th century. It has been rebuilt and renovated several times since. Nino’s tomb, partly silver-covered, with a bejewelled turquoise cloisonné halo, is in a small chapel in its southeast corner.
 A steep path leads 800m down to a small chapel built over St Nino’s Spring, which reputedly burst forth after she prayed on this spot. Pilgrims queue up to drink and splash themselves with the holy water.
 
 Lagodekhi Protected Areas ლაგოდეხის დაცული ტერიტორიები
 This 244-sq-km nature reserve (www.apa.gov.ge) climbs to heights over 3000m in the Caucasus above the small town of Lagodekhi in eastern Kakheti near the Azerbaijan border. It features deep river valleys, alpine lakes and some of Georgia’s best-preserved forests, and is home to several hundred East Caucasian tur, deer and chamois.
+
 2Activities
 There are good half-day walks to two waterfalls, and from about late June to mid-October you can hike a very scenic 24km trail from Lagodekhi up to picturesque Shavi Kldeebis Tba (Black Rocks Lake) on the Russian border (three days there and back, with an ascent of 2200m), sleeping at a mountain shelter (bed/camping per person 15/5 GEL) about halfway to the lake. In 2016 a second trail between the lake and Lagodekhi is due to open, with another shelter, making the trip into a circular rather than there-and-back route.
-4Sleeping
-Lagodekhi town has several decent accommodation options.
-Kiwi HouseGUESTHOUSE$
-(%551245072; thekiwihouse.lagodekhi@gmail.com; Vashlovani 35; s/d 25/50 GEL, per person without bathroom 15-20 GEL, breakfast/lunch/dinner 5/10/15 GEL; pW)
-A friendly English-speaking family home, with most guest rooms in a separate block at the back. Vegetarian meals available. It's 1.3km down the street from the reserve entrance.
-Kavkasioni Guest HouseGUESTHOUSE$$
-(Caucasus Hostel; %599856640; irina-orujashvili@mail.ru; Vashlovani 136, Lagodekhi; s/d 30/50 GEL, breakfast/dinner 10/15 GEL; aW)
-There's a warm welcome here, just 100m from the reserve entrance, and the seven rooms are bright and spotless, with shiny wood floors. Two have private bathrooms.
-8Information
-Plentiful information is available at the English-speaking visitors centre (%577101890; Vashlovani 197; h9am-6pm) at the main reserve entrance, 2km up from the main road in Lagodekhi. It rents tents (per day 10 GEL), sleeping bags (5 GEL) and horses (50 GEL).
-8Getting There & Away
-Marshrutky leave Lagodekhi’s bus station for Tbilisi (7 GEL, 2½ hours, about hourly 6.30am to 5.30pm) and Telavi (6 GEL, 1¾ hours, five daily, 8am to 2.15pm).
-A taxi to or from the Azerbaijan border at Matsimi, 4km southeast of Lagodekhi, costs 4 GEL. From the Azerbaijan side you can take a taxi to Balakən (AZN4) or Zaqatala (around AZN10). You’ll find moneychangers on both sides of the border and along the main road in Lagodekhi town, which also has several ATMs.
+
+
 OFF THE BEATEN TRACK
 VASHLOVANI PROTECTED AREAS ვაშლოვანის დაცული ტერიტორიები
-
 Down in remote far southeast Kakheti, Georgia's ever-changing landscapes take yet another twist. Beyond the town of Dedoplistskaro, expanses of wheat fields give way to a strange semi-desert zone where eroded badlands alternate with steppe grasslands, canyons, savannah, ancient wild pistachio forests and woodlands along the Alazani River (the border with Azerbaijan). It's a fascinating area for any nature lover. The 370-sq-km Vashlovani Protected Areas (ვაშლოვანის დაცული ტერიტორიები www.apa.gov.ge) harbour a very high concentration of species including 46 mammals, 135 birds, 30 reptiles and 600 plants. The mammals include brown bear, wolf, otter, hyenas and goitered gazelles recently reintroduced from Azerbaijan. Vashlovani's most famous inhabitant, a solitary male leopard dubbed Noah who probably wandered in from Iran, has sadly not been seen since 2010.
 The best times to visit, with moderate temperatures, plants in bloom and wildlife more active, are from April to mid-June and September to mid-November. July and August are excruciatingly hot.
 Also well worth visiting near Dedoplistskaro are Eagles Canyon (Artsivis Kheoba), home to enormous vultures and black storks, and the ancient, crag-top Khornabuji Fortress.
 The excellent Visitors Centre (%577101849; nseturidze13@gmail.com; Baratashvili 5, Dedoplistskaro; h9am-6pm) in Dedoplistskaro has an interesting museum, good rooms (single/double 25/30 GEL) and a guest kitchen. All visitors must register here, and when you go to the reserve Georgian border guards will want to check your passport.
-SLEEPING
-The Visitors Centre rooms are a good option before or after visiting the reserve.
-Mijnis Kure BungalowsBUNGALOW
-(r 40 GEL; p)
-If you have time, stay overnight in one of these six well-kept tourist bungalows on the banks of the Alazani River. Each has two single beds, electricity, and a bathroom with hot shower. You're a long, long way from civilisation here! There's a drinking-water well but bring mosquito repellent as well as food. Make reservations at the Visitors Centre.
-GETTING THERE & AROUND
-The Visitors Centre can help arrange 4WD trips in the reserve (around 200 GEL for a day trip, 200 GEl to 300 GEL for two days). If you're driving yourself, you'll need a 4WD vehicle and a good GPS to navigate the labyrinthine, often very rough tracks.
-Marshrutky run from Dedoplistskaro to Telavi (7 GEL, two hours) at 7.30 and 8.30am, and to Tbilisi (7 GEL, three hours) about hourly from 7.30am to 4.30pm.
+
+
 
 
 Food & Drink
 Georgian food is a unique expression of the land and its people – diverse, fresh, imaginative, filling, often spicy – and with the hospitality and drinks that often go hand-in-hand, eating is a central part of Georgian culture. The cuisine is based entirely on the rich produce of Georgia's fertile soil, and Georgia's location on ancient spice routes has contributed a unique range of flavours and textures. Many staple dishes are vegetarian and some are vegan.
 Georgians eat and drink at all times of the day. Restaurants keep long hours and have improved by leaps and bounds in recent years. But some of the best Georgian food you'll eat will still be in guesthouses, where you can enjoy home-cooked fare with that genuine touch of Georgian hospitality.
-EATING PRICE RANGES
 
-The following indicators are for the price of a single main dish:
-$ less than 9 GEL
-$$ 9 GEL–16 GEL
-$$$ more than 16 GEL
+
 Staples & Specialities
 A great staple for everybody is the khachapuri, essentially a cheese pie.
 Equally beloved are khinkali – big spicy dumplings which most Georgians adore and most visitors find they like too.
@@ -921,8 +720,9 @@ Starters to a larger meal may include assorted salads, the delectable badrijani 
 More substantial Georgian dishes include the mtsvadi (shish kebab) and a variety of chicken, pork, beef, lamb or turkey dishes in spicy, herby sauces or stews, with names like chakapuli, chakhokhbili, kuchmachi, ojakhuri, ostri or shkmeruli). Georgia's favourite spices and herbs include coriander, blue fenugreek, tarragon and ground-up marigold leaves.
 Many dishes contain walnut, often ground up as an ingredient in sauces, dressings or pastes. A sprinkling of pomegranate seeds is a tasty and pretty-looking garnish. Wild mushrooms are also a favourite, and Georgia has a wonderful variety of local cheeses.
 Religious-minded Georgians may abstain from meat, eggs and dairy products on Wednesdays, Fridays and during certain periods such as before Christmas and Easter. The 'fasting menus' offered for them by many restaurants make life easier for year-round vegetarians too.
-HOW TO EAT A KHINKALI
 
+
+HOW TO EAT A KHINKALI
 Arguably Georgia's most beloved hunger-killer, the khinkali is a small bag of dough twisted into a hard nexus at the top, with a filling of spiced, ground-up meat, or potatoes or mushrooms or sometimes vegetables – and plenty of juice. You'll have a plate of at least five khinkali in front of you (it's impossible to order fewer). Many people like to sprinkle a good dose of pepper over the khinkali before starting.
 Once they're cool enough to handle, pick one up by the hard nexus at the top, and bite a small hole just below it. Suck the juice out through the hole. Then eat the rest, except for the nexus, which you discard. Yum yum!
 The Supra & Toasts
@@ -931,8 +731,8 @@ Bear in mind that Georgians toast only their enemies with beer. Wine or spirits 
 Drinks
 Wine is a national passion and Georgians have been making and drinking it for at least 8000 years. Vodka is also common, and beer is a popular thirst-quencher: local brands include Natakhtari, Kazbegi and Argo.
 Georgia’s most famous nonalcoholic drink is Borjomi, a salty mineral water that was the beverage of choice for every Soviet leader from Lenin on. It polarises opinion. Nabeghlavi is a less salty alternative. Tap water seems safe to drink throughout the country: we have never heard of anyone getting sick from drinking it. Various uncarbonated bottled waters are also available.
-MENU DECODER
 
+MENU DECODER
 Georgian menus often look daunting, even if there’s an English translation, but this list explains a lot of the items you'll find io most menus.
 ajapsandali	stew of aubergines, potatoes, tomatoes, peppers and herbs
 ajika	a paste of chilli or paprika with garlic and herbs
@@ -987,6 +787,4 @@ Kutaisi-1 station (Tamar Mepe), 1km south of the city centre, has slow trains to
 TO/FROM THE AIRPORT
 Georgian Bus (%555397387; www.georgianbus.com) runs minibuses between Kutaisi airport and several destinations around Georgia, including Kutaisi city (5 GEL, 30 minutes), Tbilisi (20 GEL, four hours), Batumi (15 GEL, two hours), Mestia (40 GEL, four hours) and Kazbegi (55 GEL, 5½ hours), timed to fit in with flight arrivals and departures. You can book and pay online, or at its airport desk – or, for trips to the airport, when you board the minibus. Minimum passenger numbers may be required for some destinations. The arrival and departure point in Tbilisi is Pushkinis skver, just off the north side of Tavisuplebis moedani..
 Taxis between the airport and city centre cost 25 GEL.
-
-
 
