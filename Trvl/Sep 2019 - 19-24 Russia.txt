@@ -167,7 +167,13 @@ Plan
 Leningradsky Railway Station
 Leave luggage TB: Yaroslavsky Railway Station
 Leave luggage VZ: Paveletsky Railway Station
-Armoury + Diamond Fund + Red Square + around
+Red Square and around
+	Kremlin
+		Armoury
+		Diamond Fund
+	St. Basil's Cathedral
+	Alexander Garden aka Aleksandrovskiy Sad
+	come at night to see the square empty of crowds and the buildings awash with lights
 Kolomenskoye / Tsaritsyno / VDNKh
 Sparrow Hills
 Tretyakov Gallery / Pushkin Museum of Fine Arts
@@ -177,12 +183,13 @@ Arbat + Nikolskaya Street + Patriarch’s Ponds
 
 
 
-
+	
 
 
 !!!
-Kremlin
 Red Square
+	come at night to see the square empty of crowds and the buildings awash with lights
+Kremlin
 Armoury
 Diamond Fund
 Alexander Garden aka Aleksandrovskiy Sad
@@ -219,6 +226,10 @@ Kuskovo
 Arkhangelskoye
 
 
+???
+GUM department store
+
+
 
 ========
 
@@ -238,29 +249,31 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAE
 
 
 
-Walking Across Red Square
-Stepping onto Red Square never ceases to inspire: the tall towers and imposing walls of the Kremlin, the playful jumble of patterns and colours adorning St Basil’s Cathedral, the majestic red bricks of the State History Museum and the elaborate edifice of the GUM department store, all encircling a vast stretch of cobblestones. Individually they are impressive, but the ensemble is electrifying. Come at night to see the square empty of crowds and the buildings awash with lights.
+	
+Tretyakov Gallery	
+revamped Gorky Park
+embankments by the Moscow River
+
+
+???
+Izmaylovsky Market
+
+
+
 
 
 
 The Hermitage
-Little can prepare most visitors for the scale and quality of the exhibits at the State Hermitage Museum in St Petersburg. Comprising an almost unrivalled history of Western art, the collection includes a staggering number of Rembrandts, Rubens and Matisses – the latter being displayed in new galleries in the General Staff Building. In addition, there are superb antiquities, sculpture and jewellery on display, not to mention the stupendously decorated public halls and private apartments of the Romanovs, for whom the Winter Palace was home until 1917.
+	unrivalled collection of Western art
+	superb antiquities, sculpture and jewellery on display	
+	stupendously decorated public halls and private apartments of the Romanovs, for whom the Winter Palace was home until 1917
+	new galleries in the General Staff Building (Matisse, etc)
 
-
-
-Izmaylovsky Market
-It’s a fine line between shopping and fun at the kremlin in Izmaylovo. Cross the footbridge and walk through the gate to enter a Disney-like medieval village, complete with wooden church, whitewashed walls and plenty of souvenir shops. Just as in times of yore, the best shopping is in the trade rows outside the kremlin walls. Wander among the sprawling market's stalls to find an endless array of traditional handicrafts, as well as art and antiques, Central Asian carpets, Soviet paraphernalia and more.
-
-
-
-
-
-Russian Capitals
-
-Start in Moscow where the Kremlin, Red Square, the Tretyakov Gallery, a performance at the Bolshoi Theatre and riding the grand metro system must all be factored into your schedule. Stretch your legs in the revamped Gorky Park and along the embankments by the Moscow River.
-
-The historic heart of St Petersburg offers the incomparable Hermitage and Russian Museum, as well as the opportunity to cruise the city’s rivers and canals. Enjoy some of Russia’s top restaurants and bars, and attend first-rate performances at the Mariinsky and Mikhailovsky Theatres.
-If you have the time, venture out to grand palaces set in beautifully landscaped grounds such as Peterhof and Tsarskoe Selo, easy half-day trips from the city.
+	
+Russian Museum
+cruise the city’s rivers and canals
+Peterhof
+Tsarskoe Selo
 
 
 
@@ -272,31 +285,48 @@ If you have the time, venture out to grand palaces set in beautifully landscaped
 
 Moscow Highlights
 
-1 Red Square Be awestruck by the Kremlin's tall towers and St Basil's on the city's central square.
+
+!!!
 2 Gorky Park Hang out with Moscow’s hipsters – ride bikes, admire art, play ping-pong or dance under the stars.
+
+!!!
 3 Cafe Pushkin Splurge on a Russian feast amid faux-18th-century opulence.
+
+!!!
 4 Bolshoi Theatre Enjoy world-class ballet and opera at this historic theatre.
+
+!!!
 5 Tretyakov Gallery Ogle the icons, peruse the Peredvizhniki and contemplate avant-garde art
+
+???
 6 Sanduny Baths Steam your cares away at this luxurious banya.
+
+---
 7 Moscow metro Travel underground for a cheap history lesson and art exhibit all in one.
+
+
 History
 Moscow is first mentioned in the historic chronicles in 1147, when Prince Yury Dolgoruky invited his allies to a banquet: ‘Come to me, brother, please come to Moscow’. It was Yury who ordered the construction of a moat-ringed wooden palisade on the hilltop, the first Kremlin. Traders and artisans set up just outside the Kremlin’s walls turning Moscow into an economic as well as strategic centre.
+
 Medieval Moscow
 In the early half of the 13th century, the ferocious Golden Horde, a Mongol-led army of nomadic tribesmen, burned Moscow to the ground and killed its governor. The Golden Horde was mainly interested in tribute, and Moscow was conveniently situated to monitor the river trade and road traffic. As Moscow prospered, its political fortunes rose too. It soon surpassed Vladimir and Suzdal as the regional capital.
 In the 1380 Battle of Kulikovo, Moscow’s Grand Prince Dmitry defeated the Golden Horde on the banks of the Don River. He was thereafter immortalised as Dmitry Donskoy. From this time, Moscow acted as champion of the Russian cause.
 Towards the end of the 15th century, Moscow emerged as an expanding autocratic state. Under the long reign of Grand Prince Ivan III (the Great), the eastern Slav principalities were consolidated into a single territorial entity. In 1480 Ivan’s army faced down the Mongols at the Ugra River without a fight: the 200-year Mongol yoke was lifted.
 Subsequently, Ivan III renovated the Kremlin, adding its brick walls and imposing watchtowers. Next to the Kremlin, traders and artisans congregated in Kitay Gorod, and a stone wall was erected around these commercial quarters. The city developed in concentric rings outward from this centre. As it emerged as a political capital, Moscow also took on the role of religious centre. In the mid-15th century, the Russian Orthodox Church was organised, independent of the Greek Church. Under Ivan IV (the Terrible), the city earned the nickname ‘Gold-Domed Moscow’ because of the multitude of monastery fortresses and magnificent churches constructed within them.
+
 Imperial Moscow
 In 1712, Peter the Great, who hated Moscow, announced the relocation of the capital to a swampland in the northwest that would become St Petersburg. Moscow fell into decline, later exacerbated by an outbreak of bubonic plague.
 By the turn of the 19th century, Moscow had recovered from its gloom. By this time, the city hosted Russia’s first university, museum and newspaper. Moscow’s intellectual and literary scene gave rise to a nationalist-inspired Slavophile movement, which celebrated the cultural features of Russia that were distinctive from the West.
 In the early 1800s Tsar Alexander I decided to resume trade with England, in violation of a treaty Russia had made with France. A furious Napoleon Bonaparte set out for Moscow with the largest military force the world had ever seen. The Russian army engaged the advancing French at the Battle of Borodino, 130km from Moscow. More than 100,000 soldiers lay dead at the end of this inconclusive one-day fight. Shortly thereafter, Napoleon entered a deserted Moscow. By some accounts, defiant Muscovites burned down their city rather than see it occupied. French soldiers tried to topple the formidable Kremlin, but its sturdy walls withstood their pummelling.
 The city was swiftly rebuilt following Napoleon’s final defeat. Monuments were erected to commemorate Russia’s hard fought victory, including a Triumphal Arch and the grandiose Cathedral of Christ the Saviour. Meanwhile, the city’s two outer defensive rings were replaced with the tree-lined Boulevard Ring and Garden Ring roads.
 By midcentury, industry overtook commerce as the city’s economic driving force. With a steady supply of cotton from Central Asia, Moscow became a leader in the textile industry, and was known as ‘Calico Moscow’. By 1900, Moscow claimed more than one million inhabitants.
+
 Red Moscow
 The Bolshevik coup provoked a week of street fighting in Moscow, leaving more than 1000 dead. In 1918, fearing a German assault on St Petersburg, Lenin ordered that the capital return to Moscow.
 In the 1930s Josef Stalin launched an industrial revolution, at the same time devising a comprehensive urban plan for Moscow. On paper, it appeared as a neatly organised garden city; unfortunately, it was implemented with a sledgehammer. Historic cathedrals and monuments were demolished, including landmarks such as the Cathedral of Christ the Saviour and Kazan Cathedral. In their place appeared the marble-bedecked metro and neo-Gothic skyscrapers.
 When Hitler launched ‘Operation Barbarossa’ into Soviet territory in June 1941, Stalin was caught by surprise. By December the Nazis were just outside Moscow, within 30km of the Kremlin, but an early winter halted the advance. In the Battle of Moscow, war hero General Zhukov staged a brilliant counteroffensive and saved the city from capture.
 Stalin's successor, Nikita Khrushchev, a former mayor of Moscow, introduced wide-ranging reforms and promised to improve living conditions. Huge housing estates grew up round the city's outskirts. The expansion continued under Leonid Brezhnev. As the Soviet Union emerged as a military superpower, the aerospace, radio-electronics and nuclear weapons ministries operated factories and research laboratories in and around the capital. By 1980 the city’s population surpassed eight million.
+
 Transitional Moscow
 Mikhail Gorbachev came to power in March 1985 with a mandate to revitalise the ailing socialist system; he promoted Boris Yeltsin as the new head of Moscow. Yeltsin’s populist touch made him an instant success with Muscovites and he embraced the more open political atmosphere.
 On 18 August 1991 the city awoke to find tanks in the streets. Gorbachev had been arrested and a self-proclaimed ‘Committee for the State of Emergency in the USSR’ proclaimed itself in charge. Crowds gathered at the White House to build barricades. Yeltsin, from atop a tank, declared the coup illegal. When KGB snipers didn’t shoot, the coup – and Soviet communism – was over. By the year’s end Boris Yeltsin had moved into the Kremlin.
@@ -304,17 +334,20 @@ The first years of transition were fraught with political conflict. In September
 In 1992 Yury Luzhkov was appointed as Moscow's mayor by Yeltsin; he would go on to win three elections to the position while building himself and his family a commercial empire. The city government retained ownership of property in Moscow, giving Luzhkov’s administration unprecedented control over would-be business ventures, and making him as much a CEO as a mayor.
 While the rest of Russia struggled to survive the collapse of communism, Moscow quickly emerged as an enclave of affluence and dynamism. The new economy spawned a small group of ‘New Russians’, routinely derided and often envied for their garish displays of wealth.
 In September 1999 a series of mysterious explosions in Moscow left more than 200 people dead. It was widely believed, although unproven, that Chechen terrorists were responsible for the bombings. This was the first of many terrorist attacks in the capital that were linked to the ongoing crisis in Chechnya, the worst of which was a siege of a Moscow theatre in 2002 that resulted in 120 deaths and hundreds of illnesses.
+
 Millennium Moscow
 In 2010, after 18 years in the job Luzhkov was replaced as Moscow mayor by Sergei Sobyanin, the former head of the presidential administration under Putin. Sobyanin promised a shift away from big business and huge construction projects to improving the city for regular-guy residents. To a large extent he has delivered as Moscow is gradually but noticeably becoming an easier, cleaner, more pleasant place to live.
 While many Muscovites have lapped up the bread-and-circuses policies of the Putin-friendly city administration, not all are satisfied to sit back and accept politics as usual. In 2017, for the first time in years, a wave of anti-corruption protests took place in Moscow (and around the country). With the presidential election in 2018 – and Putin's certain participation – there are bound to be more. Still, most Muscovites are not in the mood for revolution.
 Despite the conservative mood, Moscow has still managed to become one of Europe's coolest and most creative capitals. Gone are the days when the city was defined by New Russians' excessive displays of wealth. Nowadays, the capital's movers and shakers are the innovators – the artists, architects, designers and chefs – who are shaping the city's aesthetic and atmosphere.
+
+
+
 NEIGHBOURHOODS AT A GLANCE
 
 1Kremlin & Kitay Gorod
-
 Red Square and the Kremlin are the historical, geographic and spiritual heart of Moscow, as they have been for nearly 900 years. The mighty fortress, the iconic onion domes of St Basil’s Cathedral and the granite mausoleum of Vladimir Ilych Lenin are among the city’s most important historical sights. The surrounding streets of Kitay Gorod are crammed with churches and old architecture. This is the starting point for any visit to Moscow.
-2Tverskoy & Novoslobodsky
 
+2Tverskoy & Novoslobodsky
 Moscow's busiest, swankiest and most commercialised district is also home to 20-plus theatres and concert halls, including the world-famous Bolshoi Theatre, several renowned galleries and – last but not least – the opulent Sanduny Baths. Beyond the Garden Ring, Tverskoy blends into the more relaxed Novoslobodsky district, home of the Jewish Museum and a cluster of bustling bars and restaurants around Mendeleyevskaya metro station.
 3Meshchansky & Basmanny
 
@@ -333,12 +366,12 @@ MOSCOW KREMLIN
 The apex of Russian political power and once the centre of the Orthodox Church, the Kremlin is not only the kernel of Moscow but of the whole country. From here, autocratic tsars, communist dictators and modern-day presidents have done their best – and worst – for Russia. These red-brick walls and tent-roof towers enclose 800 years of artistic accomplishment, religious ceremony and political clout.
 
 
-EKATERINA BYKOVA / SHUTTERSTOCK ©
 DON'T MISS
 AAssumption Cathedral
 AArchangel Cathedral
 AAnnunciation Cathedral
 AThe Armoury
+
 PRACTICALITIES
 AКремль
 A MAP GOOGLE MAP
@@ -400,7 +433,6 @@ PUSHKIN MUSEUM OF FINE ARTS
 This is Moscow’s premier foreign-art museum, split over three branches and showing off a broad selection of European works, including masterpieces from ancient civilisations, the Italian Renaissance and the Dutch Golden Age, not to mention an incredible collection of Impressionist and post-Impressionist paintings in the 19th and 20th Century Art Gallery.
 
 
-DIMBAR76 / SHUTTERSTOCK ©
 DON'T MISS
 ATreasures of Troy
 AGolden Age of Dutch Art

@@ -106,6 +106,10 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAE
 ========Ollanta
 
 
+!!!
+LOKK FOR NEW HOTEL
+
+
 https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=11&checkin_year=2019&checkout_month=5&checkout_monthday=13&checkout_year=2019&city=-353770&class_interval=1&dest_id=-356201&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&nflt=pri%3D1%3Bfc%3D2%3Bfc%3D5%3Broomfacility%3D800038%3Breview_score%3D90%3B&no_dorms=1&no_rooms=1&offset=0&order=price&pop_filter_id=review_score-90&pop_filter_pos=1&pop_filter_rank=2&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=2a0b414951700169&ss=Ollantaytambo%2C%20Cusco%2C%20Peru&ss_all=0&ss_raw=ollanta&ssb=empty&sshis=0&ssne_untouched=Machu%20Picchu&rsf=review_score-90
 
 
@@ -332,16 +336,25 @@ May 2019
 		
 		https://www.expedia.ca/carsearch?date1=10%2F05%2F2019&date2=13%2F05%2F2019&dpln=941&loc2=&locn=Cusco%2C%20Peru&selSort=Price&time1=400PM&time2=400PM
 		
+		https://www.expediafortd.com/carsearch?date1=10%2F05%2F2019&date2=13%2F05%2F2019&dpln=941&loc2=&locn=Cusco%2C%20Peru&selSort=Price&time1=400PM&time2=400PM
+		
+		
 		
 	Tbilisi	486 CAD
 		https://www.ca.kayak.com/cars/Tbilisi,Georgia-c24544/2019-09-07-10h/2019-09-18-10h?sort=price_a
 		
 		https://www.expedia.ca/carsearch?date1=07%2F09%2F2019&date2=18%2F09%2F2019&dpln=5456468&loc2=&locn=Tbilisi%2C%20Georgia%20(TBS-Tbilisi%20Intl.)&selSort=Price&time1=1000AM&time2=1000AM
 		
+		https://www.expediafortd.com/carsearch?date1=07%2F09%2F2019&date2=18%2F09%2F2019&dpln=5456468&loc2=&locn=Tbilisi%2C%20Georgia%20(TBS-Tbilisi%20Intl.)&selSort=Price&time1=1000AM&time2=1000AM
+		
+		
 	
 	Barcelona	175 CAD / 140 EUR
 		https://www.ca.kayak.com/cars/BCN-a22567/Barcelona,Cataluna,Spain-c22567/2019-08-31/2019-09-04-22h?sort=price_a
-		https://www.expedia.ca/carsearch?date1=31%2F08%2F2019&date2=04%2F09%2F2019&dpln=5129026&drid1=179992&loc2=Barcelona%2C%20Spain&locn=Barcelona%2C%20Spain%20(BCN-Barcelona%20Intl.)&selSort=Price&time1=0100PM&time2=1000PM
+		https://www.expedia.ca/carsearch?date1=31%2F08%2F2019&date2=04%2F09%2F2019&dpln=5129026&drid1=179992&loc2=Barcelona%2C%20Spain&locn=Barcelona%2C%20Spain%20(BCN-Barcelona%20Intl.)&selSort=Price&time1=0100PM&time2=1000PM		
+		https://www.expediafortd.com/carsearch?date1=31%2F08%2F2019&date2=04%2F09%2F2019&dpln=5129026&drid1=179992&loc2=Barcelona%2C%20Spain&locn=Barcelona%2C%20Spain%20(BCN-Barcelona%20Intl.)&selSort=Price&time1=0100PM&time2=1000PM
+		
+		
 		
 		
 		https://www.budget.ca/en/locations/es/barcelona/c11
@@ -776,14 +789,25 @@ I have some questions about our stay
 
 1. We are arriving at Arequipa airport at 7.30pm on May 4, 2019. Just want to confirm that late check-in is OK and you'll be waiting for us around 8-9pm?
 2. Could you get a taxi / shuttle from airport for us and how much will it cost?
-3. How do we pay - is credit card OK, is there any surcharge for credit card payment?
-4. We have tourist bus to Colca at 3am on May 6, 2019 (in the middle of the night). Just want to confirm that early check-out is OK and there will be somebody at 3am to open the door and let us out
+3. We have tourist bus to Colca at 3am on May 6, 2019 (in the middle of the night). Just want to confirm that early check-out is OK and there will be somebody at 3am to open the door and let us out
 
 Thank you for your time,
 Vasile
 
 
 
+Hi, Manuel
+
+Thank you for your response
+
+For the taxi:
+We arrive with VivaAir flight VV 802 on May 4
+I just found out that they changed our flight time and we arrive to Arequipa at 20:25
+
+But how do we know the taxi price - is it 25 or 35 soles? Is it metered taxi?
+
+Thank you,
+Vasile
 
 
 
@@ -881,7 +905,7 @@ Vasile
 
 
 
-
+51 1 4443050
 
 
 
@@ -950,3 +974,6 @@ Just want to confirm that late check-in is OK and you'll be waiting for us aroun
 
 Thank you,
 Vasile
+
+
+
