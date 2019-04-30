@@ -51,17 +51,31 @@ Sep 19 Leave Tbilisi + arrive LED
 Sep 7
 	Morning	
 	
-			02.30-03.00 Georgia border
+			02.30-03.00 Georgia border + Kutaisi Airport
+			
 							ATM!!!
+							
+							Georgian Bus
+
+								book and pay online, or at its airport desk
+								
+								Tbilisi
+									4 hours
+									20 GEL
+									
+								arrival: Liberty Square Pushkin Park
+									arrival and departure point in Tbilisi is Pushkinis skver, just off the north side of Tavisuplebis moedani
+									41.694125, 44.801281
+									Google Maps: GeorgianBus Station										
+									
+								https://georgianbus.com/new/
+								https://georgianbus.com/new/index.php?m=42&from_x=2&to_x=8&fly_x=38&date_x=30-03-2019&from_y=8&to_y=2&fly_y=1&date_y=
 			
 			
 			03.00-07.00 bus to Tbilisi
-							https://georgianbus.com/new/
-							https://georgianbus.com/new/index.php?m=42&from_x=2&to_x=8&fly_x=38&date_x=30-03-2019&from_y=8&to_y=2&fly_y=1&date_y=
-							arrival: Liberty Square Pushkin Park
-								41.694125, 44.801281
-								Google Maps: GeorgianBus Station
-							20 GEL pp
+							
+							
+			07.00-07.30 Liberty Square Pushkin Park			
 							
 							ATM TBC Bank
 							
@@ -69,12 +83,12 @@ Sep 7
 								bus 37 (0.50 GEL, 7am to 11pm) runs from the airport to the main train station via Avlabari metro station and Tavisuplebis moedani and Rustaveli in the city centre
 
 				
-			07.00-08.00 walk / public bus to Budget Tbilisi
+			07.30-08.30 walk / public bus to Budget Tbilisi
 							https://goo.gl/maps/ht4iRnQSYdv
 			
 			OR			
 				
-			07.00-08.00 public bus / taxi to Budget TBS airport
+			07.30-08.30 public bus / taxi to Budget TBS airport
 							bus
 								Working hours – 24/7
 								One way fee is 0.50 GEL
@@ -100,14 +114,18 @@ Sep 7
 	Afternoon
 	
 			optional: Tbilisi breakfast
+			
+			08.30-09.00 Rental Car Pick-up
 	
-			08.30-09.30 Carrefour Airport / Carrefour To Mtskheta
+			09.00-09.30 drive to Carrefour Airport / Carrefour To Mtskheta			
+			
+			09.30-10.30 Carrefour Airport / Carrefour To Mtskheta
 							Вино стоит брать в тбилисском в Карфуре. На заводах дороже. Из вина следует брать то, чего в России нет либо слишком дорого (Тетра, Александроули, Хванчкара)
-			09.30-10.30 drive to Ananuri (1 hr drive)							
-			10.30-11.30 Ananuri
+			10.30-11.30 drive to Ananuri (1 hr drive)							
+			11.30-12.30 Ananuri
 							Ananuri
 							2379m Jvari Pass 
-			11.30-13.30 drive to Kazbegi (2 hrs drive)
+			12.30-14.30 drive to Kazbegi (2 hrs drive)
 							arrive Kazbegi
 							sleep after night flight
 							find taxi to Juta!!!
@@ -187,7 +205,8 @@ Sep 10
 							1 hr trek
 								walk from the main road to both waterfalls and back takes 1 hour. If you take a taxi deeper into the valley, both waterfalls can be seen in 30 minutes
 
-	difficulty: Very easy
+							difficulty: Very easy
+							
 			14.00-22.00 rest and do nothing
 						optional: Gergeti Trinity Church in the evening
 	Afternoon
@@ -197,6 +216,7 @@ Sep 10
 Sep 11
 	Morning	
 			07.00-09.00 hike to Gergeti Trinity Church
+			
 			09.00-16.00 hike to Gergeti Glacier
 						trail details
 							20,4 km
@@ -216,25 +236,25 @@ Sep 12
 	Afternoon
 	Evening		
 	
-		07.00-08.00 drive to Khada Gorge
-		08.00-12.00 Valley of 60 Towers – Tiny and Marvelous Khada Gorge
+			07.00-08.00 drive to Khada Gorge
+			08.00-12.00 Valley of 60 Towers – Tiny and Marvelous Khada Gorge
 						drive to Kvesheti village’s bridge				
 
 						8km RT to Tskere bridge
 						waterfall, short walk from Tskere		
 	
-		12.00-13.30 drive to Carrefour
-		13.30-14.30 Carrefour To Mtskheta / Carrefour Tbilisi
+			12.00-13.30 drive to Carrefour
+			13.30-14.30 Carrefour To Mtskheta / Carrefour Tbilisi
 						Вино стоит брать в тбилисском в Карфуре. На заводах дороже. Из вина следует брать то, чего в России нет либо слишком дорого (Тетра, Александроули, Хванчкара)
 						
-		14.30-15.00 drive to Tbilisi
+			14.30-15.00 drive to Tbilisi
 		
-		15.00-16.00 hotel check-in and park the car
+			15.00-16.00 hotel check-in and park the car
 						Rike Underground Parking
 							large underground car park with 350 parking spaces
 							Подземный паркинг в самом центре Тбилиси, возле фуникулёра. Первый час 2 лари, последующие 1 лари (но не более 7 лари в сутки ???)
 	
-		16.00-18.00	Old Town Walk Tbilisi
+			16.00-18.00	Old Town Walk Tbilisi
 						Metekhi Bridge
 						Meidan
 						Kote Abkhazi aka Leselidze
@@ -248,7 +268,7 @@ Sep 12
 							Anchiskhati Basilica
 							Clock Tower
 							
-		18.00-20.00 dinner
+			18.00-20.00 dinner
 	
 
 Sep 13
@@ -256,23 +276,24 @@ Sep 13
 	Afternoon
 	Evening	
 	
-		13.30-14.30 Carrefour Airport
-						Вино стоит брать в тбилисском в Карфуре. На заводах дороже. Из вина следует брать то, чего в России нет либо слишком дорого (Тетра, Александроули, Хванчкара)
-	
-		14.30-15.30 drive to airport
-	
-		15.30-16.30 wait for mama (plane arrival 15.45)
+			13.30-14.30 Carrefour Airport
+							Вино стоит брать в тбилисском в Карфуре. На заводах дороже. Из вина следует брать то, чего в России нет либо слишком дорого (Тетра, Александроули, Хванчкара)
 		
-		16.30-18.00 drive to hotel
+			14.30-15.30 drive to airport
 		
-		18.00-20.00 dinner
+			15.30-16.30 wait for mama (plane arrival 15.45)
+			
+			16.30-18.00 drive to hotel
+			
+			18.00-20.00 dinner
 	
+
 	
 	
 Sep 14
 	Morning	
 			
-			Optional (extra 3 hrs drive RT + 2-3 hrs to explore)
+			With David Gareji - Extra 3 hrs drive RT + 2-3 hrs to explore
 			
 				07.00-09.00 drive to David Gareji
 								
@@ -282,24 +303,97 @@ Sep 14
 								Lavra
 								Udabno Monastery				
 				
-				11.30-14.30 drive to Signaghi			
-			
-			OR
-			
-			08.00-10.00 drive to Signaghi
-		
-	Afternoon
-	
-			14.30-???
-				Sighnaghi + arrive Lagodekhi
+				11.30-14.00 drive to Giuaani Winery
 				
+				14.00-15.00 Giuaani Winery
+						Giuaani Winery
+							drop in for tasting
+				
+				15.00-16.00 drive to Signaghi / Bodbe Convent
+			
+			
 			OR
 			
-			10.00-???
-				Sighnaghi + arrive Lagodekhi
+			
+			Optional
+			
+				10.00-11.00 drive to Giuaani Winery
+				
+				11.00-12.00 Giuaani Winery
+						Giuaani Winery
+							drop in for tasting			
+				
+				12.00-13.00 drive to Signaghi / Bodbe Convent
+			
+
+					
+
+	Afternoon
+
+	
+			With David Gareji
+			
+				16.00-18.00 Signaghi
+						
+						!!!
+						Bodbe Convent
+							9am-6pm	
+							pleasant 2km walk among tall cypresses on country roads
+
+							St Nino’s Spring
+							
+							
+						!!!
+						Walls
+		
+			
+			OR
+			
+			
+			Optional			
+			
+				13.00-16.00 Signaghi
+						
+						!!!
+						Bodbe Convent
+							9am-6pm	
+							pleasant 2km walk among tall cypresses on country roads
+
+							St Nino’s Spring
+							
+							
+						!!!
+						Walls
+						
+						
+						!!!
+						winery
+							Cradle Of Wine Marani	
+								1:00 PM - 7:00 PM
+	
+
+
+	Evening	
+
+
+			With David Gareji
+	
+				18.00-19.00 drive Lagodekhi (1 hr)
+			
+				19.00-21.00 dinner Lagodekhi
+
+			
+			OR
+
+			
+			Optional
+			
+				16.00-17.00 drive Lagodekhi (1 hr)
+				
+				17.00-19.00 dinner Lagodekhi
 
 				
-	Evening					
+				
 				
 
 Sep 15
@@ -307,70 +401,168 @@ Sep 15
 	Afternoon
 	Evening
 	
+			10.00-16.00 Ninoskhevi waterfall aka Gurgeniani waterfall aka Great Waterfall
+						trail details
+							8km RT
+
+							4-5 hrs
+								2.5 hours going to the waterfall
+								0.5 hrs at waterfall 
+								1.5 hours coming down
+								
+							moderate difficulty
+								there are local families with small children doing the hike
+					
+			
+			16.00-17.00 drive to Gremi Fortress
+			
+			
+			17.00-18.00 Gremi Fortress
+							9am-6pm Tue-Sun
+							admission to tower 3 GEL
+							
+							
+			18.00-18.30 drive to hotel			
+	
 		
 	
 	
 Sep 16
 	Morning	
 	Afternoon
-	Evening			
+	Evening	
+	
+	
+			10.00-13.00 winery
+
+							!!!
+							Kindzmarauli Corporation Wine House
+								9AM–7PM
+			
+								2 lari fee per tasting - each wine costs 2 GEL so you can pick as many bottles as you want			
+									half a glass per tasting
+
+			
+							!!!
+							Graneli Winery
+								9AM–8PM
+
+								tasting costs 20 Lari for 5 wines
+									however, as long as you buy 20 lari of wines in their shop the tasting is free
+				
+				
+			13.00-13.30 drive to Nekresi Monastery
+						
+						
+			13.30-14.30 Nekresi Monastery
+							vehicles must park 1.5km before the monastery; from there marshrutky (1 GEL return trip) shuttle up and down the hill from about 9am to 5pm					
+		
+				
+			14.30-15.00 drive to Twins Old Cellar
+				
+	
+			15.00-17.00 winery	
+	
+							!!!
+							Twins Old Cellar
+								9am-10pm
+
+								Wine Degustation 15 Gel
+									degustation of wine and chacha (3-4 types of wine)
+									
+								Economy Package #2 33 Gel
+									Visiting the world’s unique ‘’Qvevri and Qvevri Wine Museum’’
+									Visiting new and old wine cellars
+									Qvevri Wine Degustation (3 types of wine)
+									Visiting distillery of Georgian Vodka ‘’Chacha’’ and Chacha degustation
+									Lunch Menu : (Bread, Cheese, Aubergine, Cucumber and Tomato Salad, Vegetable Salad,  Khachapuri, Georgian Mtsvadi, Tkemali Sauce, Khinkali)
+									* At least 4-5 participants				
+
+
+				
+			17.00-17.30 drive to Alaverdi Cathedral
+
+			17.30-18.00 Alaverdi Cathedral
+							8am-6pm
+	
+			18.00-18.30 drive to hotel
+			
+			Optional
+				18.30-19.00 Telavi Bazari
+							8am-8pm
+
+
 
 	
 	
 	
 Sep 17
 	Morning
-			08.00-10.00 drive to Mtskheta (2 hrs)
 	
-			10.00-13.00 Mtskheta
-				!!!
-				Mtskheta
-						
-					!!!		
-					Svetitskhoveli Cathedral					
-						8am-8pm
-						
-					!!!
-					Jvari Church				
-						8am-7pm
-
-					If we have time					
-						Samtavro Church
+			Optional
+				08.00-09.00 Telavi Bazari
 							8am-8pm
-						Shio-Mgvime monastery	
-						
-					Restaurant
-						Salobie
+	
+	
+			09.00-11.00 drive to Mtskheta (2 hrs)
+			
+	
+			11.00-14.00 Mtskheta
+							!!!
+							Mtskheta
+									
+								!!!		
+								Svetitskhoveli Cathedral					
+									8am-8pm
+									
+								!!!
+								Jvari Church				
+									8am-7pm
+
+								If we have time					
+									Samtavro Church
+										8am-8pm
+									Shio-Mgvime monastery	
+									
+								Restaurant
+									Salobie
 	
 	
 	Afternoon
 
 			Optional (extra 2 hrs drive RT + 2-3 hrs to explore)	
 			
-				13.00-14.00 drive to Uplistsikhe
-					Uplistsikhe cave city
-						10am-6pm
-						3 GEL
-						guide in English 15 GEL					
-					Ateni Sioni
-						10am-5pm
+				14.00-15.00 drive to Uplistsikhe
 						
-				14.00-16.30 Uplistsikhe
+				15.00-17.30 Uplistsikhe
+							Uplistsikhe cave city
+								10am-6pm
+								3 GEL
+								guide in English 15 GEL					
+							Ateni Sioni
+								10am-5pm				
 				
-				16.30-18.00 drive to Tbilisi			
+				17.30-19.00 drive to Tbilisi
+				
+				19.00-20.00 hotel check in + rental car return
 
 			OR			
 			
-			13.00-14.00 drive to Tbilisi (1 hr)
+			14.00-15.00 drive to Tbilisi (1 hr)
+			
+			15.00-16.00 hotel check in + rental car return
 
 			
 	Evening
 	
-			18.00-20.00 dinner Tbilisi
+			Optional 
+			
+				20.00-22.00 dinner Tbilisi
 	
-			OR
+			OR		
+			
 	
-			14.00-18.00 Old Town Walk Tbilisi
+			16.00-20.00 Old Town Walk Tbilisi
 						Metekhi Bridge
 						Meidan
 						Kote Abkhazi aka Leselidze
@@ -384,7 +576,7 @@ Sep 17
 							Anchiskhati Basilica
 							Clock Tower			
 			
-			18.00-20.00 dinner Tbilisi
+			20.00-22.00 dinner Tbilisi
 	
 	
 	
@@ -393,43 +585,56 @@ Sep 18
 	Afternoon
 	Evening	
 	
-			!!!
-			Narikala - Mt Mtatsminda Walk
-			
-				!!!
-				Metekhi Church
-			
-				!!!
-				Cable Car to Narikala Fortress
-					11am-11pm
-					one-way ride 1 GEL (use Metromoney card, available at the ticket offices if you don't have one)	
-
-				!!!
-				Narikala Fortress
-
-				!!!
-				Walking trail from Narikala Fortress to Mt Mtatsminda
-					2.5km
-							
-				!!!
-				Mt Mtatsminda
+			Optional
 				
-				!!!		
-				Walking trail down to near the bottom of the funicular
-					1km
+				09.00-10.00 rental car return
+				
+	
+			10.00-16.00 Narikala - Mt Mtatsminda Walk
+			
+						!!!
+						Metekhi Church
+					
+						!!!
+						Cable Car to Narikala Fortress
+							11am-11pm
+							one-way ride 1 GEL (use Metromoney card, available at the ticket offices if you don't have one)	
+
+						!!!
+						Narikala Fortress
+
+						!!!
+						Walking trail from Narikala Fortress to Mt Mtatsminda
+							2.5km
+									
+						!!!
+						Mt Mtatsminda
+						
+						!!!		
+						Walking trail down to near the bottom of the funicular
+							1km
 				
 
-			!!!
-			Abanotubani
-				look for private rooms with their own pools		
-		
-
+			16.00-17.00 Abanotubani
+	
+			17.00-19.00 dinner Tbilisi
+			
+			19.00-20.00 hotel and prepare to leave Georgia
 		
 
 Sep 19
 	Morning	
 	Afternoon
-	Evening			
+	Evening	
+			05.00-06.00 bus 37 to TBS Airport
+						bus at 4.30, 5.05, 5.40
+						from Griboedovi Theatre [Rustaveli Avenue #4] [821] to Airport [Airport Highway] [1838]
+						http://transiten.ttc.com.ge/?page=live
+							tab Journey Planner
+	
+			06.00-08.00 TBS Airport
+	
+			08.00-10.15 flight to LED
 	
 	
 
