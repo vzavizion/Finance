@@ -1,17 +1,9 @@
-http://www.ostwest.com/en/russian-cities/stpetersburg/sightseeing/open/
-
-http://www.ostwest.com/en/russian-cities/moscow/sightseeing/open/
-
-
 Sankt Peterburg
 
 Plan
 
-Sep 19
-Arrive from TBS
-Peterhof Grand Palace
 
-Sep 20
+Sep 19			Thursday
 Sankt Peterburg
 	Hermitage
 	City Centre
@@ -20,10 +12,17 @@ Sankt Peterburg
 		Spas na Krovi + Saint Isaac's Cathedral + Kazan Cathedral
 		Palaces + Bridges + Gardens
 
-Sep 21
+		
+Sep 20		Friday
+Arrive from TBS
+Peterhof Grand Palace
+		
+		
+Sep 21		Saturday
 Pushkin aka Tsarskoe Selo
 
-Sep 22
+
+Sep 22		Sunday
 Sankt Peterburg
 	Leave luggage: Moskovsky Railway Station
 	Russian Museum / Fabergé Museum / Erarta Museum of Contemporary Art		
@@ -35,6 +34,9 @@ https://www.russiantrains.com/en/faq/left-luggage-facilities
 	
 
 	
+	
+	
+	
 
 !!!
 Palace Square
@@ -42,6 +44,11 @@ State Hermitage Museum
 	Winter Palace
 	General Staff Building
 		 amazing collection of Impressionist and post-Impressionist
+	Closed
+		Mondays
+		https://www.hermitagemuseum.org/wps/portal/hermitage/visitus/
+	Free admission for all visitors: The third Thursday of every month
+		Sep 19		
 Bronze Horseman
 Summer Garden
 Dvortsovy most - raising of the bridge
@@ -55,8 +62,16 @@ Anichkov Bridge
 
 !!!
 Spas na Krovi aka Church of the Saviour on the Spilled Blood
+	Closed 
+		Wednesday
+	http://cathedral.ru/raspisanie
 Saint Isaac's Cathedral
+	Closed 
+		Wednesday
+	http://cathedral.ru/raspisanie
 Kazan Cathedral
+		???
+	http://kazansky-spb.ru/
 Nikolsky Cathedral aka Nikolo-Bogoyavlenskiy Morskoy Sobor
 Naval Cathedral
 !
@@ -65,6 +80,8 @@ Smolny Cathedral
 
 !!!
 Yusupov Palace
+	Open daily
+	https://yusupov-palace.ru/en/visitors/schedule
 !
 The Menshikov Palace
 
@@ -90,29 +107,54 @@ Russian Museum
 		wing of the Ludwig Museum with a focus on contemporary works
 	Stroganov Palace 
 		some of the most spectacular interiors in the city
+	Closed
+		Tuesday
+	http://en.rusmuseum.ru/for-visitors/work-hours/
 		
 !!!
 Fabergé Museum		
-	
+	daily
+	https://fabergemuseum.ru/ru/museum/schedule
 !	
-Erarta Museum of Contemporary Art		
+Erarta Museum of Contemporary Art
 	modern and contemporary Russian
+	Closed
+		Tuesday
+	https://www.erarta.com/ru/visit/contacts/
 
 !!!
 Strelka 	
 
 !!!
 Petropavlovskaya Krepost' aka Peter & Paul Fortress
+	Closed
+		Wednesday
+	https://www.spbmuseum.ru/themuseum/visitors/regis.php
 
 !!!
 Peterhof Grand Palace
+	https://peterhofmuseum.ru/objects/peterhof/nizhniy_park/info#date=19.09.2019
+	https://peterhofmuseum.ru/objects/peterhof/bolshoy_kaskad/info#date=19.09.2019
+	https://peterhofmuseum.ru/files/Peterhof_gid_leto_2019_2.pdf
+	
 !!!
 Pushkin aka Tsarskoe Selo
 	Catherine Palace
 		Amber Room
+		
+		Closed
+			Tuesday
+		http://www.tzar.ru/visitors
+		http://www.tzar.ru/visitors/workinhours
+		
 	Alexander Palace & Park
+		Since 1 September 2015, the Alexander Palace has been closed for restoration and is no longer open to the public. The date of re-opening for the palace has not yet been announced.
+			
 	Pavlovsk Great Palace
 	Pavlovsk Great Park
+		Closed on: Monday, Tuesday.
+		Some rooms are Closed on Fridays 
+		http://en.pavlovskmuseum.ru/visitors/mode/
 
 ?
 Peter’s Cabin 
@@ -179,10 +221,12 @@ Red Square and around
 	St. Basil's Cathedral
 	Alexander Garden aka Aleksandrovskiy Sad
 	come at night to see the square empty of crowds and the buildings awash with lights
-Kolomenskoye / Tsaritsyno / VDNKh
+Arbat + Nikolskaya Street + Patriarch’s Ponds	
 Sparrow Hills
-Tretyakov Gallery / Pushkin Museum of Fine Arts
-Arbat + Nikolskaya Street + Patriarch’s Ponds
+Optional:
+	State History Museum
+	Park Zaryadye
+	VDNKh
 
 
 
@@ -209,20 +253,30 @@ Diamond Fund
 	https://www.kreml.ru/en-Us/visit-to-kremlin/ticket-prices/poseshchenie-drugikh-muzeev/
 Alexander Garden aka Aleksandrovskiy Sad
 St. Basil's Cathedral
+	Closed
+		Wednesday
 !
 State Historical Museum aka State History Museum
+	Closed
+		Tuesday
+	https://shm.ru/visit/kontakty-i-rezhim-raboty/gim/
 Park Zaryadye
 
 !!!
 Tretyakov Gallery
-	Mon Closed
+	Closed
+		Mon
+	https://www.tretyakovgallery.ru/en/for-visitors/museums/tretyakovskaya-galereya/
 
 !!!
 Pushkin Museum of Fine Arts
-	Mon Closed
+	Closed
+		Mon
+	https://pushkinmuseum.art/museum/buildings/main/index.php?lang=en
+	https://pushkinmuseum.art/museum/buildings/gallery/index.php?lang=en
 
 !!!
-Danilovsky Market 
+Danilovsky Market
 
 !!!
 Arbat 
@@ -237,8 +291,16 @@ Neskuchny Sad
 
 !!!
 Kolomenskoye
+	Closed
+		expositions - closed Monday
+		park always open
 	http://www.mgomz.ru/kolomenskoe
+	http://www.mgomz.ru/kolomenskoe/kak-dobratsya-do-kolomenskogo
 Tsaritsyno
+	Closed
+		expositions - closed Monday
+		park always open
+	http://tsaritsyno-museum.ru/the_museum/about/ofitsialnaya-informatsiya/
 Kuskovo
 	Closed
 		Mon-Tue
@@ -246,6 +308,7 @@ Kuskovo
 	http://kuskovo.ru/en/
 !
 Arkhangelskoye
+	too far away
 
 
 ???

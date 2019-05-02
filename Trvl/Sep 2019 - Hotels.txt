@@ -1,161 +1,3 @@
-===================================================	
-===================================================	
-===================================================	
-==================!!! Hotels
-	
-	
-	
-Write down Booking links for cities and for booked hotels	
-	
-	
-	
-==================	
-========May 03-04
-========Lima
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=a34390b77a84b7271802f4b653e449aa&checkin_month=5&checkin_monthday=3&checkin_year=2019&checkout_month=5&checkout_monthday=4&checkout_year=2019&class_interval=1&dest_id=-352647&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&nflt=pri%3D1%3Bhr_24%3D8%3Breview_score%3D80%3B&no_dorms=1&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&ss=Lima&ssb=empty&ssne=Lima&ssne_untouched=Lima&order=price
-
-
-
-http://www.newperuvian.com/most-dangerous-areas-of-lima-peru/
-
-
-
-
-==================	
-========May 04-06
-========Arequipa
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=4&checkin_year=2019&checkout_month=5&checkout_monthday=6&checkout_year=2019&city=-927505&class_interval=1&dest_id=-337471&dest_type=city&from_sf=1&group_adults=2&group_children=0&iata=AQP&label_click=undef&no_dorms=1&no_rooms=1&order=price&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=2d753cefbaf102b1&ss=Arequipa%2C%20Arequipa%2C%20Peru&ss_raw=Arequipa&ssb=empty&ssne_untouched=Guayaquil&nflt=pri%3D1%3Breview_score%3D90%3Broomfacility%3D800038%3Bfc%3D2%3Bfc%3D5%3Brshl%3D9%3B&rsf=rshl-9&lsf=rshl%7C9%7C13&update_av=1
-
-
-
-https://www.expediafortd.com/Hotel-Search?destination=Arequipa,+Arequipa+(region),+Peru&startDate=04/05/2019&endDate=06/05/2019&adults=2&regionId=410&guestRating=40&sort=price
-
-
-
-
-==================	
-========May 06-07
-========Llahuar Trek
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA&sid=527345585b2f4cd6b038413003bf25cc&sb=1&src=searchresults&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.en-gb.html%3Faid%3D304142%3Blabel%3Dgen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA%3Bsid%3D527345585b2f4cd6b038413003bf25cc%3Bcheckin_month%3D5%3Bcheckin_monthday%3D4%3Bcheckin_year%3D2019%3Bcheckout_month%3D5%3Bcheckout_monthday%3D6%3Bcheckout_year%3D2019%3Bcity%3D-927505%3Bclass_interval%3D1%3Bdest_id%3D-337471%3Bdest_type%3Dcity%3Bdtdisc%3D0%3Bfrom_sf%3D1%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Biata%3DAQP%3Binac%3D0%3Bindex_postcard%3D0%3Blabel_click%3Dundef%3Bno_rooms%3D1%3Boffset%3D0%3Border%3Dprice%3Bpostcard%3D0%3Braw_dest_type%3Dcity%3Broom1%3DA%252CA%3Bsb_price_type%3Dtotal%3Bsearch_selected%3D1%3Bsrc%3Dsearchresults%3Bsrc_elem%3Dsb%3Bss%3DArequipa%252C%2520Arequipa%252C%2520Peru%3Bss_all%3D0%3Bss_raw%3DArequipa%3Bssb%3Dempty%3Bsshis%3D0%3Bssne_untouched%3DGuayaquil%26%3B&order=popularity&ss=Llahuar+Lodge%2C+Cabanaconde%2C+Arequipa%2C+Peru&ssne=Arequipa&ssne_untouched=Arequipa&city=-337471&checkin_monthday=6&checkin_month=5&checkin_year=2019&checkout_monthday=7&checkout_month=5&checkout_year=2019&group_adults=2&group_children=0&no_rooms=1&from_sf=1&ss_raw=Llahuar&ac_position=1&ac_langcode=en&dest_id=584248&dest_type=hotel&place_id_lat=-15.5817390276996&place_id_lon=-72.0070233643219&search_pageview_id=c21d4d21c24c00bc&search_selected=true&search_pageview_id=c21d4d21c24c00bc&ac_suggestion_list_length=2&ac_suggestion_theme_list_length=0
-
-
-
-==================	
-========May 07-08
-========Chivay
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA&sid=527345585b2f4cd6b038413003bf25cc&checkin_month=5&checkin_monthday=7&checkin_year=2019&checkout_month=5&checkout_monthday=8&checkout_year=2019&city=-338709&class_interval=1&dest_id=-342568&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&ss=Chivay%2C%20Arequipa%2C%20Peru&ss_all=0&ss_raw=chivay&ssb=empty&sshis=0&ssne_untouched=Cabanaconde&nflt=pri%3D1%3Breview_score%3D80%3B&rsf=review_score-80&lsf=review_score%7C80%7C3
-
-
-
-
-
-
-
-==================	
-========May 08-10
-========Cusco
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=8&checkin_year=2019&checkout_month=5&checkout_monthday=10&checkout_year=2019&city=-342568&class_interval=1&dest_id=-345275&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&iata=CUZ&inac=0&index_postcard=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=85c73d79057f0042&ss=Cusco%2C%20Cusco%2C%20Peru&ss_all=0&ss_raw=cusco&ssb=empty&sshis=0&ssne_untouched=Chivay&nflt=pri%3D1%3Breview_score%3D90%3Broomfacility%3D800038%3Brshl%3D9%3Bfc%3D2%3Bfc%3D5%3B&rsf=rshl-9%2Cfc-2%2Cfc-5&lsf=rshl%7C9%7C20&update_av=1
-
-
-
-
-
-https://www.expediafortd.com/Hotel-Search?destination=Cusco,+Cusco+(region),+Peru&startDate=08/05/2019&endDate=10/05/2019&adults=2&regionId=941&guestRating=40&sort=price&latLong=-13.532395,-71.967255
-
-
-Amaru Inka
-https://www.expediafortd.com/Cusco-Machu-Picchu-Hotels-Amaru-Inca.h8429591.Hotel-Information?chkin=08%2F05%2F2019&chkout=10%2F05%2F2019&rm1=a2&sort=price&hwrqCacheKey=5218e7bb-f0c1-4906-8038-794845252ca8HWRQ1554725085467&cancellable=false&regionId=941&vip=false&guestRating=40&c=22ab85e4-4d02-4398-b721-b981f8651143&&exp_dp=72.7&exp_ts=1554725084668&exp_curr=CAD&swpToggleOn=false&exp_pg=HSR
-
-
-
-
-
-Private Bathroom
-Free Cancellation + No Prepayment
-Rating 9+ (8+)
-Location 9+ (8+)
-
-
-==================	
-========May 10-11
-========MP
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=10&checkin_year=2019&checkout_month=5&checkout_monthday=11&checkout_year=2019&city=-353770&class_interval=1&dest_id=-353770&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=4dda3e3d08e7012e&ss=Machu%20Picchu%2C%20Cusco%2C%20Peru&ss_all=0&ss_raw=aguas%20calientes%2C%20peru&ssb=empty&sshis=0&ssne_untouched=Machu%20Picchu&nflt=pri%3D1%3Breview_score%3D80%3Bfc%3D2%3Bfc%3D5%3Broomfacility%3D800038%3B&rsf=roomfacility-800038&lsf=roomfacility%7C800038%7C25&update_av=1
-
-
-
-==================	
-========May 11-13
-========Ollanta
-
-
-!!!
-LOKK FOR NEW HOTEL
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=11&checkin_year=2019&checkout_month=5&checkout_monthday=13&checkout_year=2019&city=-353770&class_interval=1&dest_id=-356201&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&nflt=pri%3D1%3Bfc%3D2%3Bfc%3D5%3Broomfacility%3D800038%3Breview_score%3D90%3B&no_dorms=1&no_rooms=1&offset=0&order=price&pop_filter_id=review_score-90&pop_filter_pos=1&pop_filter_rank=2&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=2a0b414951700169&ss=Ollantaytambo%2C%20Cusco%2C%20Peru&ss_all=0&ss_raw=ollanta&ssb=empty&sshis=0&ssne_untouched=Machu%20Picchu&rsf=review_score-90
-
-
-
-https://www.expediafortd.com/Hotel-Search?destination=Ollantaytambo,+Cusco+(region),+Peru&startDate=11/05/2019&endDate=13/05/2019&adults=2&regionId=6084546&guestRating=40&sort=price&latLong=-13.258469,-72.2642
-
-
-
-==================	
-========May 13-14
-========Lima
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=a34390b77a84b7271802f4b653e449aa&checkin_month=5&checkin_monthday=13&checkin_year=2019&checkout_month=5&checkout_monthday=14&checkout_year=2019&class_interval=1&dest_id=-352647&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&nflt=pri%3D1%3Bhr_24%3D8%3Breview_score%3D80%3B&no_dorms=1&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&ss=Lima&ssb=empty&ssne=Lima&ssne_untouched=Lima&order=price
-
-
-
-==================	
-========May 14-15
-========GYE
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AEB6AEB-AELkgIBeagCBA&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=14&checkin_year=2019&checkout_month=5&checkout_monthday=15&checkout_year=2019&class_interval=1&clear_ht_id=1&dest_id=-927505&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=691041fd72d30066&ss=Guayaquil%2C%20Ecuador&ss_all=0&ss_raw=guaya&ssb=empty&sshis=0&ssne_untouched=Lima&nflt=pri%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D800038%3B&rsf=roomfacility-800038&lsf=roomfacility%7C800038%7C14&update_av=1
-
-
-	
-==================	
-========May 15-20
-========San Cristobal
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=15&checkin_year=2019&checkout_month=5&checkout_monthday=20&checkout_year=2019&city=-932274&class_interval=1&dest_id=-932274&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&srpvid=d86842a7ccc0000b&ss=Puerto%20Baquerizo%20Moreno&ss_all=0&ssb=empty&sshis=0&ssne=Puerto%20Baquerizo%20Moreno&ssne_untouched=Puerto%20Baquerizo%20Moreno&nflt=review_score%3D80%3Bpri%3D1%3Bfc%3D2%3Bfc%3D5%3Broomfacility%3D800038%3B&rsf=roomfacility-800038&lsf=roomfacility%7C800038%7C6
-
-
-
-
-https://www.expediafortd.com/Hotel-Search?destination=Puerto+Baquerizo+Moreno,+Galapagos,+Ecuador&startDate=15/05/2019&endDate=20/05/2019&adults=2&regionId=6138894&guestRating=40&sort=price&latLong=-0.899221,-89.599711
-
-
-https://www.expedia.ca/Hotel-Search?destination=Puerto+Baquerizo+Moreno,+Galapagos,+Ecuador&startDate=15/05/2019&endDate=20/05/2019&adults=2&regionId=6138894&guestRating=40&sort=price&latLong=-0.899221,-89.599711
-
-
-
-
-
 ==================	
 ========May 20-21
 ========Santa Cruz
@@ -182,26 +24,6 @@ https://www.booking.com/hotel/ec/la-mirada-del-solitario-george.en-gb.html?aid=3
 
 
 
-
-
-Also
-
-https://www.booking.com/hotel/ec/ocean-dreams-puerto-ayora.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEKd2luZG93cyAxMMgBDNgBA-gBAZICAXmoAgM;sid=1e2f000b93202e89be9823b3018ea505;all_sr_blocks=133556001_85782795_2_2_0;checkin=2019-05-23;checkout=2019-05-24;dest_id=-932268;dest_type=city;dist=0;group_adults=2;hapos=33;highlighted_blocks=133556001_85782795_2_2_0;hpos=13;nflt=rpt%3D1%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D800038%3Boos%3D1%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1555255489;srpvid=7a736c60df3100a1;type=total;ucfs=1&#availability
-
-
-
-
-
-==================	
-========May 21-23
-========Isabela
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=939121&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=05&checkin_monthday=21&checkin_year=2019&checkout_month=05&checkout_monthday=23&checkout_year=2019&class_interval=1&dest_id=-932338&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_rooms=1&order=price&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=6d0a4353ca320171&ss=Puerto%20Villamil%2C%20Galapagos%2C%20Ecuador&ss_raw=Puerto%20vill&ssb=empty&ssne_untouched=Puerto%20Baquerizo%20Moreno&nflt=review_score%3D80%3Bpri%3D1%3Bfc%3D2%3Bfc%3D5%3Broomfacility%3D800038%3B&rsf=fc-2%2Cfc-5%2Croomfacility-800038&lsf=fc%7C2%7C7
-
-
-
 ==================	
 ========May 23-24
 ========Santa Cruz
@@ -217,66 +39,20 @@ https://www.expediafortd.com/Hotel-Search?destination=Puerto+Ayora,+Galapagos,+E
 
 
 
-
 ==================	
-========May 24-26
-========Quito
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=d7bc46f99e6908bfa8a6c62bc9bc24d8&checkin_month=5&checkin_monthday=24&checkin_year=2019&checkout_month=5&checkout_monthday=26&checkout_year=2019&class_interval=1&dest_id=-932573&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_dorms=1&no_rooms=1&order=price&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&srpvid=f87d450905bc005d&ss=Quito&ssb=empty&ssne=Quito&ssne_untouched=Quito&nflt=pri%3D1%3Breview_score%3D90%3Bfc%3D2%3Bfc%3D5%3Broomfacility%3D800038%3B&rsf=fc-2%2Cfc-5%2Croomfacility-800038&lsf=fc%7C2%7C61&update_av=1#map_closed
-
-
-
-Baquedano
-https://www.booking.com/hotel/ec/casa-baquedano.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=3bdaa20e13373dd9f96cab64451fe719&checkin=2019-05-24&checkout=2019-05-26
-
-
-
-https://www.expediafortd.com/Hotel-Search?destination=Quito+(and+vicinity),+Ecuador&startDate=24/05/2019&endDate=26/05/2019&adults=2&regionId=6053672&guestRating=40&sort=price&latLong=-0.191085,-78.486115
-
-
-
-
-
-Where to Stay in Quito:
-La Mariscal
-Gonzalez Suarez
-La Carolina
-Quito Old Town
-
-
-
-
-
+========Car rent
+	
+	
+	Cusco	156 CAD
+		https://www.ca.kayak.com/cars/Cusco,Peru-c12159/2019-05-10-16h/2019-05-13-16h?sort=price_a
+		
+		https://www.expedia.ca/carsearch?date1=10%2F05%2F2019&date2=13%2F05%2F2019&dpln=941&loc2=&locn=Cusco%2C%20Peru&selSort=Price&time1=400PM&time2=400PM
+		
+		https://www.expediafortd.com/carsearch?date1=10%2F05%2F2019&date2=13%2F05%2F2019&dpln=941&loc2=&locn=Cusco%2C%20Peru&selSort=Price&time1=400PM&time2=400PM
 
 
 ==================	
 ========Plane
-
-
-https://www.ca.kayak.com/flights/YYZ-LIM/2019-05-03-h/LIM-AQP/2019-05-04-h/UIO-YYZ/2019-05-26-h?sort=price_a
-https://www.google.ca/flights/?gl=ca#flt=/m/0h7h6.LIM.2019-05-03*LIM.AQP.2019-05-04*UIO.YYZ.2019-05-26;c:CAD;e:1;so:1;sd:1;t:f;tt:m
-
-https://www.ca.kayak.com/flights/YYZ-LIM/2019-05-03-h/UIO-YYZ/2019-05-26-h?sort=price_a
-https://www.ca.kayak.com/flights/LIM-AQP/2019-05-04-h/?sort=price_a
-
-
-https://www.ca.kayak.com/flights/CUZ-GYE/2019-05-13/?sort=price_a
-https://www.google.ca/flights/?gl=ca#flt=CUZ.GYE.2019-03-13;c:CAD;e:1;so:1;sd:1;t:f;tt:o
-
-https://www.ca.kayak.com/flights/GYE-SCY/2019-05-15/?sort=price_a
-https://www.google.ca/flights/?gl=ca#flt=GYE.SCY.2019-03-15;c:CAD;e:1;so:1;sd:1;t:f;tt:o
-
-https://www.ca.kayak.com/flights/GPS-UIO/2019-05-24/?sort=price_a
-https://www.google.ca/flights/?gl=ca#flt=GPS.UIO.2019-03-24;c:CAD;e:1;so:1;sd:1;t:f;tt:o
-
-
-https://www.ca.kayak.com/flights/YYZ-LIM/2019-05-03-h/UIO-YYZ/2019-05-26-h?sort=price_a
-https://www.google.ca/flights/?gl=ca#flt=/m/0h7h6.LIM.2019-05-03*UIO./m/0h7h6.2019-05-26;c:CAD;e:1;so:1;sd:1;t:f;tt:m
-
-https://www.ca.kayak.com/flights/LIM-AQP/2019-05-04-h/?sort=price_a
-
 
 
 May 2019
@@ -285,8 +61,12 @@ May 2019
 			JRJEW7
 				1192.48
 				Seats cannot be assigned - only during check-in
+						8E 8D
+						?? ??
+						?? ??
+						?? ??
 				https://serviciosenlinea.avianca.com/General/EstadoReserva/EstadoReserva.aspx?lan=EN&pais=CA
-
+				
 				
 		VivaAir LIM-AQP
 			O6T98M
@@ -324,21 +104,11 @@ May 2019
 ==========================================
 ==========================================
 ========Car
-
+		
 				
-				
 
-May 2019
-	car rent
+Sep 2019
 	
-	Cusco	156 CAD
-		https://www.ca.kayak.com/cars/Cusco,Peru-c12159/2019-05-10-16h/2019-05-13-16h?sort=price_a
-		
-		https://www.expedia.ca/carsearch?date1=10%2F05%2F2019&date2=13%2F05%2F2019&dpln=941&loc2=&locn=Cusco%2C%20Peru&selSort=Price&time1=400PM&time2=400PM
-		
-		https://www.expediafortd.com/carsearch?date1=10%2F05%2F2019&date2=13%2F05%2F2019&dpln=941&loc2=&locn=Cusco%2C%20Peru&selSort=Price&time1=400PM&time2=400PM
-		
-		
 		
 	Tbilisi	486 CAD
 		https://www.ca.kayak.com/cars/Tbilisi,Georgia-c24544/2019-09-07-10h/2019-09-18-10h?sort=price_a
@@ -633,38 +403,26 @@ https://www.expediafortd.com/Hotel-Search?destination=Moscow,+Russia+(DME-Domode
 
 ==========================================
 ==========================================
-==========================================
+==========================================			
+========Plane
+
+
+GET THIS FROM SEP DETAILS!!!
 
 
 Sep 2019
 			
 			
-https://www.expedia.ca/Flights-Search?flight-type=on&starDate=30%2F08%2F2019&mode=search&trip=oneway&leg1=from%3AToronto%2C+ON%2C+Canada+%28YYZ-Pearson+Intl.%29%2Cto%3ABarcelona%2C+Spain+%28BCN-All+Airports%29%2Cdeparture%3A30%2F08%2F2019TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY
-	440
-	https://www.google.ca/flights?hl=en#flt=YYZ.BCN.2019-08-30;c:CAD;e:1;sd:1;t:f;tt:o
-https://www.expedia.ca/Flights-Search?trip=oneway&leg1=from%3AMoscow%2C%20Russia%20(MOW)%2Cto%3AToronto%2C%20ON%2C%20Canada%20(YYZ)%2Cdeparture%3A16%2F10%2F2019TANYT&passengers=adults%3A1%2Cchildren%3A0%2Cseniors%3A0%2Cinfantinlap%3AY&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.ca	
-	300
-	https://www.google.ca/flights?hl=en#flt=/m/04swd.YYZ.2019-10-16;c:CAD;e:1;sd:1;t:f;tt:o
 
-https://wizzair.com/en-gb#/booking/select-flight/BCN/KUT/2019-09-06/null/1/0/0/0/null
-	90+34 (OR 122, then 121)	74 / 99
-
-https://www.google.ca/flights?hl=en#flt=IAS.TBS.2019-09-14;c:CAD;e:1;sd:1;t:f;tt:o
-	220 (112)
-https://www.google.ca/flights?hl=en#flt=OTP.TBS.2019-09-15;c:CAD;e:1;sd:1;t:f;tt:o	https://www.expedia.ie/Flights-Search?flight-type=on&starDate=15%2F09%2F2019&mode=search&trip=oneway&leg1=from%3ABucharest%2C+Romania+%28OTP-Henri+Coanda+Intl.%29%2Cto%3ATbilisi%2C+Georgia+%28TBS-Tbilisi+Intl.%29%2Cdeparture%3A15%2F09%2F2019TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY&fareCalendarPrice=108
-	170
-https://www.google.ca/flights?hl=en#flt=KIV.TBS.2019-09-13;c:CAD;e:1;sd:1;t:f;tt:o
-https://www.google.ca/flights?hl=en#flt=KIV.KBP.2019-09-13;c:CAD;e:1;sd:1;t:f;tt:o
-https://www.google.ca/flights?hl=en#flt=KBP.TBS.2019-09-13;c:CAD;e:1;sd:1;t:f;tt:o
-	220 (112)
-https://www.google.ca/flights?hl=en#flt=KIV.TBS.2019-09-15;c:CAD;e:1;sd:1;t:f;tt:o
-	220 (112)
-	
-https://www.google.ca/flights?hl=en#flt=TBS.LED.2019-09-19;c:CAD;e:1;sd:1;t:f;tt:o
-	131 CAD
-https://www.google.ca/flights?hl=en#flt=TBS./m/04swd.2019-09-19;c:CAD;e:1;sd:1;t:f;tt:o
-	188 CAD (99EUR)
-			
+		Avianca YYZ-LIM-UIO-YYZ			May 3-26
+			JRJEW7
+				1192.48
+				Seats cannot be assigned - only during check-in
+						8E 8D
+						?? ??
+						?? ??
+						?? ??
+				https://serviciosenlinea.avianca.com/General/EstadoReserva/EstadoReserva.aspx?lan=EN&pais=CA			
 			
 
 
@@ -731,249 +489,3 @@ end Jan - Feb - end Mar (Feb-beg Mar!!!)
 
 	
 	
-	
-	
-	
-==========================================
-==========================================
-==========================================	
-	
-	
-	
-	
-	
-	
-Hi
-
-My name is Vasile Zavizion
-I have 2 bookings with you - May 3-4, 2019 and May 13-14, 2019
-
-I have some questions about our 1st stay
-
-1. We are arriving at Lima airport at 1.40am on May 4, 2019 (in the middle of the night). Just want to confirm that late check-in is OK and you'll be waiting for us.
-2. Could you get a taxi / shuttle from airport for us and how much will it cost?
-3. How do we pay - is credit card OK, is there any surcharge for credit card payment?
-4. We are flying from Lima to Arequipa on May 4 in the evening. Is it possible to leave luggage with you for a couple of hours, we will pick it up at 3pm?
-
-Thank you for your time,
-Vasile
-
-
-
-Hi, Liliana
-
-50 soles for taxi is OK
-Here are our flight details
-Airline: Avianca
-Flight number: 931 (AV 931 from San Salvador)
-Arrival time flight: 01:40 (early morning of May 4)
-
-Please send us some confirmation message when you arrange the taxi
-
-ANd we would appreciate if you could wait for us, not the doorman
-
-Thank you,
-Vasile
-
-
-
-
-
-
-Hi
-
-My name is Vasile Zavizion
-I have a booking with you - May 4-6, 2019
-
-I have some questions about our stay
-
-1. We are arriving at Arequipa airport at 7.30pm on May 4, 2019. Just want to confirm that late check-in is OK and you'll be waiting for us around 8-9pm?
-2. Could you get a taxi / shuttle from airport for us and how much will it cost?
-3. We have tourist bus to Colca at 3am on May 6, 2019 (in the middle of the night). Just want to confirm that early check-out is OK and there will be somebody at 3am to open the door and let us out
-
-Thank you for your time,
-Vasile
-
-
-
-Hi, Manuel
-
-Thank you for your response
-
-For the taxi:
-We arrive with VivaAir flight VV 802 on May 4
-I just found out that they changed our flight time and we arrive to Arequipa at 20:25
-
-But how do we know the taxi price - is it 25 or 35 soles? Is it metered taxi?
-
-Thank you,
-Vasile
-
-
-
-
-
-Hi
-
-My name is Vasile Zavizion
-I have a booking with you - May 8-10, 2019
-
-I have some questions about our stay
-
-
-1. As far as I understand, your address is Calle Tecsecocha 566. But location on Google Maps is different from location on Booking.com map. Can you help us with your exact location - maybe nearest intersection or something that is nearby (restaurant, etc) or Google coordinates
-
-2. How do we pay - is credit card OK, is there any surcharge for credit card payment?
-
-3. We are planning to hike to Huchuy Quosco on May 9. Would you be able to get a taxi for us from Cusco to Laguna Piuray and how much will it cost?
-
-4. Is it possible to leave luggage (1 suitacase) with you for 4 days until May 13. We will pick it up around 5pm
-
-
-Thank you for your time,
-Vasile
-	
-	
-	
-	
-
-
-	
-	
-	
-Hi, Walter
-
-We are coming with Peru Rail train #75 at 20:45 on May 10, 2019
-
-But we are thinking about buying bus tickets before going to hotel - I think ticket booth should still be open
-
-Thank you,
-Tatiana	
-
-
-
-
-
-
-
-
-Hi
-
-My name is Vasile Zavizion
-
-I have a booking with you for May 14-15, 2019
-
-How could we get your free airport shuttle - where is the pick up stop?
-
-Thank you,
-Vasile
-
-
-
-
-
-
-
-
-reservations@sixt.com.pe
-
-Information Request
-
-
-Hi
-
-My name is Vasile Zavizion
-
-I have a reservation with you for dates from 10.05.2019 15:30 to 13.05.2019 15:30 
-
-Reservation number: 9872194588
-
-Your web-site says that there is no Sixt branch at the airport and you are offering Meet & Greet Service
-
-We do not have a flight, we arrive in Cusco by bus on May 8.
-Is it possible to pick up the car in Cusco city centre on May 10?
-
-My email
-vzavizion@yahoo.com
-
-My phone number (also WhatsApp)
-+1 416 434 0154
-
-
-Thank you,
-Vasile
-
-
-
-51 1 4443050
-
-
-
-
-Hi
-
-My name is Vasile Zavizion
-I have a booking with you - May 24-26, 2019
-
-I have some questions about our stay
-
-1. Do you provide airport shuttle and how much will it cost?
-
-2. How do we pay - is credit card OK, is there any surcharge for credit card payment?
-
-3. We have a flight at 5am on May 26, 2019 (early morning). Just want to confirm that early check-out at 2am is OK and there will be somebody to open the door and let us out
-
-Thank you for your time,
-Vasile
-
-
-
-Hi, Jenny 
-
-My name is Vasile Zavizion
-I have a booking with you - May 24-26, 2019
-I wrote you on Booking.com and received your reply
-
-We would like to book a taxi from airport to your hotel for 26 USD for 2 persons
-
-Here are our flight details
-
-Flight number
-LATAM  XL1410
-
-24 May
-11:25 - 15:52
-
-Departure Baltra, Galapagos Islands (11:25)
-Arrival Quito (15:52)
-1 stop in Guayaquil
-
-
-Thank you for your prompt response,
-Vasile
-
-
-
-
-
-
-
-
-
-
-Hi
-
-My name is Vasile Zavizion
-I have a booking with you - May 11-13, 2019
-
-I have a question about our stay
-
-We will be coming from Machu Picchu with Peru Rail train #84 at 20:05 on May 11, 2019
-Just want to confirm that late check-in is OK and you'll be waiting for us around 8-9pm?
-
-
-Thank you,
-Vasile
-
-
-
