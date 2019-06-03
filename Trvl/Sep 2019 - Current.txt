@@ -122,6 +122,10 @@ Tsarskoe Selo
 ========Plan
 
 
+breakfast
+	Gran Cafe Dr Zhivago
+
+
 
 Red Square
 	400m-by-150m area of cobblestones that is at the very heart of Moscow
@@ -227,6 +231,7 @@ Red Square - optional
 		Grand Coffee Mania
 	Detsky Mir
 		Lepim i Varim
+		Khachapuri
 
 
 16.00-19.00 Sparrow Hills + Vdnkh
@@ -1087,78 +1092,104 @@ Delicatessen aka Деликатесы
 
 Next Time
 Dukhan Chito-Ra
-GEORGIAN$
-( MAP GOOGLE MAP ; %8-916-393 0030; www.chito-ra.ru; ul Kazakhova 10 str 2; mains R300-500; hnoon-11pm; mKurskaya)
-It's a blessing when one of the most revered Georgian eateries in town is also one of the cheapest. The object of worship here is khinkali – large, meat-filled dumplings – but the traditional vegie starters are also great. The rather inevitable downside is that the place is constantly busy and there is often a queue to get in.
-https://www.tripadvisor.ca/Restaurant_Review-g298484-d1136061-Reviews-Duhan_Chito_Ra-Moscow_Central_Russia.html
 
-!
-oDarbazi
-GEORGIAN$$
-( MAP GOOGLE MAP ; %495-915 3632; www.darbazirest.ru; ul Nikoloyamskaya 16; mains R590-1500; hnoon-midnight; W; mTaganskaya)
-The vast majority of Georgian restaurants focus on the most popular, tried-and-true fare, such as shashlyk (meat kebabs) and khinkali (dumplings). This classy place goes far beyond these, listing less well-known delicacies with almost encyclopaedic meticulousness. Our favourite is chakapuli (lamb cooked in white wine with tarragon) and megreli kharcho (duck in walnut sauce).
-https://www.tripadvisor.ca/Restaurant_Review-g298484-d5567024-Reviews-Darbazi-Moscow_Central_Russia.html
+	noon-11pm
 
-???
-oKitayskaya Gramota
-CHINESE$$
-(Китайская грамота MAP GOOGLE MAP ; %495-625 4757; http://chinagramota.ru/; ul Sretenka 1; mains R400-1200; hnoon-midnight; mSretenskaya)
-Ignore the fact that the waiting staff are dressed as Mao's soldiers; this is the place to try outstanding Cantonese fare in an atmosphere echoing that of the Opium War's decadence. A true culinary magician, the Chinese chef turns any ingredient – from hog paw to octopus to simple milk – into a mouth-watering delicacy.
+	mains R300-500
 
-!!!
+	georgian
+	place is constantly busy and there is often a queue to get in
+	
+	khinkali
+	traditional vegie starters are also great
+
+	https://www.tripadvisor.ca/Restaurant_Review-g298484-d1136061-Reviews-Duhan_Chito_Ra-Moscow_Central_Russia.html
+
+	
+	
+Next Time
+Darbazi
+
+	noon-midnight
+	
+	mains R590-1500
+	
+	georgian
+	
+	shashlyk and khinkali
+	less well-known delicacies 
+		chakapuli (lamb cooked in white wine with tarragon) 
+		megreli kharcho (duck in walnut sauce)		
+	desserts, such as pelamushi (red grape mousse)
+
+	https://www.tripadvisor.ca/Restaurant_Review-g298484-d5567024-Reviews-Darbazi-Moscow_Central_Russia.html
+
+
+
+Next Time
 Odessa-Mama
-UKRAINIAN$$
-( MAP GOOGLE MAP ; %8-964-647 1110; www.cafeodessa.ru; per Krivokolenny 10 str 5; R400-800; h10am-11pm Sun-Thu, to 2am Fri & Sat; mChistye Prudy)
-Come here to celebrate Odessa, affectionately called 'mama' by the residents of this port city. What mama cooks is a wild fusion of Jewish, Ukrainian and Balkan foods, with a strong emphasis on Black Sea fish. It's like island hopping – from forshmak (Jewish herring pate) to Ukrainian borsch and eventually to fried Odessa gobies.
-https://www.tripadvisor.ca/Restaurant_Review-g298484-d6622798-Reviews-Odessa_Mama-Moscow_Central_Russia.html
 
-???
-Yuzhane
-MODERN EUROPEAN$$
-( MAP GOOGLE MAP ; %495-926 1640; www.facebook.com/yuzhanemsk/; pr Akademika Sakharova 10; mains R450-1300; hnoon-midnight; mKrasnye Vorota)
-A carnivore stronghold, Yuzhane (which means 'the Southerners') gets its meat from the Kuban area in southern Russia, hence the name. The chef's philosophy is to utilise every bit of an animal's body, so in addition to juicy steaks, the menu features all kinds of by-products. The southern theme is backed by seafood and a wealth of vegetables, including meaty tomatoes.
+	10am-11pm
 
-???
-Madam Galife
-GEORGIAN$$
-( MAP GOOGLE MAP ; %495-775 2601; www.madamgalife.ru; Pr Mira 26/1; mains R430-850; hnoon-5am; W; mProspekt Mira)
-A brainchild of famous Georgian film director Rezo Gabriadze, this is much more than just another Caucasian restaurant. It faces the charming Aptekarsky Ogorod gardens for starters, and the interior design – combining naive art with antiques brought from Georgia – is superb. Food is a mixture of Georgian and European. To avoid disappointment, stick to the former.
-Presnya
+	R400-800
 
-???
-oStolle
-CAFE$
-(Штолле MAP GOOGLE MAP ; www.stolle.ru; Bldg 1, Bolshaya Sadovaya ul 3; mains R200-400; h8am-11pm; aWc; mMayakovskaya)
-The entire menu at Stolle is excellent, but the pirozhki (savoury pies) are irresistible. A ‘stolle’ is a traditional Saxon Christmas cake: the selection of sweets and savouries sits on the counter, fresh from the oven. It may be difficult to decide (mushroom or meat, apricot or apple?), but you really can’t go wrong.
+	ukrainian
 
-???
-Volkonsky
-BAKERY$
-(Волконский MAP GOOGLE MAP ; www.wolkonsky.com; Bolshaya Sadovaya ul 2/46; mains R250-400, sweets from R100; hbakery 8am-11pm, cafe 24hr; Wvc; mMayakovskaya)
-The queue often runs out the door, as loyal patrons wait their turn for the city’s best freshly baked breads, pastries and pies. It’s worth the wait, especially if you decide on a fruit-filled croissant or to-die-for olive bread. Next door there are big wooden tables where you can get large bowls of coffee or tea.
+	wild fusion of Jewish, Ukrainian and Balkan foods, with a strong emphasis on Black Sea fish
+		forshmak (Jewish herring pate) 
+		Ukrainian borsch 
+		fried Odessa gobies
 
-???
-oTwins
-RUSSIAN$$
-( MAP GOOGLE MAP ; %495-695 4510; www.twinsmoscow.ru; Malaya Bronnaya ul 13; mains R650-1750; Wv; mTverskaya)
-Swoon-worthy identical-twin chefs Sergei and Ivan Berezutskiy bring their contrasting tastes and creative talents to this delightful restaurant. The brothers take a thoroughly modern approach to Russian cooking, with ingredients procured from all corners of the country. Seating is on the pleasant terrace or in the classy, kitschy dining room.
+	Ukrainian Vareniki dumplings
+
+	https://www.tripadvisor.ca/Restaurant_Review-g298484-d6622798-Reviews-Odessa_Mama-Moscow_Central_Russia.html
+
+
 
 !!!
-oKhachapuri
-GEORGIAN$$
-(Хачапури MAP GOOGLE MAP ; %8-985-764 3118; www.hacha.ru; Bolshoy Gnezdnikovsky per 10; khachapuri R220-420, mains R430-690; aW; mPushkinskaya)
-Unassuming, affordable and appetising, this urban cafe exemplifies what people love about Georgian culture: the warm hospitality and the freshly baked khachapuri (cheese bread). Aside from eight types of delicious khachapuri, there’s also an array of soups, shashlyk (kebabs), khinkali (dumplings) and other Georgian favourites.
-https://www.tripadvisor.ca/Restaurant_Review-g298484-d2369835-Reviews-Khachapuri-Moscow_Central_Russia.html
-https://www.tripadvisor.ca/Restaurant_Review-g298484-d2621154-Reviews-Khachapuri-Moscow_Central_Russia.html
-https://www.tripadvisor.ca/Restaurant_Review-g298484-d6864873-Reviews-Khachapuri-Moscow_Central_Russia.html
+Khachapuri
 
+	10.00-23:00
+
+	khachapuri R220-420
+	mains R430-690
+
+	georgian	
+	
+	freshly baked khachapuri
+		eight types of delicious khachapuri
+		shashlyk (kebabs), khinkali (dumplings) and other Georgian favourites
+		
+	http://www.hacha.ru
+
+	https://www.tripadvisor.ca/Restaurant_Review-g298484-d2369835-Reviews-Khachapuri-Moscow_Central_Russia.html
+	https://www.tripadvisor.ca/Restaurant_Review-g298484-d2621154-Reviews-Khachapuri-Moscow_Central_Russia.html
+	https://www.tripadvisor.ca/Restaurant_Review-g298484-d6864873-Reviews-Khachapuri-Moscow_Central_Russia.html
+
+	
+	
 !!!
 Gran Cafe Dr Zhivago
-RUSSIAN$$
-(Гранд Кафе Dr Живаго MAP GOOGLE MAP ; %499-922 0100; www.drzhivago.ru; Mokhovaya ul 15/1; mains R540-1200; h24hr; mOkhotny Ryad)
-An excellent breakfast choice before visiting the Kremlin, this round-the-clock place mixes Soviet nostalgia with a great deal of mischievous irony in both design and food. The chef has upgraded the menu of a standard pioneer camp’s canteen to near-haute-cuisine level, with masterfully cooked porridge, pancakes, vareniki (boiled dumplings, like ravioli) and cottage-cheese pies.
-https://www.tripadvisor.ca/Restaurant_Review-g298484-d7122712-Reviews-Grand_Cafe_Dr_Zhivago-Moscow_Central_Russia.html
 
+	24hr
+	occupies the premises of the historic Cafe Berlin inside the Hotel National
+	
+	mains R540-1200
+	
+	excellent breakfast choice before visiting the Kremlin
+		masterfully cooked porridge, pancakes, vareniki and cottage-cheese pies
+		
+	menu of a standard pioneer camp’s canteen upgraded to near-haute-cuisine level
+	
+	russian
+
+	http://www.drzhivago.ru; 
+
+	https://www.tripadvisor.ca/Restaurant_Review-g298484-d7122712-Reviews-Grand_Cafe_Dr_Zhivago-Moscow_Central_Russia.html
+	
+
+	
+	
 ???
 oVarenichnaya No 1
 RUSSIAN$
@@ -3374,22 +3405,9 @@ The standard for tipping in Moscow is 10%, while a slightly smaller percentage i
 If you pay by credit card, you will not have an opportunity to add the tip onto the charge, so be prepared to leave the tip in cash.
 
 
-Lonely Planet's Top Choices
-Khachapuri A casual, contemporary place for the eponymous Georgian speciality.
-Kitayskaya Gramota A very serious take on Cantonese cooking in a playful, ironic environment.
-Twins Two contrasting perspectives create a singular dining experience.
-
-
 Best By Budget
-€
-Varenichnaya No 1 A friendly, family place for dumplings and other old-fashioned Russian cooking.
-Dukhan Chito-Ra Possibly the best khinkali (dumplings) this side of the Caucasus range.
-Stolle A friendly cafe serving fresh-baked pies with your favourite fillings.
 €€
 Elardzhi Delicious Georgian cuisine in a delightful courtyard.
-AQ Kitchen An Argentinian chef shows off Mediterranean flavours at this Moscow kitchen.
-Khachapuri Georgian favourites in a casual but cosmopolitan setting.
-Twins Simple, local and delicious – all at an affordable price.
 €€€
 Nedalny Vostok A taste of the Near East.
 Pinch A delightfully trendy stop for small plates.
@@ -3403,23 +3421,16 @@ Arbat & Khamovniki
 Elardzhi A tasty and tasteful place to indulge in a Georgian feast.
 Zamoskvorechie
 Mizandari Classy but congenial setting for Georgian fare.
-Meshchansky & Basmanny
-Kitayskaya Gramota Outstanding Cantonese fare in an opulent setting.
 
 
 Best By Cuisine
 Russian
 Chemodan Get a taste of the wilds of Siberia.
-Twins Sample the brothers' new Russian cuisine.
 Caucasian
-Khachapuri Refreshingly affordable, but still delicious Georgian fare.
 Elardzhi Traditional Georgian fare, served in a comfortable but cool courtyard setting.
-Darbazi This Georgian place goes beyond the standards.
 ???
 Levon's Highland Cuisine Armenia's answer to street food.
 Mizandari A classy, inexpensive place in Red October.
-Ukrainian
-Odessa-Mama Comfortable, casual and delicious Ukrainian fare.
 !!!
 Shinok Delicious dining on a Ukrainian farm.
 https://www.tripadvisor.ca/Restaurant_Review-g298484-d691626-Reviews-Shinok-Moscow_Central_Russia.html
@@ -3938,7 +3949,6 @@ In Outer Presnya, the wide roads, heavy traffic and ongoing construction mean th
 
 Local Life
 AParks Packs of teens, grandmothers with wee ones and starry-eyed couples all congregate at Patriarch’s Ponds to sit on the shady benches and feed the ducks.
-ABakery The queue often runs out the door as loyal patrons wait their turn for the city’s best freshly baked breads, pastries and pies at Volkonsky.
 ABrunch Weekends at Scramble are an expat institution.
 Getting There & Away
 AInner Presnya Inner Presnya is most easily accessed from Mayakovskaya station on line 2 (green) or Pushkinskaya station on line 7 (purple).
@@ -3948,28 +3958,7 @@ AInternational Business Centre The new development around the International Busi
 Lonely Planet's Top Tip
 In the backstreets around Bolshaya Nikitskaya ul, many old mansions have survived – some renovated, others dilapidated. Most of those on the streets closest to the Kremlin were built by the 18th-century aristocracy, while those further away were built by rising 19th-century industrialists. Nowadays many of these buildings are occupied by embassies and cultural institutions. With little traffic, Bolshaya Nikitskaya ul is excellent for a quiet ramble.
 
-Best Places to Eat
-A Volkonsky
-A Khachapuri
-???
-A AQ Kitchen
-A Twins
-A Stolle
 
-???
-Best Places to Drink
-A Time-Out Rooftop Bar
-A Jagger
-A Art Lebedev Cafe Studio
-A Bar Klava
-A Nikuda ne edem
-
-???
-Best Kids' Outings
-A Moscow Planetarium
-A Moscow Zoo
-A Patriarch's Ponds
-A Tsereteli Studio-Museum
 
 
 1SIGHTS
@@ -4122,10 +4111,6 @@ AmBarrikadnaya
 Presnya is home to some of Moscow's most exciting and enticing eateries. In particular, the streets around Patriarch's Ponds are crowded with trendy cafes and sophisticated restaurants, many showing off truly creative cooking by internationally renowned chefs. Other noteworthy dining destinations include Bolshaya Nikitskaya ul (inside the Boulevard Ring) and Bolshaya Gruzinskaya ul (near Tverskaya ul). Tryokhgornaya Manufaktura is fast becoming a centre for dining and drinking, adding to the existing venues along ul 1905 goda.
 
 5Inner Presnya
-VOLKONSKY
-BAKERY€
-(Волконский MAP GOOGLE MAP ; www.wolkonsky.com; Bolshaya Sadovaya ul 2/46; mains R250-400, sweets from R100; hbakery 8am-11pm, cafe 24hr; Wvc; mMayakovskaya)
-The queue often runs out the door, as loyal patrons wait their turn for the city’s best freshly baked breads, pastries and pies. It’s worth the wait, especially if you decide on a fruit-filled croissant or to-die-for olive bread. Next door there are big wooden tables where you can get large bowls of coffee or tea.
 
 ???
 SCRAMBLE
@@ -4152,21 +4137,6 @@ FUSION€
 Colourful graffiti, amateur artwork and old photographs adorn the walls of this quirky basement cafe. The decor creates an arty setting for healthy, veg-heavy meals, fresh juices and fancy teas.
 There is another outlet on Bolshoy Kozikhinsky per.
 
-oTWINS
-RUSSIAN€€
-( MAP GOOGLE MAP ; %495-695 4510; www.twinsmoscow.ru; Malaya Bronnaya ul 13; mains R650-1750; WvE; mTverskaya)
-Swoon-worthy identical-twin chefs Sergei and Ivan Berezutskiy bring their contrasting tastes and creative talents to this delightful restaurant. The brothers take a thoroughly modern approach to Russian cooking, with ingredients procured from all corners of the country. Seating is on the pleasant terrace or in the classy, kitschy dining room.
-
-oKHACHAPURI
-GEORGIAN€€
-(Хачапури MAP GOOGLE MAP ; %8-985-764 3118; www.hacha.ru; Bolshoy Gnezdnikovsky per 10; khachapuri R220-420, mains R430-690; aWE; mPushkinskaya)
-Unassuming, affordable and appetising, this urban cafe exemplifies what people love about Georgian culture: the warm hospitality and the freshly baked khachapuri (cheese bread). Aside from eight types of delicious khachapuri, there’s also an array of soups, shashlyk (kebabs), khinkali (dumplings) and other Georgian favourites.
-
-GRAN CAFE DR ZHIVAGO
-RUSSIAN€€
-(Гранд Кафе Dr Живаго MAP GOOGLE MAP ; %499-922 0100; www.drzhivago.ru; Mokhovaya ul 15/1; mains R540-1200; h24hr; mOkhotny Ryad)
-An excellent breakfast choice before visiting the Kremlin, this round-the-clock place mixes Soviet nostalgia with a great deal of mischievous irony in both design and food. The chef has upgraded the menu of a standard pioneer camp’s canteen to near-haute-cuisine level, with masterfully cooked porridge, pancakes, vareniki (boiled dumplings, like ravioli) and cottage-cheese pies.
-Dr Zhivago occupies the premises of the historic Cafe Berlin inside the Hotel National.
 
 !!!
 MARI VANNA
@@ -4232,9 +4202,6 @@ The baroque interior is unbelievably extravagant, with hand-painted furniture, g
 
 
 5Outer Presnya
-oSTOLLECAFE€
-(Штолле MAP GOOGLE MAP ; www.stolle.ru; Bldg 1, Bolshaya Sadovaya ul 3; mains R200-400; h8am-11pm; aWEc; mMayakovskaya)
-The entire menu at Stolle is excellent, but the pirozhki (savoury pies) are irresistible. A ‘stolle’ is a traditional Saxon Christmas cake: the selection of sweets and savouries sits on the counter, fresh from the oven. It may be difficult to decide (mushroom or meat, apricot or apple?), but you really can’t go wrong.
 
 ???
 BULKA
@@ -5405,11 +5372,7 @@ Lonely Planet's Top Tip
 Trams departing from Chistye Prudy metro station are a nice way of touring this section of the Boulevard Ring. All of them go down to the river and across the bridge to Novokuznetskaya metro in Zamoskvorechie.
 
 Best Places to Eat
-A Darbazi
-A Kitayskaya Gramota
-A Odessa-Mama
 A Levon's Highland Cuisine
-A Yuzhane
 
 Best Places to Drink
 A Ukuleleshnaya
@@ -5579,33 +5542,7 @@ Past an extensive 18th-century barracks is the beautiful five-domed 1679 Interce
 
 5EATING
 
-Maroseyka and Pokrovka are perhaps the city's most important restaurant rows, with cool (and not so cool) cafes lining both streets.
-
-5Meshchansky
-oKITAYSKAYA GRAMOTA
-CHINESE€€
-(Китайская грамота MAP GOOGLE MAP ; %495-625 4757; http://chinagramota.ru/; ul Sretenka 1; mains R400-1200; hnoon-midnight; mSretenskaya)
-Ignore the fact that the waiting staff are dressed as Mao's soldiers; this is the place to try outstanding Cantonese fare in an atmosphere echoing that of the Opium War's decadence. A true culinary magician, the Chinese chef turns any ingredient – from hog paw to octopus to simple milk – into a mouth-watering delicacy.
-The sumptuous 'fried milk' dessert is to die for.
-
-MADAM GALIFE
-GEORGIAN€€
-( GOOGLE MAP ; %495-775 2601; www.madamgalife.ru; Pr Mira 26/1; mains R430-850; hnoon-5am; W; mProspekt Mira)
-A brainchild of famous Georgian film director Rezo Gabriadze, this is much more than just another Caucasian restaurant. It faces the charming Aptekarsky Ogorod gardens for starters, and the interior design – combining naive art with antiques brought from Georgia – is superb. Food is a mixture of Georgian and European. To avoid disappointment, stick to the former.
-Also adding to the awesome atmosphere is the live music – mostly piano and some other jazzy ensembles – performed every night.
-
-YUZHANE
-MODERN EUROPEAN€€
-( MAP GOOGLE MAP ; %495-926 1640; www.facebook.com/yuzhanemsk/; pr Akademika Sakharova 10; mains R450-1300; hnoon-midnight; mKrasnye Vorota)
-A carnivore stronghold, Yuzhane (which means 'the Southerners') gets its meat from the Kuban area in southern Russia, hence the name. The chef's philosophy is to utilise every bit of an animal's body, so in addition to juicy steaks, the menu features all kinds of by-products. The southern theme is backed by seafood and a wealth of vegetables, including meaty tomatoes.
-
-
 5Basmanny
-
-oDUKHAN CHITO-RAGEORGIAN€
-( MAP GOOGLE MAP ; %8-916-393 0030; www.chito-ra.ru; ul Kazakhova 10 str 2; mains R300-500; hnoon-11pm; mKurskaya)
-It's a blessing when one of the most revered Georgian eateries in town is also one of the cheapest. The object of worship here is khinkali – large, meat-filled dumplings – but the traditional vegie starters are also great. The rather inevitable downside is that the place is constantly busy and there is often a queue to get in.
-Beware – there is a lot of delicious broth inside the dumplings, so bite a little and suck it out before proceeding with the rest.
 
 LEVON'S HIGHLAND CUISINEARMENIAN€
 ( MAP GOOGLE MAP ; %8-985-108 8947; http://levonscafe.com/; ul Pokrovka 3/7 str 1a; wraps R250; h10am-11pm; mKitay-Gorod)
@@ -5650,12 +5587,6 @@ INTERNATIONAL€
 (Филиал MAP GOOGLE MAP ; %495-621 2143; www.filialmoscow.ru; per Krivokolenny 3 str 1; mains R370-620; hnoon-6am; mChistye Prudy)
 The woodwork interior makes it look like a pub or even a Gothic chapel, but the menu is a bit of a culinary ping-pong with Japan and China on one side and Italy on the other. Italian pasta sits next to Asian noodles, while risotto meets Thai curry in the same section. DJs play all night on Fridays and Saturdays.
 
-ODESSA-MAMA
-UKRAINIAN€€
-( MAP GOOGLE MAP ; %8-964-647 1110; www.cafeodessa.ru; per Krivokolenny 10 str 5; R400-800; h10am-11pm Sun-Thu, to 2am Fri & Sat; mChistye Prudy)
-Come here to celebrate Odessa, affectionately called 'mama' by the residents of this port city. What mama cooks is a wild fusion of Jewish, Ukrainian and Balkan foods, with a strong emphasis on Black Sea fish. It's like island hopping – from forshmak (Jewish herring pate) to Ukrainian borsch and eventually to fried Odessa gobies.
-If seafood is not your thing, try Ukrainian Vareniki dumplings or Greek meatballs. Also worth checking out – for cultural as much as gastronomical reasons – are makarony po-flotski (navy-style pasta), a classic Soviet staple, filling locals with nostalgia for the good old times.
-
 ???
 SHCHERBET
 UZBEK€€
@@ -5679,11 +5610,6 @@ ISRAELI€
 ( MAP GOOGLE MAP ; %8-926-177 0206; www.facebook.com/dizengof99; 1-y Goncharny per 4/2; mains R450-570; mTaganskaya)
 Threadbare walls half-covered by corrugated sheets and cacti on the tables make this kiosk-like structure look like an army outpost in the Negev desert. In fact, this is a place to sample modern Middle Eastern food. Dishes include shakshuka (eggs fried in vegetable sauce), arayes (pita with chopped meat) and many kinds of hummus.
 
-oDARBAZI
-GEORGIAN€€
-( MAP GOOGLE MAP ; %495-915 3632; www.darbazirest.ru; ul Nikoloyamskaya 16; mains R590-1500; hnoon-midnight; WE; mTaganskaya)
-The vast majority of Georgian restaurants focus on the most popular, tried-and-true fare, such as shashlyk (meat kebabs) and khinkali (dumplings). This classy place goes far beyond these, listing less well-known delicacies with almost encyclopaedic meticulousness. Our favourite is chakapuli (lamb cooked in white wine with tarragon) and megreli kharcho (duck in walnut sauce).
-Definitely go for one of the desserts, such as pelamushi (red grape mousse).
 
 !!!
 KHITRYE LYUDI
@@ -8411,7 +8337,8 @@ Specialising in Adzhika cuisine from the Caucasus, this stylish place offers 10 
 CARDAMONINDIAN$
 (Кардамон MAP GOOGLE MAP ; %8-911-753 4741; 1-ya liniya 18; mains R250-650; hnoon-11pm; Wv; mVasileostrovskaya)
 The lacklustre decor may not instantly endear this Indian-run place to you, but its popularity with locals and visiting Indians says a great deal. The English-speaking owner will make you feel very welcome and the selection of delicious baltis, vindaloos, kadhai, biryanis and vegetarian dishes is impressive.
-STOLLERUSSIAN$
+STOLLE
+RUSSIAN$
 ( MAP GOOGLE MAP ; www.stolle.ru; 1-ya liniya 50; pies from R90; h8am-10pm; mVasileostrovskaya)
 This cosy pie shop and cafe was the first in this now nationwide chain. Aptly enough for a cafe that sells Saxon-style pies, it’s located in the heart of St Petersburg’s old German neighbourhood.
 oBUTER BRODSKYEUROPEAN$$
