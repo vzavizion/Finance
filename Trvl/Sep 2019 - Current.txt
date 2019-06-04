@@ -40,16 +40,12 @@ Restaurants
 Out of Hours / Closed Monday
 	Tretyakov Gallery
 	Pushkin Museum of Fine Arts
+	New Tretyakov Gallery
 
 
+	
 	
 Next Time
-	New Tretyakov Gallery
-	Art Muzeon aka Muzeon Park of Arts
-	Krymskaya Naberezhnaya
-		8km trail from Red October to Vorobyovy Gory via Gorky Park
-	Gorky Park
-	
 	State History Museum
 	
 	Aptekarsky Ogorod
@@ -234,16 +230,16 @@ Red Square - optional
 	
 	
 08.00-09.00 Red Square + Alexander Garden
-09.00-13.00 Kremlin
+09.00-12.00 Kremlin
 
 
-13.00-14.00 Red Square - optional
+12.00-13.00 Red Square - optional
 		GUM
 			Stolovaya No 57
 		St Basil’s Cathedral
 
 		
-14.00-16.00 Moscow centre
+13.00-16.00 Moscow centre 1
 	Zaryadye
 	Nikolskaya
 		Grand Coffee Mania
@@ -253,12 +249,20 @@ Red Square - optional
 		optional: Chemodan
 	Eliseyevskiy
 	Alyonka
-	
-		
-	
 
 
-16.00-19.00 Arbat + Sparrow Hills / Krymskaya Naberezhnaya (optional - if we still have time)
+16.00-19.00 Moscow centre 2
+
+	Arbat
+	
+	Sparrow Hills
+
+	Krymskaya Naberezhnaya
+		8km trail from Red October to Vorobyovy Gory via Gorky Park
+	
+		Neskuchny Sad
+		Gorky Park
+		Art Muzeon aka Muzeon Park of Arts	
 	
 
 19.00-20.00 Red Square	
