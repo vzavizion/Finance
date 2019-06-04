@@ -342,10 +342,23 @@ Sep 4 - Tossa de Mar beaches + Montserrat (1.5 hrs drive) + to hotel (1 hr drive
 	Evening
 		car return
 		Ramblas
-			Tapas + Bars	
+			Tapas + Bars
 
 
 Sep 5 - Eixample + Free Walking Tours + Montjuïc
+	Sunset 20.20
+
+	Plan
+		09.00-11.30 Sagrada Familia
+		11.30-12.00 Walk to Tapas + Bars
+		12.00-14.00 Tapas + Bars
+		14.00-16.00 Sleep
+		16.00-16.30 Walk to Free Walking Tour: Runner Bean Tours Eixample
+		16.30-19.00 End of Free Walking Tour (Sagrada Familia)
+		19.00-20.00 Lovestories Boutique (possible: do not go to Sagrada Familia at the end of the tour, but stay at Eixample and go to Lovestories Boutique instead - closes 20.00)
+		20.00-22.00 Tapas + Bars
+
+
 	Morning
 		Eixample
 		
@@ -360,6 +373,7 @@ Sep 5 - Eixample + Free Walking Tours + Montjuïc
 						Old Town
 							10:00 AM, 11:00 AM, 12:00 PM, 2:00 PM, 4:00 PM
 							2.5 hours
+							https://www.neweuropetours.eu/sandemans-tours/barcelona/free-tour-of-barcelona/
 							
 					Runner Bean Tours
 					
@@ -370,6 +384,7 @@ Sep 5 - Eixample + Free Walking Tours + Montjuïc
 						Eixample
 							daily 11am & 4.30pm
 							2.5 hours							
+							https://runnerbeantours.com/tours/gaudi-free-tour-barcelona/
 							
 					Other			
 						Free Walking Tours Barcelona
@@ -528,6 +543,17 @@ Sep 5 - Eixample + Free Walking Tours + Montjuïc
 		
 
 Sep 6 - Barri Gotic + to airport
+
+
+	Plan
+		08.30-10.00 Locker and Boqueria Breakfast
+		10.00-12.30 Sandemans Old Town Tour (OR 10.30-12.00 Palau Guell)
+		12.30-13.30 Plaça del Pi Farmers’ Market
+		13.30-15.00 Tapas + Bars
+		
+
+
+
 	Morning
 		Locker + Barri Gotic + La Ribera
 		
@@ -538,7 +564,7 @@ Sep 6 - Barri Gotic + to airport
 
 						
 				!!!
-				Boqueria Berakfast						
+				Boqueria Breakfast
 						
 					
 				!!!
@@ -607,7 +633,7 @@ Sep 6 - Barri Gotic + to airport
 					Palau Güell	
 						Tues–Sun 10am–8pm
 						€12, includes audio-guide
-						English guided tour Fri 2pm, no extra charge
+						English guided tour Fri 10.30am, no extra charge, approximately 1 hr
 						audioguide is worth listening to for the detailed descriptions of the architecture, as well as the music and the illustrations of the Güell family’s life
 
 						
@@ -703,7 +729,9 @@ Sep 6 - Barri Gotic + to airport
 						
 						time: 1 hr ride to airport
 
-				
+		
+		15.00-15.30 pick up luggage
+		15.30-16.30 ride to BCN airport
 		16.30-17.30 arrive BCN airport
 		17.30-19.30 BCN airport + optional: lounge
 		19.30-02.30 flight to Kutaisi
