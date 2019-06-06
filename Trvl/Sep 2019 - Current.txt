@@ -1,13 +1,3 @@
-========NEW
-			Booking.com
-				Tbilisi!!!
-
-			Expedia for TD: Europe Hotels
-			Expedia for TD: Europe Car
-			
-
-
-	
 =======================================================
 =======================================================
 =======================================================
@@ -255,17 +245,17 @@ Red Square - optional
 	
 	
 08.00-09.00 Red Square + Alexander Garden
-09.00-12.00 Kremlin
+09.30-13.30 Kremlin
 
 
-12.00-13.00 Red Square - optional
+13.30-14.00 Red Square - optional
 	GUM
 		lunch
 			Stolovaya No 57
 	St Basil’s Cathedral
 
 		
-13.00-16.00 Moscow centre 1
+14.00-17.00 Moscow centre 1
 	Zaryadye
 	Nikolskaya
 		dessert - expensive
@@ -282,7 +272,8 @@ Red Square - optional
 	Alyonka
 
 
-16.00-19.00 Moscow centre 2
+optional - if we have time:	
+17.00-19.00 Moscow centre 2
 
 	Sparrow Hills
 
@@ -1137,6 +1128,12 @@ Alyonka
 
 
 City transport tickets
+	Troika
+		There's a 50 ruble deposit at the time of purchase and this is refundable (less than $1). And the card can be used on trams, buses, metro, trolley bus and even for the Aeroexpress
+			Metro ride for 38 ruble
+		1 card could be used for 4 people
+			First you buy the card itself (it was 50 rubles, if I remember correctly), then you add the right amount of money, and then you can use it for each member of your family, passing them through the turnstile. The turnstile will show you how much more money you have. 
+
 	Ediny (Единый) ticket
 		single trip for R55
 		two trips for R110
@@ -1145,17 +1142,51 @@ City transport tickets
 	90 Minutes card
 		single trip R65
 		includes one metro ride and an unlimited number of bus/tram/trolleybus rides
-		
-
-
-
 
 		
 
+		
+Armoury		
+	Pre-book Armoury. No need to pre-book Kremlin area ticket (never sell out)
+		Audio guides in Krelim are meh, for a truly awesome experience join a small group tour (non-expensive). Same goes for the Armoury Chamber, you will have 10x times better experience with a guide and everything around Moscow will start to connect.
+			OR
+		Visit to the Armoury with the free audio guide was enjoyable
+		
+	!!!Important
+	There will be separate counters inside the ticket office where you may collect your tickets against the online booking confirmation. That queue is not long at all		
+		
+	Kremlin area ticket
+		Available from the ticket machine at the Kremlin ticket arra as well, does not sell out.
+
+	Armoury
+		You need ticket office in Alexander Garden to exchange online reservations for tickets
+			We just visited the Armoury at the Kremlin yesterday with advance purchased for the 10 am session. We exchanged our voucher for actual tickets - which took about 10 minutes in line at about 9:35 am. We then queued at the Amoury security gate to enter which does NOT open until 10 am.
+
+	Armoury can be accesed via Borovitskaya tower separately from Kremlin area, you need a ticket for Kremlin area if you want to visit it.
+		Borovistkaya is the way to enter The Armoury without Kremlin area ticket.
+		One can enter via Borovitskaya tower and continue to Kremlin inner area, having Kremlin area ticket. If you have an Armoury ticket, you can as well visit the Kremlin area with Kremlin area  ticket; and then continue to the Armoury when time comes. Shortly, there is a ticket control while going from the Armoury towards Cathedrals inside Kremlin area
+
+	Leave through Spasskaya Bashnya - directly to Red Square
 
 
-
-
+	09.00 ticket office in Alexander Garden to exchange online reservations for tickets
+	09.30 enter Kremlin area
+	10.00 enter Armoury through Kremlin area (or through Borovitskaya tower)
+	
+	
+	
+	
+Stolovaja MGU
+	https://yandex.ru/maps/213/moscow/?clid=47355&l=stv%2Csta&ll=37.612650%2C55.755419&panorama%5Bdirection%5D=66.357777%2C0.331725&panorama%5Bfull%5D=true&panorama%5Bpoint%5D=37.612311%2C55.755465&panorama%5Bspan%5D=120.000000%2C58.093140&win=42&z=19	
+	
+	
+	
+Best View	
+	Singer in St. Petersburg
+	
+	While not a total view, also a nice view back on the city from Sparrow Hills where the Moscow State U. is located
+	
+	
 ==============================================================================================================
 ==============================================================================================================
 ==============================================================================================================
@@ -1181,13 +1212,28 @@ City transport tickets
 
 
 The Hermitage
-	unrivalled collection of Western art
-	superb antiquities, sculpture and jewellery on display	
+	rooms 151–189: Russian Culture & Imperial Apartments
+	
+	optional:
+		rooms 190–192: Neva Enfilade
+		rooms 193–198: Great Enfilade
+		
+	room 204: Pavilion Hall & Hanging Garden & Peacock Clock
+
 	stupendously decorated public halls and private apartments of the Romanovs, for whom the Winter Palace was home until 1917
 	new galleries in the General Staff Building (Matisse, etc)
 
 	
+	
+	
+	
 Russian Museum
+
+
+
+
+
+
 cruise the city’s rivers and canals
 Peterhof
 Tsarskoe Selo
@@ -1197,9 +1243,6 @@ Tsarskoe Selo
 
 St Petersburg Highlights
 
-
-!!!
-1 Hermitage Spend a day (or more!) in one of the world’s most unrivalled art collections.
 
 !!!
 2 Church of the Savior on the Spilled Blood Witness the amazing kaleidoscope of colours of this iconic church.
@@ -1221,99 +1264,354 @@ St Petersburg Highlights
 
 
 
-History
-It was Peter the Great’s desire to make Russia a major European power that led to the founding of St Petersburg. At the start of the Great Northern War (1700–21), he captured the Swedish outposts on the Neva, and in 1703 he began the construction of his city with the Peter & Paul Fortress.
-After Peter trounced the Swedes at Poltava in 1709, the city he named Sankt Pieter Burch (in Dutch style, after his namesake) really began to grow. In 1712 Peter moved the capital from Moscow to this still embryonic site, drafting in armies of peasants and Swedish prisoners of war to work as forced labour. Many died of disease and exhaustion, and St Petersburg is still known as ‘a city built upon bones’ to many Russians. Architects and artisans came to St Petersburg from all over Europe though, and by Peter’s death in 1725 the city had a population of 40,000 and some 90% of Russia’s foreign trade passed through it.
-Between 1741 and 1825, during the reigns of Empress Elizabeth, Catherine the Great and Alexander I, St Petersburg became a cosmopolitan city with an imperial court of famed splendour. These monarchs commissioned glittering palaces, government buildings and grand churches.
-Revolution & War
-The emancipation of the serfs in 1861 and industrialisation, which peaked in the 1890s, brought a flood of workers into the city, leading to squalor, disease and festering discontent. St Petersburg became a hotbed of strikes and political violence, and was the hub of the 1905 revolution, sparked by ‘Bloody Sunday’ on 9 January 1905, when a strikers’ march to petition the tsar in the Winter Palace was fired on by troops. In 1914, in a wave of patriotism at the start of WWI, the city’s name was changed to the Russian-style Petrograd.
-In 1917 the workers’ protests turned into a general strike and troops mutinied, forcing the end of the monarchy in March and the establishment of a provisional government. Seven months later, Lenin’s Bolshevik Party staged an audacious coup and the Soviet government came into being. Fearing a German attack on Petrograd, the new government moved the capital back to Moscow in March 1918.
-Renamed Leningrad after Lenin’s death in 1924, the city became a hub of Stalin’s 1930s industrialisation program. By 1939 its population had grown to 3.1 million and it accounted for 11% of Soviet industrial output. Stalin feared the city as a rival powerbase, however, and the 1934 assassination of the local communist chief Sergei Kirov at the Smolny Institute was the start of his 1930s Communist Party purge.
-When Germany attacked the USSR in June 1941, its armies took only 2 1/2 months to reach Leningrad. It was the birthplace of Bolshevism, and Hitler swore to wipe the city from the face of the earth. His troops besieged the city in what would become the defining event of the 20th century for St Petersburg. Around a million people died from shelling, starvation and disease in what’s often called the ‘900 Days’ (actually 872). By comparison, the USA and UK suffered about 700,000 dead between them in total for the whole of WWII. Leningrad survived and, after the war, was proclaimed a ‘hero city’.
-St Petersburg Again
-During the 1960s and ’70s, Leningrad developed a reputation as a dissident’s city with an artistic underground spearheaded by the poet Joseph Brodsky and, later, rock groups such as Akvarium. In 1989 Anatoly Sobchak, a reform-minded candidate, was elected mayor. Two years later, as the USSR crumbled, the city’s citizens voted to bring back the name of St Petersburg (though the region around the city remains known as Leningradskaya Oblast).
-In the anarchic post-Soviet years of the early 1990s, it often seemed like the local ‘Mafia’ were more in charge than the city’s elected officials, who proved to be equally corrupt. Romanov ghosts returned to the city on 17 July 1998, when the remains of Tsar Nicholas II and some of his family were buried in the crypt at the SS Peter & Paul Cathedral within the fortress of the same name.
-Five years later enormous sums were budgeted to spruce up the city for its tercentenary celebrations. Local boy made good Vladimir Putin didn’t waste the opportunity to return to his birthplace and show it off to visiting heads of state and other dignitaries. The city still enjoys a prominent status in modern Russia today and is a favourite spot for summits and other governmental meetings.
+!!!
+Nevsky Prospekt
 
+!
+Strelka 
 
-NEIGHBOURHOODS AT A GLANCE
+???
+Kunstkamera
 
-1Historic Heart
-
-Radiating out from the golden spire of the Admiralty towards the Fontanka River, the Historic Heart has plenty of obvious attractions, such as the Hermitage, Russian Museum and the Church on the Spilled Blood, not to mention the city's most famous avenue: Nevsky Prospekt. There are also quirky gems like the Museum of Soviet Arcade Machines and a quartet of lovely parks. This is where you will be spending most of your time in St Petersburg, especially as the area is also blessed with excellent hotels, dining and drinking options.
-2Smolny & Vosstaniya
-
-This agglomeration of four districts (Smolny, Liteyny, Vosstaniya and Vladimirskaya) is also part of the city centre. The Smolny peninsula is a well-heeled residential district dominated by the Smolny Cathedral, while next-door Liteyny is centred on Liteyny pr, a commercial street between the Smolny and the Fontanka River. South of Nevsky pr are Vosstaniya and Vladimirskaya. Vosstaniya is the focus of St Petersburg’s underground art and drinking scene, while Vladimirskaya, named after the stunning Vladimirsky Cathedral, is a mercantile district full of shopping, markets and a clutch of quirky museums.
-3Sennaya & Kolomna
-
-These two areas adjoin the Historic Heart and are almost as historic themselves. Sennaya is centred on Sennaya Pl (the Haymarket), a traditionally poor area that was immortalised in Dostoevsky’s Crime and Punishment and has somehow retained its seedy, down-at-heel air despite a big attempt to redevelop it. Kolomna is the largest of seven islands and a quiet, rather out-of-the-way place, although one steeped in history and great beauty. It contains the world-famous Mariinsky Theatre and more canals and rivers than any other part of the city.
-4Vasilyevsky Island
-
-The eastern edge of Vasilyevsky Island (or VO as it's usually shortened to) was originally designed to be the administrative heart of the city under Peter the Great. The plan was never carried out but there's still a concentration of historical sights there, including the Strelka and Kunstkamera. The western side of the island is more industrial, but is also home to the fantastic Erarta Museum of Contemporary Art. Transport fans will be thrilled by the opportunity to tour a couple of submarines and an icebreaker, and by museums devoted to trams and the metro.
-5Petrograd & Vyborg Sides
-
-The Petrograd Side is a fascinating place that includes everything from the Peter and Paul Fortress to an impressive clutch of Style Moderne buildings lining its main drag. It also hosts a beautiful mosque, many interesting museums and huge swaths of parkland on the Kirov Islands, the city’s largest green lung. The Vyborg Side is famous for its role in Soviet history and can be a little bleak. That said, a walk around the fascinating postindustrial landscape here will appeal to travellers who have palace fatigue, and a few interesting sights make the trip worthwhile.
+!!!
+Erarta Museum of Contemporary Art
 
 
 
-TOP SIGHT
-THE HERMITAGE
-The Hermitage fully lives up to its sterling reputation. You can be absorbed by its treasures for days and still come out wanting more. The enormous collection (over three million items, only a fraction of which are on display in 360 rooms) almost amounts to a comprehensive history of Western European art.
-
-
-BRIAN KINNEY / SHUTTERSTOCK ©
-DON'T MISS
-ARembrandt (Room 254)
-AGreat Church (Room 271)
-ATreasure Gallery
-APeacock Clock (Room 204)
-PRACTICALITIES
-AГосударственный Эрмитаж
-A MAP GOOGLE MAP
-Awww.hermitagemuseum.org
-ADvortsovaya pl 2
-Acombined ticket R700
-Ah10.30am-6pm Tue, Thu, Sat & Sun, to 9pm Wed & Fri
-AmAdmiralteyskaya
-
-History
-Catherine the Great, one of the greatest art collectors of all time, began the collection. Nicholas I also greatly enriched it and opened the galleries to the public for the first time in 1852.
-It was the post-revolutionary period that saw the collection increase threefold, as many valuable private collections were seized by the state, including those of the Stroganovs, Sheremetyevs and Yusupovs. In 1948 it incorporated the renowned collections of post-Impressionist and Impressionist paintings of Moscow industrialists Sergei Shchukin and Ivan Morozov.
-
-Visiting the Hermitage
-The State Hermitage consists of five linked buildings along riverside Dvortsovaya nab (rom west to east):
-Winter Palace (Зимний дворец MAP GOOGLE MAP ; www.hermitagemuseum.org; Dvortsovaya pl 2; combined ticket R700; h10.30am-6pm Tue, Thu, Sat & Sun, to 9pm Wed & Fri; mAdmiralteyskaya) This stunning mint-green, white and gold profusion of columns, windows and recesses, with its roof topped by rows of classical statues, was commissioned from Bartolomeo Rastrelli in 1754 by Empress Elizabeth. Catherine the Great and her successors had most of the interior remodelled in a classical style by 1837. It remained an imperial home until 1917, though the last two tsars spent more time in other palaces.
-Small Hermitage (Малый Эрмитаж MAP GOOGLE MAP ; www.hermitagemuseum.org; Dvortsovaya pl 2; joint ticket R700; h10.30am-6pm Tue, Thu, Sat & Sun, to 9pm Wed & Fri; mAdmiralteyskaya) Used by Catherine the Great as a retreat and to house the art collection started by Peter the Great, which she significantly expanded.
-Great (Old) Hermitage (Большой (Старый) Эрмитаж MAP GOOGLE MAP ; www.hermitagemuseum.org; Dvortsovaya pl 2; joint ticket R700; h10.30am-6pm Tue, Thu, Sat & Sun, to 9pm Wed & Fri; mAdmiralteyskaya) This section of the museum (also known as the Large Hermitage) dates from the time of Catherine the Great. It mainly houses Italian Rennaissance art including works by Leonardo da Vinci, Raphael, Giorgione, Titian, Botticelli, Caravaggio and Tiepolo.
-New Hermitage (Новый Эрмитаж MAP GOOGLE MAP ; www.hermitagemuseum.org; Dvortsovaya pl 2; joint ticket R700; h10.30am-6pm Tue, Thu, Sat & Sun, to 9pm Wed & Fri; mAdmiralteyskaya) Built for Nicholas II in 1852, to hold the growing art collection and as a museum for the public. Designed by German neoclassicist architect and painter von Klenze, the historically preserved rooms house the museum's collections of ancient art, European paintings, sculptures and decorative art.
-Hermitage Theatre ( MAP GOOGLE MAP ; %812-408 1084; https://hermitagetheater.com; Dvortsovaya nab 32; online tickets from R8300; mAdmiralteyskaya) Designed by Giacomo Quarenghi, this intimate neo-classical auditorium was once the private theatre of the imperial family, and stands on the site of the original Winter Palace of Peter I.
-The main public entrance is via the courtyard of the Winter Palace off Palace Sq.
-Quick Tour
-It would take days to fully do justice to the Hermitage’s huge collection. If your time is limited, zone in on the following rooms:
-Room 100 Ancient Egypt
-Jordan Staircase Directly ahead when you pass through the main entrance inside the Winter Palace.
-Rooms 175–98 Imperial state rooms and apartments, including the Malachite Hall, Nicholas Hall, Armorial Hall and Hall of St George.
-Room 204 The Pavilion Hall.
-Rooms 207–238 Italian art, 13th to 18th centuries.
-Rooms 239–40 Spanish art, 16th to 18th centuries.
-Rooms 245–47 Flemish art, 17th century.
-Rooms 249–254 Dutch art, 17th century.
-Room 271 Grand Church, the imperial family’s cathedral.
-Room 298–301 English art.
-The Hermitage is a dynamic institution. Displays change, renovations continue, specific pieces go on tour, and temporary exhibitions occupy particular rooms, displacing whatever normally resides there, so be prepared for slight changes.
-TOP TIPS
-AAvoid possibly long entrance queues by buying your ticket online. The printed-out voucher or PDF on a wi-fi–enabled device is valid for 180 days.
-AAlternatively pay at the computerised ticket machines in the main entrance courtyard and be sure to wait for your tickets to be printed at the end of the transaction (they come after the payment receipt).
-AIf you leave jackets and bags in the cloakroom, be aware that you can’t go back for anything without leaving the museum.
-AHandbags, small shoulder bags and plastic bags are allowed in the Hermitage, but backpacks aren’t.
-Organised Tours
-Contact the excursions office to arrange a guided tour. These are one way to avoid queuing and, although they whiz round the main sections in about 1½ hours, at least they provide an introduction to the place in English, German or French. It’s easy to ‘lose’ the group and stay on until closing time.
-Also contact the excursions office if you plan to visit the Hermitage's Treasure Gallery ( MAP GOOGLE MAP ; %812-571 8446; www.hermitagemuseum.org; Winter Palace, Dvortsovaya pl; tour of Diamond or Golden Rooms R350; mAdmiralteyskaya). These two special collections, guarded behind vault doors, are open only by guided tour, for which you should either call ahead to reserve a place, or buy a ticket at the entrance. The Golden Rooms collection focuses on a hoard of fabulous Scythian and Greek gold and silver from the Caucasus, Crimea and Ukraine, dating from the 7th to 2nd centuries BC; the Diamond Rooms section has fabulous jewellery from Western Europe, and pieces from as far apart as China, India and Iran.
-Other Branches
-As much as you see in the museum, there’s about 20 times more in its vaults, part of which you can visit at the Hermitage Storage Facility. Other museum branches are the General Staff Building (home to the Hermitage's amazing collection of Impressionist and post-Impressionist works), the Winter Palace of Peter I, the Menshikov Palace on Vasilyevsky Island, and the Imperial Porcelain factory.
 
 
 
+The Hermitage
+
+
+	10.30am-6pm Tue, Thu, Sat & Sun
+	10.30am-9pm Wed & Fri
+	
+	combined ticket R700
+	
+	Treasure Gallery 
+		tour of Diamond or Golden Rooms R350
+	
+	main public entrance is via the courtyard of the Winter Palace off Palace Sq
+
+	http://www.hermitagemuseum.org
+
+	don't miss
+		Rembrandt (Room 254)
+			Return of the Prodigal Son
+		Great Church (Room 271)
+		Treasure Gallery
+		Peacock Clock (Room 204)
+	
+	
+	history
+		Catherine the Great, one of the greatest art collectors of all time, began the collection. Nicholas I also greatly enriched it and opened the galleries to the public for the first time in 1852
+
+		it was the post-revolutionary period that saw the collection increase threefold, as many valuable private collections were seized by the state, including those of the Stroganovs, Sheremetyevs and Yusupovs. In 1948 it incorporated the renowned collections of post-Impressionist and Impressionist paintings of Moscow industrialists Sergei Shchukin and Ivan Morozov
+
+		
+	visiting
+		five linked buildings along riverside Dvortsovaya nab (from west to east):
+			Winter Palace aka Зимний дворец
+				stunning mint-green, white and gold profusion of columns, windows and recesses, with its roof topped by rows of classical statues, was commissioned from Bartolomeo Rastrelli in 1754 by Empress Elizabeth. Catherine the Great and her successors had most of the interior remodelled in a classical style by 1837. It remained an imperial home until 1917, though the last two tsars spent more time in other palaces
+			
+			Small Hermitage aka Малый Эрмитаж
+				used by Catherine the Great as a retreat and to house the art collection started by Peter the Great, which she significantly expanded
+						
+			Great (Old) Hermitage aka Большой (Старый) Эрмитаж
+				mainly houses Italian Rennaissance art including works by Leonardo da Vinci, Raphael, Giorgione, Titian, Botticelli, Caravaggio and Tiepolo
+
+			New Hermitage aka Новый Эрмитаж
+				built for Nicholas II in 1852, to hold the growing art collection and as a museum for the public. Designed by German neoclassicist architect and painter von Klenze, the historically preserved rooms house the museum's collections of ancient art, European paintings, sculptures and decorative art
+
+			Hermitage Theatre
+				once the private theatre of the imperial family, and stands on the site of the original Winter Palace of Peter I
+
+				
+	quick tour - zone in on the following rooms:
+		Room 100 Ancient Egypt
+		Jordan Staircase
+			directly ahead when you pass through the main entrance inside the Winter Palace
+		Rooms 175–98 Imperial state rooms and apartments, including the Malachite Hall, Nicholas Hall, Armorial Hall and Hall of St George
+		Room 204 The Pavilion Hall
+		Rooms 207–238 Italian art, 13th to 18th centuries
+		Rooms 239–40 Spanish art, 16th to 18th centuries
+		Rooms 245–47 Flemish art, 17th century
+		Rooms 249–254 Dutch art, 17th century
+		Room 271 Grand Church, the imperial family’s cathedral
+		Room 298–301 English art
+
+		
+	collection
+		
+		???
+		first-floor exhibits
+		
+			to get here you’ll need to go up to the 2nd floor and then down via the stairs between Rooms 153 and 156 or between Rooms 289 and 288
+			
+			???		
+			rooms 11–24, 27 & 33: Prehistoric Artefacts
+				most of the items were excavated from different regions of the USSR during the Soviet era
+				highlights
+					Room 12
+						Carved petroglyphs (dating to 2000 BC) were taken from the northeastern shores of Lake Onega after archaeological expeditions in 1935
+
+					Rooms 13–14
+						Excavations of a burial mound in the northern Caucasus include the corpse of a nomadic chief, lavishly dressed and covered in jewels
+						
+					Rooms 26–32, 38–69
+						Siberian Antiquities, Central Asia & Caucasus						
+							Room 26 Contains mummified human corpses that are more than 2000 years old, as well as a fantastically reconstructed wooden cart
+							Rooms 47–51 Feature impressive 7th- and 8th-century relics from Panjakent in present-day Tajikistan
+							Rooms 67-69 Feature art and artefacts of the Golden Horde, which swept through Russia in the 13th and 14th centuries
+
+			???
+			rooms 89–91: Ancient Near East
+				impressive collection of cuneiform texts from Babylon and Assyrian limestone reliefs
+
+			
+			???
+			room 100: Ancient Egypt
+				incredible collection of ancient Egyptian artefacts uncovered by Russian archaeologists
+					display spans the Egyptian era from the Old Kingdom (3000–2400 BC) to the New Empire (1580–1050 BC)
+					
+					many painted sarcophagi and tombstones carved with hieroglyphics, as well as a fascinating mummy from the 10th century BC
+					
+			???			
+			rooms 106–131: Greek & Roman Antiquities
+				more than 100,000 items from Ancient Greece and Rome, including thousands of painted vases, antique gemstones, Roman sculpture and Greek gold
+				
+				Room 107
+					Jupiter Hall is a sumptuous space with portraits of sculptors on the ceiling
+				
+				Room 108 
+					designed by German neoclassicist architect and painter von Klenze to imitate a Roman courtyard
+
+				Room 109
+					Peter I acquired the sculpture Aphrodite (Tauride Venus) from Pope Clement XI. This piece – a Roman copy of a Greek original – was the first antique sculpture ever brought to Russia
+
+				Room 111
+					another impressive design by von Klenze, this one was intended to be a library (which explains the philosophers’ profiles)
+
+				Room 130
+					Hall of Twenty Columns, containing a fabulous collection of Greco-Roman clay urns.
+
+			
+		second-floor highlights
+
+			!!!
+			rooms 151–189: Russian Culture & Imperial Apartments
+
+				huge collection from ancient Rus (10th to 15th centuries) through to the 18th century, including artefacts, icons, portraits and furniture
+
+				private apartments of the last tsar, Nicholas II, and the imperial family
+					rooms were completed in 1894, and they now show off elaborate 19th-century interiors
+					
+				Rooms 151 & 153 
+					long corridor, broken up by a vast clock, contains portraits of all the Russian tsars from Peter the Great to Nicholas II
+
+				Rooms 155–156
+					Moorish Dining Room and Rotunda
+
+				Rooms 157–162 
+					Petrovsky Gallery displays personal effects and equipment used by Peter the Great, as well as some beautiful early-18th-century furniture. Look for the ivory chandelier that was partly built by Peter himself
+					
+				Room 161
+					In 1880 there was an attempt on the life of Alexander II in this room. A young revolutionary, Khalturin, planted a bomb in the room below. It killed 11 soldiers when it went off, although the tsar had wandered into another room at the time
+					
+				Room 178
+					Nicholas II spent much of his time in this wonderful Gothic library, topped with a sublime walnut ceiling
+
+				Room 181
+					relatively small and intimate Pompeii dining room
+					
+				Room 187 
+					griffin-motif furniture in this palace drawing room dates from 1805
+					
+				Room 188 
+					small dining room where the Provisional Government was arrested by the Bolsheviks in 1917
+					
+				Room 189 
+					Two tonnes of gorgeous green columns, boxes, bowls and urns have earned this room the name ‘Malachite Hall’, and it is one of the most striking rooms in the entire palace. The handiwork of architect Alexander Bryullov, it was completed in 1839. Three figurines on the wall represent Day, Night and Poetry. This was where the last meeting of the 1917 Provisional Government occurred, on the fateful nights of 25 and 26 October 1917; they were arrested soon after, in the Small Dining Room next door.
+
+					
+			rooms 190–192: Neva Enfilade
+				three grand ceremonial halls often used for temporary exhibitions
+
+				Room 190
+					this Concert Hall was used for small soirées. The enormous ornate silver tomb was commissioned by Empress Elizabeth for the remains of Alexander Nevsky
+					
+				Room 191
+					as many as 5000 guests could be entertained in the Great Hall (also called Nicholas Hall). The palace’s largest room was the scene of imperial winter balls
+
+				Room 192
+					this anteroom was used for pre-ball champagne buffets
+					
+
+			rooms 193–198: Great Enfilade
+					more state rooms here
+
+					Room 193
+						Field Marshals’ Hall is known for its military-themed chandelier and its portraits of seven of Russia’s military leaders
+
+					Room 194
+						Hall of Peter the Great contains his none-too-comfy throne.
+
+					Room 195
+						gilt Armorial Hall contains chandeliers engraved with the coat-of-arms of all the Russian provinces
+
+					Room 197
+						1812 War Gallery is hung with 332 portraits of Russian and allied Napoleonic war leaders
+
+					Room 198
+						St George’s Hall served as the state rooms where the imperial throne used to sit. With white Carrara marble imported from Italy and floors crafted from the wood of 16 different tree species, it is a splendid affair
+
+			!!!
+			room 204: Pavilion Hall & Hanging Garden
+					ceremonial Pavilion Hall is an airy white-and-gold room sparkling with 28 chandeliers and the famous Peacock Clock
+					
+					south windows look on to Catherine the Great’s hanging garden (built over the stables), while the north overlooks the Neva. The amazing floor mosaic in front of the windows is a copy of that in the Roman bath of Otricoli (Ocriculum) near Rome
+
+					
+			rooms 207–238: Italian Art
+Covering 30-plus rooms, the Hermitage’s collection of Italian art traverses the 13th to the 18th centuries. The highlights are certainly the works by the Renaissance artists: Leonardo da Vinci, Raphael, Giorgione and Titian. Look also for Botticelli, Caravaggio and Tiepolo.
+ARoom 207 The earliest example in this collection is The Crucifixion, painted by Ugolino di Tedice in the second half of the 13th century.
+ARoom 214 Of a dozen or so original paintings by da Vinci that exist in the world, two are here. The very different Benois Madonna (1478) and Madonna Litta (1490) are named after their last owners. For years, the latter was considered lost. However, in 1909, the Russian architect Leon Benois surprised the art world when he revealed that it was part of his father-in-law’s collection.
+ARoom 217 Giorgione is one of the most mysterious painters of the Renaissance, as only a few paintings exist that are known for certain to be his work. A portrait of idealised beauty, Judith is said to represent the inseparability of life and death.
+ARoom 221 The work of Titian, the best representative of the Venetian school during the 16th century, is featured here: Danaya and St Sebastian are widely accepted as two of his masterpieces.
+ARoom 224 Accessed off this room is the Hermitage Theatre; there are lovely views from the connecting corridor over the Neva.
+ARooms 226–227: Loggia of Raphael When Catherine the Great visited the Vatican she was so impressed that she commissioned Quarenghi to create this copy of a Vatican gallery; a team of Raphael’s students recreated the master’s murals on canvas. Note the occasional Russification on these versions: the two-headed eagle of the Romanov dynasty replaces the papal coat-of-arms.
+ARoom 229 Here you’ll enjoy two pieces by Raphael, The Holy Family and Madonna and Child, as well as many pieces by his disciples.
+ARoom 230 Contains the Hermitage’s only piece by Michelangelo, a marble statue of a crouching boy.
+ARooms 237–238 These Italian Skylight Halls are bathed in natural light, which highlights the ornately moulded ceilings.
+
+			rooms 239–240: Spanish Art
+Ranging from the 16th to the 18th centuries, this collection includes the most noteworthy artists of this ‘Golden Age’ of Spanish painting: Murillo, Ribera and, of course, Velázquez. The collection also includes two remarkable paintings from the 16th century: the marvellous St Peter and St Paul, by El Greco, and St Sebastian Cured by St Irene, by Ribera.
+
+			room 243: Knights’ Hall
+Nicholas I started collecting artistic weapons and armaments from around the world. Here is the Western European collection, featuring four impressive 16th-century German knights sitting atop their armoured horses.
+
+			rooms 245–247: Flemish Art
+These three rooms dedicated to 17th-century Flanders are almost entirely consumed by three artists: Peter Paul Rubens, Anthony Van Dyck and Frans Snyders.
+
+			rooms 249–254: Dutch Art
+Dating from the 17th and 18th centuries, the Dutch collection contains more than 1000 pieces. The 26 paintings by Rembrandt in Room 254 nearly outshine anything else in these rooms. The collection traces his career, starting with Flora and The Descent from the Cross, which are noticeably lighter but more detailed. His later work tends to be darker and more penetrating, such as the celebrated The Return of the Prodigal Son. Painted between 1663 and 1665, it arguably represents the height of Rembrandt’s mastery of psychology in his paintings. The solemn baroque masterpiece is a moving portrait of unquestioning parental love and mercy.
+
+			rooms 263–268: German Art
+This small collection of German art ranges from the 15th to the 18th centuries. Among the earliest works here are five paintings by Lucas Cranach the Elder.
+
+			room 271: Great Church
+Looking splendid following a major renovation completed in 2014, this Rastrelli-designed chapel is one of the Winter Palace's most dazzling spaces, with a white and gilt dome and the ceiling painting The Ascension of Christ by Pyotr Basin.
+
+			rooms 272–288 & 290–297: French Art & Interiors
+These rooms trace the development of French art from the 15th to the 18th centuries, including tapestries, ceramics, metalwork and paintings. Look for rooms devoted to Nicholas Poussin, founder of French classicism, and Claude Lorrain, master of the classical landscape. Room 282, Alexander Hall, is a testament to the victory over Napoleon in 1812.
+
+			rooms 298–301: British Art
+These rooms showcase 15th- to 18th-century British art. Highlights include:
+ARoom 298 Portrait of a Lady in Blue, by Thomas Gainsborough, perhaps the most famous piece in the English collection.
+ARoom 300 The Infant Hercules Strangling the Serpents by Sir Joshua Reynolds, which was commissioned by Catherine the Great to symbolise the growing strength of Russia.
+
+
+
+		???
+		third-floor Highlights
+			access to Rooms 314–332, some of which are used for temporary exhibitions, is via stairs off Rooms 269 or 280 on the 2nd floor
+			
+			Far East, Central Asia and Islamic Near East collections are reached via the stairs off Rooms 302 or 156 also on the 2nd floor
+			
+
+			rooms 351–391: Oriental & Middle Eastern Culture & Art
+			
+				Rooms 351 to 376
+					art from the Far East, including China, Japan, Tibet, Indonesia, Mongolia and India
+				
+				Rooms 381 to 391 
+					wonderful works from Byzantium
+					
+					Room 391 provides a panoramic view across the Neva from the northwest corner of the Winter Palace
+
+
+					
+		Treasure Gallery
+For lovers of things that glitter and the applied arts, the Hermitage's Treasure Gallery ( MAP GOOGLE MAP ; %812-571 8446; www.hermitagemuseum.org; Winter Palace, Dvortsovaya pl; tour of Diamond or Golden Rooms R350; mAdmiralteyskaya) should not be missed. These two special collections, guarded behind vault doors, are open only by guided tour, for which you should either call ahead to reserve a place, or buy a ticket at the entrance. The Golden Rooms collection focuses on a hoard of fabulous Scythian and Greek gold and silver from the Caucasus, Crimea and Ukraine, dating from the 7th to 2nd centuries BC; the Diamond Rooms section has fabulous jewellery from Western Europe and pieces from as far apart as China, India and Iran.
+
+
+
+
+JORDAN STAIRCASE
+The main staircase of the Winter Palace – a magnificent creation of Bartolomeo Rastrelli – was originally known as the Ambassadorial Staircase. However, in the 19th century it became known as the Jordan Staircase as every year on 6 January the imperial family would descend these stairs to the Neva River for the celebration of Christ’s baptism in the River Jordan.
+
+
+RUSSIAN ARK
+Wander with a ghost through 33 rooms of the Hermitage and 300 years of Russian history in Russian Ark (2002). Director Alexander Sokurov shot the movie in one continuous 96-minute take in the Winter Palace.
+Rooms 289 and 304–308 comprise the private apartments of Tsar Alexander II. Most spectacular is Room 304, the Golden Drawing Room, which features a fabulous gilt ceiling and a marble fireplace with an intricate mosaic over the mantle.
+
+
+
+PEACOCK CLOCK
+The centrepiece of the Pavilion Hall (Room 204) is the incredible Peacock Clock, created by James Cox and gifted to Catherine the Great in 1781 by Grigory Potemkin. A revolving dial in one of the toadstools tells the time: as it strikes the hour the automaton peacock spreads its wings and the toadstools, owl and cock come to life. A video beside the clock shows the action in close-up detail should you not be around for the once-weekly performance at 7pm on Wednesday.
+
+		
+		
+		
+		
+	top tips
+		avoid possibly long entrance queues by buying your ticket online
+			printed-out voucher or PDF on a wi-fi–enabled device is valid for 180 days
+		alternatively pay at the computerised ticket machines in the main entrance courtyard and be sure to wait for your tickets to be printed at the end of the transaction (they come after the payment receipt)
+	
+		contact the excursions office to arrange a guided tour. 
+			these are one way to avoid queuing 
+			about 1.5 hours, but it’s easy to ‘lose’ the group and stay on until closing time			
+		
+		Treasure Gallery - Diamond or Golden Rooms
+			special collections, guarded behind vault doors
+			open only by guided tour, for which you should either call ahead to reserve a place, or buy a ticket at the entrance
+			
+			Golden Rooms collection focuses on a hoard of fabulous Scythian and Greek gold and silver from the Caucasus, Crimea and Ukraine, dating from the 7th to 2nd centuries BC
+			
+			Diamond Rooms section has fabulous jewellery from Western Europe, and pieces from as far apart as China, India and Iran
+
+	other branches
+		General Staff Building
+			amazing collection of Impressionist and post-Impressionist
+		Winter Palace of Peter I
+		Menshikov Palace on Vasilyevsky Island
+		Imperial Porcelain factory
+
+		Hermitage Storage Facility
+
+
+
+		
+
+
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 TOP SIGHT
 PETER & PAUL FORTRESS
 Housing a cathedral, a former prison and various exhibitions, this large defensive fortress on Zayachy Island is the kernel from which St Petersburg grew into the city it is today and a must-see for history buffs. There are also panoramic views from atop the fortress walls, at the foot of which lies a sandy riverside beach, a prime spot for sunbathing.
@@ -1719,34 +2017,54 @@ Centred around a 48m-high obelisk, the monument (Монумент героиче
 
 
 Vasilyevsky Island
+???
 oKunstkameraMUSEUM
 (Кунсткамера MAP GOOGLE MAP ; %812-328 1412; www.kunstkamera.ru; Universitetskaya nab 3, entrance on Tamozhenny per; adult/child R300/100; h11am-7pm Tue-Sun; mAdmiralteyskaya)
 Also known as the Museum of Ethnology and Anthropology, this is the city’s first museum, founded in 1714 by Peter himself. It is famous largely for its ghoulish collection of monstrosities, preserved ‘freaks’, two-headed mutant foetuses, deformed animals and odd body parts, all collected by Peter. While most rush to see these sad specimens, there are also interesting exhibitions on native peoples from around the world.
+
+!!!
 oErarta Museum of Contemporary ArtMUSEUM
 (Музей современного искусства Эрарта MAP GOOGLE MAP ; %812-324 0809; www.erarta.com; 29-ya Liniya 2; adult/under 21yr R500/350; h10am-10pm Wed-Mon; mVasileostrovskaya)
 Erarta's superb hoard of 2300 pieces of Russian contemporary art trumps its somewhat far-flung location. Housed in an ingeniously converted neoclassical Stalinist building, the museum is spread over five floors, with the main galleries focused on the permanent collection. There are also installation spaces, plenty of temporary exhibitions, occasional shows, plus a good restaurant and gift shop.
-StrelkaLANDMARK
+
+!
+Strelka
+LANDMARK
 ( MAP GOOGLE MAP ; Birzhevaya pl; mVasileostrovskaya)
 This eastern tip of Vasilyevsky Island is where Peter the Great wanted his new city’s administrative and intellectual centre to be. In fact, it became the focus of the city's maritime trade, symbolised by the colonnaded Customs House (now the Institute of Russian Literature) and the Old Stock Exchange. The Strelka is flanked by the pair of Rostral Columns (Ростральная колонна MAP GOOGLE MAP ; Birzhevaya pl; mVasileostrovskaya), archetypal St Petersburg landmarks.
-Museum of ZoologyMUSEUM
+
+!
+Museum of Zoology
+MUSEUM
 (Зоологический музей MAP GOOGLE MAP ; %812-328 0112; www.zin.ru; Universitetskaya nab 1; adult/student R250/150; h11am-6pm Wed-Mon; mAdmiralteyskaya)
 One of the biggest and best of its kind in the world, the Museum of Zoology was founded in 1832 and has some amazing exhibits, including a vast blue whale skeleton that greets you in the first hall. The highlight is unquestionably the stuffed skin of a 44,000-year-old woolly mammoth thawed out of the Siberian ice in 1902. There are also skeletons of a further three mammoths, including two baby ones – all incredible finds.
 
+!
 Menshikov PalaceMUSEUM
 (Государственный Эрмитаж-Дворец Меншикова MAP GOOGLE MAP ; %812-323 1112; www.hermitagemuseum.org; Universitetskaya nab 15; admission R300; h10.30am-6pm Tue, Thu, Sat & Sun, to 9pm Wed & Fri; mVasileostrovskaya)
 The first stone building in the city, the Menshikov Palace was built to the grandiose tastes of Prince Alexander Menshikov, Peter the Great’s closest friend and the first governor of St Petersburg. It is now a branch of the Hermitage, and while only a relatively small part of the palace is open to visitors, its interiors are some of the oldest and best preserved in the city.
-Twelve CollegesUNIVERSITY
+
+!
+Twelve Colleges
+UNIVERSITY
 (Двенадцать коллегий MAP GOOGLE MAP ; Mendeleevskaya liniya; mVasileostrovskaya)
 Completed in 1744 and marked by a statue of scientist-poet Mikhail Lomonosov (1711–65), the 400m-long Twelve Colleges is one of St Petersburg’s oldest buildings. It was originally meant for Peter’s government ministries, but is now part of the university, which stretches out behind it. Within these walls populist philosopher Nikolai Chernyshevsky studied, Alexander Popov created some of the world’s first radio waves and a young Vladimir Putin earned a degree in law.
 This is also where Dmitry Mendeleev invented the periodic table of elements, and the building now contains the small Mendeleev Museum (Музей-Архив Санкт-Петербургского Университета Д.И.Менделеева MAP GOOGLE MAP ; %812-328 9744; Universitetskaya nab 7-9; h11am-4pm Mon-Fri; mVasileostrovskaya). Also of interest here is the University Sculpture Garden ( MAP GOOGLE MAP ; Universitetskaya nab 11; h8am-5pm; mAdmiralteyskaya), which can be accessed from the main entrance.
-Temple of the AssumptionCHURCH
+
+!
+Temple of the Assumption
+CHURCH
 (Храм Успения Пресвятой Богородицы MAP GOOGLE MAP ; %812-321 7473; http://spb.optina.ru; nab Leytenanta Shmidta 27/2; h8am-8pm; mVasileostrovskaya)F
 This stunning 1895 neo-Byzantine church was built by architect Vasily Kosyakov on the site of a former monastery. It was closed during the Soviet period, and in 1957 the building became the city’s first – and very popular – year-round skating rink. The 7.7m, 861kg metal cross on the roof was only replaced in 1998. Following a wonderful renovation, the church is looking superb again; do go inside to see the murals and icons covering the interior.
-Russian Academy of Fine Arts MuseumMUSEUM
+
+!
+Russian Academy of Fine Arts Museum
+MUSEUM
 (Музей Академии Художеств MAP GOOGLE MAP ; %812-323 6496; www.nimrah.ru; Universitetskaya nab 17; R500, photos R500; hnoon-8pm Wed, 11am-7pm Thu, Sat & Sun, 1-9pm Fri; mVasileostrovskaya)
 Art lovers should not bypass the museum of this time-tested institution, which contains work by academy students and faculty dating back to its foundation in 1857. Two 3500-year-old sphinxes guard the entrance of this original location of the academy, where boys would live from the age of five until they graduated at age 15. It was an experiment to create a new species of human: the artist.
-CREATIVE CLUSTERS
 
+???
+CREATIVE CLUSTERS
 Occupying either old buildings or former industrial complexes across the city are a series of 'creative clusters' that are home to a vibrant mix of artists, creative businesses, boutiques, bars and restaurants. The following are the best ones:
 Loft Project ETAGI (Лофт проект ЭТАЖИ MAP GOOGLE MAP ; %812-458 5005; www.loftprojectetagi.ru; Ligovsky pr 74; rooftop R100; h9am-11pm; mLigovsky Prospekt) This five-floor former bakery, which includes exhibition spaces, eye-catching shops, a hostel, a bar and a cafe, kicked off the creative cluster trend in 2007. In the yard, converted shipping containers house yet more pop-up clothing shops, record sellers, cafes and eateries whipping up affordable street food.
 Taiga The warren of rooms in the ancient building near the Hermitage are worth exploring to find cool businesses ranging from a barber to fashion and books. 8 Store ( MAP GOOGLE MAP ; %8-981-741 1880; http://8-store.ru; Dvortsovaya nab 20; h1-9pm; mAdmiralteyskaya), a stylish boutique stacked with clothes and accessories by local designers, is one of the best. Also great for original design gifts and souvenirs is Imenno Lavka (Именно-лавка MAP GOOGLE MAP ; %8-921-581 0466; www.imenno-lavka.ru; TAIGA, Dvortsovaya nab 20; h11am-7pm; mAdmiralteyskaya).
@@ -1754,51 +2072,82 @@ Golitsyn Loft ( MAP GOOGLE MAP ; nab reky Fontanki 20; mGostiny Dvor) This new e
 Berthold Center (Бертгольд Центр MAP GOOGLE MAP ; www.vk.com/bertholdcentre; Grazhdanskaya ul 13; mSadovaya) A handful of shops, cafes and galleries spread around a former foundry. There's a courtyard in the centre of the complex that gathers a young, bohemian crowd – especially during special events and concerts (bands sometimes play on a rooftop just overlooking the courtyard).
 Artmuza (Артмуза MAP GOOGLE MAP ; %812-313 4703; http://artmuza.spb.ru; 13-ya liniya 70-72; h11am-10pm; mSportivnaya) With around 13,000 sq metres of space over several floors, this is one of St Petersburg's largest creative clusters. On the ground floor look out for the joint atelier of Snega Gallery and Slavutnitsa where designers specialise in making clothes and accessories based on traditional Russian costumes and patterns. Also come here to see exhibitions and theatre, and to the enjoy the view from its large rooftop terrace (where there's also a cafe).
 Tkachi (Ткачи MAP GOOGLE MAP ; www.tkachi.com; nab Obvodnogo kanala 60; h10am-10pm; mObvodny Kanal) In an otherwise derelict part of town, 'Weavers' is an impressive conversion of a warehouse into a 'creative space'. On the ground floor you'll find gifts, clothes, bikes and electronics, while the 5th floor is a huge exhibition space and restaurant.
+
+
 Petrograd & Vyborg Sides
-oHermitage Storage FacilityMUSEUM
+
+!
+oHermitage Storage Facility
+MUSEUM
 (Реставрационно-хранительский центр Старая деревня MAP GOOGLE MAP ; %812-340 1026; www.hermitagemuseum.org; Zausadebnaya ul 37a; tours R550; htours 11am, 1pm, 1.30pm & 3.30pm Wed-Sun; c; mStaraya Derevnya)
 Guided tours of the Hermitage’s state-of-the-art restoration and storage facility are highly recommended. This is not a formal exhibition as such, but the guides are knowledgeable and the examples chosen for display (paintings, furniture and carriages) are wonderful.
 The storage facility is directly behind the big shopping centre opposite the metro station – look for the enormous golden-yellow glass facility decorated with shapes inspired by petroglyphs.
-Museum of Political HistoryMUSEUM
+
+!
+Museum of Political History
+MUSEUM
 (Музей политической истории России MAP GOOGLE MAP ; %812-313 6163; www.polithistory.ru; ul Kuybysheva 4; adult/child R200/free, audio guide R200; h10am-6pm Sat-Tue, 10am-8pm Wed & Fri, closed Thu; mGorkovskaya)
 The elegant Style Moderne Kshesinskaya Palace (1904) is a highly appropriate location for this excellent museum – one of the city's best – covering Russian politics in scrupulous detail up to contemporary times.
 The palace, previously the home of Mathilda Kshesinskaya, famous ballet dancer and one-time lover of Nicholas II in his pre-tsar days, was briefly the headquarters of the Bolsheviks, and Lenin often gave speeches from the balcony.
 
-Kirov MuseumMUSEUM
+!
+Kirov Museum
+MUSEUM
 (Музей Кирова MAP GOOGLE MAP ; www.kirovmuseum.ru; Kamennoostrovsky pr 26/28; adult/child R150/100; h11am-6pm Thu-Tue; mPetrogradskaya)
 Leningrad party boss Sergei Kirov was one of the most powerful men in Russia in the early 1930s. His decidedly un-proletarian apartment is now a fascinating museum showing how the Bolshevik elite really lived: take a quick journey back to the days of Soviet glory, including choice examples of 1920s technology, such as the first-ever Soviet-produced typewriter and a conspicuously noncommunist GE fridge, complete with plastic food inside.
-Botanical GardensGARDENS
+
+???
+Botanical Gardens
+GARDENS
 (Ботанический сад MAP GOOGLE MAP ; %812-372 5464; http://botsad-spb.com; ul Professora Popova 2; adult/child R300/200; hgrounds 10am-8pm Tue-Sun May-Sep; greenhouse 11am-4.30pm Tue-Sun year-round; mPetrogradskaya)
 On eastern Aptekarsky (Apothecary) Island, this was once a garden of medicinal plants – founded by Peter the Great himself in 1714 – that gave the island its name. Today the botanical gardens contain 26 greenhouses on a 22-hectare site. It is a lovely place to stroll around, and a fascinating place to visit – and not just for botanists.
-Buddhist TempleTEMPLE
+
+???
+Buddhist Temple
+TEMPLE
 (Буддистский Храм MAP GOOGLE MAP ; %981-755 9605; www.dazan.spb.ru; Primorsky pr 91; h10am-6pm Mon-Fri, to 7pm Sat & Sun; mStaraya Derevnya)
 Another in the city's collection of grand religious buildings is this beautiful functioning datsan (temple) where respectful visitors are welcome. The main prayer hall has lovely mosaic decoration and there's a cheap and cheerful cafe in the basement. The temple was built between 1909 and 1915 at the instigation of Pyotr Badmaev, a Buddhist physician to Tsar Nicholas II.
 
-Cruiser AuroraMUSEUM
+???
+Cruiser Aurora
+MUSEUM
 (Крейсер Аврора MAP GOOGLE MAP ; %812-230 8440; www.aurora.org.ru; Petrovskaya nab; adult/child R600/400; h11am-6pm Wed-Sun; c; mGorkovskaya)
 Moored on the Bolshaya Nevka, the Aurora had a walk-on part in the communist revolution. On the night of 25 October 1917, its crew fired a blank round from the forward gun as a signal for the start of the assault on the Winter Palace. Restored and painted in pretty colours, it’s a living museum that swarms with kids on weekends.
-Artillery MuseumMUSEUM
+
+!
+Artillery Museum
+MUSEUM
 (Музей Артиллерии MAP GOOGLE MAP ; %812-232 0296; www.artillery-museum.ru; Kroneverskaya nab; adult/student R400/250; h11am-6pm Wed-Sun; c; mGorkovskaya)
 Housed in the fort’s original arsenal, across the moat from the Peter & Paul Fortress, this fire-powered museum chronicles Russia’s military history, with examples of weapons dating all the way back to the Stone Age. The centrepiece is Lenin’s armoured car, which he rode in triumph from the Finland Station (Finlyandsky vokzal).
-MosqueMOSQUE
+
+???
+Mosque
+MOSQUE
 (Соборная мечеть MAP GOOGLE MAP ; %821-233 9819; http://dum-spb.ru/kontakty; Kronverksky pr 7; h7am-9pm; mGorkovskaya)
 This beautiful working mosque (built 1910–14) was modelled on Samarkand’s Gur-e Amir Mausoleum. Its fluted azure dome and minarets are stunning and surprisingly prominent in the city’s skyline. Outside of prayer times, if you are respectfully dressed (women should wear a head covering, men long trousers), you can walk through the gate at the northeast side and ask the guard for entry – the interior is equally lovely.
 If you are allowed in, remove your shoes, do not talk and do not take photos.
 
+
+!
 WORTH A TRIP
 STREET ART MUSEUM
-
 You won't regret making the effort to see the magnificent Street Art Museum ( GOOGLE MAP ; %812-448 1593; http://streetartmuseum.ru; shosse Revolutsii 84, Okhta, entrance on Umansky per; adult/student R350/250; hnoon-10pm Tue-Sun May-Sep; mPloshchad Lenina, then bus 28, 37, 137 or 530) set inside a former 11-hectare industrial site. You'll find a wide variety of formats, from huge murals covering walls to mixed-media installations set inside a former boilerhouse. Every year, the exhibition changes, with top artists from around the globe invited to contribute on themes like Revolution (featured in 2017 on the 100-year anniversary of Russia's October Revolution), Migrants and Peace.
 Intriguingly, parts of this industrial complex are still active, with workers at the laminated plastics factory SLOPAST surrounded by the encroaching artwork. Some of the workshops are decorated with epic works by the likes of top Russian streets artists Timothy Radya, Kirill Kto and Nikita Nomerz as well as the Spanish artist Escif. Before he died in 2013, Pasha 183 – frequently referred to as Russia's Banksy because of his anonymity – also contributed 'Walls Don't Sleep' a beautiful monochrome mural based on an image of Soviet factory workers.
 Guided tours happen on weekends (at 1pm and 2pm); call ahead to ensure an English-speaking guide is on hand. The museum also hosts outdoor concerts and other big events. Check the website for the latest.
 It's located in the industrial zone of Okhta, a 20-minute bus ride east of Ploshchad Lenina. Buses 28, 37 and 137 all go there.
 
+
 WORTH A TRIP
 KIROVSKY ISLANDS
-
 If you need a quick break from the city, these three outer delta islands on the Petrograd Side and an ideal place to head. Once marshy forests, the islands were granted to 18th- and 19th-century court favourites and developed into elegant playgrounds. Still mostly parkland, they are leafy venues for picnics, river sports and White Nights’ cavorting, as well as home to St Petersburg’s super rich.
+
+---
 Krestovsky Island (Крестовский остров MAP GOOGLE MAP ; c; mKrestovsky Ostrov) The biggest of the three, Krestovsky consists mostly of the vast Maritime Victory Park (Приморский парк Победы MAP GOOGLE MAP ; www.primparkpobedy.ru; Krestovsky pr; mKrestovsky Ostrov), dotted with sports fields; at the far western end is the massive, 68,000-seat Krestovsky Stadium ( MAP GOOGLE MAP ; mKrestovsky Ostrov), which will play a pivotal role in the 2018 FIFA World Cup. At the park's main entrance opposite the metro station you can rent bikes and in-line skates. Also here is Divo Ostrov ( MAP GOOGLE MAP ; www.divo-ostrov.ru; rides R100-500; hnoon-7pm; c; mKrestovsky Ostrov) is a Disney-style amusement park with exciting fairground rides that kids will adore.
+
+!
 Kamenny Island (Каменный остров MAP GOOGLE MAP ; mChyornaya Rechka) Century-old dacha (country cottages) and mansions, inhabited by very wealthy locals, line the wooded lanes that twist their way around Kamenny (Stone) Island. Punctuated by a series of canals, lakes and ponds, Kameny is pleasant for strolling at any time of year. At its east end, the Church of St John the Baptist ( MAP GOOGLE MAP ; Kamennoostrovsky pr; h9am-6pm), built in 1776–81, has been charmingly restored.
+
+!!!
 Car-free Yelagin Island (Елагин остров MAP GOOGLE MAP ; www.elaginpark.org; ice skating per hr R200-300; hice skating 11am-9pm; mKrestovsky Ostrov) becomes a winter wonderland in colder temperatures, with sledding, cross-country skiing and ice skating. Skis and skates are available for hire. In summer months, it’s a great place to rent in-line skates.
 
 
@@ -1855,6 +2204,8 @@ Rest for a while in either the 8Mars Field, the former imperial guard parade gro
 Detour off nab kanala Griboyedova to find a statue of Pushkin in the middle of pretty cpl Iskusstv. The square is ringed by celebrated cultural institutions, including the dRussian Museum and eMikhailovsky Theatre.
 At the junction of Nevsky pr and nab kanala Griboyedova admire the Style Moderne beauty fSinger Building. It's a whimsical contrast to the formidable gKazan Cathedral opposite. Behind the mammoth church, hBankovsky most is the city’s most picturesque and photographed bridge.
 Head up Dumskaya ul to return to Nevsky pr and navigate your way along the exterior vaulted gallery surrounding the iBolshoy Gostiny Dvor, the 18th-century trading arcade still serving shoppers. A short walk east along Nevsky pr is Ploshchad Ostrovskogo, a small park with an impressive jstatue of Catherine the Great and a view the impressive facade of the kAlexandrinsky Theatre. Opposite, you can finish up at one of the cafes at the grand food hall lKupetz Eliseevs.
+
+
 zFestivals & Events
 EasterRELIGIOUS
 (Paskha; GOOGLE MAP ; hMar/Apr)
@@ -1889,12 +2240,15 @@ Dedicated to Sergey Kuryokhin (1954–96), a talented local musician, actor and 
 Arts Square Winter FestivalMUSIC
 ( GOOGLE MAP ; www.artsquarewinterfest.ru; hDec)
 A musical highlight of the year, this festival at the Philharmonia takes different themes each year. Both classical and contemporary opera and orchestral works are staged.
-ST PETERSBURG FOR CHILDREN
 
+
+ST PETERSBURG FOR CHILDREN
 There are plenty of activities that children will love in St Petersburg, especially during the summer months when the whole city is something of an outdoor playground.
 Top museums for children include the Museum of Zoology, with thousands of stuffed animals (including several mammoths) on display; the Railway Museum, where you can see a range of scale locomotives and model railway bridges; and the Central Naval Museum with its superb collection of model boats. Also sure to entrance kids and adults alike are the incredibly detailed scale models of early 18th century St Petersburg at Petrovskaya Akvatoria (Петровская Акватория MAP GOOGLE MAP ; %812-933 4152; www.peteraqua.ru; Malaya Morskaya ul 4/1; adult/child R400/200; h10am-10pm; mAdmiralteyskaya) and the even more epic model village of Russia's greatest sights at Grand Maket.
 One of the best parks to take kids in the city is on New Holland where there's a great kid's playground, a wooden model of a frigate to climb around, a giant chess set and free pétanque (a form of boules). Amusement parks, boats and bikes for hire, and lots of open space make the Kirovsky Islands another great outdoors option.
 Wonderful puppet shows can be seen at both the Bolshoy Puppet Theatre (Большой театр кукол MAP GOOGLE MAP ; www.puppets.ru; ul Nekrasova 10; tickets R350-600; mChernyshevskaya) and Demmeni Marionette Theatre ( MAP GOOGLE MAP ; %812-310 5879; www.demmeni.ru; Nevsky pr 52; htickets from R500; mGostiny Dvor). For traditional-style circus shows the historic St Petersburg State Circus ( MAP GOOGLE MAP ; %812-570 5198; www.circus.spb.ru; nab reki Fontanki 3; tickets R500-6000; mGostiny Dvor) can't be beat.
+
+
 4Sleeping
 Hotels in St Petersburg are fairly expensive, with a lack of good midrange places in the city centre. Though they do exist, they tend to get booked up well in advance (particularly during the summer months), so plan ahead if you want to stay in the historic heart.
 It is essential to reserve at least a month in advance for accommodation during the White Nights (late May to early July).
@@ -2005,365 +2359,531 @@ This small, cheerfully decorated mini-hotel has nine rooms tucked inside an apar
 Tradition HotelHOTEL$$
 ( MAP GOOGLE MAP ; %812-405 8855; www.traditionhotel.ru; pr Dobrolyubova 2; r incl breakfast R9100-13,500; aiW; mSportivnaya)
 This charming small hotel is a consistent traveller favourite due to its smiling, helpful staff who really go out of their way for guests. Its spacious, carpeted rooms are comfortable and well appointed with good-size bathrooms and a vaguely antique style.
+
+
+
+
 5Eating
 There has never been a better time to eat out in St Petersburg. The range and quality of food available seem to increase year on year, making stereotypes about Russian food now seem like bizarre anachronisms. Petersburgers have well and truly caught the foodie bug, and while little of good quality is cheap in this town, the choice is now bigger than ever.
 The following price ranges refer to the average cost of a main course.
 € less than R500
 €€ R500–1000
 €€€ more than R1000
+
 LOCAL KNOWLEDGE
 LOCAL CHAINS
-
 St Petersburg has a number of home-grown restaurant and cafe chains that are well worth knowing about as they provide cheap and reliable eating options all over town. Chief among these is the now international pie chain Stolle (Штолле; www.stolle.ru), a near-ubiquitous cafe where delicious, moist savoury and sweet pies are available to eat in and take away. Similar and equally numerous is the chain of bakery cafes Bulochnye F. Volcheka (Булочные Ф. Вольчека; www.fvolchek.ru). A couple of other chains to look out for are coffee-and-cake specialists Bushe (Буше; www.bushe.ru) and Baltic Bread (Балтийский Хлеб; www.baltic-bread.ru), which does good sandwiches and pastries.
+
+
+!!!
+Stolle
+delicious, moist savoury and sweet pies are available to eat in and take away
+
+
+!!!
+Bulochnye F. Volcheka
+savoury and sweet pies
+
+
+!!!
+Bushe
+coffee-and-cake
+
+
+???
+Baltic Bread
+good sandwiches and pastries.
+
+
+
+
 Historic Heart
-oZoom CaféEUROPEAN$
+
+!!!
+oZoom Café
+EUROPEAN$
 ( MAP GOOGLE MAP ; %812-612 1329; www.cafezoom.ru; Gorokhovaya ul 22; mains R350-550; h9am-midnight Mon-Fri, from 11am Sat, from 1pm Sun; Wvc; mNevsky Prospekt)
 A perennially popular cafe (expect to wait for a table at peak times) with a cosy feel and an interesting menu, ranging from Japanese-style chicken in teriyaki sauce to potato pancakes with salmon and cream cheese. Well-stocked bookshelves, a range of board games and adorable cuddly toys (each with its own name) encourage lingering.
-Jack & ChanINTERNATIONAL$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d799299-Reviews-Zoom_Cafe-St_Petersburg_Northwestern_District.html
+
+!!!
+Jack & Chan
+INTERNATIONAL$
 ( MAP GOOGLE MAP ; %812-982 0535; http://jack-and-chan.com; Inzhenernaya ul 7; mains R350-420; h11am-midnight Sun-Thu, until 2am Fri & Sat; W; mGostiny Dvor)
 The restaurant name, a punning reference to Jackie Chan in Russian, neatly sums up the burger-meets-Asian menu at this fine and stylish casual diner. Try the sweet-and-sour fish and the prawn-and-avocado salad with glass noodles.
-MarketplaceRUSSIAN, INTERNATIONAL$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d4889593-Reviews-Jack_Chan-St_Petersburg_Northwestern_District.html
+
+???
+Marketplace
+RUSSIAN, INTERNATIONAL$
 ( MAP GOOGLE MAP ; http://market-place.me; Nevsky pr 24; mains R200-300; h8am-5.30am; Wv; mNevsky Prospekt)
 The most central branch of this minichain that brings a high-class polish to the self-serve canteen concept, with many dishes cooked freshly on the spot to order. The hip design of the multilevel space is very appealing, making this a great spot to linger, especially if you indulge in one of the desserts or cocktails served on the 1st floor.
-UkropVEGAN$
+
+???
+Ukrop
+VEGAN$
 ( MAP GOOGLE MAP ; %812-946 3035; www.cafe-ukrop.ru; Malaya Konyushennaya ul 14; mains R280-360; h9am-11pm; Wv; mNevsky Prospekt)
 Proving veggie, vegan and raw food can be inventive and tasty as well as wholesome, Ukrop (meaning dill) also makes an effort with its bright and whimsical craft design, which includes swing seats and lots of natural materials.
 There are other branches on Vasilyevsky Island and ul Vosstaniya.
-Cafe HermitageINTERNATIONAL$
+
+???
+Cafe Hermitage
+INTERNATIONAL$
 (Кафе Эрмитаж MAP GOOGLE MAP ; %812-703 7528; General Staff Bldg, 8 Dvortsovaya pl; mains R250-450; h11am-11pm Tue, Thu, Sat & Sun, until 8pm Wed & Fri; mAdmiralteyskaya)
 When the east wing of the General Staff Building was turned into a new branch of the Hermitage, they at least made sure it had a decent place to eat (unlike in the Winter Palace). It's a self-serve cafe for drinks, appealing sandwiches and hot dishes and can be visited whether or not you go into the museum itself.
-BibliotekaINTERNATIONAL$
+
+???
+Biblioteka
+INTERNATIONAL$
 ( MAP GOOGLE MAP ; %812-244 1594; www.ilovenevsky.ru; Nevsky pr 20; mains R250-600; h8am-11pm Sun-Thu, to midnight Fri & Sat; W; mNevsky Prospekt)
 You could spend the better part of a day here. Ground floor is a waiter-service cafe where it's difficult to avoid being tempted by the cake and dessert display by the door; next up is a more formal restaurant; and on the top floor there's a multiroom lounge bar (closed Monday and Tuesday) with live music and DJs until 1am on Friday and Saturday.
-oYatRUSSIAN$$
+
+
+!!!
+oYat
+RUSSIAN$$
 (Ять MAP GOOGLE MAP ; %812-957 0023; www.eatinyat.com; nab reki Moyki 16; mains R370-750; h11am-11pm; Wc; mAdmiralteyskaya)
 Perfectly placed for eating near the Hermitage, this country-cottage-style restaurant has a very appealing menu of traditional dishes, presented with aplomb. The shchi (cabbage-based soup) is excellent, and there is also a tempting range of flavoured vodkas. There's a fab kids area with pet rabbits for them to feed.
-oGräs x MadbarenFUSION$$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d3701533-Reviews-Yat_Restaurant_Buffet-St_Petersburg_Northwestern_District.html
+
+
+???
+oGräs x Madbaren
+FUSION$$
 ( MAP GOOGLE MAP ; %812-928 1818; http://grasmadbaren.com; ul Inzhenernaya 7; mains R420-550, tasting menu R2500; h1-11pm Sun-Thu, until 1am Fri & Sat; W; mGostiny Dvor)
 Anton Abrezov is the talented exec chef behind this Scandi-cool meets Russian locavore restaurant where you can sample dishes such as a delicious corned beef salad with black garlic and pickled vegetables or an upmarket twist on ramen noodles with succulent roast pork.
 The connected cocktail bar Madbaren is equally inventive, offering libations such as Siberian Penicillin (horseradish vodka, pollen syrup and rhubarb).
-oGogolRUSSIAN$$
+
+!!!
+oGogol
+RUSSIAN$$
 (Гоголь MAP GOOGLE MAP ; %812-312 6097; http://restaurant-gogol.ru; Malaya Morskaya ul 8; mains R350-690; h9am-3am; W; mAdmiralteyskaya)
 Like its sibling restaurant Chekov, Gogol whisks diners back to the genteel days of pre-revolutionary Russian home dining. The menu comes in a novel, with chapters for each of the traditional courses. Salads, soups, dumplings and classics such as chicken Kiev are all very well done and served in charming, small dining rooms.
-oCococoRUSSIAN$$$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d2186506-Reviews-Gogol-St_Petersburg_Northwestern_District.html
+
+???
+oCococo
+RUSSIAN$$$
 ( MAP GOOGLE MAP ; %812-418 2060; www.kokoko.spb.ru; Voznesensky pr 6; mains R650-1300; h7-11am & 2pm-1am; W; mAdmiralteyskaya)
 Cococo has charmed locals with its inventive approach to contemporary Russian cuisine. Your food is likely to arrive disguised as, say, a small bird's egg, a can of peas or a broken flowerpot – all rather gimmicky, theatrical and fun. The best way to sample what it does is with its tasting menu (R2900). Bookings are advised.
+
+
+
 Smolny & Vosstaniya
-oDuo GastrobarFUSION$
+
+!!!
+oDuo Gastrobar
+FUSION$
 ( MAP GOOGLE MAP ; %812-994 5443; www.duobar.ru; ul Kirochnaya 8a; mains R350-500; h1pm-midnight; mChernyshevskaya)
 Boasting a minimalist Scandinavian design scheme, Duo Gastrobar has wowed diners with its outstanding cooking that showcases quality ingredients with global accents in delectable plates such as crab bruschetta, duck breast with smoked cheese and tomato, and rich French onion soup. There's an excellent wine list (over a dozen by the glass) as well.
-BekitzerISRAELI$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d6401089-Reviews-Duo_Gastrobar-St_Petersburg_Northwestern_District.html
+
+!!!
+Bekitzer
+ISRAELI$
 (Бекицер MAP GOOGLE MAP ; %812-926 4342; www.facebook.com/bktzr; ul Rubinshteyna 40; mains R180-450; hnoon-6am Mon-Fri, from noon Sat & Sun; Wv; mDostoyevskaya)
 Always crowded and spilling out into the street, this Israel-themed eatery and drinking den lures hip and joyful people with its creative cocktails, Israeli Shiraz and the best falafel wraps this side of the Baltic Sea. Other culinary temptations include sabich salad (with eggplant, egg, hummus and tahini), appetiser spreads with baba ghanoush and pitas, and rather imaginative matzah pizzas.
-Khachapuri i VinoGEORGIAN$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d7738918-Reviews-Bekitzer-St_Petersburg_Northwestern_District.html
+
+???
+Khachapuri i Vino
+GEORGIAN$
 ( MAP GOOGLE MAP ; %812-273 6797; Mayokovskogo 56; mains R310-390; hnoon-midnight; Wv; mChernyshevskaya)
 This welcoming, warmly lit space serves outstanding Georgian fare. The recipes aren't overly complicated and the fine ingredients speak for themselves in flavour-rich dishes like aubergine baked with suluguni (a type of cheese), pork dumplings, and tender lamb stew with coriander. Don't miss the excellent khachapuri (cheese bread), which comes in a dozen varieties and is whipped up by the bakers in front.
-Obed BufetCAFETERIA$
+
+!!!
+Obed Bufet
+CAFETERIA$
 (Обед Буфет MAP GOOGLE MAP ; 5th fl, Nevsky Centre, Nevsky pr 114; mains R250-380; h10am-11pm; W; mMayakovskaya)
 Just what St Petersburg needs: a well-organised, central and inviting cafeteria run by the city's most successful restaurant group. Here you'll find an extraordinary range of salads, soups, sandwiches, pizzas and meat dishes. There is even a 50% discount until noon and 30% after 9pm, making this a superb deal (come at 9pm for the latter, otherwise there will be no food left).
-BotanikaVEGETARIAN$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d6582343-Reviews-Obed_Bufet-St_Petersburg_Northwestern_District.html
+
+???
+Botanika
+VEGETARIAN$
 (Ботаника MAP GOOGLE MAP ; %812-272 7091; www.cafebotanika.ru; ul Pestelya 7; mains R360-650; h11am-midnight; Wv; mChernyshevskaya)
 This vegetarian charmer lives up to its green-minded name, with zesty fresh salads, vegie curries and ingredient-rich soups, plus a menu that takes in Russian, Indian and Italian dishes, all of which are handsomely executed. It's a friendly space, with plants and flower vases sprinkled about, and there’s even a playroom and menu for the kids.
-oSchengenINTERNATIONAL$$
+
+!!!
+oSchengen
+INTERNATIONAL$$
 (Шенген MAP GOOGLE MAP ; %812-922 1197; ul Kirochnaya 5; mains R480-850; h9am-midnight Mon-Fri, from 11am Sat & Sun; W; mChernyshevskaya)
 A breath of fresh air just off Liteyny pr, Schengen represents local aspirations to the wider world. The wide-ranging menu is packed with temptations, from tender halibut with tomatoes and zucchini to slow-cooked venison with parsnip cream and plums in red wine. It's served up in a cool and relaxing two-room space where efficient staff glide from table to table.
-oBanshikiRUSSIAN$$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d4297899-Reviews-Restaurant_Schengen-St_Petersburg_Northwestern_District.html
+
+!!!
+oBanshiki
+RUSSIAN$$
 (Банщики MAP GOOGLE MAP ; %8-921-941 1744; www.banshiki.spb.ru; Degtyanaya 1; mains R500-1100; h11am-11pm; W; mPl Vosstaniya)
 Although it opened in 2017, Banshiki has already earned a sterling reputation for its excellent Russian cuisine, serving up a huge variety of nostalgic dishes with a contemporary touch. Everything is made in-house, from its refreshing kvas (fermented rye bread water) to dried meats and eight types of smoked fish. Don't overlook cherry vareniki (dumplings) with sour cream, oxtail ragout or the rich borsch.
-Vsyo na Svyom MestyeINTERNATIONAL$$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d12329091-Reviews-Banshiki-St_Petersburg_Northwestern_District.html
+
+???
+Vsyo na Svyom Mestye
+INTERNATIONAL$$
 (Всё на Своём Месте MAP GOOGLE MAP ; %812-932 0256; Liteyny pr 7; mains R380-740; hnoon-midnight)
 A hip little gastrobar with warm ambiance, tables made of converted sewing machines, and a record player providing the tunes. Stop in for creative market-fresh fare, which might include cod filet on cauliflower purée, ramen soup, or polenta with roast chicken and oyster mushrooms – all goes nicely with the craft brews and easygoing vibe.
+
+
 Sennaya & Kolomna
-1818 Kafe and BikesINTERNATIONAL$
+
+???
+1818 Kafe and Bikes
+INTERNATIONAL$
 (Кафе и Велосипеды MAP GOOGLE MAP ; www.cafe1818.ru; ul Dekabristov 31; mains R240-420; h10am-11pm Mon-Fri, from 11am Sat & Sun; Wv; mSadovaya)S
 Combining a love of bicycles and street food from around the globe, Kafe and Bikes serves up delicious cooking amid upbeat grooves, exposed bulbs and those slate grey walls so prevalent in St Petersburg. Shawarmas (grilled meat and salad wrapped in flat bread), wok-fried buckwheat noodles with vegetables, pizzas, khachapuri (Georgian cheese bread) and syrniki (sweet cheese fritters) are all served up in a hurry by friendly staff.
-Co-op GaragePIZZA$
+
+???
+Co-op Garage
+PIZZA$
 ( MAP GOOGLE MAP ; www.cooperativegarage.com; Gorokhovaya 47; pizzas R260-390; hnoon-midnight Sun-Thu, to 2am Fri & Sat; Wv)
 Tucked into an unmarked courtyard off Gorokhovaya, this sprawling restaurant and drinking den is the go-to spot for creatively topped thin-crust pizzas and craft beers. The industrial setting draws a chatty crowd of tatted-up hipsters and style mavens, with a mostly rock soundtrack playing in the background. On warm days you can take a table in the courtyard.
-Volkonsky DeliINTERNATIONAL$
+
+???
+Volkonsky Deli
+INTERNATIONAL$
 ( MAP GOOGLE MAP ; www.newhollandsp.ru/en/foundry; nab Admiralteyskogo kanala; mains R280-450; h11am-10pm; Wv)
 The best place for a quick bite on New Holland Island is this buzzing little self-serve deli, which offers soups, salads, sandwiches and heavenly baked goods. On warm days the tables out front are the place to be.
-oTeploMODERN EUROPEAN$$
+
+!!!
+oTeplo
+MODERN EUROPEAN$$
 ( MAP GOOGLE MAP ; %812-570 1974; www.v-teple.ru; Bolshaya Morskaya ul 45; mains R360-940; h9am-midnight Mon-Fri, from 11am Sat & Sun; aWv; mAdmiralteyskaya)
 This much-feted, eclectic and original restaurant has got it all just right. The venue itself is a lot of fun to nose around, with multiple small rooms, nooks and crannies. Service is friendly and fast (when it’s not too busy) and the peppy, inventive Italian-leaning menu has something for everyone. Reservations are usually required, so call ahead.
-oSeveryaninRUSSIAN$$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d1111731-Reviews-Teplo-St_Petersburg_Northwestern_District.html
+
+!!!
+oSeveryanin
+RUSSIAN$$
 (Северянин MAP GOOGLE MAP ; %8-921-951 6396; www.severyanin.me; Stolyarny per 18; mains R620-1300; hnoon-midnight; W; mSennaya Ploshchad)
 An old-fashioned elegance prevails at Severyanin, one of the top choices for Russian cuisine near Sennaya pl. Amid vintage wallpaper, mirrored armoires and tasselled lampshades, you might feel like you've stepped back a few decades. Start off with the excellent mushroom soup or borsch (beetroot soup), before moving on to rabbit ragout in puff pastry or Baltic flounder with wine sauce.
-Julia Child BistroINTERNATIONAL$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d2645717-Reviews-Severyanin-St_Petersburg_Northwestern_District.html
+
+!!!
+Julia Child Bistro
+INTERNATIONAL$
 ( MAP GOOGLE MAP ; %812-929 0797; Grazhdanskaya ul 27; mains R310-490; h9am-11pm Mon-Fri, from 10am Sat & Sun; Wv; mSadovaya)
 This neighbourhood charmer is a fine anytime spot, with good coffees, teas and snacks, plus creative thoughtfully prepared dishes like kasha (porridge) with mushrooms and feta for breakfast, or halibut with lemon cabbage and celery mousse later in the day. Kindly staff and a laid-back setting will make you want to stick around for a while.
-SadkoRUSSIAN$$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d10821184-Reviews-Julia_Child_Bistro-St_Petersburg_Northwestern_District.html
+
+???
+Sadko
+RUSSIAN$$
 ( MAP GOOGLE MAP ; %812-903 2373; www.sadko-rst.ru; ul Glinki 2; mains R540-1200; hnoon-1am; c; mSennaya Ploshchad)
 Serving all the Russian favourites, this impressive restaurant’s decor combines traditional Zhostovo floral designs and Murano glass chandeliers amid vaulted ceilings and elegantly set tables. It’s popular with theatregoers (reserve ahead in the high season), as it’s an obvious pre- or post-Mariinsky dining option.
-IdiotRUSSIAN$$
+
+???
+Idiot
+RUSSIAN$$
 ( MAP GOOGLE MAP ; %8-921-946 5173; www.idiot-spb.com/eng; nab reki Moyki 82; mains R300-1000, brunch R690; h11am-1am; Wv; mSennaya Ploshchad)
 Something of an expat favourite, the Idiot is a charming place that has been serving up high-quality Russian fare for years now. The friendly basement location is all about atmosphere, relaxation and fun (encouraged by the complimentary vodka coming with each meal). You can't go wrong here, whether opting for bliny (wheat pancakes) with caviar, grilled trout or pelmeni (Russian-style ravioli) with mushrooms and sour cream.
-EM RestaurantEUROPEAN$$$
+
+!!!
+EM Restaurant
+EUROPEAN$$$
 ( MAP GOOGLE MAP ; %8-921-960 2177; http://emrestaurant.ru; nab reki Moyki 84; set menu R3500; h7-11pm Tue-Sun; Wv; mAdmiralteyskaya)
 Bookings are essential for this superb restaurant where the chefs calmly prepare seven beautifully presented courses in an open kitchen. Be prepared for such exotic elements as reindeer, smoked perch, red cabbage sorbet and fois gras coloured with squid ink. Individual food preferences can be catered to and every Sunday they work their culinary magic on a vegan menu.
-Russian Vodka Room No 1RUSSIAN$$$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d5074604-Reviews-EM_Restaurant-St_Petersburg_Northwestern_District.html
+
+???
+Russian Vodka Room No 1
+RUSSIAN$$$
 ( MAP GOOGLE MAP ; %812-570 6420; www.vodkaroom.ru; Konnogvardeysky bul 4; mains R490-1530; aW; mAdmiralteyskaya)
 This charming, welcoming place is the restaurant of the Russian Vodka Museum (Музей русской водки MAP GOOGLE MAP ; www.vodkamuseum.su; Konnogvardeysky bul 4; with/without tour R450/200, unguided/guided tasting tour R450/600; hnoon-7pm; mAdmiralteyskaya), but it’s good enough to be a destination in its own right. The interior enjoys a grand old-world dacha feel, as does the menu: rack of lamb in pomegranate sauce, whole fried Gatchina trout and Kamchatka crab with porcini mushrooms take you back to imperial tastes and tsarist opulence.
+
+
+
 Vasilyevsky Island
-Khachapuri i VinoCAUCASIAN$
+
+???
+Khachapuri i Vino
+CAUCASIAN$
 (Хачапури и вино MAP GOOGLE MAP ; %8-911-174 9007; https://vk.com/hachapuriivino; Kadetskaya liniya 29; mains R300-500; h11.30am-midnight Sun-Thu, until 1am Fri & Sat; W; mVasileostrovskaya)
 Specialising in Adzhika cuisine from the Caucasus, this stylish place offers 10 types of khachapuri, the cheesy dough pies that are a bit like a thick-crust pizza. You can also sample khinkali (dumplings), Georgian wines and all-day breakfast dishes such as spicy scrambled eggs.
-oButer BrodskyEUROPEAN$$
+
+!!!
+oButer Brodsky
+EUROPEAN$$
 (Бутер Бродский MAP GOOGLE MAP ; %8-911-922 2606; https://vk.com/buterbrodskybar; nab Makarova 16; mains R260-780; hnoon-midnight; W; mSportivnaya)
 Shabby chic has never looked so good as it does at this cafe-bar dedicated to the poet Joseph Brodsky (the name is a pun on buterbrod, the Russian word for sandwich), a super-stylish addition to Vasilyevsky Island's eating and drinking scene. The menu runs from excellent smørrebrød (open sandwiches; from R260) to various set meals of salads and soup.
-Pryanosti & RadostiCAUCASIAN$$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d6894866-Reviews-Buterbrodskybar-St_Petersburg_Northwestern_District.html
+
+???
+Pryanosti & Radosti
+CAUCASIAN$$
 (Пряности & Радости MAP GOOGLE MAP ; %812-640 1616; http://ginza.ru; 6-ya liniya 13; mains R550-1320; h10am-1am Mon-Thu, until 3am Fri-Sun; vc; mVasileostrovskaya)
 If you're travelling with young children they will love this branch of the Ginza Project–run chain for its colourful, fun design that includes a children's room in the shape of a galleon, parrots in wall niches, an outdoor playground in summer and a real-life menagerie of animals, including a racoon, Clarissa the goat and two rabbits.
-oRestoranRUSSIAN$$$
+
+???
+oRestoran
+RUSSIAN$$$
 (Ресторанъ MAP GOOGLE MAP ; %812-323 3031; Tamozhenny per 2; mains R700-2600; hnoon-11pm; W; mAdmiralteyskaya)
 Nearly 20 years on the scene and this excellent place is still going strong. Stylish and airily bright, Restoran is somehow formal and relaxed at the same time. The menu combines the best of haute Russe cuisine with enough modern flair to keep things interesting: try duck baked with apples or whole baked sterlet (a species of sturgeon) in white wine and herbs.
 Petrograd & Vyborg Sides
-Le MenuRUSSIAN$
+
+???
+Le Menu
+RUSSIAN$
 ( MAP GOOGLE MAP ; http://le-menu.ru; Kronverksky pr 79; mains R320-570; h9am-11pm; Wv; mGorkovskaya)
 This smart cafe serves a good-value menu of thoughtfully prepared fish, meat and pasta dishes, along with a good selection of vegetarian fare. The sophisticated setting has wooden floorboards and chandeliers.
-oChekhovRUSSIAN$$
+
+!!!
+oChekhov
+RUSSIAN$$
 (Чехов MAP GOOGLE MAP ; %812-234 4511; http://restaurant-chekhov.ru; Petropavlovskaya ul 4; mains R550-890; hnoon-11pm; mPetrogradskaya)
 Despite a totally nondescript appearance from the street, this restaurant’s charming interior perfectly recalls that of a 19th-century dacha and makes for a wonderful setting for a meal. The menu, hidden inside classic novels, features lovingly prepared dishes such as roasted venison with bilberry sauce or Murmansk sole with dill potatoes and stewed leeks.
-PaninaroITALIAN$$
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d2349604-Reviews-Chekhov-St_Petersburg_Northwestern_District.html
+
+???
+Paninaro
+ITALIAN$$
 ( MAP GOOGLE MAP ; Bolshaya Zelenina 28; mains R380-780; h9am-11.30pm Mon-Fri, from 11am Sat & Sun; v)
 Delightfully off the beaten path, Paninaro is a gem set inside one of the Petrogradky's most striking apartment buildings (don't miss the murals up top – visible on the opposite side of the street). Stop in for tasty house-made pastas topped with grilled vegetables, creative salads and pizzas, and refreshing cocktails.
-Lev y PtichkaGEORGIAN$$
+
+!!!
+Lev y Ptichka
+GEORGIAN$$
 (Лев и Птичка MAP GOOGLE MAP ; %988-7069; Bolshoy pr 19; Wv)
 Amid big fur hats, a lion (lev) mural, decorative wooden chandeliers and other curious design elements, this friendly spot has a loyal local following for its delicious and reasonably priced Georgian fare, including piping hot khachapuri (Georgian cheese bread) fired up at the baker's oven in front. Plates are small and meant for sharing. Entrance is on ul Chaykino.
-DINE OR DRINK WITH A VIEW
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d10045925-Reviews-Lev_i_Ptichka-St_Petersburg_Northwestern_District.html
 
+
+
+DINE OR DRINK WITH A VIEW
 Making the most of St Petersburg's architectural beauty are these top restaurants, cafes and bars with views:
+
+!!!
 Koryushka (Корюшка MAP GOOGLE MAP ; %812-640 1616; www.ginza.ru/spb/restaurant/korushka; Petropavlovskaya krepost 3, Zayachy Island; mains R650-2400; hnoon-1am; Wc; mGorkovskaya) Gaze across the Neva towards the Hermitage from this restaurant which serves lightly battered and fried smelt (koryushka), a St Petersburg speciality.
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d5026548-Reviews-Koryushka-St_Petersburg_Northwestern_District.html
+
+???
 Terrassa ( MAP GOOGLE MAP ; %812-640 1616; http://ginza.ru/spb/restaurant/terrassa; Kazanskaya ul 3a; mains R600-1000; h11am-1am, from noon Sat & Sun; Wv; mNevsky Prospekt) Splendid views from the terrace (only open in warmer months) of Kazan Cathedral.
+
+!!!
 Mansarda (Мансарда MAP GOOGLE MAP ; %812-946 4303; www.ginza.ru; Pochtamskaya ul 3; mains R590-1690; hnoon-1am; aW; mAdmiralteyskaya) You can almost touch the dome of St Isaac’s Cathedral from the nicest tables here (book in advance).
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d1965845-Reviews-Mansarda_Restaurant-St_Petersburg_Northwestern_District.html
+
+???
 Solaris Lab ( MAP GOOGLE MAP ; www.facebook.com/solarislab11; per Pirogova 18, 4th fl; h1pm-midnight; mSadovaya) Cafe under a glass, semi-spherical dome with magnificent views over the russet rooftops to the glittering dome of St Isaac's.
+
+???
 Sky Bar ( MAP GOOGLE MAP ; Top fl, Hotel Azimut, Lermontovsky pr 43/1; h5pm-1am; W; mBaltiyskaya) The top floor of the Soviet Era Azimut Hotel, one of the city's biggest eyesores, is also home to this aptly named bar with a bird's eye view of the city.
+
+
 
 6Drinking & Nightlife
 A city of midnight hedonists, St Petersburg has plenty of bars, pubs and cafes where you can enjoy a craft beer, an aritsan coffee or a strong cocktail at almost any time of day.
 You can drink almost everywhere; even in smart restaurants you’re generally welcome to come in and order just a beer, while the city’s best cocktail bars are superb. The centre of the drinking scene is Dumskaya ul and ul Lomonosova, lined with dive bars and dance clubs and a sea of drunken revellers at the weekends.
+
 Historic Heart
+
+???
 oMod ClubBAR, CLUB
 ( MAP GOOGLE MAP ; www.modclub.info; nab kanala Griboyedova 7; cover R150-350; h6pm-6am; mNevsky Prospekt)
 A popular spot for students and other indie types who appreciate the fun and friendly atmosphere and a cool mix of music both live and spun. Laid-back and great fun, this is a solid choice for a night out.
+
+???
 oCoffee 22CAFE
 ( MAP GOOGLE MAP ; https://vk.com/coffeeat22; ul Kazanskaya 22; h8.30am-11pm Mon-Thu, until 1am Fri, 10am-1am Sat, 10am-11pm Sun; W; mNevsky Prospekt)
 In an area heavily saturated with hipster cafes, Coffee 22 – with its tattooed baristas and service staff, arty decor (piercing portrait of Joseph Brodsky, a rustic wall of dried mosses) and fashion-forward customers – is perhaps the hippest of them all. Listen to its DJs via its mixcloud.com/coffee22 soundtrack.
+
+???
 oTop HopsCRAFT BEER
 ( MAP GOOGLE MAP ; %8-966-757 0116; www.tophops.ru; nab reki Fontanki 55; h4pm-1am Mon-Thu, 2pm-2am Fri-Sun; W; mGostiny Dvor)
 One of the nicer craft-beer bars in town, this riverside space with friendly staff serves up a regularly changing menu of 20 beers on tap and scores more in bottles. The tasty Mexican snacks and food (go for nachos and chilli) go down exceptionally well while you sample your way through their range.
+
+???
 oBorodabarCOCKTAIL BAR
 ( MAP GOOGLE MAP ; %8-911-923 8940; www.facebook.com/Borodabar; Kazanskaya ul 11; h5pm-2am Sun-Thu, to 6am Fri & Sat; W; mNevsky Prospekt)
 Boroda means beard in Russian, and sure enough you'll see plenty of facial hair and tattoos in this hipster cocktail hang-out. Never mind, as the mixologists really know their stuff – we can particularly recommend their smoked Old Fashioned, which is infused with tobacco smoke, and their colourful (and potent) range of shots.
+
+???
 oApotheke BarCOCKTAIL BAR
 ( MAP GOOGLE MAP ; %812-337 1535; http://hatgroup.ru/apotheke-bar; ul Lomonosova 1; h8pm-6am Tue-Sun; mGostiny Dvor)
 The antithesis of the nearby dive bars, Apotheke is a calm, cosy cocoon for cocktail connoisseurs. Its slogan is 'think what you drink', so there's no official menu but a friendly young bartender, most likely in a white jacket and sporting a hipster moustache, to make suggestions or simply surprise you.
+
+???
 Pif PafBAR
 ( MAP GOOGLE MAP ; %812-312 6227; http://pifpafhair.wixsite.com/pifpaf; nab kanala Griboyedova 31; h10am-3am Sun-Thu, until 6am Fri & Sat; W; mNevsky Prospekt)
 It's a happening bar, it serves a mean burger and there's a hairdresser at the back – should you fancy a new 'do' part-way through the night. Oh, and there's a fussball table, if conversation lags and you fancy a bit of hand-twisting action.
-TanzploshchadkaCLUB
+
+???
+Tanzploshchadka
+CLUB
 (Танцплощадка MAP GOOGLE MAP ; www.tancplo.com; Konyushennaya pl 2a; h8pm-6am Fri & Sat; mNevsky Prospket)
 Beloved by beautiful young things, this is the dance club of the moment with a shabby-chic indoor space beneath a lofty vaulted brick ceiling and plenty of outdoor space should it get too hot inside. Find it at the back, through the archway and courtyard complex south of Konyushennaya pl.
+
+???
 Bonch CafeCAFE
 ( MAP GOOGLE MAP ; %812-740 7083; www.bonchcoffee.ru; Bolshaya Morskaya ul 16; h8.30am-midnight Mon-Fri, from 10am Sat & Sun; W; mAdmiralteyskaya)
 Coffee is brewed just the way you like it at this pleasantly designed cafe occupying a large corner space in a handy location. It's a great place for breakfast as well as late-night sweet treats as there's 30% off all desserts after 10pm.
+
+
 LOCAL KNOWLEDGE
 SECRET BARS & RESTAURANTS
-
 Secret 'speakeasy' style bars and restaurants where you'll need to call or email ahead for the password and directions are hip these days in St Petersburg. These are a couple we like:
-Kvartira Kosti KroitsaINTERNATIONAL$$
+
+???
+Kvartira Kosti Kroitsa
+INTERNATIONAL$$
 (Квартира Кости Кройца MAP GOOGLE MAP ; www.kreutzflat.com; 5th fl, apt 8, ul Marata 1, 921-651 7788; mains R450-730; h24hr; Wv; mMayakovskaya)
 A beautifully designed bourgeois hideaway, Kvartira Kosti comprises a stylish restaurant with views over Nevsky pr, a small handsomely designed bar, and a surprising tea salon tucked in the back, with a stained-glass skylight and elegant furnishings set amid a circular room. The menu features Asian-style noodle dishes, creative salads, risotto, fish and chips, and a full breakfast lineup.
+
+???
 oKabinetCOCKTAIL BAR
 ( MAP GOOGLE MAP ; %8-911-921 1944; www.instagram.com/kabinet_bar; Malaya Sadovaya ul 8; h8am-6pm; mGostiny Dvor)
 Bookings are essential for this speakeasy cocktail bar styled as a secret poker joint and hidden beneath the Grill Brothers burger restaurant. It's a fun, sophisticated place with the waiters dealing sets of cards to determine your choice of cocktail.
+
+
+
 Smolny & Vosstaniya
+
+???
 oHatBAR
 ( MAP GOOGLE MAP ; ul Belinskogo 9; h7pm-5am; mGostiny Dvor)
 The wonderfully retro-feeling Hat is a serious spot for jazz and whiskey lovers, who come for the nightly live music and the cool cat crowd that makes this wonderfully designed bar feel like it's been transported out of 1950s Greenwich Village. A very welcome change of gear for St Petersburg's drinking options, but it can be extremely packed at weekends.
+
+???
 oUnion Bar & GrillBAR
 ( MAP GOOGLE MAP ; www.facebook.com/barunion; Liteyny pr 55; h6pm-4am Sun-Thu, to 6am Fri & Sat; W; mMayakovskaya)
 The Union is a glamorous and fun place, characterised by one enormous long wooden bar, low lighting and a New York feel. It's all rather adult, with a serious cocktail list and designer beers on tap. The hip 20- and 30-something crowd packs in on weekends to catch live bands, but it's generally quiet during the week.
 There's good snack fare (burgers, hummus with pita, shawarma) from the grill in the back room, and a tiny rear patio for the smoking crowd.
+
+???
 oZiferblatANTICAFE
 (Циферблат MAP GOOGLE MAP ; %8-981-180 7022; www.ziferblat.net; 2nd fl, Nevsky pr 81; per min R3, per min after 1st hr R2; h11am-midnight; W; mPloshchad Vosstaniya)
 A charming multiroom 'free space' that has started a worldwide trend, Ziferblat is the original anticafe in St Petersburg. Coffee, tea, soft drinks and biscuits are included as you while away your time playing chess and other board games, reading, playing instruments (help yourself to the piano and guitar) or just hanging out with the arty young locals who frequent its cosy rooms.
 The unsigned entrance is hard to find. Look for the big #81 sign on Nevsky pr, then find the door with buzzers just east of there. Ring Циферблат (labelled in Russian only).
+
+???
 oRedrumBAR
 ( MAP GOOGLE MAP ; %812-416 1126; www.facebook.com/redrumbarspb; ul Nekrasova 26; h4pm-1am Sun-Thu, to 3am Fri & Sat; mMayakovskaya)
 One of St Petersburg's best drinking dens, Redrum hits all the right notes. It has a cosy, white brick interior, a welcoming, easygoing crowd, and a stellar selection of craft brews (some two dozen on tap). There's also good pub fare on hand to go with that creative line-up of Session Indian Pale Ales, sour ales, Berliner Weisse and porters.
 Have a seat at the small circular bar and get ordering tips from the friendly bartenders, who will be happy to point you in the right direction.
+
+???
 oCommodeBAR
 ( MAP GOOGLE MAP ; www.commode.club; ul Rubinshteyna 1, 2nd fl; per hr R180; h4pm-2am Sun-Thu, to 6am Fri & Sat)
 Stopping in for drinks at Commode feels more like hanging out in an upper-class friend's stylish apartment. After getting buzzed up, you can hang out in various high-ceilinged rooms, catch a small concert or poetry slam, browse books in the quasi-library room, play a round of table football, or chat with the easygoing crowd that have fallen for the place.
 Drink and snack prices and are kept low (cocktails run R100 to R150), but you'll pay by the hour – not unlike an anticafe – for time spent at this so-called self-cost bar.
+
+???
 ZiferburgANTICAFE
 ( MAP GOOGLE MAP ; nab reki Fontanki 20; per min R3; h11am-midnight; mGostiny Dvor)
 Tucked inside the Golitsyn Loft, this is one of St Petersburg's loveliest spots to while away an afternoon. Elegant furnishings, huge windows and a piano in the corner set the scene. Like other anti-cafes, you'll pay by the minute, with drinks and cookies part of the deal.
 The price tops out at R540, meaning you won't pay more than that even if you spend all day here.
+
+
 Sennaya & Kolomna
+
+???
 Stirka 40BAR
 (Стирка MAP GOOGLE MAP ; Kazanskaya ul 26; h11am-midnight Sun-Thu, to 4am Fri & Sat; W; mSennaya Ploshchad)
 This friendly joint, whose name means 'washing', has three washing machines, so you can drop off a load and have a few beers while you wait. A novel idea, though one few people seem to take advantage of. Its small and unassuming layout makes it a great place for a quiet drink with a cool young crowd.
-SchumliCAFE
+
+???
+Schumli
+CAFE
 ( MAP GOOGLE MAP ; www.schumli.ru; Kazanskaya ul 40; h9.30am-10pm Mon-Fri, from noon Sat & Sun; W; mSennaya Ploshchad)
 With its large range of coffees, sumptuous selection of cakes and – best of all – freshly made Belgian waffles, this small but friendly cafe is a great place to regain flagging energy when wandering around the city. There's an upstairs dining room for full meals (mains R320 to R640), but coffee with a side of something sweet is the real reason to come.
+
+
+
 Vasilyevsky Island
-oBeer Boutique 1516CRAFT BEER
+
+???
+oBeer Boutique 1516
+CRAFT BEER
 (Пивной бутик 1516 MAP GOOGLE MAP ; %812-328 6066; http://butik1516.ru; 9-ya liniya 55; h3-10pm; mVasileostrovskaya)
 Your craft-beer cravings are sure to be satisfied at this bar-cum-bottle shop that has dedicated itself to the best of local and international ales. There's usually around 17 beers on tap and 300 or so in bottles to choose from – so it could be a long night.
+
+!!!
 oRadosti KofeCAFE
 (Радости Кофе MAP GOOGLE MAP ; %812-925 7222; www.facebook.com/radosticoffee/; nab Makarova 28; h8am-11pm; W; mSportivnaya)
 A leafy, relaxed ambience and river views across to the Petrograd Side make this a pleasant pit stop for coffee, other drinks and snacks while touring Vasilyevsky Island. They can make their drinks with soy, almond or hazelnut milk. The menu is available in English.
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d9744681-Reviews-Radosti_Coffee-St_Petersburg_Northwestern_District.html
+
+
 Petrograd & Vyborg Sides
-Big Wine FreaksWINE BAR
+
+???
+Big Wine Freaks
+WINE BAR
 ( MAP GOOGLE MAP ; %921-938 6063; Instrumentalnaya ul 3; h6pm-1am Tue-Sat; W)
 Boasting a stylish contemporary design, this aptly named place serves an excellent variety of wines from Europe and the New World, plus tasty snacks to go with those tempranillos and chardonnays. Helpful staff – all trained sommeliers – can provide tips on what to order. There's live music, along the lines of acoustic jazz, on Wednesday nights from 8pm.
+
+???
 Double BCAFE
 (Даблби MAP GOOGLE MAP ; www.double-b.ru; Kronverksky pr; h8am-10pm Mon-Fri, from 10am Sat & Sun; mGorkovskaya)
 One of Petrograd Side's best coffee spots is this hip little cafe on busy Kronverksky pr. Staff can make you a perfect brew with all the essential gadgetry. A green and grey colour scheme, geometric designs, curious lamps and a big picture window make a fine setting for a bit of caffeinated daydreaming.
+
+!!!
 YasliBAR
 (Ясли MAP GOOGLE MAP ; www.facebook.com/yaslibar; ul Markina 1; hnoon-midnight Sun-Thu, to 2am Fri & Sat; W; mGorkovskaya)
 Tucked down a narrow lane off busy Kronverksky, Yasli makes a fine retreat on chilly nights, with its excellent craft brews on tap and satisfying pub grub (like fish and chips). The setting channels a bit of Brooklyn chic with industrial fixtures and a hip but unpretentious crowd.
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d8351409-Reviews-Yasli-St_Petersburg_Northwestern_District.html
+
+???
 Bolshoy BarBAR
 (Большой Бар MAP GOOGLE MAP ; Bolshoy pr 45; h9am-1am Sun-Tue, to 4am Wed-Sat; W)
 A dapper boxcar-sized spot with old-time music and black-and-white films playing silently in the background, wryly named Bolshoy serves up good coffees by day and first-rate cocktails by night – though daytime drinking isn't discouraged. Slip onto a comfy bar stool and order an Aperol spritz from the talented but bristly bartender.
-LGBT ST PETERSBURG
 
-St Petersburg's LGBT nightlife is centred on the large and mainstream club Central Station ( MAP GOOGLE MAP ; %812-312 3600; http://centralstation.ru; ul Lomonosova 1/28; cover after midnight R100-300; h6pm-6am; mNevsky Prospekt) and the more alternative Golubaya Ustritsa ( MAP GOOGLE MAP ; %8-921-332 5161; www.boyster.ru; ul Lomonosova 1; h7pm-6am; mGostiny Dvor), a self-styled ‘trash bar’ that guarantees a raucous and cheap night out for anyone. Another option is the long-running Soviet-style club Cabaret (Кабаре MAP GOOGLE MAP ; www.cabarespb.ru; Razyezzhaya ul 43; cover R300-600; h11pm-6am Thu-Sat; mLigovsky Prospekt) where the 2.30am drag show at weekends is very popular.
-There is a busy and growing LGBT scene, but it remains fairly discreet. Gay pride marches are routinely attacked by far right groups and the police often harass protesters. Coming Out (www.comingoutspb.com) is the site of a St Petersburg–based support organisation.
-3Entertainment
-The classical performing arts are one of the biggest draws in St Petersburg. Highly acclaimed professional artists stage productions in elegant theatres around the city, many of which have been recently revamped and look marvellous.
-Historic Heart
-oAlexandrinsky TheatreTHEATRE
-( MAP GOOGLE MAP ; %812-710 4103; www.alexandrinsky.ru; pl Ostrovskogo 2; tickets R900-6000; mGostiny Dvor)
-This magnificent venue is just one part of an immaculate architectural ensemble designed by Carlo Rossi. The theatre’s interior oozes 19th-century elegance and style, and it’s worth taking a peek even if you don’t see a production here.
-New StagePERFORMING ARTS
-(Новая сцена MAP GOOGLE MAP ; %812-401 5341; http://alexandrinsky.ru; nab reki Fontanki 49a; mGostiny Dvor)
-The New Stage at Alexandrinsky, which opened in 2013, is a strikingly modern building for the historic city center but one that keeps a low profile due to the architect's ingenious use of glass and a secluded courtyard space. Come here to see contemporary dance, music, film, lectures and other events.
-oMikhailovsky TheatrePERFORMING ARTS
-(Михайловский театр MAP GOOGLE MAP ; %812-595 4305; www.mikhailovsky.ru; pl Iskusstv 1; tickets R500-5000; mNevsky Prospekt)
-This illustrious stage delivers the Russian ballet or operatic experience, complete with multitiered theatre, frescoed ceiling and elaborate productions. Pl Iskusstv (Arts Sq) is a lovely setting for this respected venue, which is home to the State Academic Opera & Ballet Company.
-Shostakovich PhilharmoniaCLASSICAL MUSIC
-(Санкт-Петербургская филармония им. Д.Д.Шостаковича MAP GOOGLE MAP ; www.philharmonia.spb.ru; tickets R800-2500; mNevsky Prospekt)
-Under the artistic direction of world-famous conductor Yury Temirkanov, the Philharmonia represents the finest in orchestral music. The Bolshoy Zal (Большой зал MAP GOOGLE MAP ; %812-240 0180; Mikhailovskaya ul 2; mNevsky Prospekt) is the venue for a full program of symphonic performances, while the nearby Maly Zal (Малый Зал MAP GOOGLE MAP ; %812-571 8333; Nevsky pr 30; mGostiny Dvor) hosts smaller ensembles. Both venues are used for numerous music festivals.
-Smolny & Vosstaniya
-CosmonautLIVE MUSIC
-(Космонавт MAP GOOGLE MAP ; www.cosmonavt.su; ul Bronnitskaya 24; tickets R300-800; W; mTekhnologichesky Institut)
-This fantastic conversion of a Soviet-era cinema in a rather nondescript part of town is a great venue for medium-sized concerts and a good place to see live acts in St Petersburg. There’s air-conditioning, which is a godsend in summer, and a very comfortable VIP lounge upstairs, with seating throughout.
-Fish FabriqueLIVE MUSIC
-( MAP GOOGLE MAP ; http://fishfabrique.ru; Ligovsky pr 53; hnoon-4am daily, concerts from 8pm Thu-Sun; W; mPloshchad Vosstaniya)
-There are St Petersburg institutions and then there’s Fish Fabrique, the museum of local boho life that has been going for over two decades. Here, in the dark underbelly of Pushkinskaya 10, artists, musicians and counter-culturalists of all ages meet to drink beer and listen to music.
-Maly Drama TheatreTHEATRE
-(Малый драматический театр MAP GOOGLE MAP ; www.mdt-dodin.ru; ul Rubinshteyna 18; mVladimirskaya)
-Also called the Theatre of Europe, the Maly is St Petersburg’s most internationally celebrated theatre. Its director Lev Dodin is famed for his long version of Fyodor Dostoevsky’s The Devils, as well as Anton Chekhov’s Play Without a Name, both of which toured the world to great acclaim. It's also one of the few theatres that does (some) performances with subtitles.
-Jazz Philharmonic HallJAZZ
-( MAP GOOGLE MAP ; www.jazz-hall.com; Zagorodny pr 27; cover R1200-1500; hconcerts 7pm or 8pm Wed-Sun; mVladimirskaya)
-Founded by legendary jazz violinist and composer David Goloshchokin, this venue represents the more traditional side of jazz. Two resident bands perform straight jazz and Dixieland in the big hall, which seats up to 200 people. The smaller Ellington Hall is used for occasional acoustic performances. Foreign guests also appear doing mainstream and modern jazz; check the website for details.
-JFC Jazz ClubJAZZ
-( MAP GOOGLE MAP ; %812-272 9850; www.jfc-club.spb.ru; Shpalernaya ul 33; cover R200-500; h7-10pm; mChernyshevskaya)
-Very small and very New York, this cool club is the best place in the city to hear modern, innovative jazz music, as well as blues, bluegrass and various other styles (see the website for a list of what’s on). The space is tiny, so book a table online if you want to sit down.
-DON'T MISS
-MARIINSKY THEATRE
 
-The Mariinsky Theatre (Мариинский театр MAP GOOGLE MAP ; %812-326 4141; www.mariinsky.ru; Teatralnaya pl 1; tickets R1200-6500; mSadovaya) has played a pivotal role in Russian ballet and opera ever since it was built in 1859 and remains one of Russia's most loved and respected cultural institutions. Its pretty green-and-white main building on aptly named Teatralnaya pl (Theatre Sq) is a must for any visitor wanting to see one of the world's great ballet and opera stages, while its newer second stage, the Mariinsky II (Мариинский II MAP GOOGLE MAP ; %812-326 4141; www.mariinsky.ru; ul Dekabristov 34; tickets R350-6000; hticket office 11am-7pm; mSadovaya), is a state-of-the-art opera house for the 21st century.
-The best way to experience these buildings is to see an opera or ballet. Outside performance times you can wander into the theatre’s foyer and maybe peep into the lovely auditorium. Private tours are sometimes available – ask at the main ticket office if these are running during your visit.
-Known as the Kirov Ballet during the Soviet era, the Mariinsky has an illustrious history, with troupe members including such ballet greats as Nijinsky, Nureyev, Pavlova and Baryshnikov. In recent years the company has been invigorated by the current Artistic and General Director Valery Gergiev. It is pretty certain that the Mariinsky Theatre will close at some point in 2018 or 2019 for a full (and, again, much needed) renovation, so visit the building's faded grandeur while you can.
-Sennaya & Kolomna
-Rimsky-Korsakov ConservatoryCLASSICAL MUSIC
-(Консерватория имени Н. А. Римского-Корсакова MAP GOOGLE MAP ; %812-312 2519; www.conservatory.ru; Teatralnaya pl 3; tickets R300-2000; mSadovaya)
-This illustrious music school was the first public music school in Russia. The Bolshoy Zal (Big Hall) on the 3rd floor is an excellent place to see performances by up-and-coming musicians throughout the academic year, while the Maly Zal (Small Hall) often hosts free concerts from present students and alumni; check when you’re in town for what’s on.
-Mariinsky Concert HallCLASSICAL MUSIC
-(Мариинский концертный зал MAP GOOGLE MAP ; www.mariinsky.ru; ul Dekabristov 37; tickets R700-1800; hticket office 11am-8pm; mSadovaya)
-Opened in 2007, this concert hall is a magnificent multifaceted creation. It manages to preserve the historic brick facade of the set and scenery warehouse that previously stood on this spot, while the modern main entrance, facing ul Dekabristov, is all tinted glass and angular lines, hardly hinting at the beautiful old building behind.
-Petrograd & Vyborg Sides
-Hi-HatLIVE PERFORMANCE
-( MAP GOOGLE MAP ; www.facebook.com/hihatrooftop; Aptekarsky pr 4; mPetrogradskaya)
-On the rooftop of an art cluster near the Botanical Gardens, Hi-Hat hosts nights of live music, DJs and open-air film screenings. The creative line-up and open-air setting draws out style mavens and a party-minded crowd. The schedule is erratic, but events typically run from 5pm or 6pm to around 1am on Fridays and Saturdays (with the odd Sunday and Thursday happening). Check the website for the schedule.
-A2LIVE MUSIC
-( MAP GOOGLE MAP ; %812-333 0379; http://a2.fm; pr Medikov 3; tickets from R500; mPetrogradskaya)
-With an outstanding sound system and an eclectic line-up of live music and DJs, A2 is one of the best venues for contemporary sounds in the city. It houses two concert halls (seating 1500 and 5000) and has a staggering number of bars sprinkled about the complex.
-KamchatkaCLUB, LIVE MUSIC
-( MAP GOOGLE MAP ; www.clubkamchatka.ru; ul Blokhina 15; cover R250-350; h7pm-2am; mSportivnaya)
-A shrine to Viktor Tsoy, the late Soviet-era rocker who worked as caretaker of this former boilerhouse bunker with band mates from Kino. Music lovers flock here to light candles and watch a new generation thrash out their stuff. The line-up is varied and it's worth dropping by if only for a quick drink in this highly atmospheric place – find it tucked in a courtyard off the street.
+
 7Shopping
-Historic Heart
-oAu Pont RougeDEPARTMENT STORE
-( MAP GOOGLE MAP ; https://aupontrouge.ru; nab reki Moyki 73-79; h10am-10pm; mAdmiralteyskaya)
-Dating from 1906–7, the one-time Esders and Scheefhaals department store has been beautifully restored and is one of the most glamorous places to shop in the city. This glorious Style Moderne building is now dubbed Au Pont Rouge after the Krasny most (Red Bridge) it stands beside. Inside you'll find choice fashions and accessories and top-notch souvenirs.
-Perinnye RyadyARTS & CRAFTS
-(Перинные, арт-центр MAP GOOGLE MAP ; %812-440 2028; http://artcenter.ru; Dumskaya ul 4; h10am-8pm; mGotsiny Dvor)
-Scores of arts-and-craft stores can be found in this arcade in the middle of Dumskaya ul. Among them are Collection, with a wide range of painted works, several by members of the Union of Artists of Russia, and Pionersky Magazin, specialising in Soviet-era memorabilia, where you're guaranteed to find a bust of Lenin and colourful propaganda and art posters.
+
+
 DON'T MISS
 HISTORIC SHOPS OF NEVSKY PROSPEKT
-
 Nikolai Gogol described it as 'Petersburg's universal channel of communication' in his story Nevsky Prospekt. Some 300 years on from its creation, little has changed. Nevsky remains the city's most famous street, running 4.7km from the Admiralty to the Alexandr Nevsky Monastery, from which it takes its name. Taking a stroll along it is an essential St Petersburg experience and particularly special at dusk as the low light casts shadows and picks out silhouettes from the elegant mix of architecture.
 The inner 2.5km to Moscow Station (Moskovsky vokzal) is the city's prime shopping drag that pulses with street life. Here you'll find baroque palaces, churches in a range of denominations, all manner of entertainments and, above all, shops, some historic in their own right. These are the key ones not to miss:
+
+---
 ASinger Building ( MAP GOOGLE MAP ; Nevsky pr 28; mNevsky Prospekt) The former headquarters of the Singer sewing machine company, which opened a factory in the Russian capital in 1904, is one of St Petersburg’s most gorgeous buildings. Its Style Modern architecture, designed by Pavel Suzor, and topped with a glass tower and scuplture, also housed the American consulate for a few years prior to WWI. It's possible to access the offices part of the building including the interior of the glass dome on a tour (R6000 for up to three people) organised with Placemates (%925 845 3747; http://placemates.ru; prices vary).
+
+???
 ABolshoy Gostiny Dvor (Большой Гостиный Двор MAP GOOGLE MAP ; %812-630 5408; http://bgd.ru; Nevsky pr 35; h10am-10pm; mGostiny Dvor) One of the world’s first indoor shopping malls, the ‘Big Merchant Yard’ dates from between 1757 and 1785 and stretches 230m along Nevsky pr (its perimeter is more than 1km long). This Rastrelli creation is not as elaborate as some of his other work, finished as it was by Vallin de la Mothe in a more sober neoclassical style. At its height at the turn of the 20th century, Gostiny Dvor contained over 170 shops.
+
+???
 APassage (Пассаж MAP GOOGLE MAP ; %812-313 7400; http://passage.spb.ru; Nevsky pr 48; h10am-9pm; mGostiny Dvor) Built between 1846 and 1848, this arcade has a glass roof spanning the entire block from Nevsky to Italiyanskaya ul. Dostoevsky wrote a story about a man who was swallowed by a crocodile in Passage, after a live crocodile was exhibited here in 1864. Look for the small exhibition on the 1st floor with historical photos and other items related to the arcade. The handsomely restored ground floor has several good souvenir and antique shops.
+
+!!!
 AKupetz Eliseevs ( MAP GOOGLE MAP ; %812-456 6666; www.kupetzeliseevs.ru; Nevsky pr 56; h10am-11pm; W; mGostiny Dvor) This Style Moderne stunner is St Petersburg's most elegant grocery store. Built in 1904 as the flagship of the Eliseev Brothers' highly successful chain of food emporiums, little expense or design flourish was spared in its construction. In recent years the building has been restored to its full grandeur with huge plate-glass windows providing glimpses into a dazzling interior of stained glass, chandeliers, polished brass and a giant pineapple palm. The building's exterior is no less lavish, graced with four allegorical sculptures representing industry, trade and commerce, art and science. The building also included a theatre, which is still functioning.
+
+
 Smolny & Vosstaniya
-PhonotekaMUSIC
-(Фонотека MAP GOOGLE MAP ; www.phonoteka.ru; ul Marata 28; h10am-10pm; mMayakovskaya)
-This cool store will thrill anyone interested in music and cinema, as it sells a very cool range of vinyls from all eras (it’s particularly strong on rare Soviet discs), a great selection of CDs from around the world and a discerning choice of film and documentary on DVD, making it an excellent place to buy Russian films.
-AngliaBOOKS
-( MAP GOOGLE MAP ; nab reki Fontanki 30; h10am-8pm Mon-Fri, from 11am Sat, noon-7pm Sun; mGostiny Dvor)
-The city’s only dedicated English-language bookshop has a good selection of contemporary literature, classics, dictionaries, history and travel writing – plus a dedicated section on Russia. It also hosts small art and photography displays, organises book readings and generally is a cornerstone of expat life in St Petersburg.
-Imperial PorcelainHOMEWARES
+
+Imperial Porcelain
+HOMEWARES
 (Императорский Фарфор MAP GOOGLE MAP ; www.ipm.ru; Vladimirsky pr 7; h10am-8pm; mVladimirskaya)
 This is one of many convenient city-centre locations of the famous porcelain factory that once made tea sets for the Romanovs. If you’re determined to get a bargain, head out to the factory outlet (Императорский Фарфор GOOGLE MAP ; www.ipm.ru; pr Obukhovsky Oborony 151; h10am-8pm; mLomonosovskaya) where prices are a bit cheaper.
-GaleriaSHOPPING CENTRE
-(Галерея MAP GOOGLE MAP ; www.galeria.spb.ru; Ligovsky pr 30A; h10am-11pm; mPloshchad Vosstaniya)
-This extraordinary place has rather changed everything for shopping in St Petersburg – there are probably as many shops here as elsewhere in the entire city centre. Spread over five floors, with around 300 shops (including H&M, Michael Kors, Marks & Spencer, Kiehl's and Zara), this really is a one-stop shop for pretty much all your shopping needs.
-Sennaya & Kolomna
-RediskаARTS & CRAFTS
-( MAP GOOGLE MAP ; Grazhdanskaya ul 13, Berthold Centre; hnoon-10pm; mSadovaya)
-Near the courtyard of the Berthold Centre, this delightful shop has lots of eye-catching objects, much of it made in-house or produced by St Petersburg artisans. You'll find jewellery imprinted with famous paintings, whimsical wooden clocks, ceramics, tiny Konstructor kits (a kind of miniature Lego), artfully painted flasks, backpacks, sunglasses and handmade soaps, lotions and candles.
-NorthwayGIFTS & SOUVENIRS
-( MAP GOOGLE MAP ; Angliyskaya nab 36/2; h9am-8pm; mAdmiralteyskaya)
-There is quite simply no bigger collection of matryoshki (nesting dolls), amber, fur and other Russian souvenir staples than that on offer at this very impressive and stylish shop right on the Neva embankment. Look no further for Russian gifts to take home.
-WORTH A TRIP
-UDELNAYA FAIR
 
+WORTH A TRIP
+???
+UDELNAYA FAIR
 This weekend market (Удельная ярмарка GOOGLE MAP ; Skobolvesky pr, Vyborg Side; h8am-5pm Sat & Sun; mUdelnaya) is a treasure trove of Soviet ephemera, prerevolutionary antiques, WWII artefacts and bonkers kitsch from all eras is truly worth travelling to see. Exit the metro station to the right and follow the crowds across the train tracks. Continue beyond the large permanent market, which is of very little interest, until you come to a huge area of independent stalls, all varying in quality and content.
+
+
+
+
 8Information
 DANGER & ANNOYANCES
 AForeigners tend to find Russians quite brusque and even unfriendly. Remember, this is a cultural thing, and try not to be offended by it. Russians take a while to warm up, but when they do they're exceptionally friendly.
 AThere has been an ongoing epidemic of racist attacks in St Petersburg. If you look very obviously non-Russian, it's a good idea to avoid the suburbs and take taxis at night.
 ADue to legislation criminalising the 'promotion of homosexuality' to minors, levels of homophobia are higher now than they have been for some time. Gay travellers are advised to remain discreet.
+
 DISCOUNT CARDS
 If you’re a student, bring an International Student Identity Card (ISIC) to get discounts – cards issued by non-Russian universities will not always be accepted. The Hermitage is the blissful exception, where anyone with a student card from any country gets in for free. Senior citizens (usually anyone over the age of 60) are often also eligible for discounts, so bring your passport with you as proof of age.
 The St Petersburg Card (https://petersburgcard.com) is sold online and by the St Petersburg Tourist Centre. It gives a range of discounts on tours and sights such as the Hermitage, Peterhof and Tsarskoe Selo (the savings aren't huge), as well as acting as a stored-value card for public transport.
-EMERGENCY
-Ambulance	%03
-Fire Department	%01
-Police	%02
-INTERNET ACCESS
-Internet access is excellent and practically universal. Nearly all hotels have free wireless internet. Many restaurants, cafes, bars and clubs also have wi-fi. You may have to ask for a password (parol) to get online, and also input your mobile phone number. Sometimes this will need to be a Russian number (ie one starting with 7); if you don't have one, ask a local if you can use their number.
-MEDIA
-There is no English-language newspaper but the free bimonthly In Your Pocket (www.inyourpocket.com) magazine is worth picking up for events listings and other background information.
-MEDICAL SERVICES
-Clinics
-These private clinics have facilities of an international standard and are pricey, but generally accept major international insurance policies, including direct billing.
-American Medical Clinic ( GOOGLE MAP ; %812-740 2090; www.amclinic.ru; nab reki Moyki 78; h24hr; mAdmiralteyskaya)
-Euromed ( MAP GOOGLE MAP ; %812-327 0301; www.euromed.ru; Suvorovsky pr 60; h24hr; mChernyshevskaya)
-Medem International Clinic & Hospital ( MAP GOOGLE MAP ; %812-336 3333; www.medem.ru; ul Marata 6; h24hr; mMayakovskaya)
-Pharmacies
-Apteka Petrofarm ( GOOGLE MAP ; %812-571 3767; www.petropharm6.webapteka.ru; Nevsky pr 22-24; h24hr)
-A chain of 24-hour pharmacies called 36.6 Pharmacy (www.366.ru) has many branches around the city, including in the Historic Centre ( GOOGLE MAP ; %812-324 2666; Gorokhovaya ul 16; h9am-9pm Mon-Fri, 10am-9pm Sat & Sun; mAdmiralteyskaya). Other convenient pharmacies include Raduga, with branches in the Petrograd Side (Радуга MAP GOOGLE MAP ; Bolshoy pr 62; h9am-10pm Mon-Fri, from 10am Sat & Sun; mPetrogradskaya) and Smolny ( MAP GOOGLE MAP ; %812-275 8189; Nevsky pr 98; h24hr; mMayakovskaya).
-MONEY
-ATMs are everywhere and debit and credit cards are accepted in most places. Still, it's always a good idea to carry some cash.
-POST
-To send parcels home, head to the elegant main post office ( GOOGLE MAP ; Pochtamtskaya ul 9; mAdmiralteyskaya). Smaller post offices may refuse to send parcels internationally; most importantly, your package is more likely to reach its destination if you send it from the main post office. You will need to provide a return address in St Petersburg – your hotel name will be fine.
+
 TOILETS
 Around nearly all metro stations and tourist attractions there’s at least one blue Portakabin-type toilet staffed by an attendant who will charge you around R35 for the honour of using it. There are also pay toilets in all main-line train stations and free ones in museums. As a general rule, it’s far better to stop for a drink in a cafe or duck into a fancy hotel and use their cleaner facilities.
+
 TOURIST INFORMATION
 Tourist information is halfway decent in St Petersburg. In addition to the Tourist Information Bureau's main office ( GOOGLE MAP ; %812-303 0555, 812-242 3909; http://eng.ispb.info; Sadovaya ul 14/52; h10am-7pm Mon-Sat; mGostiny Dvor), just off Nevsky pr in the Historic Heart, there is an office in Smolny ( GOOGLE MAP ; pl Vosstaniya; h10am-7pm; mPloshchad Vosstaniya), and kiosks at Palace Square ( GOOGLE MAP ; %8-931-326 5744; Dvortsovaya pl; h10am-7pm; mAdmiralteyskaya), St Isaac's Cathedral ( GOOGLE MAP ; Isaakievskaya pl; h10am-7pm; mAdmiralteyskaya) and Pulkovo Airport ( GOOGLE MAP ; h9am-8pm).
-TRAVEL AGENCIES
-Ost-West ( MAP GOOGLE MAP ; %812-327 3416; www.ostwest.com; office 306, ul Vosstaniya 7; h10am-6.30pm Mon-Fri; mPloshchad Vosstaniya)
-Travel Russia ( MAP GOOGLE MAP ; %812-407 2015; www.travelrussia.su; Office 206, Suvorovsky pr 2b; h9am-7pm Mon-Fri; mPloshchad Vosstaniya)
-8Getting There & Away
+
+
+
 AIR
 Most travellers arrive in St Petersburg at Pulkovo International Airport (LED; GOOGLE MAP ; %812-337 3822; www.pulkovoairport.ru; Pulkovskoye sh), 23km south of the city. This terminal building, which opened in 2014, and is confusingly still referred to as Terminal 1, handles all domestic and international flights and is St Petersburg's only airport.
 BOAT
@@ -2385,8 +2905,8 @@ The most convenient border crossing from Estonia when driving to St Petersburg i
 Heading to the city from Finland, highways cross the Finnish border posts of Nuijamaa and Vaalimaa (Brusnichnoe and Torfyanovka, respectively, on the Russian side).
 TRAIN
 Buying train tickets in person can be done at any train station (even at a different terminus from where your train departs), although waiting time can be long if you buy them at a counter. Far quicker are the ticket machines, which all work in English and where you can usually pay in both cash and by credit card. Another option is the centrally located Train Tickets Centre (Кассы ЖД GOOGLE MAP ; nab kanala Griboyedova 24; h8am-8pm Mon-Sat, until 6pm Sun; mGostiny Dvor), where there are also ticket machines, which makes waiting in line unnecessary.
-HISTORIC RAILWAY STATIONS
 
+HISTORIC RAILWAY STATIONS
 As the birthplace of Russia’s railway system, it’s not surprising that St Petersburg has some grand stations. The oldest and most elegant is the Vitebsk Station (Vitebsky vokzal; Витебский вокзал GOOGLE MAP ; Zagorodny pr 52; mPushkinskaya), originally built in 1837 for the tsar’s private train line to Tsarskoe Selo. The current building dates from 1904 and is partly graced with gorgeous Style Moderne interiors.
 While you’re at the Moscow Station (Moskovsky vokzal; Московский вокзал GOOGLE MAP ; www.moskovsky-vokzal.ru; Nevsky pr 85; mPloshchad Vosstaniya), look up at the expansive ceiling mural in the main entrance hall. There’s also a striking giant bust of Peter the Great in the hall leading to the platforms.
 The Finland Station (Finlyandsky vokzal; Финляндский вокзал MAP GOOGLE MAP ; pl Lenina 6; mPloshchad Lenina), rebuilt in the 1970s in rectilinear Soviet style, is where Lenin finally arrived in 1917 after 17 years in exile abroad. Here he gave his legendary speech from the top of an armoured car to a crowd who had heard of, but never seen the man. After fleeing a second time he again arrived here from Finland, this time disguised as a railway fireman, and the locomotive he rode in is displayed behind glass on the platform. Walk out onto the square that still bears Lenin’s name and you’ll see a marvellous statue of the man himself at the far end.
@@ -2432,14 +2952,21 @@ Taxi-4 (%812-333 4333; www.taxi-4.ru)
 Taxi Blues (Такси-Блюз %812-321 8888; www.taxiblues.ru)
 Taxi 6000000 (%812-600 0000; http://6-000-000.ru) Has operators and drivers who speak English.
 
-RAISING THE BRIDGES
 
+
+RAISING THE BRIDGES
 From mid-April until late November major bridges across the Neva rise roughly between 1.30am and 5am to allow ships to sail through the city. Check the timetable at www.razvodka-mostov.ru (in Russian only). Because of the new fixed suspension bridges on the Western High Speed Diameter highway across the mouth of the Neva you will not be stuck either side of the river when the bridges go up. Note also that between May and the end of November the M5 metro line shuttles every 20 minutes back and forth between Admiralteyskaya and Sportivnaya stations between 1am and 3am on Saturday and Sunday and the eve of public holidays, creating an easy way to get between the islands and the Historic Heart.
+
+
+
 
 AROUND ST PETERSBURG
 There are several grand imperial palaces and estates surrounding St Petersburg. Peterhof and the palace-park ensembles at Tsarskoe Selo and Pavlovsk are the best and a visit to St Petersburg is not complete without a trip to at least one of them. Be warned that at the height of summer the endless tourist crowds can be frustrating. Moreover, while Peterhof is the most impressive palace, it’s overpriced for foreigners. Tsarskoe Selo is the best value-for-money day trip.
 If your time is short, or you wish to avoid the long queues at the palaces, book yourself into a guided tour of Peterhof, Tsarskoe Selo or Pavlovsk with a travel agency, and make sure that they book your entry ticket for you. Peter’s Walking Tours in St Petersburg can do this for you.
 
+
+
+!!!
 Peterhof Петергоф
 %812 / POP 73,400
 Hugging the Gulf of Finland, 29km west of St Petersburg, Peterhof – the ‘Russian Versailles’ – is a far cry from the original cabin Peter the Great had built here to oversee construction of the Kronshtadt naval base. Peter liked the place so much he built a villa, Monplaisir, here and then a whole series of palaces and ornate gardens. Peterhof was renamed Petrodvorets (Peter’s Palace) in 1944 but has since reverted to its original name. The palace and buildings are surrounded by leafy gardens and a spectacular ensemble of gravity-powered fountains.
@@ -2456,131 +2983,213 @@ After WWII, Peterhof was largely left in ruins. Hitler had intended to throw a p
 Park AlexandriaPARK
 (Парк Александрия GOOGLE MAP ; adult/student R300/200; h9am-10pm)
 Even on summer weekends, the rambling and overgrown Park Alexandria is peaceful and practically empty. Built for Tsar Nicholas I (and named for his tsarina), these grounds offer a sweet retreat from the crowds. Originally named for Alexander Nevsky, the Gothic chapel ( GOOGLE MAP ; adult/student R300/200; h10.30am-6pm Tue-Sun) was completed in 1834 as the private chapel of Nicholas I. Nearby is the cottage (Коттедж GOOGLE MAP ; adult/student R500/300; h10.30am-6pm Tue-Sun) that was built around the same time as his summer residence.
-PETERHOF TICKETS & OPENING HOURS
 
+PETERHOF TICKETS & OPENING HOURS
 Inexplicably, many museums within the Peterhof estate have different closing days, although all the buildings are open from Friday to Sunday. With the exception of the Grand Palace, most buildings are open only at weekends between October and April, and some are closed entirely out of season. In any case, it’s extraordinarily expensive to see all the attractions from the inside, as they each charge separate hefty admission fees, plus an extra ticket to take photographs or videos – on top of which you’re paying at least 75% more than locals. There are some joint tickets to several sights, which save you something, but sadly there's no general ticket available. Nearly all tours and posted information is in Russian, so it’s worth investing in an information booklet, available at the kiosks near the entrances.
 The lovely Upper Garden is free. Admission to the Lower Park is payable at the cash booths on the jetty and outside the gates leading to the Grand Cascade. There's no re-entering the park; if you leave the grounds, you'll have to purchase another ticket to get back in.
+
 4Sleeping & Eating
-New Peterhof HotelHOTEL$$
-( GOOGLE MAP ; %812-319 1010; www.new-peterhof.com; Sankt Peterburgsky pr 34; s/d from R5000/5900; Ws)
-This impressive hotel complex has 150 rooms in an unusually designed building near Peterhof's Upper Garden. Rooms are modern and sleek with all the amenities you'd expect, and the best have photogenic views of the Peter and Paul Church.
-Shtandart RestaurantRUSSIAN$$
+
+???
+Shtandart Restaurant
+RUSSIAN$$
 (Ресторан Штандарт GOOGLE MAP ; www.restaurantshtandart.spb.ru; Lower Park; mains R590-1300; h11am-8pm)
 This large and upmarket restaurant overlooks the Gulf of Finland, just west of the boat dock, with plenty of seating both inside and out. It has a large and meaty menu full of filling but interesting Russian classics.
-Grand OrangerieRUSSIAN$$
+
+---
+Grand Orangerie
+RUSSIAN$$
 ( GOOGLE MAP ; Lower Park; set menus R450-800; h11am-8pm)
 This cafe in the orangery is a fine choice for lunch. It gets busy, though, so you may have to queue for a spot. It has a cafeteria-style counter where you can pick out your Russian classics; don't neglect the cake selection.
+
 8Getting There & Away
 It’s easy and cheap to reach Peterhof by bus or marshrutka. Marshrutka 300, 424 and 424A (R80) leave from outside the Avtovo metro station, while marshrutka 103 leaves from outside Leninsky Prospekt station. All pass through the town of Peterhof, immediately outside the palace. Tell the driver you want to go ‘vo dvaryéts’ (‘to the palace’) and you’ll be let off near the main entrance to the Upper Garden, on Sankt-Peterburgsky pr.
 There’s also a reasonably frequent suburban train (R60, 40 minutes) from Baltic Station (Baltiysky vokzal) to Novy Peterhof, from where you can walk (around 30 minutes), or take any bus except 357 to the fifth stop, which will take another 10 minutes.
 From May to September, the Peterhof Express ( GOOGLE MAP ; www.peterhof-express.com; single/return adult R800/1500, student R600/1000; h10am-6pm) hydrofoil departs from the jetty in front of the Admiralty every 30 minutes from 9am. It’s an expensive but highly enjoyable way to get to Peterhof, and you arrive right in front of the palace. The last hydrofoil leaves Peterhof at 7pm, and the trip takes 30 minutes.
-OFF THE BEATEN TRACK
-ORANIENBAUM ОРАНИЕНБАУМ
 
+
+
+
+OFF THE BEATEN TRACK
+ORANIENBAUM ОРАНИЕНБАУМ aka Lomonosov
 Oranienbaum (Orange Tree), the palace of Peter the Great's right-hand man Alexander Menshikov is 5km down the coast from Peterhof. The buildings are part of the Unesco World Heritage Site, and provide a fine window into Russia’s imperial past. The surrounding park (Музей-заповедник Ораниенбаум GOOGLE MAP ; www.peterhofmuseum.ru; h9am-8pm) is worth a visit in its own right, with beautifully landscaped paths amid the lakes and greenery.
+!
 Menshikov’s impressive palace (Большой Меншиковский Дворец GOOGLE MAP ; adult/student R400/250; h10.30am-6pm Wed-Mon) underwent a full restoration and reopened its state rooms in 2014. Most of the interiors are restorations of the 19th century ones, so reflect the taste of the various Romanovs who used the palace, rather than Menshikov himself, of whom there is no trace.
+!
 Among the other buildings in the park open to the public is the Chinese Palace (Китайский дворец GOOGLE MAP ; adult/student R500/300; h10.30am-6pm Tue-Sun). Built for Catherine the Great as her private residence at Oranienbaum, this over-the-top rococo palace, designed by Antonio Rinaldi, is distinctly un-Chinese looking and, in fact, gets its name from its chinoiserie interiors, which feature painted ceilings and fine inlaid-wood floors and walls.
+???
 Opposite Oranienbaum's main entrance, Okhota (Охота GOOGLE MAP ; Dvortsovy pr 65a; mains R480-1220; hnoon-9pm Mon-Thu, to midnight Fri-Sun) serves up hearty fare in a traditional Russian environment. It's big on taxidermy for its hunting-themed decor.
 Trains from St Petersburg’s Baltic Station (Baltiysky vokzal) to Peterhof continues to Oranienbaum (R81, one hour). Get off at Lomonosov Station and walk diagonally across the little park in front, keep going up to the main road, turn right, pass the unmissable Archangel Michael Cathedral, and you’ll reach the park entrance on your left. Alternatively you can take marshrutky 300, 424 or 424A to Lomonosov (R70) from outside metro Avtovo. Get off at the Archangel Michael Cathedral and follow the park perimeter to the left until you reach the entrance.
+
+
+
+
 Pushkin (Tsarskoe Selo) Пушкин (Царское Село)
 %812 / POP 106,100
 The grand imperial estate of Tsarskoe Selo in the town of Pushkin, 25km south of St Petersburg, is often combined on a day trip with the palace and sprawling park at Pavlovsk, 4km further south. It’s a great combination, but start out early as there’s lots to see: Pushkin can easily be a full-day trip in itself.
 The railway that connects Pushkin and Pavlovsk with St Petersburg was Russia’s first, opened in 1837 to carry the imperial family between here and the then capital. The town changed its name to Pushkin in 1937 after Russia’s favourite poet, who studied here and whose school and dacha you can also visit. While the palace and park complex's name has reverted to Tsarskoe Selo (The Tsar's Village), the town remains proudly named for the national bard.
 
-
 1Sights
-oCatherine PalacePALACE
+!!!
+oCatherine Palace
+PALACE
 (Екатерининский дворец MAP GOOGLE MAP ; www.tzar.ru; Sadovaya ul 7; adult/student R1000/350, audio guide R150; h10am-4.45pm Wed-Sun)
 The centrepiece of Tsarskoe Selo, created under Empresses Elizabeth and Catherine the Great between 1744 and 1796, is the vast baroque Catherine Palace, designed by Rastrelli and named after Peter the Great’s second wife. The palace can only be visited by individuals between noon and 2pm, and 4pm and 4.45pm, otherwise it's reserved for pre-booked tour groups, such is its rightful popularity. The audio guide is well worth taking, as it gives detailed explanation of what you'll see in each room.
 As at the Winter Palace, Catherine the Great had many of Rastrelli’s original interiors remodelled in classical style. Most of the gaudy exterior and 20-odd rooms of the palace have been beautifully restored – compare them to the photographs of the devastation left by the Germans.
 The interiors are superb, with highlights including the Great Hall, the Arabesque Hall, the baroque Cavalier's Dining Room, the White State Dining Room, the Crimson and Green Pilaster Rooms, the Portrait Hall and, of course, the world-famous Amber Room. The panels used in the latter were a gift given to Peter the Great, but not put to any use until 1743 when Elizabeth decided to use them decoratively, after which they were ingeniously incorporated into the walls here. What you see is a reconstruction of the original that disappeared during WWII and is believed to have been destroyed.
-oCatherine ParkPARK
+
+!!!
+oCatherine Park
+PARK
 (Екатерининский парк MAP GOOGLE MAP ; May-Sep R120, Oct-Apr free; h9am-6pm)
 Around the Catherine Palace extends the lovely Catherine Park. The main entrance is on Sadovaya ul, next to the Palace Chapel ( MAP GOOGLE MAP ). The park extends around the ornamental Great Pond and contains an array of interesting buildings, follies and pavilions.
 Near the Catherine Palace, the Cameron Gallery ( MAP GOOGLE MAP ; h11am-6pm) normally has rotating exhibitions. Between the gallery and the palace, notice the south-pointing ramp that Cameron added for the ageing empress to walk down into the park.
 The park’s outer section focuses on the Great Pond ( MAP GOOGLE MAP ). In summer you can take a ferry to the little island to visit the Chesme Column ( MAP GOOGLE MAP ; adult/child R250/150; h11am-6pm May-Sep). Beside the pond, the blue baroque Grotto Pavilion ( MAP GOOGLE MAP ; h10am-5pm Fri-Wed) houses temporary exhibitions in summer. A walk around the Great Pond will reveal other buildings that the royals built over the years, including the very incongruous-looking Turkish Bath ( MAP GOOGLE MAP ; R200; h11am-6pm Thu-Tue Jun-Sep), with its minaret-style tower, the wonderful Marble Bridge, the Chinese Pavilion ( MAP GOOGLE MAP ), and a Concert Hall ( MAP GOOGLE MAP ; tickets R500) isolated on an island, where concerts take place every Saturday at 5pm.
-oAlexander PalacePALACE
+
+!
+oAlexander Palace
+PALACE
 (Александровский дворец MAP GOOGLE MAP ; Dvortsovaya ul 2)
 The classical Alexander Palace, built by Quarenghi between 1792 and 1796 for the future Alexander I, is surrounded by the charming Alexander Park. Nicholas II, the last Russian tsar, was its main tenant and he made it his residence for much of his reign.
 The palace is currently undergoing renovation and is closed to the public, with completion due in 2018 at the earliest.
-THE MYSTERY OF THE AMBER ROOM
 
+THE MYSTERY OF THE AMBER ROOM
 The original Amber Room was created from exquisitely engraved amber panels given to Peter the Great by King Friedrich Wilhelm I of Prussia in 1716. Rastrelli later combined the panels with gilded woodcarvings, mirrors, agate and jasper mosaics to decorate one of the rooms of the Catherine Palace. Plundered by the Nazis during WWII, the room’s decorative panels were last exhibited in Königsberg’s castle in 1941. Four years later, with the castle in ruins, the Amber Room was presumed destroyed. Or was it?
 In 2004, as Putin and then German Chancellor Gerhardt Schröder presided over the opening of the new US$18 million Amber Room, restored largely with German funds, rumours about the original panels continued to swirl. There are those who believe that parts, if not all, of the original Amber Room remain hidden away (see www.amberroom.org). The mystery gained traction in February 2008 as attention focused on the possible contents of an artificial cavern discovered near the village of Deutschneudorf on Germany’s border with the Czech Republic. Nothing conclusive has yet been unearthed here, though, so the mystery continues.
+
 5Eating
-White RabbitINTERNATIONAL$$
+
+!!!
+White Rabbit
+INTERNATIONAL$$
 ( MAP GOOGLE MAP ; ul Moskovskaya 22; mains R490-870; h11am-11pm; W)
 In the centre of town, this pub-like place serves decent fish and chips, savoury meat pies, pesto pasta and lots of other satisfying dishes in a comfy, easy-going environment. Sink into a leather booth, and warm up over a hot meal, followed by tea, while taking in traces of whimsical decor (White Rabbit pays homage to Alice in Wonderland).
-Admiralty RestaurantRUSSIAN$$
+https://www.tripadvisor.ca/Restaurant_Review-g811323-d3336471-Reviews-White_Rabbit-Pushkin_Pushkinsky_District_St_Petersburg_Northwestern_District.html
+
+---
+Admiralty Restaurant
+RUSSIAN$$
 ( MAP GOOGLE MAP ; %812-465 3549; www.admiral.gutsait.ru; Parkovaya ul; mains R450-950; hnoon-11pm; W)
 The best restaurant in Catherine Park is set in an elegant, brick-walled dining room and features reliably good dishes, including beef cheeks in wine sauce, leg of lamb, and homemade pelmeni (Russian-style ravioli), as well as risottos, pastas and other European selections. It lies on the southeast corner of the lake.
-Solenya VarenyaRUSSIAN$$
+
+!
+Solenya Varenya
+RUSSIAN$$
 (Соленья-Варенья MAP GOOGLE MAP ; %8-812-465 2685; www.solenya-varenya.ru; Srednyaya ul 2; mains R350-850; h10am-11pm; W)
 Outside of Catherine Park, this elegant spot makes a fine setting for a traditional Russian meal. Bliny with mushrooms, cabbage soup, and grilled salmon are among the nicely executed dishes. You can also stop in for afternoon tea and snacks after palace viewing.
-DanielINTERNATIONAL$$$
+https://www.tripadvisor.ca/Restaurant_Review-g811323-d10021613-Reviews-Solenya_Varenya-Pushkin_Pushkinsky_District_St_Petersburg_Northwestern_District.html
+
+???
+Daniel
+INTERNATIONAL$$$
 (Даниель MAP GOOGLE MAP ; %812-466 9116; www.restaurant-daniel.ru; Srednyaya ul 2/3; mains R800-1850; h11am-11pm; W)
 Daniel offers a blow-out gastronomic feast within stumbling distance of the Catherine Palace. Swedish chef Eric Viedgård conjures culinary magic with his seasonally changing menu in an elegant contemporary space with heritage touches.
+
 8Getting There & Away
 From Moskovskaya metro station, take the exit marked ‘Buses for the airport’, and then pick up marshrutka 286, 299, 342 or K545 towards Pushkin (R40). These buses all continue to Pavlovsk (R50). Look for Пушкин or Дворец on the buses.
 Suburban trains run from Vitebsk Station (Vitebsky vokzal) in St Petersburg, but they’re infrequent except for weekends. For Pushkin, get off at Detskoe Selo (Детское село, R47, 30 minutes) and for Pavlovsk (R54, 40 minutes) at Pavlovsk Station (Павловск). From Detskoe Selo station, marshrutky (R25) frequently run the 500m or so to Tsarskoe Selo.
+
+
+
+
 Pavlovsk Павловск
 %812 / POP 16,200
 Less visited than better known Pushkin to the east, Pavlovsk is nevertheless home to a stunning 18th-century royal palace and one of the finest green spaces in greater St Petersburg. It's well worth tacking on a visit here to explore the artfully designed interiors – and a small but first-rate collection of old-world masterpieces – followed by a stroll amid the verdure of Pavlovsk park.
 Between 1781 and 1786, on orders from Catherine the Great, architect Charles Cameron designed the Great Palace in Pavlovsk. The palace was designated for Catherine’s son Paul (hence the name, Pavlovsk), and it was his second wife, Maria Fyodorovna, who orchestrated the design of the interiors. It served as a royal residence until 1917. Ironically, the original palace burnt down two weeks after WWII when a careless Soviet soldier’s cigarette set off German mines (the Soviets blamed the Germans). As at Tsarskoe Selo, its restoration is remarkable.
+
 1Sights
-Pavlovsk Great PalacePALACE
+
+!!!
+Pavlovsk Great Palace
+PALACE
 (Большой Павловский дворец GOOGLE MAP ; www.pavlovskmuseum.ru; ul Sadovaya 20; adult/child R600/250; h10am-6pm, closed Tue, Fri & 1st Mon of month)S
 One of the most tragic and mysterious characters in the Romanov royal family, emperor Paul I was intensely disliked by his own courtiers, who eventually strangled him with a scarf. Whatever historians say about him, however, he had great taste, as displayed in this glorious palace, the finest rooms of which are on the middle floor of the central block.
 Charles Cameron designed the round Italian Hall beneath the dome and the Grecian Hall to its west, though the lovely green fluted columns were added by his assistant Vincenzo Brenna. Flanking these are two private suites designed mainly by Brenna – Paul’s along the north side of the block and Maria Fyodorovna’s on the south.
 The Hall of War of the military-obsessed Paul contrasts with Maria’s Hall of Peace, decorated with musical instruments and flowers. On the middle floor of the south block are Paul’s Throne Room and the Hall of the Maltese Knights of St John, of whom he was the Grand Master.
-Pavlovsk ParkPARK
+
+!!!
+Pavlovsk Park
+PARK
 (Павловский парк GOOGLE MAP ; adult/child R150/100; h6am-9pm Sat-Thu, closed 1st Mon of month)
 You'll have to pay to enter the serene Pavlovsk Great Park just to access the palace, so it’s worth exploring while you're here. Filled with rivers and ponds, tree-lined avenues, classical statues and hidden temples, it’s a delightful place to get lost in. Highlights include the Rose Pavilion (Розовый павильон GOOGLE MAP ; Pavlovsk Park; adult/student R300/150; h11am-6pm Wed-Sun) and the Private Garden (Собственный садик GOOGLE MAP ; Pavlovsk Park; adult/child R250/150; h11am-7pm), with its beautifully arranged flowerbeds and impressive sculpture of the Three Graces.
 Bike hire (R300 per hour) is available in several locations around the park and is a great way to explore, as distances are great.
+
 5Eating
-PodvoryeRUSSIAN$$$
+
+!!!
+Podvorye
+RUSSIAN$$$
 ( GOOGLE MAP ; %812-454 5464; www.podvorye.ru; Filtrovskoye sh 16; mains R620-1450; hnoon-11pm)
 A short walk northeast of Pavlovsk train station, you'll find this traditional Russian log house on steroids. Huge portions of delicious Russian food are dished up, with a side-order of live Russian music and dancing.
+https://www.tripadvisor.ca/Restaurant_Review-g298507-d887389-Reviews-Podvorye-St_Petersburg_Northwestern_District.html
+
 8Getting There & Away
 Trains and marshrutky running from St Petersburg to Pushkin continue to Pavlovsk. Marshrutky (R30) frequently shuttle between Pushkin and Pavlovsk; catch one from Pavolovskoe sh ( GOOGLE MAP ) near the southeast corner of Catherine Park, and get off either at Pavlovsk Station Bus Stop ( GOOGLE MAP ) (for entry to the park) or in front of Pavlovsk’s palace ( GOOGLE MAP ).
+
+
+
 Gatchina Гатчина
 %81371 / POP 93,000
 Far less touristy than the other country palaces close to St Petersburg, Gatchina, 45km southwest of the city, can make for a very pleasant half-day trip. Gatchina is a busy and bustling town, which just happens to also host a tsarist palace and park.
 1Sights
 In the nearby town there are a couple of interesting churches. The baroque Pavlovsk Cathedral (Павловский собор GOOGLE MAP ; ul Sobornaya; h9am-7pm), at the end of the pedestrianised shopping street off the central pr 25 Oktyabrya, has a grandly restored interior with a soaring central dome. A short walk west is the Pokrovsky Cathedral (Покровский собор GOOGLE MAP ; Krasnaya ul; h9am-6pm), a red-brick building with bright blue domes.
+
+!
 Gatchina Great PalacePALACE
 (Большой гатчинский дворец GOOGLE MAP ; www.gatchinapalace.ru/en; Krasnoarmeysky pr 1; adult/student R300/150, audio guide R200; h10am-6pm Tue-Sun, closed 1st Tue of month)
 Shaped in a graceful curve around a central turret, the Gatchina Great Palace certainly lives up to its name – its enormous (if surprisingly plain) facade is quite a sight to behold, overlooking a vast parade ground and backing onto the huge landscaped grounds. Built by Rinaldi between 1766 and 1781 in an early classicism style for Catherine the Great’s favourite Grigory Orlov, the palace curiously combines motifs of a medieval fortress with elements commonly seen in Russian imperial residences.
 It’s hard to call it beautiful, but there’s no doubt that it’s extremely impressive. After Orlov’s death in 1783, Catherine the Great bought the palace from his heirs and gifted it to her son Paul, who redesigned the exterior between 1792 and 1798.
 Inside, the 10 state rooms on the 2nd floor are impressive, including Paul I’s throne room, hung with huge tapestries, and his wife Maria Fyodorovna’s throne room, the walls of which are covered in paintings. Most impressive of all is the White Hall, a Rinaldi creation from the 1770s that was redone by Brenna in the 1790s. On the balcony is an impressive collection of sundials.
 Admission covers entry to the palace and all three pavillions in the grounds.
-Gatchina ParkPARK
+
+!
+Gatchina Park
+PARK
 (Гатчинский парк GOOGLE MAP ; hdawn-dusk)F
 Gatchina Park is more overgrown and romantic than the other palaces’ parklands. The park has many winding paths through birch groves and across bridges to islands in the large White Lake. Look out for the frankly bizarre Birch House (Березовый домик GOOGLE MAP ; adult/student R50/20; h10am-6pm Tue-Sun May-Sep), which was a present from Maria Fyodorovna to Paul I. With a rough facade made of birch logs, the interior is actually very refined, with a beautiful hardwood floor made from timber from around the world.
+
 5Eating
 There is a cafe in the Grand Palace and a couple of simple cafes in the grounds, but as the place was made for picnicking, your best bet is to bring your own lunch. If you haven’t done so, however, there are a couple of decent options spread out along pedestrianised ul Sobornaya.
-Kafe PiramidaRUSSIAN$
+
+???
+Kafe Piramida
+RUSSIAN$
 (Кафе Пирамида GOOGLE MAP ; ul Sobornaya 3a; mains R255-380; h10am-11pm)
 Serving a wide range of traditional Russian dishes as well as pizza, plus delicious cakes and coffees, this cosy place is near the Pavlovsk Cathedral. It's poorly signposted, but is handily located just off pr 25 Oktyabrya.
-ChasyRUSSIAN$$
+
+???
+Chasy
+RUSSIAN$$
 (Часы GOOGLE MAP ; http://cafe-watch.ru; ul Sobornaya 7; mains R450-980; h10am-midnight)
 Hands-down Gatchina's best eatery, Chasy is a friendly spot for grilled meats and seafood, and sushi. It's also a fine afternoon spot for a pot of tea and dessert. Look for the clock over the entrance (more timepieces lie within).
+
 8Getting There & Away
 The quickest way to get to Gatchina is by bus. Bus K18, K18A and 431 (R100, 45 minutes) run this route from outside Moskovskaya metro station and stop right by the park. Bus 100 (R100, one hour) also runs regularly from Moskovskaya; buses wait outside the massive House of Soviets and stop just short of Gatchina Park. Tell the driver you want to go to the palace (‘v dvaryéts’) – the bus turns off before you get to the park.
 There are trains to Gatchina Baltiysky (R102, one hour) from St Petersburg's Baltic Station (Baltiysky vokzal) every one to two hours. The train station is directly in front of the palace.
+
+
+
+
 Kronshtadt Кронштадт
 %812 / POP 43,000
 With its grand cathedral, waterfront parks and pretty canal-lined avenues, Kronshtadt makes for a fascinating half-day visit. Aside from taking in one grand neo-Byzantine church and visiting a little-visited corner of greater St Petersburg, this is a fine place for seeing Russia’s mighty naval centre, and getting an overview of the bay on a boat tour.
 Within a year of founding St Petersburg, Peter – desirous of protecting his new Baltic toehold – started work on the fortress of Kronshtadt on Kotlin Island, 29km out in the Gulf of Finland. It’s been a pivotal Soviet and Russian naval base ever since, and was closed to foreigners until 1996.
 In 1921 the hungry and poor Red Army sailors stationed here organised an ill-fated mutiny against the Bolsheviks. They set up a Provisional Revolutionary Committee and drafted a resolution demanding, among other things, an end to Lenin’s harsh War Communism. On 16 March 1921 the mutineers were defeated when 50,000 troops crossed the ice from Petrograd and massacred nearly the entire naval force. The sailors’ stand wasn’t entirely in vain, as afterwards Lenin did scrap War Communism.
+
 1Sights & Activities
-Naval CathedralCHURCH
+!!!
+Naval Cathedral
+CHURCH
 (Морской собор GOOGLE MAP ; Yakornaya pl; h9am-6.30pm)
 Kronshtadt’s key sight is the unusual and beautiful Naval Cathedral. Built between 1903 and 1913 to honour Russian naval muscle, this neo-Byzantine wonder stands on Yakornaya pl (Anchor Sq), where you’ll also find an eternal flame for Kronshtadt’s sailors, and the florid art nouveau monument of Admiral Makarov.
 The cathedral underwent a thorough renovation for its centennial celebrations and is now looking breathtaking, both inside and out. Its 75m-high cupola is the highest point in town, and its enormous interior makes its use as a cinema during the Soviet period rather logical.
+
+???
 ReeperbahnCRUISE
 ( GOOGLE MAP ; %821-382 0888; Middle Harbour; adult/student R550/400; hdepartures 1.30pm, 3.30pm & 5.30pm May-Sep)
 From the Middle Harbour beside Petrovsky Park, you can take cruises to various forts around the island, including Fort Konstantin. Several companies offer cruises, including Reeperbahn, with three daily departures in summer.
+
+???
 5Eating
 Cafe KashtanRUSSIAN$
 (Кафе Каштан GOOGLE MAP ; pr Lenina 25; mains R300-500; h11am-11pm)
@@ -2588,19 +3197,27 @@ The entrance to this charming little place is actually on ul Andreevskaya, a sid
 Bolshaya CherepakhaRUSSIAN$$
 (Большая Черепаха GOOGLE MAP ; www.big-turtle.com; ul Karla Libknekhta 29; mains R400-750; h11am-11pm)
 One of Kronshtadt's better restaurants, the 'Big Turtle' serves up salads, spaghetti with seafood, perch fillet with vegetables, and grilled meats. With decent beers on tap, it's also a fine spot for an afternoon drink. It's located a short stroll from the Naval Cathedral – cross the main bridge and continue up Roshalya, where you'll see it on the right.
+
 8Getting There & Away
 Catch bus 101 to Kronshtadt from Staraya Derevnya metro station (R40, 40 minutes). Upon exiting the metro, turn hard left and then walk past the marshrutky and trams until you come to a second bus park where the 101 bus begins and ends its route. Alternatively take marshrutka 405 from Chyornaya Rechka station (R80, 40 minutes); exit the station to your left and cross the street to find the stop.
 Vehicles heading back to St Petersburg depart from both sides of the large ‘Dom Byta’ on the corner of ul Grazhdanskaya and pr Lenina. From there it’s about a 1km walk southeast to the Naval Cathedral.
 With the completion of St Petersburg's ring road, it's now possible to reach Kronshtadt from Oranienbaum, meaning it's perfectly feasible to combine a trip here with a visit to one of the Tsarist palaces.
+
+
+
+???
 WORTH A TRIP
 REPINO РЕПИНО
-
 Come summer, Petersburgers stream out of the city to relax on the beaches to the north between Sestroretsk and Zelenogorsk on the Gulf of Finland. Between these two towns you’ll find the village of Repino, 45km from St Petersburg. From 1918 to the end of WWII, this area was part of Finland and the village was known as Kuokkala. In 1948, back in Russian hands, the village was renamed in honour of its most famous resident, Ilya Repin.
 Penaty (Пенаты GOOGLE MAP ; %812-432 0828; www.nimrah.ru; Primorskoe Shosse 411; adult/student R300/200; hmuseum 10.30am-6pm Wed-Sun, grounds 10.30am-8pm Wed-Mon), the artist's home in his later years, is preserved as a museum. Repin bought land here in 1899, named the estate after a Roman household god and designed the light-flooded house in an arts-and-crafts style. Several of Repin's paintings still hang on the walls and the furnishings have been left just as they were during his residence, which was up to his death in 1930. His grave, marked by a simple Russian Orthodox wooden cross, is in the surrounding park, along with a couple of wooden follies also designed by Repin.
 While here also visit the nearby Beach Laskovy (Пляж Ласковый GOOGLE MAP ) and stop for a meal at either Skazka ( GOOGLE MAP ; %812-432 1251; www.skazkarepino.ru; Primorskoe Shosse 415; mains R570-1490; h11am-11pm; W), which has an attractive dining room with big picture windows and a terrace – both fine spots for enjoying its nicely executed dishes– or Penaty (Пенаты GOOGLE MAP ; %812-432 1125; Primorskoe Shosse 411A; mains R400-850; h10am-10pm), which serves a good range of Russian dishes and offers a pleasant flower-trimmed terrace.
 The easiest way to get to Repino is to take the frequent marshrutky 400 (R105, one hour) that leave from near Finland Station (Finlyandsky vokzal) – cross ul Komsomola, and look for the stop on the right side of pl Lenina. You can also catch bus 211 (R90, one hour) from beside Chyornya Rechka metro station. Be sure to tell the driver that you want to get out at Penaty.
+
+
+
 Leningrad Region Ленинградская область
 If you have more time, there are several other places in the Leningrad region that can be seen in a day trip or longer from St Petersburg. These including the charming old Finnish town of Vyborg, the sleepy village of Staraya Ladoga and the monastery town of Tikhvin.
+
 Vyborg
 %81378 / POP 78,500 / TIME MOSCOW
 This appealing Gulf of Finland provincial town is dominated by a medieval castle and peppered with beautiful Finnish art-nouveau buildings and romantic cobblestone streets. An important port and rail junction, Vyborg is 174km northwest of St Petersburg and just 30km from the Finnish border. It has just about enough to do to justify staying over, but is also an easy day trip from St Petersburg.
@@ -2608,45 +3225,53 @@ The border has jumped back and forth around Vyborg for most of its history. Pete
 1Sights
 With the exception of Park Monrepo, all Vyborg’s main sights are neatly arranged around a compact peninsula, making it an ideal town to explore on foot.
 Apart from the castle, other relics of Vyborg’s Swedish times are found in the squat Round Tower ( MAP GOOGLE MAP ; pl Rynochnaya), which now houses a restaurant; the remains of the 15th-century Town Hall (Башня Ратуши MAP GOOGLE MAP ; ul Vyborgskaya 15), with its distinctive white tower crowned with what resembles a giant metallic wizard’s hat; and the Clock Tower (Часовая башня MAP GOOGLE MAP ; ul Krepostnaya 5), dating to 1490.
-oVyborg CastleHISTORIC BUILDING
+
+!!!
+oVyborg Castle
+HISTORIC BUILDING
 (Выборгский замок MAP GOOGLE MAP ; Zamkovy Island; grounds free, museum R100; hgrounds 9am-7pm daily, exhibitions 10am-6pm)
 Rising stoutly from an islet in Vyborg Bay, this castle was built by the Swedes in 1293 when they first captured Karelia from Novgorod. Most of it now consists of 16th-century alterations. The castle contains several exhibition halls, including a mildly diverting small museum ( MAP GOOGLE MAP ; R100; h10am-6pm Tue-Sun) on local history, but the main attraction is climbing the many steps of whitewashed St Olaf’s Tower ( MAP GOOGLE MAP ) for commanding views over the town (closed for renovations at time of research).
+
+!
 oHermitage VyborgMUSEUM
 (Эрмитаж Выборг MAP GOOGLE MAP ; ul Ladanova 1; adult/student R250/150; h10am-6pm)
 Housed in a wing of a striking building designed by Finnish architect Uno Ulberg in 1930, this small museum hosts themed exhibitions that are curated from the Hermitage’s massive collection and change every six months. The functional white building, which sits in the middle of an old defensive bastion, is shared with Vyborg’s arts school, which also has a gallery ( MAP GOOGLE MAP ; ul Ladanova 1; h10am-6pm Mon-Fri) with regularly changing exhibitions.
-Alvar Aalto LibraryARCHITECTURE
+
+!
+Alvar Aalto Library
+ARCHITECTURE
 (Biblioteka Alvara Aalto; MAP GOOGLE MAP ; %81378-24 937; www.aalto.vbgcity.ru/excursion_eng; pr Suvorova 4; guided tour in Russian/English R150/350; h11am-7pm Mon-Fri year-round & noon-7pm Sat Sep-May)
 A must-see for architecture fans is the beautifully designed public library, one of Finnish architect Alvar Aalto's iconic designs. After years of restoration, the 1935 building looks lovelier than ever, with painstaking efforts to return it to Aalto's original vision. Handmade bronze-handled doors, circular skylights in the reading room, and elegant birchwood shelves are among the many features. It's still a working public library, open to all (though oddly, it lacks wi-fi).
 Call to book a guided tour in English.
-Park MonrepoPARK
+
+!!!
+Park Monrepo
+PARK
 (Парк Монрепо GOOGLE MAP ; www.parkmonrepos.org; adult/child R200/free; h10am-9pm May-Sep, to 6pm Oct-Apr)
 This 180-hectare park facing onto tranquil Zashchitnaya Bay is a lovely place to escape the world for a few hours, if not most of the day. It’s laid out in a classical style, with various pavilions, curved bridges, arbours and sculptures. Bus 1 or 6 (R30, 15 minutes) will get you here from outside the train and bus stations.
-Anninskie FortificationsFORTRESS
+
+!
+Anninskie Fortifications
+FORTRESS
 (Аннинские укрепления MAP GOOGLE MAP ; Petrovskaya ul)
 At the southern end of Tverdysh Island is this double line of fortifications, built between 1730 and 1750 as protection against the Swedes and named after Empress Anna Ioanovna. Nearby, on a hill just above the restaurant Russky Dvor, a handsome statue of Peter the Great, erected on the bicentenary of the city’s capture by Russia, surveys the town.
-Lenin & Esplanade ParksPARK
+
+???
+Lenin & Esplanade Parks
+PARK
 ( MAP GOOGLE MAP )
 Explore these two central and adjacent leafy parks, separated by Leningradsky pr, to find intriguing statutes and carved trees. At the southern end of Lenin Park is the Alvar Aalto Library, designed by the famous Finnish architect in 1935 and, in the Esplanade Park, the Lutheran SS Peter & Paul Cathedral (Собор святых апостолов Петра и Павла).
+
+
 2Activities
 Boat StandBOATING
 ( MAP GOOGLE MAP ; nab 40-letiya Komsomola; boat hire per hr R250-300; h10am-10pm May-Sep)
 In the warmer months, the best place to be is out on the water, boating peacefully, with the backdrop of old Vyborg ever at your side. A handy boat stand near the centre of town hires out row boats and paddle boats and can get you out on the water in a hurry.
+
 1Festival & Events
 In July, the town hosts the ambitious five-day Vyborg Intelligent Performance (www.vkontakte.ru/vbgpromenade) arts festival, which includes live music, theatre and lectures.
-4Sleeping
-Vyborg has plenty of accommodation, but the town can get busy on weekends with boatloads of visiting Finns, so book ahead if you plan to visit then. Rates at most places usually include breakfast.
-Vyborg HostelHOSTEL$
-( MAP GOOGLE MAP ; %8-921-950 0201; www.vyborghostel.ru; ul Vyborgskaya 4; dm R600-700, r R1500; W)
-Vyborg's hostel has bright, clean and well-maintained rooms that are rather lacking in charm. There's plenty of space, lots of bathrooms, a communal kitchen and bikes for hire, and the location couldn't be better.
-Letuchaya MyshHOTEL$$
-(Летучая мышь MAP GOOGLE MAP ; %81378-34 537; www.bathotel.ru; ul Nikolaeva 3; s/d/apt with breakfast from R2500/2800/4600)
-This appealing boutique-style hotel occupies a small, historic building just off pr Lenina. All rooms have bathrooms and TVs, and there's a good on-site restaurant. It's definitely the most atmospheric place to stay in Vyborg, even if it is overshadowed by a large Soviet block of flats.
-Victoriа HotelHOTEL$$
-( MAP GOOGLE MAP ; %8-81378 52 800; www.ibc-victoria.com; nab 40-letiya Komsomola; s/d R5900/6250; aW)
-An excellent new hotel overlooking the waterfront, the Victoria has modern, comfortably furnished rooms with quality furnishings. The best rooms have scenic bay views. There's also a sauna, fitness centre and rooftop restaurant.
-Apart-Hotel UllbergAPARTMENT$$
-( MAP GOOGLE MAP ; %81378-55 417; www.hotel-apart.ru; Leningradsky pr 10; apt R3100-3800; W)
-This well-located guesthouse overlooks Park Lenina from its 4th-floor perch inside a handsome 1915 building. It has five brightly decorated, comfy rooms, all of which have mini-kitchens.
+
+???
 5Eating & Drinking
 Café RespectCAFE$
 (Кафе Респект MAP GOOGLE MAP ; %81378-34 007; ul Podgornaya 10; mains R450-700; h11am-8pm)
@@ -2679,29 +3304,42 @@ BUS
 Services to/from St Petersburg (R280, to/from either metro stations Devyatkino or Parnas) run every 20 minutes from 6.30am to 8pm. Theoretically, travel time is around 2¼ hours, but the traffic can lengthen this, so the train remains the best option.
 TRAIN
 Elektrichki (R301, 2½ hours, hourly) leave from St Petersburg’s Finland Station (Finlyandsky vokzal). Of these, there are also a handful of express services (R331, 1¼ hours, four daily), or the far more expensive Helsinki-bound trains, which stop in Vyborg (R2236, one hour).
+
+
+
 Staraya Ladoga
 %81363 / POP 3200 / TIME MOSCOW
 Although you’d hardly guess it now, this tranquil village, 125km east of St Petersburg on the winding banks of the Volkhov River, lays claim to being Russia’s first capital. The idea of this place being a 'capital' of anywhere is quite extraordinary, though, and today you’ll find an ancient fortress, several churches and some prettily painted wooden cottages. It makes for a pleasant escape from St Petersburg, particularly in summer, when a swim in the river adds to the charm.
 The town was known simply as Ladoga until 1704, when Peter the Great founded Novaya (New) Ladoga to the north as a transfer point for the materials arriving to build St Petersburg. Protected as a national reserve, the town’s basic layout has remained virtually unchanged since the 12th century, give or take a few ugly Soviet blocks.
-RUSSIA’S ANCIENT CAPITAL
 
+RUSSIA’S ANCIENT CAPITAL
 Just as the origins of Rus are continually debated, so is Staraya Ladoga’s status as ‘Russia’s first capital’. Nevertheless, its age (historians have given 753 as the village’s birth date) and significance remain uncontested.
 When the Scandinavian Viking Rurik, along with his relatives Truvor and Sineus, swept into ancient Russia in 862, he built a wooden fortress on the Volkhov River and made this his base. Rurik is depicted in a colourful mosaic on the side of the village school. Locals also claim that one of the tumuli (Урочище Сопки) at the north end of the village is the grave of Oleg, Rurik’s successor.
 Archaeological expeditions continue to uncover a wealth of information about the town’s past. In 1997 a second 9th-century fortress was discovered 2km outside the village. Evidence of Byzantine influences in the frescoes of the village’s 12th-century churches point to the town as a cultural as well as historical and commercial crossroads.
+
 1Sights
 Everything of interest lies along the main road that runs parallel to the river.
-Staraya Ladoga FortressHISTORIC SITE
+!
+Staraya Ladoga Fortress
+HISTORIC SITE
 (Староладожская крепость GOOGLE MAP ; adult/child R150/free; h9am-5pm Mon-Fri, to 6pm Sat & Sun)
 Towards the southern end of the village, and with an excellent view along the river, the 7m-thick walls and stout towers of this fortress are slowly being rebuilt. Inside the grounds you’ll find the small stone St George’s Church (Георгиевская Церковь GOOGLE MAP ; 9am-6pm; hMay-Oct), only open May to October in order to protect the remains of the delicate 12th-century frescoes still visible on its walls, and the cute wooden Church of Dimitry Solun.
 The Vorotnaya Tower houses the good Historical-Architectural & Archaeological Museum ( GOOGLE MAP ; h9am-5pm Mon-Fri, to 6pm Sat & Sun), which displays an interesting retrospective of the area’s history, including a scale model of how the fortress once looked and items found on archaeological digs, with English explanations.
 Visiting this soulful old place and wandering around its crumbling ramparts is a unique experience and you might feel you're in a Tarkovsky film.
-Svyato-Uspensky Devichy MonasteryMONASTERY
+
+!
+Svyato-Uspensky Devichy Monastery
+MONASTERY
 (Свято-Успенский девичий монастырь GOOGLE MAP ; Volkhovsky pr; h9am-6pm)
 The women's monastery on the main road in Staraya Ladoga is a remarkably atmospheric place to wander. The small brick church, with its 900-year-old frescoes, is only open on weekends during summer; at other times you can visit the grounds.
-Nikolsky MonasteryMONASTERY
+
+!
+Nikolsky Monastery
+MONASTERY
 (Никольский монастырь GOOGLE MAP ; www.en.nikmonas.ru; h9am-6pm)
 This attractive walled complex dates to the 12th century and is still in the process of being rebuilt following its decommissioning during the Soviet years. The main church and bell tower now look quite handsome. Nearby is a pontoon from which you can swim in the river.
 The monastery is located about 1km south of Staraya Ladoga Fortress.
+
 4Sleeping & Eating
 Staraya Ladoga HotelHOTEL$
 (Отель Старая Ладога GOOGLE MAP ; %931-531 9043; ul Sovetskaya 6; s/d with shared bathroom R1700/2200; W)
@@ -2712,21 +3350,32 @@ While not looking promising from the outside, this five-room hotel, which shares
 Knyaz RurikRUSSIAN$$
 (Князь Рюрик GOOGLE MAP ; ul Kultury 7; mains R285-520; h10am-9pm Sun-Thu, to 11pm Fri & Sat)
 Rurik’s family tree is painted across the brick wall of this small, nicely designed restaurant, which displays ye olde local shields as decoration. Portions of mushroom soup, bliny, salad and shashlyk are small but tasty.
+
 8Getting There & Away
 Elektrichki to Volkhov (the Volkhovstroy I station) depart from both St Petersburg’s Moskovsky and Ladozhsky stations (R300, 2½ hours, 20 daily). From Volkhov, bus 23 (R48, 30 minutes, hourly) departs from the main bus stop outside the station towards Novaya Ladoga, passing through Staraya Ladoga. Get off when you see the fortress. A taxi from Volkhov costs R320.
 Buses to and from Tikhvin also pass near the Yuzhkovo turn-off to the village, so you can combine a visit to both destinations. When you get off at Yuzhkovo, take a taxi (there are usually a couple hanging around to meet buses) to Staraya Ladoga (R250). It's also just as easy to take a train from Tikhvin to Volkhov.
+
+
+
 Tikhvin Тихвин
 %81367 / POP 57,900 / TIME MOSCOW
 The highlight of this small, quiet town on the banks of the Tikhvinka River is a beautiful monastery established in 1560 by decree of Ivan the Terrible. There’s been a community here since the 14th century, and for thousands of years before that the area formed part of the hereditary lands of the Finnic Veps (also known as Vepsians). Tikhvin is also the birthplace of Nikolai Rimsky-Korsakov, whose music was inspired by the local nature, folk tunes and religious ringing of bells.
 1Sights
-Tikhvin Monastery of the Mother of GodMONASTERY
+
+???
+Tikhvin Monastery of the Mother of God
+MONASTERY
 (Тихвинский Богородичный Успенский Мужской Монастырь GOOGLE MAP ; www.tihvinskii-monastyr.ru; ul Tikhvinskaya 1; h8am-8pm)
 Rising like a fairy tale across the Tabory pond, this complex is about a 1km walk from the train station straight along Sovetskaya ul. At its heart is the onion-domed Assumption Cathedral, established in 1510, and painted inside, and partially outside, with detailed frescoes. A famous icon of Mary and Jesus said to have been painted by the apostle Luke draws awed pilgrims from across Russia, particularly on 9 July, when a procession celebrates the return of the icon to Tikhvin.
 The complex’s nunnery, crowned by a five-spired belfry, is where Ivan the Terrible sent his fourth wife to be confined. Within the walls you’ll also find several museums, including the Tikhvin Historical Memorial & Architectural Museum ( GOOGLE MAP ; ul Tikhvinskaya 1; adult/child R120/free; h9am-5pm Tue-Sun), which has interesting displays on the monastery’s history and examples of its religious art dating back to the 16th century.
-Rimsky-Korsakov House-MuseumMUSEUM
+
+???
+Rimsky-Korsakov House-Museum
+MUSEUM
 (Государственный Дом-музей Римского-Корсакова GOOGLE MAP ; %81369-51 509; ul Rimskogo-Korsakova 12; adult/child R110/free; h10am-5pm Tue-Sun)
 This early-19th-century wooden house was the composer’s childhood home until the age of 12. It became a museum in 1944, the centenary of Rimsky-Korsakov’s birth, and the rooms have been reconstructed to look as they would have done when his family was living there. The charming guides will point out all the original features, including a Becker grand piano on which concerts are sometimes given (call for details).
 There’s a stone bust of the composer on a plinth in the small park next to the house. Opposite is the tiny Church of All Saints Polkovaya (Церковь Всех Святых “Полковая”), which also sometimes hosts concerts.
+
 4Sleeping & Eating
 Hostel NochlezhkaGUESTHOUSE$
 (Хостел Ночлежка GOOGLE MAP ; %931-284 3404; ul Sovetskaya 3B; dm/s/d R600/1500/2000; aW)
@@ -2744,6 +3393,7 @@ IstoriyaRUSSIAN$$
 (История GOOGLE MAP ; ul Sovetskaya 62; Mains R460-840; hnoon-midnight)
 Restaurant 'History' boasts country charm on the inside, with heavy wooden tables and chairs and old photos of Tikhvin on the walls. The cooking is decent, with Russian classics like pelmeni and borscht, plus grilled fish and pastas made in-house.
 It's located just before the turnoff to the monastery.
+
 8Getting There & Away
 The town is on the rail route to Vologda and Arkhangelsk, so you could break your journey to or from either of those destinations here.
 Tikhvin’s bus and train stations are opposite each other on Vokzalny per. Trains here leave from St Petersburg’s Ladozhsky vokzal (platskart/kupe R670/1150, three to four hours, six daily). Bus 860 goes four times a day from St Petersburg's bus station to Tikhvin (R400, 4½ hours). The last departure from Tikhvin back to St Petersburg is around 5pm.
@@ -2771,11 +3421,6 @@ White Nights
 drozdin vladimir / GETTY IMAGES ©
 St Petersburg's Top 10
 
-The Hermitage
-2Perhaps the world’s greatest museum, this iconic establishment’s vast collection is quite simply mind-boggling, with Egyptian mummies, more Rembrandts than the Louvre, and a collection of early-20th-century art that is unrivalled by almost any other in the world. As if this wasn’t enough, your entry ticket allows you to walk around the fascinating apartments and dazzling staterooms of the Romanovs. On top of this, there are still other Hermitage sites: the Winter Palace of Peter I, General Staff Building, Menshikov Palace, Imperial Porcelain factory and the excellent Hermitage Storage Facility.
-
-gonzalo azumendi / GETTY IMAGES ©
-St Petersburg's Top 10
 
 St Isaac’s View
 3No other viewpoint of the historic centre beats the one from the rotunda surrounding the stunning gold dome of St Isaac’s Cathedral, which rises majestically over the uniformly sized Italianate palaces and mansions around the Admiralty. Well worth the climb up the 262 steps, a panorama of the city opens up to you – with fantastic views over the river, the Winter Palace and the Bronze Horseman. The cathedral’s interior is also well worth seeing, with a wonderfully over-the-top iconostasis framed by columns of marble, malachite and lazurite.
@@ -3237,146 +3882,18 @@ A Kupetz Eliseevs
 A Perinnye Ryady
 A DLT
 
-TOP SIGHT
-THE HERMITAGE
-The geographic and tourism centrepiece of St Petersburg is one of the world’s greatest art collections and usually most visitors’ first stop in the city, even if it is simply to admire the baroque Winter Palace and the extraordinary ensemble of buildings that surround it. No other institution so embodies the opulence and extravagance of the Romanovs.
 
 
-brian kinney / shutterstock ©
 
-The Collection
-The Hermitage first opened to the public in 1852. Today, for the price of admission, anybody can parade down the grand staircases and across parquet floors, gawping at crystal chandeliers, gilded furniture and an amazing art collection that once was for the Tsar's court's eyes only.
-The main complex consists of five connected buildings – the Winter Palace, the Small Hermitage, the Great (Old) Hermitage (also known as the Large Hermitage), the New Hermitage and the Hermitage Theatre – and is devoted to items from prehistoric times up until the mid-19th century. Impressionist, post-Impressionist and modern works are found in the new galleries of the General Staff Building across Palace Sq.
-The Western European Collection, in particular, does not miss much: Spanish, Flemish, Dutch, French, English and German art are all covered from the 15th to the 18th centuries, while the Italian collection goes back all the way to the 13th century, including the Florentine and Venetian Renaissance, with priceless works by Leonardo da Vinci, Raphael, Michelangelo and Titian. A highlight is the enormous collection of Dutch and Flemish painting, in particular the spectacular assortment of Rembrandt, most notably his masterpiece Return of the Prodigal Son.
-As much as you will see in the museum, there’s about 20 times more in its vaults, part of which you can visit at the Hermitage Storage Facility. Other branches of the museum include the Winter Palace of Peter I, further east along the Neva, Menshikov Palace on Vasilyevsky Island, and the Imperial Porcelain factory in the south of the city.
-Visiting the Hermitage
-The Hermitage is a dynamic institution. Displays change, renovations continue, specific pieces go on tour, and temporary exhibitions occupy particular rooms, displacing whatever normally resides there, so be prepared for slight changes.
-The main public entrance is via the courtyard of the Winter Palace off Palace Sq. Groups enter via doors facing onto the Palace Embankment (Dvortsovaya nab).
-First-Floor Exhibits
-To get here you’ll need to go up to the 2nd floor and then down via the stairs between Rooms 153 and 156 or between Rooms 289 and 288.
-Rooms 11–24, 27 & 33: Prehistoric Artefacts
-The prehistoric collection at the Hermitage contains thousands of artefacts dating from as far back as the Palaeolithic era (500,000 to 12,000 BC). Most of the items were excavated from different regions of the USSR during the Soviet era. The following are the highlights:
-ARoom 12 Carved petroglyphs (dating to 2000 BC) were taken from the northeastern shores of Lake Onega after archaeological expeditions in 1935.
-ARooms 13–14 Excavations of a burial mound in the northern Caucasus include the corpse of a nomadic chief, lavishly dressed and covered in jewels.
-Rooms 26–32, 38–69: Siberian Antiquities, Central Asia & Caucasus
-These excellent galleries present exhibits from Central Asia, Siberia and the Caucasus, dating as far back as the 10th century BC.
-ARoom 26 Contains mummified human corpses that are more than 2000 years old, as well as a fantastically reconstructed wooden cart.
-ARooms 47–51 Feature impressive 7th- and 8th-century relics from Panjakent in present-day Tajikistan.
-ARooms 67-69 Feature art and artefacts of the Golden Horde, which swept through Russia in the 13th and 14th centuries.
-Rooms 89–91: Ancient Near East
-These rooms house a very impressive collection of cuneiform texts from Babylon and Assyrian limestone reliefs.
 
-Room 100: Ancient Egypt
-This large hall houses an incredible collection of ancient Egyptian artefacts uncovered by Russian archaeologists. The display spans the Egyptian era from the Old Kingdom (3000–2400 BC) to the New Empire (1580–1050 BC). There are many painted sarcophagi and tombstones carved with hieroglyphics, as well as a fascinating mummy from the 10th century BC.
-Rooms 106–131: Greek & Roman Antiquities
-The Hermitage has more than 100,000 items from Ancient Greece and Rome, including thousands of painted vases, antique gemstones, Roman sculpture and Greek gold.
-ARoom 107 The Jupiter Hall is a sumptuous space with portraits of sculptors on the ceiling.
-ARoom 108 Designed by German neoclassicist architect and painter von Klenze to imitate a Roman courtyard.
-ARoom 109 Peter I acquired the sculpture Aphrodite (Tauride Venus) from Pope Clement XI. This piece – a Roman copy of a Greek original – was the first antique sculpture ever brought to Russia.
-ARoom 111 Another impressive design by von Klenze, this one was intended to be a library (which explains the philosophers’ profiles).
-ARoom 130 Hall of Twenty Columns, containing a fabulous collection of Greco-Roman clay urns.
-Second-Floor Highlights
-On the 2nd floor you'll find the Hermitage’s unbeatable Western European collection and its grandest state rooms.
-Rooms 151–189: Russian Culture & Imperial Apartments
-Most of the western wing of the Winter Palace contains the huge collection from ancient Rus (10th to 15th centuries) through to the 18th century, including artefacts, icons, portraits and furniture. Also here are the private apartments of the last tsar, Nicholas II, and the imperial family. Many of these rooms were completed in 1894, and they now show off elaborate 19th-century interiors.
-ARooms 151 & 153 This long corridor, broken up by a vast clock, contains portraits of all the Russian tsars from Peter the Great to Nicholas II.
-ARooms 155–156 Moorish Dining Room and Rotunda.
-ARooms 157–162 The Petrovsky Gallery displays personal effects and equipment used by Peter the Great, as well as some beautiful early-18th-century furniture. Look for the ivory chandelier that was partly built by Peter himself.
-ARoom 161 In 1880 there was an attempt on the life of Alexander II in this room. A young revolutionary, Khalturin, planted a bomb in the room below. It killed 11 soldiers when it went off, although the tsar had wandered into another room at the time.
-ARoom 178 Nicholas II spent much of his time in this wonderful Gothic library, topped with a sublime walnut ceiling.
-ARoom 181 The relatively small and intimate Pompeii dining room.
-ARoom 187 The griffin-motif furniture in this palace drawing room dates from 1805.
-ARoom 188 This small dining room is where the Provisional Government was arrested by the Bolsheviks in 1917.
-ARoom 189 Two tonnes of gorgeous green columns, boxes, bowls and urns have earned this room the name ‘Malachite Hall’, and it is one of the most striking rooms in the entire palace. The handiwork of architect Alexander Bryullov, it was completed in 1839. Three figurines on the wall represent Day, Night and Poetry. This was where the last meeting of the 1917 Provisional Government occurred, on the fateful nights of 25 and 26 October 1917; they were arrested soon after, in the Small Dining Room next door.
-Rooms 190–192: Neva Enfilade
-These three grand ceremonial halls are often used for temporary exhibitions.
-ARoom 190 This Concert Hall was used for small soirées. The enormous ornate silver tomb was commissioned by Empress Elizabeth for the remains of Alexander Nevsky.
-ARoom 191 As many as 5000 guests could be entertained in the Great Hall (also called Nicholas Hall). The palace’s largest room was the scene of imperial winter balls.
-ARoom 192 This anteroom was used for pre-ball champagne buffets.
 
-Rooms 193–198: Great Enfilade
-You’ll find more state rooms here.
-ARoom 193 Field Marshals’ Hall is known for its military-themed chandelier and its portraits of seven of Russia’s military leaders.
-ARoom 194 The Hall of Peter the Great contains his none-too-comfy throne.
-ARoom 195 This gilt Armorial Hall contains chandeliers engraved with the coat-of-arms of all the Russian provinces.
-ARoom 197 The 1812 War Gallery is hung with 332 portraits of Russian and allied Napoleonic war leaders.
-ARoom 198 St George’s Hall served as the state rooms where the imperial throne used to sit. With white Carrara marble imported from Italy and floors crafted from the wood of 16 different tree species, it is a splendid affair.
-Room 204: Pavilion Hall & Hanging Garden
-The ceremonial Pavilion Hall is an airy white-and-gold room sparkling with 28 chandeliers and the famous Peacock Clock. The south windows look on to Catherine the Great’s hanging garden (built over the stables), while the north overlooks the Neva. The amazing floor mosaic in front of the windows is a copy of that in the Roman bath of Otricoli (Ocriculum) near Rome.
-Rooms 207–238: Italian Art
-Covering 30-plus rooms, the Hermitage’s collection of Italian art traverses the 13th to the 18th centuries. The highlights are certainly the works by the Renaissance artists: Leonardo da Vinci, Raphael, Giorgione and Titian. Look also for Botticelli, Caravaggio and Tiepolo.
-ARoom 207 The earliest example in this collection is The Crucifixion, painted by Ugolino di Tedice in the second half of the 13th century.
-ARoom 214 Of a dozen or so original paintings by da Vinci that exist in the world, two are here. The very different Benois Madonna (1478) and Madonna Litta (1490) are named after their last owners. For years, the latter was considered lost. However, in 1909, the Russian architect Leon Benois surprised the art world when he revealed that it was part of his father-in-law’s collection.
-ARoom 217 Giorgione is one of the most mysterious painters of the Renaissance, as only a few paintings exist that are known for certain to be his work. A portrait of idealised beauty, Judith is said to represent the inseparability of life and death.
-ARoom 221 The work of Titian, the best representative of the Venetian school during the 16th century, is featured here: Danaya and St Sebastian are widely accepted as two of his masterpieces.
-ARoom 224 Accessed off this room is the Hermitage Theatre; there are lovely views from the connecting corridor over the Neva.
-ARooms 226–227: Loggia of Raphael When Catherine the Great visited the Vatican she was so impressed that she commissioned Quarenghi to create this copy of a Vatican gallery; a team of Raphael’s students recreated the master’s murals on canvas. Note the occasional Russification on these versions: the two-headed eagle of the Romanov dynasty replaces the papal coat-of-arms.
-ARoom 229 Here you’ll enjoy two pieces by Raphael, The Holy Family and Madonna and Child, as well as many pieces by his disciples.
-ARoom 230 Contains the Hermitage’s only piece by Michelangelo, a marble statue of a crouching boy.
-ARooms 237–238 These Italian Skylight Halls are bathed in natural light, which highlights the ornately moulded ceilings.
-Rooms 239–240: Spanish Art
-Ranging from the 16th to the 18th centuries, this collection includes the most noteworthy artists of this ‘Golden Age’ of Spanish painting: Murillo, Ribera and, of course, Velázquez. The collection also includes two remarkable paintings from the 16th century: the marvellous St Peter and St Paul, by El Greco, and St Sebastian Cured by St Irene, by Ribera.
-Room 243: Knights’ Hall
-Nicholas I started collecting artistic weapons and armaments from around the world. Here is the Western European collection, featuring four impressive 16th-century German knights sitting atop their armoured horses.
-Rooms 245–247: Flemish Art
-These three rooms dedicated to 17th-century Flanders are almost entirely consumed by three artists: Peter Paul Rubens, Anthony Van Dyck and Frans Snyders.
-Rooms 249–254: Dutch Art
-Dating from the 17th and 18th centuries, the Dutch collection contains more than 1000 pieces. The 26 paintings by Rembrandt in Room 254 nearly outshine anything else in these rooms. The collection traces his career, starting with Flora and The Descent from the Cross, which are noticeably lighter but more detailed. His later work tends to be darker and more penetrating, such as the celebrated The Return of the Prodigal Son. Painted between 1663 and 1665, it arguably represents the height of Rembrandt’s mastery of psychology in his paintings. The solemn baroque masterpiece is a moving portrait of unquestioning parental love and mercy.
-Rooms 263–268: German Art
-This small collection of German art ranges from the 15th to the 18th centuries. Among the earliest works here are five paintings by Lucas Cranach the Elder.
-Room 271: Great Church
-Looking splendid following a major renovation completed in 2014, this Rastrelli-designed chapel is one of the Winter Palace's most dazzling spaces, with a white and gilt dome and the ceiling painting The Ascension of Christ by Pyotr Basin.
-Rooms 272–288 & 290–297: French Art & Interiors
-These rooms trace the development of French art from the 15th to the 18th centuries, including tapestries, ceramics, metalwork and paintings. Look for rooms devoted to Nicholas Poussin, founder of French classicism, and Claude Lorrain, master of the classical landscape. Room 282, Alexander Hall, is a testament to the victory over Napoleon in 1812.
-Rooms 298–301: British Art
-These rooms showcase 15th- to 18th-century British art. Highlights include:
-ARoom 298 Portrait of a Lady in Blue, by Thomas Gainsborough, perhaps the most famous piece in the English collection.
-ARoom 300 The Infant Hercules Strangling the Serpents by Sir Joshua Reynolds, which was commissioned by Catherine the Great to symbolise the growing strength of Russia.
-Third-Floor Highlights
-Access to Rooms 314–332, some of which are used for temporary exhibitions, is via stairs off Rooms 269 or 280 on the 2nd floor. The Far East, Central Asia and Islamic Near East collections are reached via the stairs off Rooms 302 or 156 also on the 2nd floor.
-Rooms 351–391: Oriental & Middle Eastern Culture & Art
-Art from the Far East, including China, Japan, Tibet, Indonesia, Mongolia and India, can be found in rooms 351 to 376. Rooms 381 to 391 have some wonderful works from Byzantium and Iran including fantastic early 19th-century portraits of Fat'h Ali Shah by Mihr' Ali. Room 391 provides a panoramic view across the Neva from the northwest corner of the Winter Palace.
-TREASURE GALLERY
 
-For lovers of things that glitter and the applied arts, the Hermitage's Treasure Gallery ( MAP GOOGLE MAP ; %812-571 8446; www.hermitagemuseum.org; Winter Palace, Dvortsovaya pl; tour of Diamond or Golden Rooms R350; mAdmiralteyskaya) should not be missed. These two special collections, guarded behind vault doors, are open only by guided tour, for which you should either call ahead to reserve a place, or buy a ticket at the entrance. The Golden Rooms collection focuses on a hoard of fabulous Scythian and Greek gold and silver from the Caucasus, Crimea and Ukraine, dating from the 7th to 2nd centuries BC; the Diamond Rooms section has fabulous jewellery from Western Europe and pieces from as far apart as China, India and Iran.
-HERMITAGE TIPS
 
-AAvoid possibly long entrance queues by buying your ticket online. The printed-out voucher or PDF on a wi-fi–enabled device is valid for 180 days.
-AAlternatively pay at the computerised ticket machines in the main entrance courtyard and be sure to wait for your tickets to be printed at the end of the transaction (they come after the payment receipt).
-AIf you leave jackets and bags in the cloakroom, be aware that you can’t go back for anything without leaving the museum.
-AHandbags, small shoulder bags and plastic bags are allowed in the Hermitage, but backpacks aren’t.
-AThere is good provision of toilets throughout the Hermitage – don’t make the rookie mistake of thinking that those at the foot of the Jordan Staircase as you enter are the only ones available, as the lines (especially for women) can be very long indeed.
 
-TAKING A BREAK
 
-Eating options in the Hermitage are not great, limited to busy self-serve cafes on the ground-floor corridor between the foot of the Jordan staircase and Room 100.
-Yat serves excellent Russian food in a charming atmosphere but a booking is advisable.
-If you want to escape the crowds, head to Rooms 1 to 65 on the 1st floor which contain prehistoric relics as well as treasures from Siberia, Central Asia and the Caucasus. Due to the layout of the museum, you have to go up to the 2nd floor and then back down the stairs on the left side of the main entrance to get here. Because of this, you’ll find you have many of the galleries down here almost entirely to yourself.
-JORDAN STAIRCASE
 
-The main staircase of the Winter Palace – a magnificent creation of Bartolomeo Rastrelli – was originally known as the Ambassadorial Staircase. However, in the 19th century it became known as the Jordan Staircase as every year on 6 January the imperial family would descend these stairs to the Neva River for the celebration of Christ’s baptism in the River Jordan.
-RUSSIAN ARK
 
-Wander with a ghost through 33 rooms of the Hermitage and 300 years of Russian history in Russian Ark (2002). Director Alexander Sokurov shot the movie in one continuous 96-minute take in the Winter Palace.
-Rooms 289 and 304–308 comprise the private apartments of Tsar Alexander II. Most spectacular is Room 304, the Golden Drawing Room, which features a fabulous gilt ceiling and a marble fireplace with an intricate mosaic over the mantle.
-PEACOCK CLOCK
 
-The centrepiece of the Pavilion Hall (Room 204) is the incredible Peacock Clock, created by James Cox and gifted to Catherine the Great in 1781 by Grigory Potemkin. A revolving dial in one of the toadstools tells the time: as it strikes the hour the automaton peacock spreads its wings and the toadstools, owl and cock come to life. A video beside the clock shows the action in close-up detail should you not be around for the once-weekly performance at 7pm on Wednesday.
-DON'T MISS
-
-ARembrandt (Room 254)
-AGreat Church (Room 271)
-ATreasure Gallery
-APeacock Clock (Room 204)
-PRACTICALITIES
-
-AГосударственный Эрмитаж
-A MAP GOOGLE MAP
-Awww.hermitagemuseum.org
-ADvortsovaya pl 2
-Acombined ticket R700
-Ah10.30am-6pm Tue, Thu, Sat & Sun, to 9pm Wed & Fri
-AmAdmiralteyskaya
 
 TOP SIGHT
 GENERAL STAFF BUILDING
