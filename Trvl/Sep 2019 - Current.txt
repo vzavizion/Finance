@@ -1349,7 +1349,7 @@ Palaces + Bridges + Gardens + Kazan Cathedral
 			!!!
 			Anichkov most aka Аничков мост
 			!!!
-			Eliseyev Emporium
+			Eliseyev Emporium aka Kupetz Eliseevs
 			!
 			Singer Building
 			!
@@ -2453,7 +2453,11 @@ Palaces + Bridges + Gardens + Kazan Cathedral
 	!!!
 	Atlantes
 		holding the portico of the New Hermitage
-		
+
+
+	!!!
+	Eliseyev Emporium aka Kupetz Eliseevs
+		grand food hall 		
 
 	!
 	Singer Building
@@ -2623,33 +2627,6 @@ Grand Maket Rossiya
 
 
 ======
-
-
-
-
-
-
-2City Walk
-Historic Heart
-
-START DVORTSOVAYA PL
-END KUPETZ ELISEEVS
-LENGTH 2KM; THREE HOURS
-
-
-!!!
-AKupetz Eliseevs ( MAP GOOGLE MAP ; %812-456 6666; www.kupetzeliseevs.ru; Nevsky pr 56; h10am-11pm; W; mGostiny Dvor) This Style Moderne stunner is St Petersburg's most elegant grocery store. Built in 1904 as the flagship of the Eliseev Brothers' highly successful chain of food emporiums, little expense or design flourish was spared in its construction. In recent years the building has been restored to its full grandeur with huge plate-glass windows providing glimpses into a dazzling interior of stained glass, chandeliers, polished brass and a giant pineapple palm. The building's exterior is no less lavish, graced with four allegorical sculptures representing industry, trade and commerce, art and science. The building also included a theatre, which is still functioning.
-
-AKupetz Eliseevs ( MAP GOOGLE MAP ; %812-456 6666; www.kupetzeliseevs.ru; Nevsky pr 56; h10am-11pm; W; mGostiny Dvor) This Style Moderne stunner is St Petersburg's most elegant grocery store. Built in 1904 as the flagship of the Eliseev Brothers' highly successful chain of food emporiums, little expense or design flourish was spared in its construction. In recent years the building has been restored to its full grandeur with huge plate-glass windows providing glimpses into a dazzling interior of stained glass, chandeliers, polished brass and a giant pineapple palm. The building's exterior is no less lavish, graced with four allegorical sculptures representing industry, trade and commerce, art and science. The building also included a theatre, which is still functioning.	
-
-
-Eliseyev Emporium
-	grand food hall 
-
-
-
-
-
 
 
 
@@ -3688,8 +3665,6 @@ St Petersburg's Top 10
 White Nights
 1In mid-June the sun slumps lazily towards the horizon, but never fully sets, meaning that the magical nights are a wonderful whitish-grey. At this time Petersburgers indulge themselves in plenty of all-night revelry, several arts festivals take place including the spectacular Scarlet Sails (Алые паруса GOOGLE MAP ; http://parusaspb.ru; hJun). Though it’s the busiest time to visit the city, and most hotels are booked up weeks in advance, there’s nothing quite like it, so don’t miss out – even if you come in May or July you’ll be impressed by how late the sun stays out!
 
-drozdin vladimir / GETTY IMAGES ©
-St Petersburg's Top 10
 
 
 
