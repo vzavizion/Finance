@@ -1327,6 +1327,7 @@ Palaces + Bridges + Gardens + Kazan Cathedral
 			Bushe
 		!!!
 		Restaurant
+			Pkhali Khinkali
 			Yat
 		!!!
 		Strelka
@@ -1336,15 +1337,13 @@ Palaces + Bridges + Gardens + Kazan Cathedral
 			
 
 		
-
-		
-	Day 2
-	Day 3	
+	Day 2 + Day 3	
 		!!!
 		Restaurant
 			Buter Brodsky
 			Farsh & Bochka
-			Pelmenya aka Пельмения			
+			Pelmenya aka Пельмения
+			Kilikia
 			
 			Cafe
 				Brynza
@@ -1353,17 +1352,23 @@ Palaces + Bridges + Gardens + Kazan Cathedral
 			
 			if we tired of russian food
 				Bekitzer
-				Khochu Kharcho
+				Yedim Rukami
+				Khochu Kharcho				
 				Erivan
-				Kilikia		
 			
 		
-		
+		evening
+			Vasilyevsky Island
+				6-ya liniya pedestrian street
+				7-ya liniya pedestrian street		
 		
 		
 
 	Day 4
 
+		!!!
+		Restaurant
+			Pkhali Khinkali
 		!!!
 		St Isaac’s Cathedral
 		!!!
@@ -1423,12 +1428,17 @@ Palaces + Bridges + Gardens + Kazan Cathedral
 		
 		!!!
 		Restaurant
-			Obed Bufet			
+			Schelkunchik
+			Obed Bufet
+			Pelmeniya on Marata
+			Takoyaki
 		!!!
 		Cafe
+			Zabyli Sakhar			
 			Brynza
 			Bushe
 			Bulochnye F. Volcheka aka Bakery F. Volcheka
+			Korzhov
 
 
 			
@@ -1439,6 +1449,11 @@ Optional
 	Fabergé Museum
 	Menshikov Palace
 	Grand Maket Rossiya
+	Petrovskaya Akvatoria
+	Museum Erarta
+	Winter Palace of Peter I
+	
+	
 
 
 	
@@ -2841,6 +2856,7 @@ Bekitzer
 	
 
 	
+	
 !!!
 Obed Bufet
 
@@ -2859,10 +2875,24 @@ Obed Bufet
 	https://www.tripadvisor.ca/Restaurant_Review-g298507-d6582343-Reviews-Obed_Bufet-St_Petersburg_Northwestern_District.html
 
 
+!!!
+Schelkunchik
+	stolovaya
+	http://xn--e1agfbcn5b7am.xn--p1ai/
+	https://www.tripadvisor.ca/Restaurant_Review-g298507-d3168348-Reviews-Schelkunchik-St_Petersburg_Northwestern_District.html
+	
+	
+!!!
+Takoyaki
+	https://xn--80aqfatv8g.xn--p1ai/
+	https://www.tripadvisor.ca/Restaurant_Review-g298507-d9844907-Reviews-Takoyaki_Yatai-St_Petersburg_Northwestern_District.html
 
-
-
-
+	
+!!!	
+Korzhov
+	bakery
+	9:00 a.m. - 10:30 p.m.
+	https://www.tripadvisor.ca/Restaurant_Review-g298507-d10197356-Reviews-Korzhov-St_Petersburg_Northwestern_District.html
 
 
 
@@ -2926,7 +2956,9 @@ Koryushka
 
 !!!
 To/from the airport
-	take bus 39 (35 minutes) or 39A (20 minutes) to Moskovskaya metro station for R35
+	to Moskovskaya metro station
+		take marshrutka K39 to Moskovskaya metro station for R35
+		take bus 39 (35 minutes, very slow) or 39A (20 minutes, slow)
 	then take the metro from Moskovskaya (Line 2) all over the city for R45
 
 
@@ -2943,7 +2975,15 @@ Metro
 		roughly between 1.30am and 5am 
 		
 		M5 metro line shuttles every 20 minutes back and forth between Admiralteyskaya and Sportivnaya stations between 1am and 3am on Saturday, creating an easy way to get between the islands and the Historic Heart
+							
+		Dvortsovy (Palace) Bridge	
+			Up 1.10
+ 			Down 2.50
+			Up 3.10
+			Down 4.55
 
+
+		
 
 
 		
@@ -2981,6 +3021,10 @@ Peterhof aka Петергоф
 			departs from the jetty in front of the Admiralty every 30 minutes from 9am
 			last hydrofoil leaves Peterhof at 7pm
 			
+			!!!Important
+			if you want to return with hydrofoil, then you'll have to get to it through Lower Gardens and you have to buy 1 more ticket for Lower Gardens because you cannot return to Lower Gardens after you leave them
+				Most people go there by hydrofoil and back by bus
+			
 			http://www.peterhof-express.com
 		
 		
@@ -2990,11 +3034,19 @@ Peterhof aka Петергоф
 			!!!
 			marshrutka 300, 424 and 424A
 				R80
+					faster than hydrofoil and 12-x cheaper
 				leave from outside the Avtovo metro station
 				pass through the town of Peterhof, immediately outside the palace
 					tell the driver you want to go ‘vo dvaryéts’ (‘to the palace’) and you’ll be let off near the main entrance to the Upper Garden
 					
-			???
+		
+		taxi
+			should be about R1200 for the whole car. So if your group is 2-4 pax - it seems more reasonable to take a taxi than hydrofoil.
+
+					
+					
+		???
+		bus or marshrutka
 			marshrutka 103
 				R80
 				leaves from outside Leninsky Prospekt station
@@ -3102,11 +3154,14 @@ Peterhof aka Петергоф
 			R500/300
 			name derives from the fact that Catherine the Great was living in this building when her husband Peter III was overthrown, and it was from here that she set out for the capital to assume the Russian throne
 			
-		Bath Building aka Банный корпус 
+		Bath Building aka Bath Block aka Банный корпус 
 			R500
 			nothing special inside
 			look out for some more trick fountains in the garden in front of the buildings		
-	
+
+
+	!!!
+		St Peter & Paul Cathedral			
 		
 		
 	Next Time
@@ -3143,8 +3198,6 @@ Peterhof aka Петергоф
 			
 	
 	Next Time
-	other
-		St Peter & Paul Cathedral
 		Olgin Prud 
 			R700
 			Tsaritsyn and Olgin Pavilions - two buildings sitting on islands in the middle of the pond
@@ -3182,12 +3235,14 @@ Oranienbaum aka Lomonosov
 
 
 Pushkin aka Tsarskoe Selo + Pavlovsk
+!!! IMPORTANT Pavlovsk then Pushkin
+
 
 
 	arrival
 		from Moskovskaya metro station, take the exit marked ‘Buses for the airport’, and then pick up marshrutka 286, 299, 342 or K545 towards Pushkin (R40). These buses all continue to Pavlovsk (R50). Look for Пушкин or Дворец on the buses
-
-
+			it takes 45-50 min to get Pushkin. Cost R60. Ask a driver to stop at 'Oranzhereynaya'. Turn right & the Catherine palace in blue & gold
+			
 
 
 	!!!
@@ -3198,7 +3253,14 @@ Pushkin aka Tsarskoe Selo + Pavlovsk
 		R1000
 		audio guide R150
 		
-		palace can only be visited by individuals between noon and 2pm, and 4pm and 4.45pm, otherwise it's reserved for pre-booked tour groups, such is its rightful popularity
+		online booking is a must
+			Saturday and Sunday - be ready to find a long line to the palace. Highly recommend you to buy tickets online. If you want, you can buy tickets to the palace park
+		
+		online booking is a must. Problem is individual cannot enter before noon with booking
+			palace can only be visited by individuals between noon and 2pm, and 4pm and 4.45pm, otherwise it's reserved for pre-booked tour groups, such is its rightful popularity
+				to wait till noon: you can check out Aleksandrovskiy Park next to the Palace. Or you can buy a Catherine park ticket at the Catherine Palace (not expensive, but yes you are double paying for the park entry)
+		
+		tour of the palace takes about 1 hour 
 		
 		audio guide is well worth taking, as it gives detailed explanation of what you'll see in each room
 		
@@ -3220,6 +3282,8 @@ Pushkin aka Tsarskoe Selo + Pavlovsk
 	Catherine Park
 		9am-6pm
 		R120
+		
+		possible free park entrance before 9am and from 7pm
 
 		ornamental Great Pond
 			you can take a ferry to the little island to visit the Chesme Column
@@ -3417,6 +3481,13 @@ Pelmenya aka Пельмения
 	
 	https://www.tripadvisor.ca/Restaurant_Review-g298507-d3546957-Reviews-Pelmenya-St_Petersburg_Northwestern_District.html
 	
+	
+	
+!!!	
+Pelmeniya on Marata
+	https://www.tripadvisor.ca/Restaurant_Review-g298507-d10244837-Reviews-Pelmeniya_on_Marata-St_Petersburg_Northwestern_District.html
+	
+	
 
 !!!	
 Erivan
@@ -3456,106 +3527,6 @@ Kilikia
 
 
 
-Smolny & Vosstaniya
-
-
-
-A GIFT TO YOUNG HOUSEWIVES
-The most popular cookbook in 19th-century Russia was called A Gift to Young Housewives, a collection of favourite recipes and household management tips that turned into a bestseller. The author, Elena Molokhovets, a housewife herself, was dedicated to her 10 children, to the Orthodox Church, and to her inexperienced ‘female compatriots’ who might need assistance keeping their homes running smoothly.
-This book was reprinted 28 times between 1861 and 1914, and Molokhovets added new recipes and helpful hints to each new edition. The last edition included literally thousands of recipes, as well as pointers on how to organise an efficient kitchen, how to set a proper table and how to clean a cast-iron pot.
-Molokhovets received an enormously positive response from readers who credited her with no less than preserving their family life. The popular perception of the time was that a wife’s primary responsibility was to keep her family together, and keeping her husband well fed seemed to be the key. As one reader wrote, ‘A good kitchen is…not an object of luxury. It is a token of the health and well-being of the family, upon which all the remaining conditions of life depend’. Molokhovets included some of these letters in later editions as testimony to her work.
-The classic cookbook was never reprinted during the Soviet period. The details of sumptuous dishes and fine table settings – let alone questions of etiquette and style – would certainly have been considered bourgeois by the Soviet regime. Yet still, copies of this ancient tome survived, passed down from mother to daughter like a family heirloom. Today, the book reads not only as a cookbook, but also as a lesson in history and sociology.
-
-
-NA ZDOROVYE!
-‘To your health!’ is what Russians say when they throw back a shot of vodka. But this pronouncement hardly suffices as a proper toast in a public forum or an intimate drinking session among friends. A proper toast requires thoughtfulness and sincerity.
-A few themes prevail. The first toast of the night often acknowledges the generosity of the host, while the second usually recognises the beauty of the ladies present. In mixed company, you can’t go wrong raising your glass to international friendship (za mezhdunarodnuyu druzhbu) or world peace (za miravoy mir). But in all cases, the toast requires a personal anecdote or a profound insight, as well as a bit of rambling preamble to make it meaningful.
-In Russia, drinking vodka is a celebration of life in all its complexity – the triumph, the tragedy and the triviality. A toast is a vocalisation of that celebration, so say it like you mean it. And drink it in the same way – zalpom – bottoms up!
-
-
-
-
-
-
-
-
-Vasilyevsky Island
-
-Neighbourhood Top Five
-5Icebreaker Krasin Hearing tales of Soviet exploration in the Arctic aboard this retired icebreaker.
-
-Explore Vasilyevsky Island
-This large, triangular island is among the oldest neighbourhoods in St Petersburg, especially the eastern tip known as the Strelka (‘tongue of land’). Crammed with classical buildings housing institutions, excellent museums such as Menshikov Palace, and the sprawling campus of St Petersburg State University, this is the best place to start your exploration of the island.
-Further back from the Strelka, Vasilyevsky Ostrov (or VO as it's commonly shortened to) is an orderly, residential place, with a grid system of wide roads lined with shops, restaurants and cafes. Make a beeline for the Russian Academy of Arts Museum, the historic St Andrew's Cathedral, the stunningly decorated Temple of the Assumption, and the compact Novy Museum showcasing late-20th-century art from the Soviet Union.
-The northern and western ends of the island are rather post industrial and remote. Even so, there are things worth coming out this way to see, including the fantastic Erarta Museum of Contemporary Art, and the chance to tour around the Icebreaker Krasin and two submarines. Transport wonks will also be thrilled to find museums devoted to the city's metro and tram systems.
-Local Life
-ABridge Advice If you’re staying on Vasilyevsky Island, remember that in the summer months the bridges go up at night. Dvortsovy most's timetable is up at 1.10am and down for 20 minutes at 2.50am before going up again until 4.55am. Blagoveshchensky most is crossable from 2.45am until 3.10am and then not again until 5am.
-ACool Street Hang with the locals on 6-ya and 7-ya liniya, the main pedestrian and commercial street of Vasilyevsky Island. Lined with cafes, bars, restaurants and shops, this is where to escape the tourist crowds at the Strelka.
-
-Getting There & Away
-AMetro The most useful metro stations are Vasileostrovskaya on Line 3 at the island’s heart and the nab Makarova/1-ya i Kadetskaya liniya exit from Sportivnaya on Line 5.
-ABus The number 7 bus goes between Primorskaya to pl Vosstaniya, via Nalichnaya ul, all of Bolshoy pr and Nevsky pr. Trolleybus 10 and 11 run similar routes.
-AMarshrutka From Vasileostrovskaya metro station, the following marshrutka buses zip to the far end of Sredny pr: K30, K44, K62 and K120.
-
-
-
-
-2Neighbourhood Walk
-Vasilyevsky Island
-
-START STRELKA (ADMIRALTEYSKAYA)
-END 6-YA LINIYA I 7-YA LINIYA (VASILEOSTROVSKAYA)
-LENGTH 2KM; TWO HOURS
-The eastern nose of Vasilyevsky Island, the 1Strelka, boasts an unparalleled panorama, looking out over the Peter and Paul Fortress, the Hermitage, the Admiralty and St Isaac’s Cathedral. The red 2Rostral Columns frame the view; climb the steps of the 3Old Stock Exchange for a raised perspective.
-Continue southwest, dropping into either the 4Museum of Zoology or the 5Kunstkamera, or both. The latter was Russia’s first museum, set up by Peter to dispel common superstitions about illness and disease and includes an infamous collection of deformed foetuses preserved in bottles.
-At Peter’s behest, Domenico Trezzini built the magnificent 6Twelve Colleges, now St Petersburg State University, in 1722. The emperor based his bureaucracy here; separate entrances for each ministry signified their independence, while the unified facade highlighted collective goals. Now part of the university, you'll find here the small 7Mendeleev Museum, the beautiful university botanical gardens and a quirky collection of sculptures.
-Peter originally gifted the entirety of Vasilyevsky Island to his best friend, Prince Menshikov, who proceeded to build the fabulous 8Menshikov Palace on the north bank of the Bolshaya Neva. Menshikov’s humble origins gave him a taste for opulence, and the interior is the best-preserved Petrine decor in the city.
-Two Egyptian sphinx monuments mark the entrance to the institutional 9Academy of Arts Museum, which houses 250 years’ worth of artistic expression. On display are works created by academy students and faculty over the years, as well as temporary exhibitions. A beautiful old library – lined with dusty volumes and packed with dark wood furniture – is open for visiting researchers.
-Head inland up 6-ya liniya i 7-ya liniya where you can pop briefly into the aPharmacy Museum of Dr Pelya to view the original 19th-century interior. Across Bolshoy pr, the street is pedestrianised and tree-lined, with the charming bSt Andrew's Cathedral on the corner. Enjoy something to eat along 6-ya liniya i 7-ya liniya before finally checking out the modern art of the cNovy Museum.
-
-
-
-
-
-
-
-
-
-
-Petrograd & Vyborg Sides
-
-
-Explore Petrograd & Vyborg Sides
-Peter’s city was first founded on the Petrograd Side and it's a fascinating place packed with historical sites, stunning Style Moderne architecture and a couple of great live music venues. The showstopper of the area is the Peter & Paul Fortress, whose museums, soaring cathedral and panoramic views easily warrant a half- or a full-day visit. Afterwards, you could easily spend a few days taking in fascinating sights that see far fewer visitors such as the treasure-filled Hermitage Storage Facility and insightful house museums devoted to the likes of early 20th-century opera singer Chaliapin and Soviet party boss (and Stalinist victim) Kirov.
-Aside from hitting the main sights, the Petrograd Side is a fine area for exploring. The main thoroughfare of Bolshoy pr is dotted with shops, restaurants and cafes, and you’ll find intriguing architecture scattered throughout the district. This area is also a fine destination when you need a break from the urban bustle. The wooded islands found here make a great retreat from the city streets, particularly Yelagin where you can hire boats and bicycles, and Krestovsky with its tree-lined lanes and sizeable amusement park.
-Local Life
-AParks If the weather’s good, join the locals as they take to the Kirovsky Islands for fairground rides, boating, sunbathing and cycling through the woods – it’s a total escape from the city, just three metro stops from the centre.
-AStreet Art Check out the creative daubs of street artists on the walls around the shuttered Red Banner Textile Factory and the giant murals near Chkalovskaya metro.
-AStrip off Stand next to the serious sunbathers tanning against the fortress walls or on the beach at Zayachy Island. For a year-round tropical holiday, splash around with crowds at Piterland water park.
-Getting There & Away
-AMetro The Petrograd Side is served by Gorkovskaya and Petrogradskaya on Line 2, and by Sportivnaya, Chkalovskaya and Krestovsky Ostrov on Line 5. The Vyborg Side has some 20 metro stations on it, mainly serving far-flung residential areas.
-ABus Bus 10 runs from the Vyborg Side at Chyornaya Rechka, down Bolshoy pr on the Petrograd Side and on into the Historic Heart.
-ATram Tram 6 provides a handy link between pl Lenina and Vasilyevsky Island via Kronverksky pr on the Petrograd Side, while tram 40 is also useful for traversing the Petrograd Side to Chyornaya Rechka.
-AMarshrutka Marshrutka 346 runs the length of Bolshoy pr and then turns left onto Kamennoostrovsky pr and on to the Vyborg Side.
-Lonely Planet's Top Tip
-This is the real St Petersburg – a far cry from the uniform beauty of the Historic Heart. The Petrograd Side is a good place to see the everyday life of the middle classes in the city and, while the Vyborg Side around pl Lenina is a vision of a post-industrial nightmare, your average Joes live in the Soviet housing estates further along the metro line – travel to the end of lines 1 or 2 and you’ll see real city life.
-
-
-
-
-2Neighbourhood Walk
-Architectural Tour of Petrograd Side
-
-START PETER & PAUL FORTRESS (GORKOVSKAYA)
-END ROSENSHTEIN APARTMENT BUILDING (PETROGRADSKAYA)
-LENGTH 1.5KM; TWO HOURS
-The Petrograd Side is an architectural treasure trove with buildings ranging from the time of St Petersburg's very inception up to contemporary times. Start with a quick tour of the city’s first defensive installation, the 1Peter & Paul Fortress. Don't miss the splendid 2SS Peter & Paul Cathedral, the last resting place of Peter the Great and almost every tsar since.
-The central square of Peter’s early city, 3Troitskaya pl (Trinity Sq) formerly had as its centrepiece Trinity Cathedral, where Peter attended Mass. The cathedral was destroyed soon after the 1917 revolution but a small chapel remains on the spot.
-Petrovskaya nab is home to two historic landmarks: 4Peter’s Cabin, the wooden hut that was the tsar's first modest home in the city; and, off the island’s eastern tip, the 5Cruiser Aurora, a legendary battleship which saw service in the Russo‑Japanese War.
-Return to Kamennoostrovsky pr via ul Kuybysheva, passing the lovely Style Moderne palace of ballerina Mathilda Kshesinskaya that now houses the 6Museum of Political History, and the 7Mosque, coated in dazzling mosaics of aquatint tiles.
-Continue north along Kamennoostrovsky pr to get a sense of Petrograd’s ever-growing vibrancy. Look closely for architectural gems around 8Avstriyskaya pl, with its castlelike edifices. Further along, if you want to get an idea of what one of these grand Style Moderne apartment blocks looks like inside, visit the 9Kirov Museum.
-Ul Rentgena offers up more Style Moderne beauties: note the decoration on the facade of No 4 and make sure you do a full circle of the freestanding aChaev Mansion, which exhibits great geometric precision in its design.
-Follow ul Lva Tolstogo towards the metro and you'll pass the whimsical, turretted bRosenshtein Apartment Building (also know as the Tower House). Designed by Andrey Belogrud, this mash-up of neoclassical and neo-Gothic styles now houses a theatre.
 
 
 
@@ -3581,55 +3552,33 @@ Tbiliso
 	
 
 	
+!!!
+Yedim Rukami
+	10:00 a.m. - 12:00 a.m.
 
+	http://ginza.ru/assets/files/20181212/29ce2ea4231c1779ba13b0ca145d47ab.pdf	
 
+	https://www.tripadvisor.ca/Restaurant_Review-g298507-d14075118-Reviews-Yedim_Rukami-St_Petersburg_Northwestern_District.html
+	
+	
+	
+!!!
+Zabyli Sakhar	
+	10:00 a.m. - 11:00 p.m.
+	
+	cakes only
 
+	https://xn--80aaac2aiu7bg5b9c.xn--p1ai/menu	
+	
+	https://www.tripadvisor.ca/Restaurant_Review-g298507-d13168987-Reviews-Zabyli_Sakhar-St_Petersburg_Northwestern_District.html
+	https://www.tripadvisor.ca/Restaurant_Review-g298507-d13821207-Reviews-Zabyli_Sakhar-St_Petersburg_Northwestern_District.html	
+	
+	
+	
+!!!
+Pkhali Khinkali
+	10:00 a.m. - 12:00 a.m.
+	
+	https://phali-hinkali.ru/morskaya.php
 
-
-
-
-Transport
-ARRIVING IN ST PETERSBURG
-
-Pulkovo International Airport
-Most travellers arrive in St Petersburg at Pulkovo International Airport (LED; GOOGLE MAP ; %812-337 3822; www.pulkovoairport.ru; Pulkovskoye sh), 23km south of the city. This terminal building, which opened in 2014, and is confusingly still referred to as Terminal 1, handles all domestic and international flights and is St Petersburg's only airport.
-
-Taxi
-Taking a taxi from the airport to the city centre has never been easier or safer. Leave the terminal building and outside you'll find an official taxi dispatcher who will ask you for your destination's address, indicate which taxi to go to and write you a price on a slip of official paper that you can then give to your driver. Prices vary, but expect to pay between R800 and R1000 to reach the centre, depending on where exactly you’re headed. Drivers usually won’t speak much English, so just hand over the money on arrival – you don’t need to tip. It's also possible to book a trip into the city via a taxi app for around R700.
-
-Marshrutka & Bus
-For those on a budget, marshrutka (minibus) K39 shuttles you from outside the terminal building to the nearest metro station, Moskovskaya (R35, every five minutes, from 7am to 11.30pm). The bus terminates at the Moskovskaya metro station, so you don’t need to worry about where to get off, and you can connect to the rest of the city from there.
-There's also bus 39 (R40, every 15 minutes, from 5.30am to 1.30am) that runs the same route over longer hours, but trundles along somewhat more slowly.
-
-Moscow Station
-If you’re arriving from Moscow, you’ll come to the Moscow Station (Moskovsky vokzal; Московский вокзал MAP GOOGLE MAP ; www.moskovsky-vokzal.ru; Nevsky pr 85; mPloshchad Vosstaniya) (Moskovsky vokzal), in the centre of the city. There are two metro stations close by: pl Vosstaniya (Line 1) and Mayakovskaya (Line 3). To get here (you can enter both stations through one building) turn left outside the main entrance to the Moscow Station, and the exit is in one side of the building on Ligovsky pr.
-
-
-
-
-GETTING AROUND
-Metro
-The St Petersburg Metro (%8-800- 350 1155; www.metro.spb.ru; h6am-12.45am) is a very efficient five-line system. The network of some 70 stations is most usefully employed for travelling long distances, especially connecting the suburbs to the city centre. New stations are being added and it's possible that the one at Teatralnaya, next to the Mariinsky Theatre, will be operational by 2020.
-Look for signs with a big blue ‘M’ signifying the entrance to the metro. The flat fare for a trip is R45; you will have to buy an additional ticket if you are carrying a significant amount of baggage. If you wish to buy a single journey, ask for ‘adin proyezd’ and you will be given a zheton (token) to put in the machine.
-If you are staying more than a day or two, however, it’s worth buying a smart card (R60), which is good for multiple journeys to be used over the course of a fixed time period – for example, 10 trips in seven days for R355. Their main advantage is that you won’t have to line up to buy tickets – the ticket counters can have very long lines during peak hours.
-The metro system is fully signed in English, so it’s quite easy to use, even for first-timers in Russia.
-
-Bus, Marshrutka & Trolleybus
-Buses, and particularly marshrutky (minibuses), are a very handy way to get around the city and they tend to cover routes that the metro doesn’t, making them essential for certain parts of town. Most travellers find taking them a bit daunting, however, as there’s little signage in English. On both buses and trolleybuses, you get on and then pay a conductor; the fare is R40.
-Marshrutky can be flagged down anywhere along their route (there are no bus stops for marshrutky). Open the door yourself and jump in, then once you’ve taken your seat you pay the driver (pass the money via your fellow passengers if you’re not sitting within reaching distance); the rates are usually posted on the inside of the bus near the driver. You’ll also need to request the stop you want – usually announcing to the driver the name of the street or the place you’re going to shortly before you get there. Alternatively, when you want to get off, simply say (or shout!): ‘AstanavEEtye pazhalsta!’ ('Stop please!') and the driver will pull over as soon as possible.
-
-
-BRIDGE TIMETABLE
-From mid-April until late November major bridges across the Neva rise at the following times overnight to allow ships to pass through the city. It's rare that the Grenadersky, Kantemirovsky and Sampsonievsky Bridges over the Bolshaya Nevka River (connecting the Vyborg and Petrograd Sides) are raised and, if so, two days' notice is given beforehand. You can check the full, up-to-date timetable at www.razvodka-mostov.ru (in Russian only).
-Because of the new fixed suspension bridges on the Western High Speed Diameter highway across the mouth of the Neva you will not be stuck either side of the river when the bridges go up. Note also that between May and the end of November the M5 metro line shuttles every 20 minutes back and forth between Admiralteyskaya and Sportivnaya stations between 1am and 3am on Saturday and Sunday and the eve of public holidays, creating an easy way to get between the islands and the Historic Heart.
-Bridge	Up	Down	Up	Down
-Alexandra Nevskogo	2.20	5.10		
-Birzhevoy	2.00	2.55	3.35	4.55
-Blagoveshchensky	1.25	2.45	3.10	5.00
-Bolsheokhtinsky	2.00	5.00		
-Dvortsovy (Palace)	1.10	2.50	3.10	4.55
-Liteyny	1.40	4.45		
-Troitsky	1.20	4.50		
-Tuchkov	2.00	2.55	3.35	4.55
-Volodarsky	2.00	3.45	4.15	5.45
-
+	https://www.tripadvisor.ca/Restaurant_Review-g298507-d8862778-Reviews-Pkhali_Khinkali-St_Petersburg_Northwestern_District.html	
