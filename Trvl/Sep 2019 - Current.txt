@@ -36,6 +36,15 @@ Kremlin Questions
 	offline tickets to Armoury - go on sale 45 minutes prior to each Armoury tour?
 	audio guide price	
 	https://www.kreml.ru/
+	
+	Kremlin
+		https://www.kreml.ru/en-Us/visit-to-kremlin/
+		https://www.kreml.ru/en-Us/visit-to-kremlin/ticket-prices/stoimost-vkhodnykh-biletov/
+	Armoury
+		https://www.kreml.ru/en-Us/visit-to-kremlin/what-to-see/oruzheynaya-palata-zaly/
+	Diamond Fund
+		https://www.kreml.ru/en-Us/visit-to-kremlin/ticket-prices/poseshchenie-drugikh-muzeev/	
+	
 
 	
 St Basil’s Cathedral	
@@ -43,7 +52,25 @@ St Basil’s Cathedral
 	price and ticket types
 	
 	
+Chemodan
+	opening times
+	opening times for lunch
+	
+	
+Domodoedovo Express
+	opening times
+	price 
 
+
+Eating
+	restaurant photos
+	
+	
+	
+	
+	
+	
+	
 	
 
 !!!
@@ -188,32 +215,35 @@ optional:
 
 13.30-14.30 Red Square
 	
-	GUM
-		lunch
+	lunch
+		GUM
 			Stolovaya No 57 (3rd fl, GUM, 10am-10pm)
 	
 	St Basil’s Cathedral
 
 		
-14.30-17.30 Moscow centre 1
+14.30-17.30 Moscow centre
 	Zaryadye
+		bridge to nowhere
 	Nikolskaya
 		dessert - expensive
-			Grand Coffee Mania
+			Grand Coffee Mania (8am-midnight)
 	Detsky Mir
-		lunch
-			Lepim i Varim
-			Khachapuri
-			optional: Chemodan
+		rooftop observation point
 	Hotel Metropol
 	Bolshoi Theatre
 	Kamergersky pereulok
-	Eliseyevskiy
-	Alyonka
+	lunch
+		Lepim i Varim aka Лепим и варим (10am-11pm)
+		Khachapuri (10.00-23:00)
+		optional: Chemodan	
+	Eliseyevskiy (8am-9pm)
+	Alyonka (10am-8pm)
 
 
+	
 optional - if we have time:	
-17.30-19.30 Moscow centre 2
+17.30-19.30 Sparrow Hills / Krymskaya Naberezhnaya
 
 	Sparrow Hills
 
@@ -235,6 +265,7 @@ optional - if we have time:
 
 
 23.00-23.30 to Hotel
+
 
 
 ========NEW
@@ -307,58 +338,11 @@ Kremlin
 	
 	
 	
-	
-	
-!!!
-Moscow centre 1
-	Park Zaryadye
-		bridge to nowhere, which stretches out across Moskvoretskaya nab and over the Moscow River, then loops back to Zaryadye
-
-	Nikolskaya
-		main road to Vladimir and used to be the centre of a busy icon trade
-
-	Detsky Mir
-		sweeping views of central Moscow from a rooftop observation point above it
-			access to the roof is from the food court on the top floor of the department store			
-	
-	Hotel Metropol
-		finest example of art nouveau architecture
-		
-		decorative panel on the hotel’s central facade, facing Teatralny proezd, is based on a sketch by the artist Mikhail Vrubel
-			depicts the legend of the Princess of Dreams, in which a troubadour falls in love with a kind and beautiful princess and travels across the seas to find her. He falls ill during the voyage and is near death when he finds his love. The princess embraces him, but he dies in her arms. Naturally, the princess reacts to his death by renouncing her worldly life. The ceramic panels were made at the pottery workshop at Savva Mamontov’s estate in Abramtsevo
-			
-		ceramic work on the side of the hotel facing Teatralnaya pl is by the artist Alexander Golovin. The script was originally a quote from Nietzsche: ‘Again the same story: when you build a house you notice that you have learned something’. During the Soviet era, these wise words were replaced with something more appropriate for the time: ‘Only the dictatorship of the proletariat can liberate mankind from the oppression of capitalism’. Lenin, of course	
-	
-	
-	
-	
-	
-
-		
+========NEW
+========NEW
+========NEW
 
 
-!!!
-Sparrow Hills
-	lookout point - most of the city spreads out before you
-	
-	
-	
-
-
-	
-	
-	
-	
-========Next Time
-
-
-
-
-
-
-
-
-???
 
 
 https://booking.georgian-airways.com/websky/#/search-order
@@ -370,8 +354,9 @@ https://booking.georgian-airways.com/websky/#/private/order/3N1BP8/VASILE
 
 
 
-
-
+========NEW
+========NEW
+========NEW
 
 
 
@@ -614,6 +599,7 @@ Mizandari
 
 	
 Next Time
+!!!
 Danilovsky Market
 
 	8am-8pm
