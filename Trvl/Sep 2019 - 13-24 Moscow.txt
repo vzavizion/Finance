@@ -3,6 +3,31 @@ Moscow
 23-24
 
 
+TB Approval
+	Moscow - Restaurants
+	
+	Moscow - Red Square
+	Moscow - Four Seasons Moscow (from outside)
+	Moscow - Alexander Garden aka Александровский сад
+	Moscow - GUM
+	Moscow - St Basil’s Cathedral
+	
+	Kremlin - Tickets
+	Kremlin - Architectural Ensemble of Sobornaya pl
+					Kremlin - Assumption Cathedral aka Успенский собор
+					Kremlin - Archangel Cathedral
+					Kremlin - Annunciation Cathedral aka Благовещенский собор
+					Kremlin - Patriach's Palace and Church of the Twelve Apostles
+					Kremlin - Church of the Deposition of the Robe aka Церковь Ризоположения
+	Kremlin - Armoury aka Оружейная палата
+	Kremlin - Tsars of Moscow
+	Kremlin - Diamond Fund aka Алмазный фонд
+	
+	Moscow - City Walk
+	
+	Moscow - Sparrow Hills / Krymskaya Naberezhnaya
+
+
 
 =======================================================
 =======================================================
@@ -101,7 +126,7 @@ optional:
 				outside only - expensive
 
 		
-14.30-17.30 Moscow centre + lunch
+14.30-17.30 Moscow - City Walk + lunch
 			Zaryadye
 				bridge to nowhere
 			Nikolskaya
@@ -194,6 +219,7 @@ optional - if we have time:
 Kremlin
 
 	ticket office
+	
 		09.00 to 16.30
 		main ticket office is in Alexander Garden, next to the Kremlin wall
 
