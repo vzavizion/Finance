@@ -93,6 +93,8 @@ Sep 7
 								Working hours – 24/7
 								One way fee is 0.50 GEL
 								journey time 1 hr
+								every 15 mins from 7am to 11pm
+								every 30 mins from 11pm to 7am (ex. 01.15 and 01.45)
 									https://goo.gl/maps/48cgKCwPevr
 								
 								Tbilisi bus stop
@@ -103,7 +105,7 @@ Sep 7
 									in front of the Arrival hall
 									
 							optional: taxi
-								journey time to the city center takes 20-30 minutes dependent on traffic. Taxi fee depends on taxi meter indication (From 30 to 50 GEL)
+								journey time to the city center takes 20-30 minutes dependent on traffic. Taxi fee depends on taxi meter indication (From 30 to 50 GEL, locals pay 25 GEL)
 
 							optional: train
 								http://www.railway.ge/?web=1&action=page&p_id=479&lang=eng
