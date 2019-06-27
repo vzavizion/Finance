@@ -929,3 +929,7 @@ Total		10478		10062
 Верхнее		2,610		2,517
 Нижнее		3,069		2,954
 Total		11358		10942
+
+
+
+https://pass.rzd.ru/tickets/public/ru?STRUCTURE_ID=704&refererPageId=4819&layer_name=e3-route&tfl=3&st0=%D0%A1%D0%90%D0%9D%D0%9A%D0%A2-%D0%9F%D0%95%D0%A2%D0%95%D0%A0%D0%91%D0%A3%D0%A0%D0%93&code0=2004000&dt0=22.09.2019&st1=%D0%9C%D0%9E%D0%A1%D0%9A%D0%92%D0%90&code1=2000000&checkSeats=1
