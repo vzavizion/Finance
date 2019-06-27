@@ -445,9 +445,12 @@ Sankt Peterburg
 					Museum Erarta aka Erarta Museum of Contemporary Art
 					Winter Palace of Peter I		
 					General Staff Building
+					
+					
+18.30-20.30 river cruise					
 		
 		
-18.30-20.00 dinner before leaving for Moscow
+20.30-22.00 dinner before leaving for Moscow
 			
 				near tailway station
 					!!!
@@ -486,10 +489,10 @@ Sankt Peterburg
 							Erivan	
 
 							
-20.00-22.00 grocery for train to MOW						
+22.00-23.00 grocery for train to MOW						
 				
 				
-22.00 leave for MOW
+23.00 leave for MOW
 		
 				train # ?????
 						
@@ -901,3 +904,28 @@ Pavlovsk Park
 	пенсионеры, ветераны труда - 50 руб.
 	
 	
+	
+========NEW
+========NEW
+========NEW
+	
+	
+	
+Фирменный по маршруту С-Петер-Гл — Москва Окт
+Маршрут поезд  № 005А «Санкт-Петербург – Москва (двухэтажный)»
+22:50 - 06:45
+Верхнее		2,390		2,297
+Нижнее		2,849		2,734
+Total		10478		10062	
+
+
+
+
+
+Фирменный по маршруту С-Петер-Гл — Москва Окт
+Маршрут поезд  № 025А «Смена-А. Бетанкур (двухэтажный)»
+21:55 - 06:06
+			Sep 15		Sep 22
+Верхнее		2,610		2,517
+Нижнее		3,069		2,954
+Total		11358		10942
