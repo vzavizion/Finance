@@ -3,10 +3,10 @@ Moscow
 23-24
 
 
-https://pass.rzd.ru/tickets/public/ru?STRUCTURE_ID=704&refererPageId=4819&layer_name=e3-route&tfl=3&st0=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&code0=2000000&dt0=23.09.2019&st1=%D0%98%D0%92%D0%90%D0%9D%D0%9E%D0%92%D0%9E&code1=2010050&checkSeats=1
 
-Верхнее 1108
-Нижнее 1515
+========NEW
+========NEW
+========NEW
 
 
 
@@ -160,6 +160,9 @@ TB Approval
 				
 			
 			
+========NEW
+========NEW
+========NEW
 				
 					
 					
@@ -492,3 +495,26 @@ Kremlin
 			
 	
 
+========NEW
+========NEW
+========NEW
+
+
+
+
+MOW - Ivanovo
+поезд  № 738Я «ЛАСТОЧКА»  ЛАСТОЧКА
+20:07-23:48
+3 ч. 41 мин.  
+R693
+
+поезд  № 662Э
+22:05-05:02
+6 ч. 57 мин.  
+R1214
+
+
+https://pass.rzd.ru/tickets/public/ru?STRUCTURE_ID=704&refererPageId=4819&layer_name=e3-route&tfl=3&st0=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&code0=2000000&dt0=23.09.2019&st1=%D0%98%D0%92%D0%90%D0%9D%D0%9E%D0%92%D0%9E&code1=2010050&checkSeats=1
+
+Верхнее 1108
+Нижнее 1515
