@@ -111,12 +111,12 @@ Aug 31 - to hotel (2 hrs drive, arrive 3pm) + Palafrugell beaches + inland (Pals
 		arrive hotel 3pm
 		Palafrugell beaches		
 				Aug 31
-					Platja de Pals + Platja de l'Illa Roja					
+					Platja de Pals + Platja de l'Illa Roja
 				Sep 01
 					Platja Fonda
-					Platja de Tamariu + Cala d'Aigua Xelida				
+					Platja de Tamariu + Cala d'Aigua Xelida
 				Sep 02
-					Playa El Golfet + Cala del Crit + Cala Estreta						
+					Playa El Golfet + Cala del Crit + Cala Estreta
 
 		
 				!!!
@@ -241,7 +241,7 @@ Sep 3 - Tossa de Mar beaches + Girona (0.5 hrs drive)
 	Morning + Afternoon
 			Costa Brava + Beach
 				Sep 03
-					Cala del Senyor Ramon + Platja de Vallpresona + Cala Futadera					
+					Cala del Senyor Ramon + Platja de Vallpresona + Cala Futadera
 				Sep 04				
 					Platja de Belladona + Cala del Pi
 								
@@ -262,10 +262,10 @@ Sep 3 - Tossa de Mar beaches + Girona (0.5 hrs drive)
 						parking Carrer Josep Morató i Grau
 						Rambla de la Llibertat
 						walled medieval quarter, Barri Vell
-						Catedral	
+						Catedral
 							outside only
 						Església de Sant Feliu
-							outside only	
+							outside only
 						City Walls Walk
 						parking Carrer Josep Morató i Grau
 
@@ -298,7 +298,7 @@ Sep 4 - Tossa de Mar beaches + Montserrat (1.5 hrs drive) + to hotel (1 hr drive
 	Morning
 		Costa Brava + Beach
 				Sep 03
-					Cala del Senyor Ramon + Platja de Vallpresona + Cala Futadera					
+					Cala del Senyor Ramon + Platja de Vallpresona + Cala Futadera
 				Sep 04				
 					Platja de Belladona + Cala del Pi
 				
@@ -493,7 +493,7 @@ Sep 5 - Eixample + Free Walking Tours + Montjuïc
 					Arenas de Barcelona
 						Mon–Sat 10am–10pm
 						view only
-					
+
 					!!!					
 					Font Màgica
 						Thurs–Sun 9.30pm, 10pm & 10.30pm
