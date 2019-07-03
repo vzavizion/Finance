@@ -45,59 +45,170 @@ Pavlovsk - Pavlovsk Park
 
 
 
-Audio Guide
 
-https://izi.travel/ru/af63-sankt-peterburg-istoricheskiy-centr/ru#f39c2fad-bf4f-49f8-b13f-44405b00ae11
+Create 2 EN
+	Audio Guide - SPB
+	Audio Guide - Nevsky
+	
+	
+Audio Guide - SPB
 
-	17 Памятник Петру I
-		3 mins
-		
-	18 Михайловский замок
-		10 mins
-		
-	20 «Чижик-Пыжик». 1-й Инженерный мост
-		4 mins
-		
-	21 Пантелеймоновский мост
-		2 mins
-		
-	23 Пантелеймоновская церковь
-		3 mins
-		
-	24 Летний сад
-		7 mins
-		
-	39 Певческий мост
-		??? mins
-		
-	40 Дворцовая площадь
-		3 mins
-		
-	41 Александровская колонна
-		3 mins
-		
-	42 Зимний дворец
-		3 mins
-		
-	Total
-		45 mins
+	Санкт-Петербург. Исторический центр
+	https://izi.travel/ru/af63-sankt-peterburg-istoricheskiy-centr/ru
 
+		17 Памятник Петру I
+			3 mins
+			
+		18 Михайловский замок
+			10 mins
+			
+		20 «Чижик-Пыжик». 1-й Инженерный мост
+			4 mins
+			
+		21 Пантелеймоновский мост
+			2 mins
+			
+		23 Пантелеймоновская церковь
+			3 mins
+			
+		24 Летний сад
+			7 mins
+			
+		39 Певческий мост
+			??? mins
+			
+		40 Дворцовая площадь
+			3 mins
+			
+		41 Александровская колонна
+			3 mins
+			
+		42 Зимний дворец
+			3 mins
 
-https://izi.travel/ru/978c-spb-nevskiy-prospekt-solnechnaya-storona/ru#79549bda-1765-4a4c-9089-031e0e93f156
-		
-	1 Невский излом (Угол Невского и Суворовского проспектов)
-		3 mins
-		
-	3 Обелиск. Памятник Александру III (перенесен)
-		3 mins
+		optional				
+			Культурный маршрут
+				49 Главный штаб
+					1 min
+				50 Дворцовая площадь
+					2 mins
+				51 Зимний Дворец
+					4 mins
+				52 Дворцовый мост
+					1 min			
+
+		Total
+			45 mins
+
 
 	
+Audio Guide - Nevsky	
 		
+	Невский проспект. Легендарная прогулка
+	https://izi.travel/ru/d4e3-nevskiy-prospekt-legendarnaya-progulka-s-audiogid-ru/ru
+			
+		1 Невский излом (Угол Невского и Суворовского проспектов)
+			3 mins		
+		3 Обелиск. Памятник Александру III (перенесен)
+			3 mins
+
+		9 Дворец Белосельских-Белозерских (Невский пр., 41).
+			5 mins
+		10 Фонтанка
+			3 mins		
+		11 Аничков мост
+			2 mins
+		12 Скульптурная группа Аничкова моста
+			5 mins
+
+		TB Approval
+			16 Александринский театр
+				3 mins		
+		15 «Катькин сад» (Екатерининский сквер)
+			4 mins		
+		18 Елисеевский магазин (Невский пр., 56)
+			4 mins
+		TB Approval	
+			19 Малая Садовая
+				3 mins
+
+		TB Approval	
+			23 Башня Городской думы (Невский пр., 33)
+				3 mins
+
+		28 Храм Спаса-на-Крови
+			3 mins
+		TB Approval	
+			30 Итальянский мост
+				3 mins					
 		
+		29 Здание компании «Зингер» (Невский пр., 28)
+			3 mins
+		31 Казанский кафедральный собор
+			5 mins
+		TB Approval	
+			32 Первая телефонная станция (Невский пр., 26)
+				2 mins
+
+		Культурный маршрут
+			26 Дом графа Разумовского
+				2 mins			
+		40 Строгановский дворец (Невский пр., 17)
+			4 mins
+		TB Approval	
+			38 Зелёный мост
+				2 mins		
+		39 Дом Чичерина (Невский пр., 15)
+			6 mins
+		41 Дом Котомина (Невский пр., 18)
+			3 mins
+			
+		44 Бывший Английский магазин (Невский пр., 16)
+			3 mins
+		TB Approval	
+			45 Школа №210 (Невский пр., 14)
+				3 mins			
+			46 Малая Морская улица
+				2 mins
+			47 Дом Вавельберга (Невский пр., 9)
+				2 mins
+			49 Главное Адмиралтейство
+				2 mins
+				
 		
+
+
+				
+			
+	Культурный маршрут
+	https://izi.travel/ru/71cb-kulturnyy-marshrut/ru
+
+		26 Дом графа Разумовского
+			2 mins
+
+
+		TB Approval	
+			40 Николаевский дворец. Дворец Труда
+				2 mins
+				too far away				
+
+		optional				
+			Культурный маршрут
+				49 Главный штаб
+					1 min
+				50 Дворцовая площадь
+					2 mins
+				51 Зимний Дворец
+					4 mins
+				52 Дворцовый мост
+					1 min
 		
+	
 		
-https://izi.travel/ru/d4e3-nevskiy-prospekt-legendarnaya-progulka-s-audiogid-ru/ru#b3825362-2936-482d-8e96-422d81c513cd
+		88 Пантелеймоновская церковь
+			1 min
+
+
 
 
 
@@ -105,6 +216,8 @@ https://izi.travel/ru/d4e3-nevskiy-prospekt-legendarnaya-progulka-s-audiogid-ru/
 
 
 https://izi.travel/ru/71cb-kulturnyy-marshrut/ru#74975f0b-8a94-481c-99dc-c420969ca0bb
+
+
 
 https://izi.travel/ru/a79d-mosty-sankt-peterburga/ru
 
@@ -324,9 +437,10 @@ Peterhof
 					Erivan
 					
 					
-19.00-21.00 
+19.00-22.00 
 	river cruise
-	SPB - Centre and SPB - Bridges
+	SPB - Centre and SPB - Bridges and Audio Guide - SPB
+	Audio Guide - Nevsky
 
 							
 01.10-01.30
@@ -412,9 +526,10 @@ Pushkin aka Tsarskoe Selo + Pavlovsk
 					Erivan
 					
 					
-19.00-21.00 
+19.00-22.00 
 	river cruise
-	SPB - Centre and SPB - Bridges
+	SPB - Centre and SPB - Bridges and Audio Guide - SPB
+	Audio Guide - Nevsky
 
 							
 01.10-01.30
@@ -451,7 +566,7 @@ Sankt Peterburg
 				Restaurant
 					Pkhali Khinkali
 	
-13.00-13.30 SPB - Centre and SPB - Bridges
+13.00-13.30 SPB - Centre and SPB - Bridges and Audio Guide - SPB and Audio Guide - Nevsky
 	
 				Bronze Horseman
 
@@ -470,7 +585,7 @@ Sankt Peterburg
 					spectacular view of Church on the Spilled Blood
 
 
-14.30-16.30 SPB - Centre and SPB - Bridges				
+14.30-16.30 SPB - Centre and SPB - Bridges and Audio Guide - SPB and Audio Guide - Nevsky
 
 				Summer Garden
 
