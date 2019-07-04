@@ -88,7 +88,7 @@ Sep 7
 			
 			OR			
 				
-			07.30-08.30 public bus / taxi to Budget TBS airport
+			07.30-08.30 public bus 37 / taxi to Budget TBS airport
 							bus
 								Working hours – 24/7
 								One way fee is 0.50 GEL
@@ -97,11 +97,11 @@ Sep 7
 								every 30 mins from 11pm to 7am (ex. 01.15 and 01.45)
 									https://goo.gl/maps/48cgKCwPevr
 								
-								Tbilisi bus stop
+								Tbilisi bus stop 821
 									just outside Metro station Freedom Square. The number 37 is not on the sign, but it nevertheless stops here
 										bus stop outside the Metro take the 37 to the Airport. The stop opposite Marriott Courtyard takes the 37 to the central railway station
 										
-								Airport bus stop 
+								Airport bus stop
 									in front of the Arrival hall
 									
 							optional: taxi
@@ -129,6 +129,8 @@ Sep 7
 							2379m Jvari Pass 
 			12.30-14.30 drive to Kazbegi (2 hrs drive)
 							arrive Kazbegi
+							
+			14.30-19.00
 							sleep after night flight
 							find taxi to Juta!!!
 							Mountain Freaks - Mountain Travel & Adventure Agency
@@ -139,7 +141,9 @@ Sep 7
 	
 	Evening	
 	
-
+			19.00-21.00 dinner
+						Restaurant
+							BeBa Bar
 	
 	
 	
@@ -194,6 +198,8 @@ Sep 9
 			11.00-15.00 hike to Roshka
 			15.00-16.00 taxi drive to Juta
 			16.00-18.00 dinner
+						Restaurant
+							BeBa Bar
 			18.00-08.00 sleep	
 	Afternoon
 	Evening		
@@ -209,10 +215,14 @@ Sep 10
 
 							difficulty: Very easy
 							
-			14.00-22.00 rest and do nothing
+			14.00-19.00 rest and do nothing
 						optional: Gergeti Trinity Church in the evening
 	Afternoon
 	Evening	
+	
+			19.00-20.00 dinner
+						Restaurant
+							BeBa Bar	
 	
 	
 Sep 11
@@ -230,22 +240,31 @@ Sep 11
 							difficulty: Hard
 								you will have to hike 1600 meters up and down			
 	Afternoon
+	
+			16.00-19.00 hotel sleep
+	
 	Evening	
+	
+			19.00-20.00 dinner
+						Restaurant
+							BeBa Bar		
 
 
 Sep 12
 	Morning	
-	Afternoon
-	Evening		
 	
 			07.00-08.00 drive to Khada Gorge
+			
 			08.00-12.00 Valley of 60 Towers – Tiny and Marvelous Khada Gorge
 						drive to Kvesheti village’s bridge				
 
 						8km RT to Tskere bridge
-						waterfall, short walk from Tskere		
-	
+						waterfall, short walk from Tskere
+						
+	Afternoon + Evening		
+							
 			12.00-13.30 drive to Carrefour
+			
 			13.30-14.30 Carrefour To Mtskheta / Carrefour Tbilisi
 						Вино стоит брать в тбилисском в Карфуре. На заводах дороже. Из вина следует брать то, чего в России нет либо слишком дорого (Тетра, Александроули, Хванчкара)
 						
@@ -271,12 +290,59 @@ Sep 12
 							Clock Tower
 							
 			18.00-20.00 dinner
+						Restaurants
+							Nikolozi (2pm-9pm)
+							
+							optional Priority 2
+								Kakhelebi (10am–12pm)
+								Taglaura
+				
+							optional Priority 3
+								Salobie Bia (11am-11pm)
+								Pasanauri Leonidze (10am-11pm)
+						
+
+			OR
+			
+			Uplistsikhe (extra 2 hrs drive RT + 2-3 hrs to explore)
+			
+				12.00-14.00 drive to Uplistsikhe
+						
+				14.00-17.00 Uplistsikhe
+							Uplistsikhe cave city
+								10am-6pm
+								3 GEL
+								guide in English 15 GEL					
+							Ateni Sioni
+								10am-5pm				
+				
+				17.00-18.30 drive to Tbilisi
+				
+				18.30-19.30 hotel check in
+						Rike Underground Parking
+							large underground car park with 350 parking spaces
+							Подземный паркинг в самом центре Тбилиси, возле фуникулёра. Первый час 2 лари, последующие 1 лари (но не более 7 лари в сутки ???)				
+
+				19.30-21.00 dinner
+						Restaurants
+							Nikolozi (2pm-9pm)
+							
+							optional Priority 2
+								Kakhelebi (10am–12pm)
+								Taglaura
+				
+							optional Priority 3
+								Salobie Bia (11am-11pm)
+								Pasanauri Leonidze (10am-11pm)
+
 	
 
 Sep 13
 	Morning	
+			08.00-13.30 sleep Hotel
+
+			
 	Afternoon
-	Evening	
 	
 			13.30-14.30 Carrefour Airport
 							Вино стоит брать в тбилисском в Карфуре. На заводах дороже. Из вина следует брать то, чего в России нет либо слишком дорого (Тетра, Александроули, Хванчкара)
@@ -285,15 +351,42 @@ Sep 13
 		
 			15.30-16.30 wait for mama (plane arrival 15.45)
 			
-			16.30-18.00 drive to hotel
 			
-			18.00-20.00 dinner
-	
+	Evening
+			
+			16.30-18.00 dinner
+						Restaurants
+							Kakhelebi (10am–12pm)
+							Nikolozi (2pm-9pm)
+							
+							optional Priority 2
+								Taglaura
+				
+							optional Priority 3
+								Salobie Bia (11am-11pm)
+								Pasanauri Leonidze (10am-11pm)			
 
-	
+			18.00-19.00 drive to hotel							
+
+			19.00-20.00 hotel
+			
 	
 Sep 14
 	Morning	
+	
+			Without David Gareji
+			
+				10.00-11.00 drive to Giuaani Winery
+				
+				11.00-12.00 Giuaani Winery
+						Giuaani Winery
+							drop in for tasting			
+				
+				12.00-13.00 drive to Signaghi / Bodbe Convent
+				
+			
+			OR
+			
 			
 			With David Gareji - Extra 3 hrs drive RT + 2-3 hrs to explore
 			
@@ -311,48 +404,12 @@ Sep 14
 						Giuaani Winery
 							drop in for tasting
 				
-				15.00-16.00 drive to Signaghi / Bodbe Convent
-			
-			
-			OR
-			
-			
-			Optional
-			
-				10.00-11.00 drive to Giuaani Winery
-				
-				11.00-12.00 Giuaani Winery
-						Giuaani Winery
-							drop in for tasting			
-				
-				12.00-13.00 drive to Signaghi / Bodbe Convent
-			
-
+				15.00-16.00 drive to Signaghi / Bodbe Convent			
 					
 
 	Afternoon
 
-	
-			With David Gareji
-			
-				16.00-18.00 Signaghi
-						
-						!!!
-						Bodbe Convent
-							9am-6pm	
-							pleasant 2km walk among tall cypresses on country roads
-
-							St Nino’s Spring
-							
-							
-						!!!
-						Walls
-		
-			
-			OR
-			
-			
-			Optional			
+			Without David Gareji
 			
 				13.00-16.00 Signaghi
 						
@@ -371,30 +428,46 @@ Sep 14
 						!!!
 						winery
 							Cradle Of Wine Marani	
-								1:00 PM - 7:00 PM
+								1:00 PM - 7:00 PM	
 	
+	
+			OR
+			
+			
+			With David Gareji
+			
+				16.00-18.00 Signaghi
+						
+						!!!
+						Bodbe Convent
+							9am-6pm	
+							pleasant 2km walk among tall cypresses on country roads
 
+							St Nino’s Spring
+							
+							
+						!!!
+						Walls			
+			
 
 	Evening	
 
-
-			With David Gareji
-	
-				18.00-19.00 drive Lagodekhi (1 hr)
-			
-				19.00-21.00 dinner Lagodekhi
-
-			
-			OR
-
-			
-			Optional
+			Without David Gareji
 			
 				16.00-17.00 drive Lagodekhi (1 hr)
 				
 				17.00-19.00 dinner Lagodekhi
-
 				
+
+			OR
+			
+			
+			With David Gareji
+	
+				18.00-19.00 drive Lagodekhi (1 hr)
+			
+				19.00-21.00 dinner Lagodekhi			
+
 				
 				
 
@@ -424,7 +497,15 @@ Sep 15
 							admission to tower 3 GEL
 							
 							
-			18.00-18.30 drive to hotel			
+			18.00-18.30 drive to hotel
+			
+			
+			18.30-19.00 hotel check-in
+			
+			
+			19.00-21.00 dinner
+						Restaurant
+							Giglo's Wine House
 	
 		
 	
@@ -499,11 +580,16 @@ Sep 16
 			Optional
 				18.30-19.00 Telavi Bazari
 							8am-8pm
+							
+							
+			18.30-19.00 hotel check-in
+			
+			
+			19.00-21.00 dinner
+						Restaurant
+							Beer Pub Offside
 
 
-
-	
-	
 	
 Sep 17
 	Morning
@@ -521,11 +607,11 @@ Sep 17
 							Mtskheta
 									
 								!!!		
-								Svetitskhoveli Cathedral					
+								Svetitskhoveli Cathedral
 									8am-8pm
 									
 								!!!
-								Jvari Church				
+								Jvari Church
 									8am-7pm
 
 								If we have time					
@@ -538,8 +624,57 @@ Sep 17
 	
 	
 	Afternoon
+	
+			Tbilisi
+				14.00-15.00 drive to Tbilisi (1 hr)
+				
+				15.00-16.00 hotel check in + rental car return	
+				
+				16.00-20.00 Narikala - Mt Mtatsminda Walk
+				
+							!!!
+							Metekhi Church
+						
+							!!!
+							Cable Car to Narikala Fortress
+								11am-11pm
+								one-way ride 1 GEL (use Metromoney card, available at the ticket offices if you don't have one)	
 
-			Optional (extra 2 hrs drive RT + 2-3 hrs to explore)	
+							!!!
+							Narikala Fortress
+
+							!!!
+							Walking trail from Narikala Fortress to Mt Mtatsminda
+								2.5km
+										
+							!!!
+							Mt Mtatsminda
+							
+							!!!		
+							Walking trail down to near the bottom of the funicular
+								1km
+								
+				OR
+				
+				16.00-20.00 Old Town Walk Tbilisi
+							Metekhi Bridge
+							Meidan
+							Kote Abkhazi aka Leselidze
+
+							Sioni
+								Jvaris Mama Church
+								Sioni Cathedral
+							Erekle II
+								Peace Bridge
+							Shavteli
+								Anchiskhati Basilica
+								Clock Tower				
+
+				
+			OR			
+			
+
+			Optional Uplistsikhe (extra 2 hrs drive RT + 2-3 hrs to explore)
 			
 				14.00-15.00 drive to Uplistsikhe
 						
@@ -553,39 +688,22 @@ Sep 17
 				
 				17.30-19.00 drive to Tbilisi
 				
-				19.00-20.00 hotel check in + rental car return
-
-			OR			
-			
-			14.00-15.00 drive to Tbilisi (1 hr)
-			
-			15.00-16.00 hotel check in + rental car return
+				19.00-20.00 hotel check in + rental car return			
 
 			
 	Evening
 	
-			Optional 
-			
-				20.00-22.00 dinner Tbilisi
-	
-			OR		
-			
-	
-			16.00-20.00 Old Town Walk Tbilisi
-						Metekhi Bridge
-						Meidan
-						Kote Abkhazi aka Leselidze
-
-						Sioni
-							Jvaris Mama Church
-							Sioni Cathedral
-						Erekle II
-							Peace Bridge
-						Shavteli
-							Anchiskhati Basilica
-							Clock Tower			
-			
 			20.00-22.00 dinner Tbilisi
+					Restaurants
+						Taglaura
+						Nikolozi (2pm-9pm)
+						
+						optional Priority 2
+							Kakhelebi (10am–12pm)
+			
+						optional Priority 3
+							Salobie Bia (11am-11pm)
+							Pasanauri Leonidze (10am-11pm)
 	
 	
 	
@@ -599,7 +717,7 @@ Sep 18
 				09.00-10.00 rental car return
 				
 	
-			10.00-16.00 Narikala - Mt Mtatsminda Walk
+			10.00-14.00 Narikala - Mt Mtatsminda Walk
 			
 						!!!
 						Metekhi Church
@@ -624,13 +742,75 @@ Sep 18
 							1km
 				
 
-			16.00-17.00 Abanotubani
+			14.00-16.00 Abanotubani
 	
-			17.00-19.00 dinner Tbilisi
+			16.00-18.00 dinner Tbilisi
 			
-			19.00-20.00 hotel and prepare to leave Georgia
+			18.00-20.00 hotel and prepare to leave Georgia
+			
+			
+			
+			OR
+			
+			
+			10.00-11.00 Old Town Walk Tbilisi
+						Metekhi Bridge
+						Meidan
+						Kote Abkhazi aka Leselidze
+
+						Sioni
+							Jvaris Mama Church
+							Sioni Cathedral
+						Erekle II
+							Peace Bridge
+						Shavteli
+							Anchiskhati Basilica
+							Clock Tower							
+			
+			11.00-13.00	lunch
+						Restaurants
+							Salobie Bia (11am-11pm)
+							Pasanauri Leonidze (10am-11pm)						
+			
+			13.00-14.00 hotel and prepare to leave Georgia
+			
+			14.00-15.00 public bus 37 / taxi to TBS airport
+							bus
+								Working hours – 24/7
+								One way fee is 0.50 GEL
+								journey time 1 hr
+								every 15 mins from 7am to 11pm
+								every 30 mins from 11pm to 7am (ex. 01.15 and 01.45)
+									https://goo.gl/maps/48cgKCwPevr
+								
+								Tbilisi bus stop 821
+									just outside Metro station Freedom Square. The number 37 is not on the sign, but it nevertheless stops here
+										bus stop outside the Metro take the 37 to the Airport. The stop opposite Marriott Courtyard takes the 37 to the central railway station
+										
+								Airport bus stop
+									in front of the Arrival hall
+									
+							optional: taxi
+								journey time to the city center takes 20-30 minutes dependent on traffic. Taxi fee depends on taxi meter indication (From 30 to 50 GEL, locals pay 25 GEL)
+			
+			15.00-17.40 TBS airport
+			
+			17.40-20.15 flight to MOW
+			
+			20-15-22.00 customs and immigration MOW
+			
+			22.00-23.00 ride to Leningradskiy train station
+			
+			23.00-23.55 Leningradskiy train station
+			
+			23.55-07.55 train to LED
+			
+			07.55-10.00 arrive hotel
+			
+			10.00-12.00 Hermitage free entrance
 		
 
+		
 Sep 19
 	Morning	
 	Afternoon
