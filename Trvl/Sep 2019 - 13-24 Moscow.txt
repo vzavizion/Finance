@@ -10,6 +10,78 @@ Moscow
 ========Plan Detailed
 
 
+
+Create map:
+     Grocery
+     Transport
+     ATM
+
+
+
+LED TRANSPORT
+
+
+
+
+7:22 PM
+	
+Moskovskiy Vokzal
+
+Walk
+
+About 7 min , 450 m
+7:34 PM
+Ploschad' Vosstaniya
+Subway1Prospekt Veteranov
+ 3 min (2 stops)
+7:35 PMVladimirskaya
+Service run by HUP Peterburgskiy metropoliten - Route information
+7:37 PM
+Pushkinskaya
+WalkWalk
+About 1 min
+7:45 PM
+Zvenigorodskaya
+Subway5Komendantskiy prospekt
+ 3 min (2 stops)
+7:47 PMSadovaya
+Service run by HUP Peterburgskiy metropoliten - Route information
+7:48 PM
+Admiralteyskaya
+WalkWalk
+ About 7 min , 150 m
+7:55 PM
+	
+Liuks Malaia Morskaia 7
+Malaya Morskaya Ulitsa, 7, Sankt-Peterburg, Russia, 191186
+
+
+
+
+
+https://goo.gl/maps/1K6XCarkm4j8iYXQA
+
+
+
+
+https://www.artlebedev.com/spb/metro-map/process/spb-metro-map-process-08.gif
+https://www.artlebedev.com/spb/metro-map/process/spb-metro-map-process-09.gif
+
+https://www.artlebedev.com/spb/metro-map/process/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Sep 23
 
 
@@ -29,6 +101,144 @@ Sep 23
 
 			
 07.30-08.00 metro Yaroslavsky Railway Station to Red Square
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOW TRANSPORT	 
+	 
+
+
+7.30am
+	
+Leningradskiy Railway Station
+
+Subway Line 1 towards Kommunarka
+	Komsomol'skaya
+		6 min (4 stops)
+			Krasnye vorota
+			Chistye prudy
+			Lubyanka
+	Okhotnyy ryad
+	
+	https://goo.gl/maps/fLavf9D5MRJjGgcK6
+
+Walk
+	7 mins, 550 m
+
+Red Square
+
+
+
+
+
+
+
+
+
+1.30pm
+
+Red Square
+
+Walk
+	4 mins, 300 m	
+	
+Subway Line 6 towards Medvedkovo
+	Kitay-gorod
+		5 min (3 stops)
+			Turgenevskaya
+			Sukharevskaya
+	Prospekt Mira
+	
+	https://goo.gl/maps/XnbuaiqSK7D5Z4Zz6
+	
+Walk
+	4 mins, 300 m
+
+Lepim I Varim
+	Prospekt Mira, 26
+	
+
+OR	
+
+
+Red Square
+
+Walk
+	4 mins, 300 m
+	
+Subway Line 1 towrds Bul'var Rokossovskogo	
+	Okhotny Ryad
+		3 min (2 stops)
+			Lubyanka
+			Chistye prudy / Turgenevskaya
+		Change to Subway Line 6 towards Medvedkovo
+			Chistye prudy / Turgenevskaya
+				3 min (2 stops)
+					Sukharevskaya
+	Prospekt Mira
+	
+	https://goo.gl/maps/kuCYrzbhLA9CziZr5
+	
+Walk
+	4 mins, 300 m
+
+Lepim I Varim
+	Prospekt Mira, 26
+	
+	
+	
+
+
+
+
+
+
+
+9.00pm
+
+Lepim I Varim
+	Prospekt Mira, 26
+
+Walk
+	4 mins, 300 m
+
+Subway Line 5 towards Komsomol'skaya
+	Prospekt Mira
+		3 min (non-stop)
+	Komsomol'skaya
+	
+	https://goo.gl/maps/oz6FHQ4K3VrPCwJq9
+	
+Leningradskiy Railway Station
+
+
+
+
+https://www.google.com/search?q=moscow+subway+map&rlz=1C1GCEB_enUS806US806&tbm=isch&source=iu&ictx=1&fir=_UHqfJLRCNKMPM%253A%252CgheZaYlcpEU3ZM%252C_&vet=1&usg=AI4_-kRRVPOlpnsVVwkWrNkJVZcXvVzCAQ&sa=X&ved=2ahUKEwim9-SLpJvjAhUPOs0KHYV3DtEQ9QEwC3oECAcQGg#imgrc=_UHqfJLRCNKMPM:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			
 			
 08.00-08.30 Red Square + Alexander Garden
