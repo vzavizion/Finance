@@ -349,14 +349,30 @@ Sep 5 - Eixample + Free Walking Tours + Montjuïc
 	Sunset 20.20
 
 	Plan
-		09.00-11.30 Sagrada Familia
-		11.30-12.00 Walk to Tapas + Bars
-		12.00-14.00 Tapas + Bars
-		14.00-16.00 Sleep
-		16.00-16.30 Walk to Free Walking Tour: Runner Bean Tours Eixample
-		16.30-19.00 End of Free Walking Tour (Sagrada Familia)
-		19.00-20.00 Lovestories Boutique (possible: do not go to Sagrada Familia at the end of the tour, but stay at Eixample and go to Lovestories Boutique instead - closes 20.00)
-		20.00-22.00 Tapas + Bars
+		With Sagrada Familia
+			09.00-11.30 Sagrada Familia
+			11.30-12.00 Walk to Tapas + Bars
+			12.00-14.00 Tapas + Bars
+			14.00-16.00 Sleep
+			16.00-16.30 Walk to Free Walking Tour: Runner Bean Tours Eixample
+			16.30-19.00 End of Free Walking Tour (Sagrada Familia)
+			19.00-20.00 Lovestories Boutique (possible: do not go to Sagrada Familia at the end of the tour, but stay at Eixample and go to Lovestories Boutique instead - closes 20.00)
+			20.00-22.00 Tapas + Bars
+			
+		OR
+		
+		Without Sagrada Familia
+			.....-08.30 Wake up in hotel
+			08.30-09.30 Hotel
+			09.30-10.00 Walk to Sandemans Old Town Tour meeting point
+			10.00-12.30 Sandemans Old Town Tour
+			12.30-13.00 Walk to Tapas + Bars
+			13.00-14.30 Tapas + Bars 
+			14.30-16.00 Sleep
+			16.00-16.30 Walk to Free Walking Tour: Runner Bean Tours Eixample
+			16.30-19.00 End of Free Walking Tour (Sagrada Familia)
+			19.00-20.00 Lovestories Boutique (possible: do not go to Sagrada Familia at the end of the tour, but stay at Eixample and go to Lovestories Boutique instead - closes 20.00)
+			20.00-22.00 Tapas + Bars		
 
 
 	Morning
@@ -462,12 +478,13 @@ Sep 5 - Eixample + Free Walking Tours + Montjuïc
 						half-hour tours 10am, 10.30am, 11.30am, 12.30pm, 1pm, 1.30pm, 2pm, 2.30pm, 3pm, 3.30pm, 4pm, 4.30pm, 5.30pm, 6pm
 						1hr tours 11am (English)
 						reservations advised
-						regular half-hour tour
-							€14
-						half-hour tours at 4.30pm & 6pm include cup of hot chocolate
-							€17
-						1hr tour
-							€17
+						40 mins video-guided tour
+							€16.15 if bought online
+							includes cup of hot chocolate							
+						1hr guided tour
+							€20.40 if bought online
+							includes cup of hot chocolate							
+							
 							
 					Casa Batlló
 						9am–9pm
@@ -546,10 +563,23 @@ Sep 6 - Barri Gotic + to airport
 
 
 	Plan
-		08.30-10.00 Locker and Boqueria Breakfast
-		10.00-12.30 Sandemans Old Town Tour (OR 10.30-12.00 Palau Guell)
-		12.30-13.30 Plaça del Pi Farmers’ Market
-		13.30-15.00 Tapas + Bars
+		With Sagrada Familia
+			08.30-10.00 Locker and Boqueria Breakfast
+			10.00-12.30 Sandemans Old Town Tour (OR 10.30-12.00 Palau Guell)
+			12.30-13.30 Plaça del Pi Farmers’ Market
+			13.30-15.00 Tapas + Bars
+		
+		OR
+		
+		Without Sagrada Familia
+			.....-07.30 Wake up in hotel
+			07.30-08.00 Hotel
+			08.30-09.00 Walk to Locker
+			09.00-10.00 Locker and Boqueria Breakfast
+			10.00-10.30 Walk to Palau Guell
+			10.30-12.00 Palau Guell
+			12.00-13.00 Plaça del Pi Farmers’ Market
+			13.00-15.00 Tapas + Bars
 		
 
 
@@ -731,9 +761,9 @@ Sep 6 - Barri Gotic + to airport
 
 		
 		15.00-15.30 pick up luggage
-		15.30-16.30 ride to BCN airport
-		16.30-17.30 arrive BCN airport
-		17.30-19.30 BCN airport + optional: lounge
+		15.30-16.00 walk to bus to BCN airport
+		16.00-17.00 bus to BCN airport
+		17.00-19.30 BCN airport + optional: lounge
 		19.30-02.30 flight to Kutaisi
 
 	
