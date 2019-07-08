@@ -50,8 +50,9 @@ Create 2 EN
 	Audio Guide - SPB
 	Audio Guide - Nevsky
 	
-	
-	
+
+
+
 	
 Audio Guide - SPB
 
@@ -75,7 +76,7 @@ Audio Guide - SPB
 			7 Купол Исаакиевского собора
 				1 min
 			8 Окончание строительства Исаакиевского собора
-				1 min	
+				1 min
 				
 			11 Здание бывшего германского посольства
 				1 min			
@@ -95,8 +96,7 @@ Audio Guide - SPB
 			20 Бульвар у Адмиралтейства
 				2 mins
 			22 «Яблоко» на Адмиралтействе
-				1 min				
-				
+				1 min
 				
 				
 		40 Дворцовая площадь
@@ -106,6 +106,7 @@ Audio Guide - SPB
 		42 Зимний дворец
 			3 mins
 
+			
 		Вокруг Большой Невы
 			25 Александровская колонна
 				2 mins
@@ -122,7 +123,7 @@ Audio Guide - SPB
 			36 Зимний дворец в октябре 1917
 				1 min
 			38 Дворцовый мост
-				1 min			
+				1 min
 
 		optional
 			Культурный маршрут
@@ -141,12 +142,12 @@ Audio Guide - SPB
 			
 			
 		Культурный маршрут
-			90 Набережная Лебяжьей канавки
-				1 mins
 			93 Памятник Александру III
 				2 mins
 			95 Троицкий мост, ростральные обелиски и торшеры
 				1 min
+			90 Набережная Лебяжьей канавки
+				1 mins				
 			
 		24 Летний сад
 			7 mins
@@ -169,15 +170,11 @@ Audio Guide - SPB
 			
 
 		Total
-			45 mins
+			??? mins
 			
 			
 			
 			
-			
-
-	
-	
 
 
 	
@@ -219,15 +216,15 @@ Audio Guide - Nevsky
 			3 mins
 		TB Approval	
 			30 Итальянский мост
-				3 mins					
+				3 mins
 		
 		29 Здание компании «Зингер» (Невский пр., 28)
 			3 mins
-		31 Казанский кафедральный собор
-			5 mins
 		TB Approval	
 			32 Первая телефонная станция (Невский пр., 26)
-				2 mins
+				2 mins			
+		31 Казанский кафедральный собор
+			5 mins
 
 		Культурный маршрут
 			26 Дом графа Разумовского
@@ -486,12 +483,71 @@ Sep 19 Thursday
 				
 
 18.00-18.30 Palace Square aka Дворцовая площадь
+
+				Audio Guide
+					Санкт-Петербург. Исторический центр
+						40 Дворцовая площадь
+							3 mins						
+						41 Александровская колонна
+							3 mins			
+						42 Зимний дворец
+							3 mins
+							
+				Audio Guide
+					Вокруг Большой Невы
+						25 Александровская колонна
+							2 mins
+						28 Первый Зимний дворец
+							1 min
+						29 Второй Зимний дворец
+							2 mins
+						30 Третий Зимний дворец
+							1 min
+						31 Четвертый Зимний дворец (временный)
+							1 min
+						32 Пятый (нынешний) Зимний дворец			
+							1 min			
+						36 Зимний дворец в октябре 1917
+							1 min
+						38 Дворцовый мост
+							1 min							
 				
+
+				Audio Guide
+					Культурный маршрут
+						26 Дом графа Разумовского
+							2 mins			
+							
+				Audio Guide				
+					Невский проспект. Легендарная прогулка
+						40 Строгановский дворец (Невский пр., 17)
+							4 mins
+						TB Approval	
+							38 Зелёный мост
+								2 mins		
+						39 Дом Чичерина (Невский пр., 15)
+							6 mins
+						41 Дом Котомина (Невский пр., 18)
+							3 mins
+						
+				Audio Guide			
+					Невский проспект. Легендарная прогулка	
+						44 Бывший Английский магазин (Невский пр., 16)
+							3 mins
+						TB Approval	
+							45 Школа №210 (Невский пр., 14)
+								3 mins			
+							46 Малая Морская улица
+								2 mins
+							47 Дом Вавельберга (Невский пр., 9)
+								2 mins
+							49 Главное Адмиралтейство
+								2 mins
 				
 
 18.30-19.30 dinner
 
-				Pkhali Khinkali
+				Pkhali Khinkali (10am-midnight)
 				Yat				
 				
 				Cafe
@@ -502,7 +558,16 @@ Sep 19 Thursday
 19.30-21.00
 		!!!
 		Strelka
-			Audio Guide - Strelka
+		
+			Audio Guide
+				Культурный маршрут	
+					39 Стрелка Васильевского острова
+						2 mins
+					40 Биржа на Стрелке
+						2 mins
+					42 Ростральные колонны
+						1 min					
+			
 
 		
 01.10-01.30
@@ -583,7 +648,7 @@ Peterhof
 
 			near hotel
 				Restaurant				
-					Pkhali Khinkali
+					Pkhali Khinkali (10am-midnight)
 					
 					Cafe
 						Stolle aka Shtolle
@@ -673,7 +738,7 @@ Pushkin aka Tsarskoe Selo + Pavlovsk
 
 			near hotel
 				Restaurant				
-					Pkhali Khinkali
+					Pkhali Khinkali (10am-midnight)
 					
 					Cafe
 						Stolle aka Shtolle
@@ -726,26 +791,112 @@ Sankt Peterburg
 
 08.30-09.30 VZ: leave luggage Moskovsky Railway Station
 
+
 09.30-10.30 leave Hotel
+
 
 10.30-11.00 quick breakfast
 				Cafe
 					Stolle aka Shtolle
 					Bushe		
 	
+	
 11.00-12.00 St Isaac’s Cathedral + colonnade
+
+				Audio Guide
+					Вокруг Большой Невы
+						1 Первый Исаакиевский собор
+							1 min
+						2 Второй Исаакиевский собор
+							1 min			
+						3 Третий Исаакиевский собор
+							2 mins
+						4 Четвертый Исаакиевский собор
+							2 mins
+						5 Строительство четвертого Исаакиевского собора
+							2 mins
+						6 Двери Исаакиевского собора
+							1 min
+						7 Купол Исаакиевского собора
+							1 min
+						8 Окончание строительства Исаакиевского собора
+							1 min
+							
+							
+				Audio Guide
+					Вокруг Большой Невы
+						11 Здание бывшего германского посольства
+							1 min			
+						12 Памятник Николаю Первому
+							2 mins
+						14 Синий мост
+							1 min
+						13 Мариинский дворец
+							1 min
+						16 Гостиница «Астория»
+							2 mins
+						17 Отель «Англетер»
+							1 min
+						18 Дом Лобанова-Ростовского
+							2 mins							
+				
 
 12.00-13.00 quick breakfast
 				Restaurant
-					Pkhali Khinkali
+					Pkhali Khinkali (10am-midnight)
+	
 	
 13.00-13.30 SPB - Centre and SPB - Bridges and Audio Guide - SPB
-	
-				Bronze Horseman
 
+				Bronze Horseman							
+	
+	
+				Audio Guide
+					Вокруг Большой Невы
+						20 Бульвар у Адмиралтейства
+							2 mins
+						22 «Яблоко» на Адмиралтействе
+							1 min
+	
+	
 				Palace Square aka Дворцовая площадь
+				
+					Audio Guide
+						Санкт-Петербург. Исторический центр
+							40 Дворцовая площадь
+								3 mins						
+							41 Александровская колонна
+								3 mins			
+							42 Зимний дворец
+								3 mins
+								
+					Audio Guide
+						Вокруг Большой Невы
+							25 Александровская колонна
+								2 mins
+							28 Первый Зимний дворец
+								1 min
+							29 Второй Зимний дворец
+								2 mins
+							30 Третий Зимний дворец
+								1 min
+							31 Четвертый Зимний дворец (временный)
+								1 min
+							32 Пятый (нынешний) Зимний дворец			
+								1 min			
+							36 Зимний дворец в октябре 1917
+								1 min
+							38 Дворцовый мост
+								1 min							
+				
 
 				Atlantes aka Atlanty
+
+				
+				Audio Guide
+					Санкт-Петербург. Исторический центр				
+						39 Певческий мост
+							??? mins
 
 				optional:
 					Cafe
@@ -753,6 +904,14 @@ Sankt Peterburg
 			
 			
 13.30-14.30 Church of the Saviour on the Spilled Blood
+
+				Audio Guide
+					Невский проспект. Легендарная прогулка								
+						28 Храм Спаса-на-Крови
+							3 mins
+						TB Approval	
+							30 Итальянский мост
+								3 mins
 		
 				Teatralny most
 					spectacular view of Church on the Spilled Blood
@@ -760,43 +919,127 @@ Sankt Peterburg
 
 14.30-16.30 SPB - Centre and SPB - Bridges and Audio Guide - SPB
 
+				Audio Guide
+					Культурный маршрут
+						93 Памятник Александру III
+							2 mins
+						95 Троицкий мост, ростральные обелиски и торшеры
+							1 min
+						90 Набережная Лебяжьей канавки
+							1 mins				
+
+
 				Summer Garden
 
+				
 				St Petersburg’s Bridges
 					Panteleymonovsky most aka Пантелеймоновский мост
 					1-y Inzhenerny most aka Первый Инженерный мост
+					
+					
+				Audio Guide
+					Санкт-Петербург. Исторический центр									
+						24 Летний сад
+							7 mins							
+						23 Пантелеймоновская церковь
+							3 mins
+						21 Пантелеймоновский мост
+							2 mins
+						20 «Чижик-Пыжик». 1-й Инженерный мост
+							4 mins							
+						18 Михайловский замок
+							10 mins
+						17 Памятник Петру I
+							3 mins										
+				
 					
 				lunch
 					Restaurant
 						Farsh & Bochka
 						Pelmenya aka Пельмения
 						Brynza
-						
+				
+				
 				Anichkov most aka Аничков мост
+
 				
 				Nevsky Prospekt
+				
+					Audio Guide
+						Невский проспект. Легендарная прогулка
+							9 Дворец Белосельских-Белозерских (Невский пр., 41).
+								5 mins
+							10 Фонтанка
+								3 mins		
+							11 Аничков мост
+								2 mins
+							12 Скульптурная группа Аничкова моста
+								5 mins								
 
-				Eliseyev Emporium aka Kupetz Eliseevs
+					Audio Guide
+						Невский проспект. Легендарная прогулка								
+							TB Approval
+								16 Александринский театр
+									3 mins		
+							15 «Катькин сад» (Екатерининский сквер)
+								4 mins		
+							18 Елисеевский магазин (Невский пр., 56)
+								4 mins
+							TB Approval	
+								19 Малая Садовая
+									3 mins
 
+									
+				Eliseyev Emporium aka Kupetz Eliseevs									
+									
+
+				Nevsky Prospekt
+				
+					Audio Guide
+						Невский проспект. Легендарная прогулка
+							TB Approval	
+								23 Башня Городской думы (Невский пр., 33)
+									3 mins
+
+									
 				optional:
 					Cafe
 						Brynza
+						
 					
 				Singer Building
+				
+					Audio Guide
+						Невский проспект. Легендарная прогулка				
+							29 Здание компании «Зингер» (Невский пр., 28)
+								3 mins
+							TB Approval	
+								32 Первая телефонная станция (Невский пр., 26)
+									2 mins							
+				
 
 				Kazan Cathedral
+
+					Audio Guide
+						Невский проспект. Легендарная прогулка													
+							31 Казанский кафедральный собор
+								5 mins				
+				
 
 				optional:
 					Cafe
 						Pirogoviy dvorik
 						Bushe
+						
 
-				Bankovsky most aka Банковский мост 		
+				Bankovsky most aka Банковский мост
 				
-				optional:				
+				
+				optional:
 					Restaurant
 						Kilikia
 
+						
 				Lion's Bridge aka Львиный мост
 
 				
@@ -823,6 +1066,15 @@ Sankt Peterburg
 		
 		
 20.30-22.00 dinner before leaving for Moscow
+
+
+				Audio Guide			
+					Невский проспект. Легендарная прогулка
+						1 Невский излом (Угол Невского и Суворовского проспектов)
+							3 mins		
+						3 Обелиск. Памятник Александру III (перенесен)
+							3 mins
+
 			
 				near railway station
 					!!!

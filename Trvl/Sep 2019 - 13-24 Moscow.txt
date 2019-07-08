@@ -275,7 +275,7 @@ https://www.google.com/search?q=moscow+subway+map&rlz=1C1GCEB_enUS806US806&tbm=i
 	
 	
 	
-optional:	
+optional:
 	04.00-05.30 breakfast in train
 	05.30-06.00 arrive Moscow - Leningradsky Railway Station
 	06.00-06.30 leave luggage TB: Yaroslavsky Railway Station
