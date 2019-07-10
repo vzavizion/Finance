@@ -82,6 +82,26 @@ VKO-MOW
 			
 			
 			!!!
+			Yandex Taxi to Yugo-Zapadnaya metro station
+				30 mins from VKO to Yugo-Zapadnaya metro station
+				
+			
+				500 RUR				
+			
+				+
+				
+				35 mins from Yugo-Zapadnaya metro station to Leningradskiy Railway Station
+				https://goo.gl/maps/ySHRfo9n9tbuNaP99
+				
+				https://www.sleepinginairports.net/guides/moscow-vnukovo-airport-guide.htm
+				
+				Total 650 RUR
+			
+			
+			OR
+			
+			
+			!!!
 			Minibus route 45m to Yugo-Zapadnaya metro station from 7:00AM – 10:30PM
 				30 mins from VKO to Yugo-Zapadnaya metro station
 				departs every 10 minutes
@@ -152,3 +172,7 @@ MOW-LED
 Верхнее		3083
 
 https://pass.rzd.ru/tickets/public/ru?layer_name=e3-route&st0=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&code0=2000000&st1=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&code1=2004000&dt0=18.09.2019&tfl=3&md=0&checkSeats=1
+
+
+
+http://pass.rzd.ru/static/public/ru?STRUCTURE_ID=5167
