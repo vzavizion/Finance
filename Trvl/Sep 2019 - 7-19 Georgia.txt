@@ -75,7 +75,7 @@ Sep 7
 			03.00-07.00 bus to Tbilisi
 							
 							
-			07.00-07.30 Liberty Square Pushkin Park			
+			07.00-07.30 Liberty Square Pushkin Park
 							
 							ATM TBC Bank
 							
@@ -168,7 +168,7 @@ Sep 8
 							elevation gain 1283m
 
 							8-10 hrs
-							challenging hike of about 4 hours up and 2 down    
+							challenging hike of about 4 hours up and 2 down
 								
 							difficulty: Moderate
 							long hike, but you will be gaining elevation quite slowly and the path is well-trodden
@@ -883,20 +883,37 @@ Sep 18
 
 
 	Evening					
+
+				if flight on time
+					17.40-20.15 flight to MOW
+					
+					20-15-22.00 customs and immigration MOW
+					
+					22.00-23.00 Aeroexpress + subway ride to Leningradskiy train station
+					
+					23.00-23.55 Leningradskiy train station
 				
-				17.40-20.15 flight to MOW
+				OR
 				
-				20-15-22.00 customs and immigration MOW
-				
-				22.00-23.00 ride to Leningradskiy train station
-				
-				23.00-23.55 Leningradskiy train station
-				
+				if flight NOT on time
+					17.40-21.15 flight to MOW
+					
+					21-15-22.30 customs and immigration MOW
+					
+					22.30-23.30 Yandex-taxi + subway ride to Leningradskiy train station
+					
+					23.30-23.55 Leningradskiy train station
+					
+
+
 				23.55-07.55 train to LED
 				
-				07.55-10.00 arrive hotel
+				07.55-09.00 arrive hotel
+				
+				09.00-10.00 arrive Hermitage ticket office
 				
 				10.00-12.00 Hermitage free entrance
+				
 		
 
 		
