@@ -51,22 +51,15 @@ E-TICKET NUMBER: 6062200105297
 
 
 
-https://fabergemuseum.ru/ru/museum/tickets
 
-http://tickets.fsv.ru/ru/#id=1
-
- 
  
  
 =======================================================
 =======================================================
 =======================================================
-
- 
-https://www.booking.com/hotel/ge/komfortabel-ny-apartament.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYAQm4ARjIAQzYAQHoAQH4AQyIAgGoAgQ;sid=d40af3cbd14ec1add48c21db8b8254b2;atlas_src=sr_iw_btn;checkin=2019-09-17;checkout=2019-09-18;dist=0;highlighted_blocks=365474501_170126359_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability 
-
- 
-https://www.booking.com/hotel/ge/100-sq-m-eco-house.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYAQm4ARjIAQzYAQHoAQH4AQyIAgGoAgQ;sid=d40af3cbd14ec1add48c21db8b8254b2;atlas_src=sr_iw_btn;checkin=2019-09-17;checkout=2019-09-18;dist=0;highlighted_blocks=274655501_127909026_5_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability 
  
  
 https://www.booking.com/hotel/ge/apartments-on-sanapiro.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYAQm4ARjIAQzYAQHoAQH4AQyIAgGoAgQ;sid=d40af3cbd14ec1add48c21db8b8254b2;atlas_src=sr_iw_btn;checkin=2019-09-17;checkout=2019-09-18;dist=0;group_adults=3;group_children=0;highlighted_blocks=152640901_168512511_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability 
+
+
+https://www.booking.com/hotel/ge/apartments-on-sanapiro.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYAQm4ARjIAQzYAQHoAQH4AQyIAgGoAgQ;sid=d40af3cbd14ec1add48c21db8b8254b2;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=152640901_168512511_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
