@@ -1,10 +1,4 @@
 Europe 2019
-	Buy tickets – BCN
-	
-	Buy train tickets – LED to MOW
-	
-
-
 
 			
 ========NEW
@@ -59,11 +53,14 @@ https://www.ca.kayak.com/flights/TBS-LED/2019-09-19
 380 (plane) + 20 (aeroexpress) + 200 (train) - 50 (TBS hotel) / Total 550 CAD 
 
 need to:
-	rebook Georgian Airlines
-		confirm checked luggage - 1 bag of 23 kg
-	find transport from VKO to Leningradsky railway station
-	book train MOW-LED
-	change hotel booking to 1 night
+	NOT DONE	
+		find transport from VKO to Leningradsky railway station
+	DONE
+		rebook Georgian Airlines
+			confirm checked luggage - 1 bag of 23 kg
+		book train MOW-LED
+		change hotel booking to 1 night
+
 	
 
 	
