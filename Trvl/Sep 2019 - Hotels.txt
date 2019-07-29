@@ -43,64 +43,11 @@ Sep 2019
 	Barcelona	175 CAD / 140 EUR		
 		https://www.ca.kayak.com/cars/BCN-a22567/Barcelona,Cataluna,Spain-c22567/2019-08-31-13h/2019-09-04-20h?sort=price_a
 		https://www.ca.kayak.com/cars/BCN-a22567/YJB-t22567/2019-08-31-13h/2019-09-04-20h?sort=price_a
-		https://www.expedia.ca/carsearch?date1=31%2F08%2F2019&date2=04%2F09%2F2019&dpln=5129026&drid1=179992&loc2=Barcelona%2C%20Spain&locn=Barcelona%2C%20Spain%20(BCN-Barcelona%20Intl.)&selSort=Price&time1=0100PM&time2=1000PM		
-		https://www.expediafortd.com/carsearch?date1=31%2F08%2F2019&date2=04%2F09%2F2019&dpln=5129026&drid1=179992&loc2=Barcelona%2C%20Spain&locn=Barcelona%2C%20Spain%20(BCN-Barcelona%20Intl.)&selSort=Price&time1=0100PM&time2=1000PM
+		https://www.expedia.ca/carsearch?date1=31%2F08%2F2019&date2=04%2F09%2F2019&dpln=5129026&drid1=179992&loc2=Barcelona%2C%20Spain&locn=Barcelona%2C%20Spain%20(BCN-Barcelona%20Intl.)&selSort=Price&time1=0100PM&time2=0800PM		
+		https://www.expediafortd.com/carsearch?date1=31%2F08%2F2019&date2=04%2F09%2F2019&dpln=5129026&drid1=179992&loc2=Barcelona%2C%20Spain&locn=Barcelona%2C%20Spain%20(BCN-Barcelona%20Intl.)&selSort=Price&time1=0100PM&time2=0800PM
 		
 		
 		
-		
-		https://www.budget.ca/en/locations/es/barcelona/c11
-			Barcelona City Downtown (C11)
-				Address: Corsega 293/Rbla Catalunya, Barcelona, 08008, Spain
-				Phone: (34) 902 110 275
-				Hours of Operation:
-					Mon - Fri 8:00 AM - 9:00 PM
-					Sat 8:00 AM - 5:00 PM
-					Sun 8:00 AM - 1:00 PM					
-				AFTER-HOURS RETURNS: Key drop box is located in the small garage door, at the very front of the office.
-					After-hours Returns
-						Park & lock the car. Place the completed contract & the keys in the Drop Box located in the Returns area. Remember to take your personal belongings with you.
-
-						
-		https://www.budget.ca/en/locations/es/barcelona/bcn
-			Aeropuerto De Barcelona-T1&t2 (BCN)			
-				Address: Aeropuerto De Barcelona T1&t2, Barcelona, 08820, Spain
-				Phone: (34) 902 108 495
-				Hours of Operation:
-					Sun - Sat 7:00 AM - 1:30 AM
-				All customers should go to the Avis counter in terminal.			
-					
-					
-					
-					
-					
-		https://www.budget.com/en/locations/ge/tbilisi/tbs
-			Tbilisi International Airport (TBS)
-				Address: Tbilisi, 00158, Georgia
-				Phone: +995 322 234 400
-				Hours of Operation:
-					Sun - Sat open 24 hrs
-				After-hours Returns
-					Park & lock the car. Place the completed contract & the keys in the Drop Box located in the Returns area. Remember to take your personal belongings with you.					
-					
-		https://www.budget.com/en/locations/ge/tbilisi/ge2					
-			Tbilisi Downtown (GE2)
-			Address: 37 Rustaveli Avenue, (Meet And Greet), Tbilisi, 00108, Georgia
-			Phone: +995 322 234 112
-			Hours of Operation: 
-				Sun - Sat open 24 hrs
-
-
-					
-				
-				
-Tbilisi				
-	http://tbilisocarrental.ge/en/homepage/
-	http://tbilisocarrental.ge/en/contact-us/
-		SUV
-			110 GEL / day (+ 10% discount)
-			should be 375 USD
-			
 			
 			
 ==========================================
@@ -738,6 +685,15 @@ TB!?
 https://www.booking.com/hotel/ru/apartamenti-na-voznesenskom-4.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaKcCiAEBmAExuAEGyAEM2AEB6AEB-AECiAIBqAIDuAKEno7oBcACAQ;sid=eba48bd93c9d5bb8e7c8415b88476b8f;atlas_src=sr_iw_btn;checkin=2019-09-19;checkout=2019-09-22;dist=0;highlighted_blocks=127916001_95593755_8_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Breview_score%3D90%3Broomfacility%3D38%3B;room1=A%2CA%2CA%2CA;sb_price_type=total;type=total;ucfs=1&
 
 
+https://www.booking.com/hotel/ru/apartamenti-na-voznesenskom-4.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaKcCiAEBmAExuAEGyAEM2AEB6AEB-AECiAIBqAIDuAKEno7oBcACAQ;sid=eba48bd93c9d5bb8e7c8415b88476b8f;atlas_src=sr_iw_btn;checkin=2019-09-19;checkout=2019-09-21;dist=0;highlighted_blocks=127916001_95593755_8_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Breview_score%3D90%3Broomfacility%3D38%3B;room1=A%2CA%2CA%2CA;sb_price_type=total;type=total;ucfs=1&
+
+https://www.booking.com/hotel/ru/apartamenti-na-voznesenskom-4.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaKcCiAEBmAExuAEGyAEM2AEB6AEB-AECiAIBqAIDuAKEno7oBcACAQ;sid=eba48bd93c9d5bb8e7c8415b88476b8f;atlas_src=sr_iw_btn;checkin=2019-09-21;checkout=2019-09-22;dist=0;highlighted_blocks=127916001_95593755_8_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Breview_score%3D90%3Broomfacility%3D38%3B;room1=A%2CA%2CA%2CA;sb_price_type=total;type=total;ucfs=1&
+
+
+
+
+https://www.booking.com/hotel/ru/apartamenti-na-voznesenskom-4.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaKcCiAEBmAExuAEGyAEM2AEB6AEB-AECiAIBqAIDuAKEno7oBcACAQ;sid=eba48bd93c9d5bb8e7c8415b88476b8f;atlas_src=sr_iw_btn;checkin=2019-09-19;checkout=2019-09-23;dist=0;highlighted_blocks=127916001_95593755_8_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Breview_score%3D90%3Broomfacility%3D38%3B;room1=A%2CA%2CA%2CA;sb_price_type=total;type=total;ucfs=1&
+
 
 
 ==========================================
@@ -1047,49 +1003,751 @@ http://pass.rzd.ru/sellpoints/public/ru?layer_id=5477&STRUCTURE_ID=5243&id=10010
 =======================================================
 =======================================================
 =======================================================
-=======================================================
-===================Meteor to Peterhof ???
 
-
-TB ??? VZ ?!
-
-
-https://www.tripadvisor.ca/ShowUserReviews-g1207894-d10533361-r685132686-Park_And_Gardens_of_Peterhof-Peterhof_Petrodvortsovy_District_St_Petersburg_No.html
-950 RUR
-
-
-https://www.sputnik8.com/ru/st-petersburg/activities/23007-bilet-na-meteor-v-petergof-i-iz-petergofa
-900 RUR
-
-
-https://www.boattrip.ru/excursion/hydrofoils/
-750-800
-
-https://vodnye-ekskursii.ru/vodnaya-progulka
-850-900
-
-
-
-=======================================================
-===================круиз по каналам aka River Cruise
-
-
-http://spb-gid.ru/ekskursii/ekskursii-po-rekam-i-kanalam/
-
-
-https://neva.travel/ru/programs/?programs_type%5B%5D=excursion&programs_pier=1
-https://neva.travel/ru/programs/severnaia-venetciia/
-https://neva.travel/ru/meteory/
-
-
-https://www.sputnik8.com/ru/st-petersburg/category/reki-i-kanaly
+Departure? Price?
 https://www.sputnik8.com/ru/st-petersburg/activities/13206-progulka-na-teplohode-severnaya-venetsiya-5-rek-i-kanalov-30-mostov?2019_05_activities_show_one_step_form_13206_desktop=new
-590 RUR + 15% off online
 
-https://www.boattrip.ru/excursion/canal_cruise_ru/
-550 RUR
 
-https://vodnye-ekskursii.ru/severnaya-venetciya-kskursiya-po-kanalam-i-neve
-800 RUR
+
+
+
+
+
+
+Barri Gotic
+Sep 4 Evening
+
+
+Restaurant
+
+La Paradeta
+
+Tues–Thurs 1–4pm & 8–11.30pm, Fri–Sun 1–4pm & 8pm–midnight.
+
+One of a chain of similar Paradetas across the city, “the market stall” looks like its name suggests. Join the queue and you’ll arrive at a display of fish and shellfish on ice, priced by weight. Point out the prawns, cockles, mussels, clams, crabs and lobsters that you want and they’ll be cooked for you there and then. Listen for your number being called, collect the food from the hatch and tuck into some of the best-priced fresh seafood in town.
+
+Expect to pay about €20–25 for a slap-up lunch. No reservations. 
+
+laparadeta.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d8675019-Reviews-La_Paradeta_Passeig_de_Gracia-Barcelona_Catalonia.html
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d887372-Reviews-La_Paradeta_Sagrada_Familia-Barcelona_Catalonia.html
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d6131690-Reviews-La_Paradeta_El_Born-Barcelona_Catalonia.html
+
+
+
+
+Tapas
+
+Bar Joan
+Santa Caterina Market
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d6419438-Reviews-Bar_Joan-Barcelona_Catalonia.html
+
+
+
+
+Bar del Pla
+
+noon-11pm Mon-Thu, to midnight Fri & Sat
+
+mains €12-16
+
+A bright and occasionally rowdy place, with glorious Catalan tiling, a vaulted ceiling and bottles of wine lining the walls. At first glance, the tapas at informal Bar del Pla are traditionally Spanish, but the riffs on a theme display an assured touch. Try the ham croquettes, Wagyu burger, T-bone steak or marinated salmon, yoghurt and mustard.
+
+www.bardelpla.cat
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d1911643-Reviews-Bar_del_Pla-Barcelona_Catalonia.html
+
+
+
+!!!
+Txirimiri
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d997288-Reviews-Txirimiri-Barcelona_Catalonia.html
+
+
+
+El Chigre
+
+noon-11.45pm
+
+mains €10-17
+
+Styling itself as part Asturian cider house and part Catalan vermuteria (bar specialising in vermouth, served on ice with a slice of orange and a green olive), El Chigre brings sophisticated versions of classic dishes from both regions to its menu. Try the superb tomato and tuna salad with tomato gelée, or the puffed corn tortos with lamb stew.
+
+http://elchigre1769.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d10954464-Reviews-El_Chigre_1769-Barcelona_Catalonia.html
+
+
+
+Bacoa 
+
+1pm–1am
+
+Aussie chef Brad Ainsworth runs this gourmet burger outlet, which has expanded to six venues across the city. Great-tasting artisan bread rolls and home-made sauces set the tone, while a dozen superb burgers (€6–10) come any way you like, from Catalan (with a roast garlic allioli) to Japanese (teriyaki sauce)
+
+bacoaburger.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d2490389-Reviews-Bacoa-Barcelona_Catalonia.html
+
+
+
+
+
+Drinks
+
+Rubí
+
+7.30pm-2.30am Sun-Thu, to 3am Fri & Sat
+
+With its boudoir lighting and cheap mojitos, Rubí is where the Born's cognoscenti head for a nightcap – or several. It's a narrow, cosy space – push through to the back where you might just get one of the coveted tables, with superior bar food, from Vietnamese rolls to more traditional selections of cheese and ham.
+
+https://www.tripadvisor.ca/Attraction_Review-g187497-d3825389-Reviews-Rubi_Bar-Barcelona_Catalonia.html
+
+
+
+!!!
+El Xampanyet
+
+Tues–Sat noon–3.30pm & 7–11pm, Sun noon–3.30pm
+
+A drink and a couple of tapas will cost around €10
+
+most famous cava bar
+
+Traditional blue-tiled bar doing a roaring trade in sparkling cava, cider and tapas (anchovies are the speciality, but there’s also marinaded tuna, spicy mussels, sun-dried tomatoes, sliced meats and cheese)
+
+As is often the way, the drinks are cheap and the tapas turn out to be rather pricey (€5–9 each, and portions aren’t generous), but there’s usually a good buzz about the place
+
+Star dishes include tangy boquerones en vinagre (white anchovies in vinegar) and there’s high-quality seafood served from a can in the Catalan way
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d697571-Reviews-El_Xampanyet-Barcelona_Catalonia.html
+
+
+
+El Born Bar
+
+10am-2am Mon-Sat, noon-1.30am Sun
+
+El Born Bar effortlessly attracts everyone from cool thirty-somethings from all over town to locals who pass judgment on Passeig del Born’s passing parade. Its staying power depends on a good selection of beers, spirits, and empanadas and other snacks.
+
+Moss-green paintwork, marble tables and a chequered black-and-white tiled floor create a timeless look for this popular little cafe-bar. A spiral wrought-iron staircase leads to a quieter room upstairs (the twisting steps mean that there is no table service and hot drinks can’t be carried upstairs).
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d1034269-Reviews-El_Born-Barcelona_Catalonia.html
+
+
+
+Creps al Born
+Very tiny bar with alternative rock lovers. Has best coctails and filled with locals
+Try burning passion fruit cocktail
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d809225-Reviews-Creps_al_Born-Barcelona_Catalonia.html
+
+
+
+!!!
+Can Paixano aka Xampanyeria
+
+Mon–Sat 9am–10.30pm
+
+This crowded backstreet joint where the drink of choice – all right, the only drink – is cava (the Catalan answer to champagne) is a must on everyone’s itinerary. Don’t go thinking sophistication – the drinks might come in traditional champagne saucers (the sort of thing Dean Martin used to stack in a pyramid and then pour wine over), but this is a counter-only joint where there’s fizz, tapas and tapas-in-sandwiches and that’s your lot. And who could want more? 
+
+This lofty old champagne bar (also called La Xampanyeria) has long been run on a winning formula. The standard poison is bubbly rosé in elegant little glasses, combined with bite-sized bocadillos (filled rolls) and tapas (€3 to €7). Note that this place is usually packed to the rafters, and elbowing your way to the bar can be a titanic struggle.
+
+canpaixano.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d940427-Reviews-Can_Paixano_La_Xampanyeria-Barcelona_Catalonia.html
+
+
+
+
+!!!
+Bodega Vidrios y Cristales
+
+noon-midnight Sun-Thu, to 1am Fri & Sat
+
+www.gruposagardi.com/restaurante/bodega-vidrios-y-cristales
+
+In a history-steeped, stone-floored building dating from 1840, this atmospheric little jewel recreates a neighbourhood bodega with tins of sardines, anchovies and other delicacies lining the shelves (used in exquisite tapas dishes), house-made vermouth, and a wonderful array of wines. Be prepared to stand as there are no seats (a handful of upturned wine barrels let you rest your glass)
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d11855366-Reviews-Bodega_Vidrios_y_Cristales-Barcelona_Catalonia.html
+
+
+
+
+Caffee
+
+!!!
+Hofmann Pastisseria
+
+9am-2pm & 3.30-8pm Mon-Thu, 9am-8.30pm Fri & Sat, 9am-2.30pm Sun
+
+With its painted wooden cabinets, this bite-sized gourmet patisserie, linked to the prestigious Hofmann cooking school, has an air of timelessness. Choose between jars of delicious chocolates, the renowned croissants (in various flavours) and more dangerous pastries, or an array of cakes and other sweet treats.
+
+www.hofmann-bcn.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d1074457-Reviews-Pastisseria_Hofmann-Barcelona_Catalonia.html
+
+
+
+
+
+
+
+=================================
+
+
+
+
+
+
+
+
+
+
+
+Port
+Sep 4 Evening
+
+Tapas
+
+
+Vaso de Oro 
+
+11am–midnight; closed 3 weeks Sept
+
+If you can get in this corridor of a bar you’re doing well – Sunday lunch is particularly busy – and there’s no menu, but standard bites include patatas bravas, fried sausage and tuna salad, with fancier shellfish dishes and meat grills available too (most tapas €4–15). Unusually, they also brew their own beer – light, dark and IPA – which comes in tall schooners
+
+fantastic tapas
+
+wisecracking, white-jacketed waiters serve plates of grilled gambes (prawns), foie a la plancha (grilled liver pâté) or solomillo (sirloin) chunks
+
+want something a little different to drink? Ask for a flauta cincuenta – half lager and half dark beer
+
+vasodeoro.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d697568-Reviews-El_Vaso_de_Oro-Barcelona_Catalonia.html
+
+
+
+Can Maño
+
+Mon 8–11pm, Tues–Fri 8–11am, 12.15–4pm & 8–11pm, Sat 8–11am & 12.15–4pm
+
+This old-fashioned diner is packed with noisy locals around formica tables. Expect fried or grilled fish, such as sardines, mullet or calamari, supplemented by a few daily seafood specials and basic meat dishes, basic wine and absolutely no frills, but it’s an authentic experience, which should cost around €15 a head
+
+It may look like a dive, but you’ll need to be prepared to wait before being squeezed in at a packed table for a raucous night of raciones (full-plate-size tapas serving) over a bottle of cloudy white turbio (Galician wine) at this family-run stalwart. The seafood is abundant, with first-rate squid, prawns and fish served at rock-bottom prices.
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d931622-Reviews-Can_Mano-Barcelona_Catalonia.html
+
+
+
+
+!!!
+La Bodega la Peninsular
+
+11.30am-midnight
+
+tapas €3.50-9
+
+Wine barrels double as tables at this traditional bodega, where over three dozen different tapas dishes pair with Catalan vintages and house-made vermouth. Adhering to the Slow Food ethos, ingredients are organic, seasonal and locally sourced; try the mojama (salt-cured, air-dried tuna) or renowned spicy bombas (meat and potato croquettes) topped with tangy aioli. It’s standing room only most nights.
+
+www.tabernaycafetin.es
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d4541296-Reviews-La_Peninsular-Barcelona_Catalonia.html
+
+
+!!!
+Cova Fumada
+
+Mon–Wed 9am–3.15pm, Thurs & Fri 9am–3.15pm & 6–8.10pm, Sat 9am–1.20pm
+
+Behind brown wooden doors on Barceloneta’s market square (there’s no sign), this rough-and-ready tavern may not look like much but the food’s great – tapas made with ingredients fresh from the market (€2–10), from griddled sardines to the house speciality bomba (spicy potato-meatball). 
+
+from griddled prawns to fried artichokes    
+
+There's no sign and the setting is decidedly downmarket, but this tiny, buzzing family-run tapas spot always packs in a crowd. The secret? Mouthwatering pulpo (octopus), calamar, sardinias and 15 or so other small plates cooked to perfection in the small open kitchen. The bombas (potato croquettes served with alioli) and grilled carxofes (artichokes) are good, but everything is amazingly fresh.    
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d943811-Reviews-La_Cova_Fumada-Barcelona_Catalonia.html
+
+
+
+Las Fritas
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d5930783-Reviews-Las_Fritas-Barcelona_Catalonia.html
+
+
+
+
+Caffee
+
+Forn Baluard
+
+Mon–Sat 8am–9pm
+
+There are scores of bakeries in Barcelona, but when push comes to shove, foodies pick the Baluard, right next to Barceloneta market, whose passion for artisan bread, cakes and pastries knows no bounds
+
+one of the best ranges of freshly baked breads in the city
+
+also bakes a range of tempting pastries, such as xuiuixo (deep-fried custard-filled pastries from Girona) and bunyols (doughnut-shaped pastries stuffed with cheese or jam), and tarts such as fig or wild berries
+
+C/Baluard 38–40, Barceloneta
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d2516874-Reviews-Baluard_Barceloneta-Barcelona_Catalonia.html
+
+Carrer de Provenca, 279, Eixample
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d8354001-Reviews-Baluard_Barceloneta-Barcelona_Catalonia.html
+
+
+
+
+
+=================================
+=================================
+=================================
+
+
+
+
+Boqueria
+Sep 5-6 Morning
+
+
+Cafe
+
+
+Chök
+
+9am-9pm
+
+Set inside an old chocolate-maker’s, with original wooden shelving and stained glass, Chök now specialises in all things sweet, but especially doughnuts. These come in a huge array of colours and flavours, but there are also cookies, macarons, marshmallows and, of course, the ubiquitous cronut. There’s a tiny space where you can order and drink coffee
+
+www.chokbarcelona.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d4697511-Reviews-Chok_The_Chocolate_Kitchen-Barcelona_Catalonia.html
+
+
+!!!
+Petritxol Xocoa
+
+9.30am-9pm
+
+This den of dental devilry displays ranks and ranks of original bars in stunning designs, chocolates stuffed with sweet stuff, gooey pastries and more. 
+
+www.xocoa-bcn.com; 
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d2429712-Reviews-Petritxol_Cafe-Barcelona_Catalonia.html
+
+
+Escribà
+
+9am–10pm
+
+Many rate this classy pastry shop in the historic modernista Antiga Casa Figueras building near the Boqueria market as the best bakery in Barcelona. 
+
+Antoni Escribà carries forward a family tradition (since 1906) of melting barcelonins’ hearts with remarkable pastries and criminal chocolate creations. 
+
+Try the Easter bunyols de xocolata (little round pastry balls filled with chocolate cream)
+Gorgeous individual-size cakes start at €4.50
+
+escriba.es
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d2314979-Reviews-Escriba-Barcelona_Catalonia.html
+
+
+
+Tapas Boqueria (pricey)
+
+
+Bar Pinotxo
+
+pinotxobar.com
+
+6.30am–4pm
+
+The market’s most renowned refuelling stop – just inside the main entrance on the right. 
+
+Let the cheery staff steer you towards the tapas and daily specials (€5–15), anything from a slice of tortilla to fried baby squid. 
+
+Popular owner, Juanito, might serve up chickpeas with pine nuts and raisins, a soft mix of potato and spinach sprinkled with salt, soft baby squid with cannellini beans, or a quivering cube of caramel-sweet pork belly. 
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d1074885-Reviews-Bar_Pinotxo-Barcelona_Catalonia.html
+
+
+
+
+El Quim
+
+www.elquimdelaboqueria.com
+
+7am-4pm Tue-Thu, to 5pm Fri & Sat
+
+This classic counter bar in the Mercat de la Boqueria is ideal for trying traditional Catalan dishes such as fried eggs with baby squid (the house speciality) or escalivada (smoky grilled vegetables). Daily specials are prepared using whatever is in season, and might include artichoke chips or sautéed wild mushrooms.
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d1080763-Reviews-El_Quim_de_la_Boqueria-Barcelona_Catalonia.html
+
+
+
+Clemen' s Boqueria
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d2184678-Reviews-Clemen_s_Boqueria-Barcelona_Catalonia.html
+
+
+
+Bar Quiosc Modern
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d4493632-Reviews-Bar_Quiosc_Modern-Barcelona_Catalonia.html
+
+
+
+
+=================================
+
+
+
+
+BCN Boqueria to Sea
+Sep 5-6 Morning
+
+
+
+
+Drinks
+
+!!!
+La Cazalla
+
+lacazalla.com
+
+7pm–2.30am
+
+A historic remnant of the old days, the hole-in-the-wall Cazalla (under the arch, at the beginning of C/Arc del Teatre) first opened its hatch in 1912. It was closed for some years, but it’s now back in business offering stand-up coffees, beers and shots to an assorted clientele of locals, cops, streetwalkers and the occasional stray tourist. 
+
+https://www.tripadvisor.ca/Attraction_Review-g187497-d5906511-Reviews-La_Cazalla-Barcelona_Catalonia.html
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d8418127-Reviews-La_Cazalla-Barcelona_Catalonia.html
+
+
+
+Tapas 
+
+!!!
+Bodega Biarritz 1881
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d3832462-Reviews-Bodega_Biarritz_1881-Barcelona_Catalonia.html
+
+
+!!!
+Bodega Biarritz
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d11906544-Reviews-Bodega_Biarritz-Barcelona_Catalonia.html
+
+
+
+
+
+
+
+=================================
+=================================
+=================================
+
+
+
+
+
+
+Sep 5 Afternoon
+Near Catedral
+
+
+Cafe
+
+!!!
+Xurreria
+
+7.30am-1.30pm & 3.30-8.15pm
+
+It doesn't look much from the outside, but this brightly lit street joint is Barcelona's best spot for paper cones of piping-hot churros – long batter sticks fried and sprinkled with sugar and best enjoyed dunked in hot chocolate
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d4044899-Reviews-Xurreria_Dels_Banys_Nous-Barcelona_Catalonia.html
+
+
+La Colmena
+
+9am–9pm
+
+Established in 1849, “the hive” has a huge range of traditional Catalan cakes, pastries and sweets prettily displayed in wooden cabinets in its carefully preserved interior. In autumn, try the panellets (marzipan balls, often covered with pine nuts), or choose a bag of daintily wrapped sweets that have been handmade to the same recipe for well over a century
+
+pine-nut-encrusted panellets (sweet almond cakes), flavoured meringues and feather-light ensaïmadas (soft, sweet buns topped with powdered sugar) from Mallorca
+
+pastisserialacolmena.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d3172363-Reviews-Dolceria_De_La_Colmena-Barcelona_Catalonia.html
+
+
+
+Fast Food
+
+La Fabrica (Empanadas Argentinas)
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d12251057-Reviews-La_Fabrica_Empanadas_Argentinas-Barcelona_Catalonia.html
+
+
+Conesa Entrepans
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d1036122-Reviews-Conesa_Entrepans-Barcelona_Catalonia.html
+
+
+Club de L'empanada
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d4072374-Reviews-Club_de_L_empanada-Barcelona_Catalonia.html
+
+
+Drinks
+
+Craft Barcelona
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d10061118-Reviews-Craft_Barcelona-Barcelona_Catalonia.html
+
+
+
+
+=================================
+
+
+
+
+Sep 5 Afternoon
+Catedral to Sea
+
+
+Restaurant
+
+!!!
+Benedict
+
+9am-4pm & 7pm-2am Tue-Fri
+9am-2.30am Sat & Sun
+
+mains €10-11
+
+As the name suggests, brunch is the main event at friendly little Benedict, with eggs prepared every which way and an option for the full English fry-up. There’s also a list of handmade burgers and club sandwiches, and in the evening various tapas are served, along with onion rings, deep-fried brie, chicken wings and other American favourites.
+
+Every day Brunch 17 EUR
+
+www.benedictbcn.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d4604959-Reviews-The_Benedict-Barcelona_Catalonia.html
+
+
+
+Tapas
+
+!!!
+Bodega Vasconia
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d2145823-Reviews-Bodega_Vasconia-Barcelona_Catalonia.html
+
+
+
+Mirilla
+
+7-11.30pm Tue-Sat
+
+platillos €4.50-16
+
+Mirilla is a great place to stumble upon, with excellent wines by the glass and well-executed cocktails, along with a range of platillos (somewhere between a tapa and a main course) that includes cod ceviche, pork with wild mushrooms and mackerel teriyaki. It’s a cosy little place and fills up fast. Reserve if you can
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d3152063-Reviews-Mirilla-Barcelona_Catalonia.html
+
+
+
+Belmonte
+
+8pm-midnight Tue-Sat, plus 1-3.30pm Sat
+
+tapas €4-10, mains €12
+
+This tiny tapas joint in the southern reaches of Barri Gòtic whips up beautifully prepared small plates – including an excellent truita (tortilla), rich patatons a la sal (salted new potatoes with romesco sauce) and tender carpaccio de pop (octopus carpaccio). Wash it down with the homemade vermut (vermouth)
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d1080145-Reviews-Belmonte-Barcelona_Catalonia.html
+
+
+!!!
+Bodega La Plata
+
+Mon–Sat 9am–3pm & 6.30–11pm
+
+A classic taste of the old town, with a marble counter open to the street and dirt-cheap wine served straight from the barrel. For €2.50 you can get a dish of the speciality anchovies, either marinated or deep-fried like whitebait
+
+Tucked away on a narrow lane near the waterfront, La Plata is a humble but well-loved bodega that serves just three plates: pescadito frito (small fried fish), butifarra (sausage) and tomato salad. Add in the drinkable, affordable wines (per glass €1.20) and you have the makings of a fine predinner tapas spot.
+
+barlaplata.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d1191525-Reviews-Bar_La_Plata-Barcelona_Catalonia.html
+
+
+
+Drinks
+
+L’Ascensor
+
+6pm–2.30am
+
+Cocktails 7-10 EUR
+
+Sliding, antique wooden elevator doors announce the entrance to “The Lift”, but it’s no theme bar – just an easy-going local hangout that’s great for a late-night drink
+
+Named after the lift (elevator) doors that serve as the front door, this elegant drinking den with its vaulted brick ceilings, vintage mirrors and marble-topped bar gathers a faithful crowd that comes for old-fashioned cocktails and lively conversation against a soundtrack of up-tempo jazz and funk
+
+https://www.tripadvisor.ca/Attraction_Review-g187497-d8763031-Reviews-L_Ascensor-Barcelona_Catalonia.html
+
+
+
+
+
+=================================
+=================================
+=================================
+
+
+
+
+
+Sep 5 Evening
+Font Màgica
+
+
+Tapas
+
+
+!!!
+Quimet i Quimet 
+
+Foodie place of pilgrimage and at busy times everyone has to breathe in to squeeze another punter through the door. The wine bottles are stacked five shelves high (there’s a chalkboard menu of wines by the glass), while little plates of classy finger food (mostly €3–10) are served reverently from the minuscule counter – things like roast onions, marinated mushrooms, stuffed cherry tomatoes, grilled aubergine, anchovy-wrapped olives and a terrific range of regional cheeses
+
+Family-run business that has been passed down from generation to generation. There’s barely space to swing a calamar in this bottle-lined, standing-room-only place, but it is a treat for the palate, with montaditos (tapas on a slice of bread) made to order.
+
+Mon–Fri noon–4pm & 7–10.30pm, Sat noon–4pm
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d717377-Reviews-Quimet_Quimet-Barcelona_Catalonia.html
+
+
+!!!
+Blai Tonight
+Each toothpick = €1 - keep them in your cup and that's you bill for the evening! The tapas are diverse and divine, and there is fresh fast turnaround as well. Many locals eat here, it's a gem!
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d2569361-Reviews-Blai_Tonight-Barcelona_Catalonia.html
+
+
+!!!
+Pincho J
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d7139985-Reviews-Pincho_J-Barcelona_Catalonia.html
+
+
+
+
+Fast Food
+
+!!!
+La Tasqueta De Blai
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d4155257-Reviews-La_Tasqueta_De_Blai-Barcelona_Catalonia.html
+
+
+
+
+Drinks
+
+La Confitería
+This one-time bakery and confectioner’s – featuring a carved wood bar, faded tile floor, murals, antique chandeliers and mirrored cabinets – is now a popular bar and meeting point. 
+A quiet enough spot for a house vermut (€3; add your own soda) in the early evening.
+
+Mon–Thurs 7pm–3am, Fri 6pm–3.30am, Sat 5pm–3.30am, Sun 5pm–3am.
+
+https://www.tripadvisor.com/Restaurant_Review-g187497-d1226735-Reviews-La_Confiteria-Barcelona_Catalonia.html
+
+
+Abirradero
+
+Brewery
+Barcelona is spoilt for choice with craft breweries, and this bright, buzzing space has 20 of its own beers rotating on the taps, including IPAral·lel (a double IPA), Excuse Me While I Kiss My Stout, and Tripel du Poble Sec. Tapas, sharing boards and burgers are standouts from the kitchen. You’ll occasionally catch live jazz and blues here
+
+5pm-1am Mon-Thu, noon-2am Fri & Sat, noon-1am Sun
+
+www.abirradero.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d8738631-Reviews-Abirradero-Barcelona_Catalonia.html
+
+
+
+
+
+=================================
+=================================
+=================================
+
+
+
+
+Sep 5 Evening
+Sagrada Familia
+
+
+Tapas
+
+
+La Paradeta
+
+Tues–Thurs 1–4pm & 8–11.30pm, Fri–Sun 1–4pm & 8pm–midnight
+
+laparadeta.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d8675019-Reviews-La_Paradeta_Passeig_de_Gracia-Barcelona_Catalonia.html
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d887372-Reviews-La_Paradeta_Sagrada_Familia-Barcelona_Catalonia.html
+
+
+
+La Pepita 
+
+Mon 7pm–midnight, Tues–Sat 1–4.30pm & 7.30pm–midnight
+
+There’s usually a queue out the door here, and deservedly so. The tapas, like roasted-chicken croquettes with romesco sauce (€4), or aubergine fritters with goat’s cheese, honey and apples (€8), are fantastic, and the atmosphere is chatty and convivial. Hundreds of “love notes” scrawled by customers on the white-tiled walls attest to its popularity
+
+lapepitabcn.com
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d2151085-Reviews-La_Pepita-Barcelona_Catalonia.html
+
+
+
+
+Cafe
+
+Forn Baluard
+
+Mon–Sat 8am–9pm
+
+Carrer de Provenca, 279, Eixample
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d8354001-Reviews-Baluard_Barceloneta-Barcelona_Catalonia.html
+
+
+
+
+Drinks
+
+
+Garage Beer Co. 
+
+Mon–Thurs & Sun 5pm–midnight, Fri & Sat 5pm–2.30am
+
+This friendly brewpub was an early fixture on Barcelona’s “beer mile” – the craft beer bar-filled area that’s boomed in recent years. There are no frills, just great ales, simple snacks, wooden benches and a glass wall onto the microbrewery out back
+
+Garage brews its own in a space at the bar, and offers around 10 different styles at a time. The eponymous Garage (a delicate session IPA) and Slinger (a more robust IPA) are always present on the board. Other favourites include Imperial Chocolate (stout) and Culture Trip (raspberry Berliner Weisse)
+
+www.garagebeer.co
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d7990129-Reviews-Garage_Beer_Co-Barcelona_Catalonia.html
+
+
+
+
+Cerveseria Catalana
+
+Mon–Sat 8am–1am, Sun 9am–1am
+
+An uptown beer-and-tapas joint where the counters are piled high with elaborately assembled dishes, supplemented by a black-board list of daily specials like bacon, cheese and date skewers and mushroom risotto (most tapas €2–10). It gets busy after work and at meal times, and you might have to wait for a table
+
+good for breakfast, lunch and dinner
+you can sit at the bar, on the pavement terrace or in the restaurant at the back
+no reservations
+
+https://www.tripadvisor.ca/Restaurant_Review-g187497-d782944-Reviews-Cerveceria_Catalana-Barcelona_Catalonia.html
 
 

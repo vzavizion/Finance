@@ -13,13 +13,15 @@ Day 1 Thu
 	General Staff Building + Hermitage
 		На входе в Эрмитаж отдельный и понятный коридор для тех, кто с билетами. Для того, чтобы посетить экспозиции Главного музейного комплекса по билетам, купленным в кассах Главного штаба, мимо очереди в Эрмитаж проходим к охраннику, который регулирует пропуск посетителей, показываем ему имеющиеся билеты и идем на начало просмотра
 
-		Купив билет, проходите в арку прямо до конца к круглой двери ( мимо очереди) и входите в здание. Идите налево! Там тоже есть вход, нет смысла стоять в очереди на вход
+		Купив билет, проходите в арку прямо до конца к круглой двери (мимо очереди) и входите в здание. Идите налево! Там тоже есть вход, нет смысла стоять в очереди на вход
 			
 		Заходите, предъявив ваучер, либо мимо основной очереди, либо через специальный вход во дворе - слева, если смотреть на вход в Эрмитаж (этот вход работал осенью)
+	
+	River Cruise
 
 Day 2 Fri
 	Peterhof
-	Faberge
+	Faberge	
 	Audio Guide - Nevsky
 	
 Day 3 Sat
@@ -37,6 +39,7 @@ Day 3 Sat
 Day 1 Thu
 	Hermitage
 	Menshikov Palace
+	River Cruise
 Day 2 Fri
 	Peterhof
 Day 3
@@ -52,6 +55,7 @@ Day 3
 Day 1 Thu
 	General Staff Building
 	Menshikov Palace
+	River Cruise
 Day 2 Fri
 	Peterhof
 	Hermitage
@@ -69,6 +73,7 @@ Day 1 Thu
 	Yusupov
 	Faberge
 	Audio Guide - Nevsky
+	River Cruise
 
 Day 2 Fri
 	Hermitage + General Staff Building + Menshikov Palace	
