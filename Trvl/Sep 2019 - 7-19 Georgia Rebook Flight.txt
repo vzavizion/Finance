@@ -1,52 +1,10 @@
-I have a booking for 3 persons for Sep 19 with Georgian Airways
-
-Booking number is 3N1BP8
-
-	Date: Sep 19 (one-way flight)
-
-	Flight Number: A9-785
-		From: Tbilisi 19.09.2019 (08:00)
-		To: St Petersburg (Pulkovo) 19.09.2019 (10:15)
-
-		
-		
-		
-!!!
-CHANGE FLIGHT to SEP 18
-A9 723
-	Tbilisi 17.40 Yerevan 18.10
-A9 3928 / RM 928
-	Yerevan 18.45 Moscow (VKO) 20.15
-
- 
- 
-!!!
-CONFIRM LUGGAGE 
-
-
-
-!!! ASK FOR booking number for MY BOOKING page - and VERIFY booking number
-I entered my last name (Zavizion) and booking number (3N1BP8), but I'm getting a message: Unable to open booking!
-
- 
-
- 
-
-
 NAME: VASILE/ZAVIZION MR
-
 E-TICKET NUMBER: 6062200105296
 
- 
-
 NAME: VALENTINA/ZAVIZION MS
-
 E-TICKET NUMBER: 6062200105298
 
- 
-
 NAME: TATIANA/BORISOVA MS
-
 E-TICKET NUMBER: 6062200105297
 
 
