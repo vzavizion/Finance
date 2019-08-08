@@ -171,40 +171,8 @@ https://www.flightstats.com/v2/flight-tracker/A9/725?year=2019&month=7&date=13&f
 ========NEW
 
 
-https://www.booking.com/hotel/ge/apartment-old-tiflisi.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=521525401_182424614_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
 
-https://www.booking.com/hotel/ge/apartment-old-tiflisi.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-17;checkout=2019-09-18;dist=0;group_adults=3;group_children=0;highlighted_blocks=521525401_182424614_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
-
-
-
-
-
-https://www.booking.com/hotel/ge/apartment-on-zubalashvili-37.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=247744901_179182878_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
-
-https://www.booking.com/hotel/ge/apartment-on-zubalashvili-37.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-17;checkout=2019-09-18;dist=0;group_adults=3;group_children=0;highlighted_blocks=247744901_179182878_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
-
-
-
-
-
-
-https://www.booking.com/hotel/ge/apartment-in-city-center-tbilisi.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=308281501_193793452_5_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
-
-https://www.booking.com/hotel/ge/apartment-in-city-center-tbilisi.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-17;checkout=2019-09-18;dist=0;group_adults=3;group_children=0;highlighted_blocks=308281501_193793452_5_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
-
-
-
-
-
-
-https://www.booking.com/hotel/ge/comfortable-apartment-in-the-city-center.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=412175301_170143035_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#map_closed
-
-https://www.booking.com/hotel/ge/comfortable-apartment-in-the-city-center.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-17;checkout=2019-09-18;dist=0;group_adults=3;group_children=0;highlighted_blocks=412175301_170143035_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#map_closed
-
-
-
-
-
+!
 
 https://www.booking.com/hotel/ge/apartment-mayat.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=225487201_129933236_5_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
 
@@ -214,7 +182,7 @@ https://www.booking.com/hotel/ge/apartment-mayat.en-gb.html?aid=304142;label=gen
 
 
 
-
+!
 
 https://www.booking.com/hotel/ge/dom-u-prospekta-rustaveli-tbilisi.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=380473201_122162535_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
 
@@ -223,7 +191,7 @@ https://www.booking.com/hotel/ge/dom-u-prospekta-rustaveli-tbilisi.en-gb.html?ai
 
 
 
-
+!
 
 https://www.booking.com/hotel/ge/guest-house-in-cozy-little-yard.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=251815601_114031208_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
 
@@ -233,13 +201,17 @@ https://www.booking.com/hotel/ge/guest-house-in-cozy-little-yard.en-gb.html?aid=
 
 
 
-https://www.booking.com/hotel/ge/my-great-tbilisi-holidays.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=463090301_168854531_4_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
+!
 
-https://www.booking.com/hotel/ge/my-great-tbilisi-holidays.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-17;checkout=2019-09-18;dist=0;group_adults=3;group_children=0;highlighted_blocks=463090301_168854531_4_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
+https://www.booking.com/hotel/ge/the-beauty-sunny-and-colored-apt-on-marjanishvili-26.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=498489601_187646849_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
+
+https://www.booking.com/hotel/ge/the-beauty-sunny-and-colored-apt-on-marjanishvili-26.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-17;checkout=2019-09-18;dist=0;group_adults=3;group_children=0;highlighted_blocks=498489601_187646849_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
 
 
 
 
+
+!!! Booked
 
 https://www.booking.com/hotel/ge/apartment-near-church.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=457853101_140845194_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
 
@@ -249,9 +221,6 @@ https://www.booking.com/hotel/ge/apartment-near-church.en-gb.html?aid=304142;lab
 
 
 
-https://www.booking.com/hotel/ge/the-beauty-sunny-and-colored-apt-on-marjanishvili-26.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-12;checkout=2019-09-14;dist=0;group_adults=3;group_children=0;highlighted_blocks=498489601_187646849_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
-
-https://www.booking.com/hotel/ge/the-beauty-sunny-and-colored-apt-on-marjanishvili-26.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=5a4922569d0719afd925ed0cd3ce95a8;atlas_src=sr_iw_btn;checkin=2019-09-17;checkout=2019-09-18;dist=0;group_adults=3;group_children=0;highlighted_blocks=498489601_187646849_3_0_0;nflt=pri%3D1%3Boos%3D1%3Bfc%3D2%3Bfc%3D5%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=1;room1=A%2CA%2CA;sb_price_type=total;type=total;ucfs=1&#availability
 
 
 
