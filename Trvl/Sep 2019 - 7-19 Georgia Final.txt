@@ -32,52 +32,20 @@ Sep 19 Leave Tbilisi + arrive LED
 
 Sep 7
 	Morning	
-	
-02.30-03.00 Georgia border + Kutaisi Airport
-			
-ATM!!!
-							
-Georgian Bus
-
-book and pay online, or at its airport desk
-								
-								Tbilisi
-									4 hours
-									20 GEL
-									
-								arrival: Liberty Square Pushkin Park
-									arrival and departure point in Tbilisi is Pushkinis skver, just off the north side of Tavisuplebis moedani
-									41.694125, 44.801281
-									Google Maps: GeorgianBus Station										
-									
-								https://georgianbus.com/new/
-								https://georgianbus.com/new/index.php?m=42&from_x=2&to_x=8&fly_x=38&date_x=07-09-2019&from_y=8&to_y=2&fly_y=1&date_y=
-			
-			
-			03.00-07.00 bus to Tbilisi
-							
-							
-			07.00-07.30 Liberty Square Pushkin Park
-							
-							ATM TBC Bank
-							
-							buy Metromoney card at Liberty Square metro station!!!
-								bus 37 (0.50 GEL, 7am to 11pm) runs from the airport to the main train station via Avlabari metro station and Tavisuplebis moedani and Rustaveli in the city centre
-
 				
-			07.30-08.30 walk / public bus to Budget Tbilisi
+			07.30-08.30 walk 20 mins / public bus 5 mins to Budget Tbilisi
 							https://goo.gl/maps/ht4iRnQSYdv
-							
-							
-							
-				Tbilisi breakfast
-					If you want a meal, Pasanauri and Samikitno are both 24hr, and both have a presence right in the old city. I personally prefer Pasanauri.
-					Entree is a chain of cafes - not Georgian though - which cold be worth looking out - but according to google, it only opens at 8am							
-							
 			
 			OR
 
+			
+			optional
+			
 			07.30-08.30 public bus 37 / taxi to Budget TBS airport
+			
+							buy Metromoney card at Liberty Square metro station!!!							
+								bus 37 (0.50 GEL, 7am to 11pm) runs from the airport to the main train station via Avlabari metro station and Tavisuplebis moedani and Rustaveli in the city centre
+			
 							bus
 								Working hours – 24/7
 								One way fee is 0.50 GEL
@@ -590,7 +558,7 @@ Sep 16
 			16.30-17.00 drive to Alaverdi monastery
 			
 			17.00-18.00 Alaverdi monastery
-							8am-6pm			
+							8am-6pm
 			
 
 

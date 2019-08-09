@@ -220,34 +220,34 @@ https://www.booking.com/hotel/ge/omsi-house.en-gb.html?aid=304142;label=gen173nr
 
 
 
-https://www.booking.com/hotel/ge/telavi-tel-aviv.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=314169901_113481652_0_2_0%2C314169903_113481652_0_2_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=13;highlighted_blocks=314169901_113481652_0_2_0%2C314169903_113481652_0_2_0;hpos=13;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#tab-main
 
 
-https://www.booking.com/hotel/ge/guest-house-chiko.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=497728203_167654845_3_2_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=21;highlighted_blocks=497728203_167654845_3_2_0;hpos=21;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#tab-main
-
-
-https://www.booking.com/hotel/ge/diasamidze-39-s-guesthouse.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=148601301_95723578_1_2_0%2C148601303_95723578_2_2_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=22;highlighted_blocks=148601301_95723578_1_2_0%2C148601303_95723578_2_2_0;hpos=22;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#tab-main
-
+54 CAD VIEW
 
 https://www.booking.com/hotel/ge/daniel-telavi1.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=390973202_170612576_3_2_0%2C390973201_170612576_3_2_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=27;highlighted_blocks=390973202_170612576_3_2_0%2C390973201_170612576_3_2_0;hpos=27;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#tab-main
 
-
 https://www.booking.com/hotel/ge/nino-39-s-veranda-apartment.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=355106101_123530246_3_0_0;bhgwe_cep=1;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=28;highlighted_blocks=355106101_123530246_3_0_0;hpos=28;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#hotelTmpl
+
+
+
+
+64 WINE CELLAR
 
 https://www.booking.com/hotel/ge/guest-house-guglux.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=144495117_122890174_1_2_0%2C144495122_122890174_2_2_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=34;highlighted_blocks=144495117_122890174_1_2_0%2C144495122_122890174_2_2_0;hpos=34;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#hotelTmpl
 
-https://www.booking.com/hotel/ge/guest-house-telavi.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=141343704_183964242_2_2_0%2C141343702_183964242_3_2_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=33;highlighted_blocks=141343704_183964242_2_2_0%2C141343702_183964242_3_2_0;hpos=33;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#hotelTmpl
 
 
 
+45-47 CAD / NO VIEW
 
-https://www.booking.com/hotel/ge/guest-house-quot-four-rooms-quot.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=225610403_195300660_3_0_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=15;highlighted_blocks=225610403_195300660_3_0_0;hpos=15;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#tab-main
+https://www.booking.com/hotel/ge/guest-house-chiko.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=497728203_167654845_3_2_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=21;highlighted_blocks=497728203_167654845_3_2_0;hpos=21;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#tab-main
 
+https://www.booking.com/hotel/ge/diasamidze-39-s-guesthouse.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=148601301_95723578_1_2_0%2C148601303_95723578_2_2_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=22;highlighted_blocks=148601301_95723578_1_2_0%2C148601303_95723578_2_2_0;hpos=22;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#tab-main
 
 https://www.booking.com/hotel/ge/tamari-guest-house.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=135295023_99367570_2_0_0%2C135295029_99367570_2_0_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=19;highlighted_blocks=135295023_99367570_2_0_0%2C135295029_99367570_2_0_0;hpos=19;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#hotelTmpl
 
 
-https://www.booking.com/hotel/ge/telavi-host-guesthaus-in-telavi-kakhetia.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=e0140ab645c43ed08673284004d33450;all_sr_blocks=375433801_167714121_0_0_0%2C375433804_167714121_0_0_0;checkin=2019-09-16;checkout=2019-09-17;dest_id=-2330100;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=14;highlighted_blocks=375433801_167714121_0_0_0%2C375433804_167714121_0_0_0;hpos=14;nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=price;srepoch=1565266471;srpvid=b72a561378d10071;type=total;ucfs=1&#tab-main
+
 
 
 
