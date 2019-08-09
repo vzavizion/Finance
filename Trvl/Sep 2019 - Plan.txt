@@ -1,21 +1,5 @@
-YYZ
-	Westjet
-	Leave Aug 30
-	TB + VZ		
-		CENEIW
-
-		
 BCN 6 days		31-6
-	Wizzair
-	Leave Sep 6
-	TB
-		RYP23Z
-	VZ
-		I6MGYY
-		
-	https://georgianbus.com/new/
-	
-	
+
 	Mama
 		QJNHJ2
 		

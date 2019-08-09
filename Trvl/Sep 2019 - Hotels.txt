@@ -76,9 +76,6 @@ https://www.expediafortd.com/Hotel-Search?destination=Stepantsminda,+Kazbegi,+Ge
 
 
 
-
-
-
 158 CAD
 
 https://www.booking.com/hotel/ge/guest-house-tamta.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=93532c31003101337ac8766b66ff3279;all_sr_blocks=239947101_180800737_2_0_0;checkin=2019-09-07;checkout=2019-09-12;dest_id=-2327687;dest_type=city;dist=0;group_adults=2;hapos=14;highlighted_blocks=239947101_180800737_2_0_0;hpos=14;nflt=rpt%3D1%3Boos%3D1%3Bfc%3D2%3Breview_score%3D90%3Bprice%3DCAD-min-65-1%3Broomfacility%3D38%3B;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1560024197;srpvid=9cf88d02804b0445;type=total;ucfs=1&#map_closed
@@ -528,30 +525,6 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAE
 https://www.expediafortd.com/Hotel-Search?destination=Moscow,+Russia+(DME-Domodedovo+Intl.)&startDate=23/09/2019&endDate=24/09/2019&adults=3&regionId=6024359&guestRating=40&sort=price&latLong=55.414495,37.899907
 
 
-
-==========================================
-==========================================
-==========================================			
-========Plane
-
-
-GET THIS FROM SEP DETAILS!!!
-
-
-Sep 2019
-			
-			
-
-		Avianca YYZ-LIM-UIO-YYZ			May 3-26
-			JRJEW7
-				1192.48
-				Seats cannot be assigned - only during check-in
-						8E 8D
-						?? ??
-						?? ??
-						?? ??
-				https://serviciosenlinea.avianca.com/General/EstadoReserva/EstadoReserva.aspx?lan=EN&pais=CA			
-			
 
 
 			
