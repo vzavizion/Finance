@@ -307,8 +307,6 @@ Our Bookings
 
 https://secure.booking.com/myreservations.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=b29760691ab00478e68fcf15130cc840;auth_key=66Q1f2tGZEAPSWu6;srpvid=c46f70801edb060a&
 
-https://secure.booking.com/myreservations.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=b29760691ab00478e68fcf15130cc840;auth_key=U6EZKITkG5m9Q37U;srpvid=c46f70801edb060a&
-
 https://secure.booking.com/myreservations.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA;sid=b29760691ab00478e68fcf15130cc840;auth_key=qMP3ACsCu7mn2uHp;srpvid=c46f70801edb060a&
 
 
@@ -330,6 +328,10 @@ https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAE
 
 2 rooms
 https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=107b3745c5647563367cd9dbff74a18a&tmpl=searchresults&ac_click_type=b&ac_position=1&checkin_month=9&checkin_monthday=16&checkin_year=2019&checkout_month=9&checkout_monthday=17&checkout_year=2019&city=-2329452&class_interval=1&dest_id=-2330100&dest_type=city&from_sf=1&group_adults=3&group_children=0&highlighted_hotels=3770785&label_click=undef&no_dorms=1&no_rooms=2&order=price&raw_dest_type=city&room1=A%2CA%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=3ffd777fd1bb00bd&ss=Telavi%2C%20Kakheti%2C%20Georgia&ss_raw=telavi&ssb=empty&ssne=Kvareli&ssne_untouched=Kvareli&nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B&rsf=
+
+
+2 rooms 4 persons
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggJCAlhYSDNYBGgniAEBmAEuwgEDYWJuyAEM2AED6AEBkgIBeagCBA&sid=107b3745c5647563367cd9dbff74a18a&tmpl=searchresults&ac_click_type=b&ac_position=1&checkin_month=9&checkin_monthday=16&checkin_year=2019&checkout_month=9&checkout_monthday=17&checkout_year=2019&city=-2329452&class_interval=1&dest_id=-2330100&dest_type=city&from_sf=1&group_adults=4&group_children=0&highlighted_hotels=3770785&label_click=undef&no_dorms=1&no_rooms=2&order=price&raw_dest_type=city&room1=A%2CA%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=3ffd777fd1bb00bd&ss=Telavi%2C%20Kakheti%2C%20Georgia&ss_raw=telavi&ssb=empty&ssne=Kvareli&ssne_untouched=Kvareli&nflt=rpt%3D1%3Bprice%3DCAD-min-70-1%3Bfc%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B&rsf=
 
 
 https://www.expediafortd.com/Hotel-Search?destination=Telavi,+Kakheti,+Georgia&startDate=16/09/2019&endDate=17/09/2019&adults=3&regionId=6205084&guestRating=40&sort=price&latLong=41.927831,45.473713
