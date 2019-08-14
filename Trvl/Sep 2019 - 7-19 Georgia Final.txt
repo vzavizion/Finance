@@ -1,7 +1,7 @@
 ==========Plan: Detailed
 
 add Georgia hotels to MyMap + organize Georgia MyMaps
-print 3 Georgian airway bookings
+print 3 Georgian airways bookings
 
 Select TBS apartment
 	ask TBS apartment to call Guesthouse Roshka and confirm our booking for Sep 8-9

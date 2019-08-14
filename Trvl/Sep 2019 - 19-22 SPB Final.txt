@@ -11,7 +11,8 @@ Sankt Peterburg
 #Option 1
 --If we can buy tickets for LI and can get inside of Hermitage
 Day 1 Thu
-	General Staff Building + Hermitage
+	General Staff Building - VZ + TB + Mama only
+	Hermitage
 		На входе в Эрмитаж отдельный и понятный коридор для тех, кто с билетами. Для того, чтобы посетить экспозиции Главного музейного комплекса по билетам, купленным в кассах Главного штаба, мимо очереди в Эрмитаж проходим к охраннику, который регулирует пропуск посетителей, показываем ему имеющиеся билеты и идем на начало просмотра
 
 		Купив билет, проходите в арку прямо до конца к круглой двери (мимо очереди) и входите в здание. Идите налево! Там тоже есть вход, нет смысла стоять в очереди на вход
@@ -39,7 +40,7 @@ Day 3 Sat
 #Option 3
 --If we can't buy tickets for LI
 Day 1 Thu
-	Hermitage
+	Hermitage - VZ + TB + Mama only
 	Menshikov Palace
 	River Cruise
 Day 2 Fri
@@ -56,7 +57,7 @@ Day 3
 #Option 2
 --If we can buy tickets for LI and but we can't get inside of Hermitage
 Day 1 Thu
-	General Staff Building
+	General Staff Building - VZ + TB + Mama only
 	Menshikov Palace
 	River Cruise
 Day 2 Fri
@@ -131,23 +132,6 @@ Must see POI
 	St Isaac’s Cathedral (к открытию 10.30)
 
 
-	
-	
-	
-
-Version 1	
-	Cheap Hermitage
-	Crowded Hermitage
-	Not Crowded Peterhof
-
-
-	OR	
-	
-
-Version 2	
-	Not Cheap Hermitage
-	Not Crowded Hermitage
-	Crowded Peterhof
 	
 	
 	
