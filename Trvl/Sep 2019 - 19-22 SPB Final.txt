@@ -8,7 +8,7 @@ Sankt Peterburg
 ========Plan New
 
 
-#Option 2
+#Option 1
 --If we can buy tickets for LI and can get inside of Hermitage
 Day 1 Thu
 	General Staff Building + Hermitage
@@ -53,7 +53,7 @@ Day 3
 	OR
 
 
-#Option 1
+#Option 2
 --If we can buy tickets for LI and but we can't get inside of Hermitage
 Day 1 Thu
 	General Staff Building
@@ -176,6 +176,10 @@ If we fly to MOW and train to LED
 		23.55-07.55 train to LED / arrive LED
 
 		08.00-08.30 leave luggage in luggage storage railway station OR in hotel
+		
+		
+		buy Tele2
+		
 
 		08.30-09.00 subway or bus to Hermitage / Winter Palace ticket office to get free tickets
 
@@ -894,6 +898,7 @@ Sankt Peterburg
 					
 18.30-20.30
 	river cruise
+	
 	Audio Guide - Nevsky
 	
 				Audio Guide
@@ -901,7 +906,13 @@ Sankt Peterburg
 						1 Невский излом (Угол Невского и Суворовского проспектов)
 							3 mins		
 						3 Обелиск. Памятник Александру III (перенесен)
-							3 mins	
+							3 mins								
+				
+	Confirm Moscow hotel
+		Пожалуйста, обязательно подтвердите бронирование за сутки до заезда (до 12:00-14:00 ч)
+			sms, звонок, +7967 015 19 12
+			e-mail: otelaleks-d@yandex.ru
+		Если Вы не выходите с нами на связь с момента бронирования номера до даты заезда и не подтверждаете точное время/дату прибытия в Москву, Неподтвержденная бронь будет считаться негарантированной
 		
 		
 20.30-22.00 dinner before leaving for Moscow
