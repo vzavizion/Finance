@@ -2,26 +2,15 @@
 
 add Georgia hotels to MyMap + organize Georgia MyMaps
 print 3 Georgian airways bookings
+non-refundable SPB hotels
 
 Select TBS apartment
+	confirm with balcony apartment
+	cancel Holiday Apartment
 	ask TBS apartment to call Guesthouse Roshka and confirm our booking for Sep 8-9
 Cancel TBS car + Call once again and confirm we can pick up at 8am
 Buy Georgian Bus tickets
 
-
 TB
-	Start SPB
-		review Sep 19 plan
-		
-		stand in line for Hermitage and go with the flow
-		
-
 	Review SPB Hotels
 
-
-
-
-Hotel
-	07-08 Cancel everything except Red Stone + Tamta
-	09-12 Cancel everything except Red Stone + Tamta
-		

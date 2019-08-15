@@ -9,80 +9,57 @@ Sankt Peterburg
 
 
 #Option 1
---If we can buy tickets for LI and can get inside of Hermitage
+assumption: we can buy tickets for LI and can get inside of Hermitage
 Day 1 Thu
 	General Staff Building - VZ + TB + Mama only
 	Hermitage
-		На входе в Эрмитаж отдельный и понятный коридор для тех, кто с билетами. Для того, чтобы посетить экспозиции Главного музейного комплекса по билетам, купленным в кассах Главного штаба, мимо очереди в Эрмитаж проходим к охраннику, который регулирует пропуск посетителей, показываем ему имеющиеся билеты и идем на начало просмотра
-
-		Купив билет, проходите в арку прямо до конца к круглой двери (мимо очереди) и входите в здание. Идите налево! Там тоже есть вход, нет смысла стоять в очереди на вход
-			
-		Заходите, предъявив ваучер, либо мимо основной очереди, либо через специальный вход во дворе - слева, если смотреть на вход в Эрмитаж (этот вход работал осенью)
-	
-	River Cruise
-
 Day 2 Fri
 	Peterhof
 	Faberge	
-	Audio Guide - Nevsky
-	
 Day 3 Sat
 	Yusupov
 	Menshikov Palace
-	optional
-		Faberge
-		Audio Guide - Nevsky
+	Audio Guide - Nevsky
 	
 	
 	OR
 
 	
-#Option 3
---If we can't buy tickets for LI
-Day 1 Thu
-	Hermitage - VZ + TB + Mama only
+#Option 2
+assumption: we can't buy tickets for LI
+assumption: we can buy tickets for LI but we can't get inside of Hermitage
+Day 1 Thu	
+	General Staff Building - VZ + TB + Mama only
+		assumption: we can buy tickets at General Staff Building (confirm at ticket office of General Staff Building)
+		otherise: Yat breakfast
 	Menshikov Palace
-	River Cruise
+		assumption: we can buy tickets at Menshikov Palace (confirm at ticket office of General Staff Building)
+		otherise: Faberge
 Day 2 Fri
 	Peterhof
+	Hermitage
 Day 3
 	Yusupov
 	Faberge
+		assumption: we can't buy tickets at Menshikov Palace (confirm at ticket office of General Staff Building)
+		otherise: Menshikov Palace
 	Audio Guide - Nevsky	
 	
 	
 	OR
 
 
-#Option 2
---If we can buy tickets for LI and but we can't get inside of Hermitage
-Day 1 Thu
-	General Staff Building - VZ + TB + Mama only
-	Menshikov Palace
-	River Cruise
-Day 2 Fri
-	Peterhof
-	Hermitage
-Day 3
-	Yusupov
-	Faberge
-	Audio Guide - Nevsky
-	
-	
-	OR
-	
-	
-#Option 4	
---If we decide to visit Hermitage on Friday (too many cons - should not do this)
-Day 1 Thu
-	Yusupov
-	Faberge
-	Audio Guide - Nevsky
-	River Cruise
 
+	
+#Option 3
+assumption: we decide to visit Hermitage on Friday (too many cons - should not do this)
+Day 1 Thu
+	Yusupov
+	Faberge
+	Audio Guide - Nevsky
+	River Cruise
 Day 2 Fri
 	Hermitage + General Staff Building + Menshikov Palace	
-	
 Day 3 Sat
 	Peterhof
 			
@@ -149,220 +126,9 @@ http://tickets.fsv.ru/ru/#id=1
 
 
 
-
-
-
 Sep 19 Thursday
 
-
-If we fly to MOW and train to LED
-
-		23.55-07.55 train to LED / arrive LED
-
-		08.00-08.30 leave luggage in luggage storage railway station OR in hotel
-		
-		
-		buy Tele2
-		
-
-		08.30-09.00 subway or bus to Hermitage / Winter Palace ticket office to get free tickets
-
-		09.00-10.30 wait in line to get free tickets to Hermitage + General Staff Building
-						ask to get ticket for LI
-						ask how to get to Winter Palace with tickets without the line - where is special entrance
-
-		10.30-12.30 General Staff Building free entrance
-
-		12.30-13.00 subway or bus to Moskovskiy Vokzal
-
-		13.00-13.30 meet LI at railway station and get luggage
-		
-		13.30-14.00 subway or bus to hotel
-
-		14.00-15.00 hotel check-in
-
-		15.00-18.00 Winter Palace free entrance
-
-		18.00 leave Winter Palace
-
-		
-
-	OR
-
-
-
-
-If we fly to LED
-
-		05.00 leave Hotel
-					bus 37 (0.50 GEL, 7am to 11pm) runs from the airport to the main train station via Avlabari metro station and Tavisuplebis moedani and Rustaveli in the city centre
-					night bus - 137
-					
-						Working hours – 24/7
-						One way fee is 0.50 GEL
-						journey time 1 hr
-						every 15 mins from 7am to 11pm
-						every 30 mins from 11pm to 7am (ex. 01.15 and 01.45)
-							https://goo.gl/maps/48cgKCwPevr
-						
-						Tbilisi bus stop
-							just outside Metro station Freedom Square. The number 37 is not on the sign, but it nevertheless stops here
-								bus stop outside the Metro take the 37 to the Airport. The stop opposite Marriott Courtyard takes the 37 to the central railway station
-								
-						Airport bus stop 
-							in front of the Arrival hall
-							
-					optional: taxi / Uber
-						journey time to the city center takes 20-30 minutes dependent on traffic. Taxi fee depends on taxi meter indication (From 30 to 50 GEL, locals pay 25 GEL)
-
-						
-		06.00 arrive airport
-
-
-		08.00 leave TBS
-
-
-		10.15 arrive LED
-
-
-		11.00 leave airport
-					to Moskovskaya metro station
-						take marshrutka K39 to Moskovskaya metro station for R35
-						take bus 39 (35 minutes, very slow) or 39A (20 minutes, slow)
-
-					then take the metro from Moskovskaya (Line 2) all over the city for R45
-
-					
-		12.30 arrive Hotel
-
-
-		!!!
-		12.30-13.30 Mama + LI
-						ticket office to get free tickets
-						
-						ask about Main Museum Complex guided tour
-						ask about General Staff Building guided tour
-
-						main public entrance is via the courtyard of the Winter Palace off Palace Sq
-						
-					VZ + TB
-						check-in
-						
-									
-
-		13.30-18.00 Hermitage: Main Museum Complex + General Staff Building
-
-						?????-????? Main Museum Complex guided tour
-						15.30-17.00 General Staff Building guided tour
-
-
-
-
-
-
-				
-
-18.00-18.30 Palace Square aka Дворцовая площадь
-
-				Audio Guide
-					Санкт-Петербург. Исторический центр
-						40 Дворцовая площадь
-							3 mins						
-						41 Александровская колонна
-							3 mins			
-						42 Зимний дворец
-							3 mins
-							
-				Audio Guide
-					Вокруг Большой Невы
-						25 Александровская колонна
-							2 mins
-						28 Первый Зимний дворец
-							1 min
-						29 Второй Зимний дворец
-							2 mins
-						30 Третий Зимний дворец
-							1 min
-						31 Четвертый Зимний дворец (временный)
-							1 min
-						32 Пятый (нынешний) Зимний дворец			
-							1 min
-						36 Зимний дворец в октябре 1917
-							1 min
-						38 Дворцовый мост
-							1 min
-				
-
-18.30-20.00 dinner
-
-				Restaurant
-					Pkhali Khinkali (10am-midnight)
-					
-					optional - if we go to see Strelka
-						Buter Brodsky (noon-midnight)
-					
-					optional - expensive / maybe drinks only
-						Yat (11am-11pm)
-						
-					optional - lunch only from 12:00 till 17:00
-						Khochu Kharcho (24 hrs)
-							delivery available for lunches
-						
-						
-
-20.00-21.00 Audio Guide - Nevsky
-
-				Audio Guide
-					Культурный маршрут
-						26 Дом графа Разумовского
-							2 mins			
-							
-				Audio Guide				
-					Невский проспект. Легендарная прогулка
-						40 Строгановский дворец (Невский пр., 17)
-							4 mins
-						38 Зелёный мост
-							2 mins
-						39 Дом Чичерина (Невский пр., 15)
-							6 mins
-						41 Дом Котомина (Невский пр., 18)
-							3 mins
-						
-				Audio Guide			
-					Невский проспект. Легендарная прогулка	
-						44 Бывший Английский магазин (Невский пр., 16)
-							3 mins
-						47 Дом Вавельберга (Невский пр., 9)
-							2 mins
-						49 Главное Адмиралтейство
-							2 mins
 			
-
-20.30-21.30
-		!!!
-		Strelka
-		
-			Audio Guide
-				Культурный маршрут	
-					39 Стрелка Васильевского острова
-						2 mins
-					40 Биржа на Стрелке
-						2 mins
-					42 Ростральные колонны
-						1 min
-
-						
-22.00-23.00 delivery or takeout - lunch at Peterhof tomorrow
-			Brynza
-				Доставка осуществляется ежедневно с 9.00 до 23.00 часов
-
-		
-01.10-01.30
-		!!!
-		Palace Bridge aka Dvortsovy most / Viewpoint - raising of the bridges
-			one of the most popular spots to watch raising of the bridges over the Neva river
-			
-
 
 
 ========NEW
