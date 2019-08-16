@@ -2,15 +2,3 @@
 
 add Georgia hotels to MyMap + organize Georgia MyMaps
 print 3 Georgian airways bookings
-non-refundable SPB hotels
-
-Select TBS apartment
-	confirm with balcony apartment
-	cancel Holiday Apartment
-	ask TBS apartment to call Guesthouse Roshka and confirm our booking for Sep 8-9
-Cancel TBS car + Call once again and confirm we can pick up at 8am
-Buy Georgian Bus tickets
-
-TB
-	Review SPB Hotels
-
