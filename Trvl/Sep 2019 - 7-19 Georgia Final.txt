@@ -1,62 +1,108 @@
 ==========Plan: Detailed
 
 try calling Spain Citi Meeting
+print car rent TBS
 
 
-add Georgia hotels to MyMap + organize Georgia MyMaps
-add SPB hotels to MyMap + organize SPB MyMaps
-
-
-buy knee sleeve
-	Canadian Tire
-	Walmart
-
-	
-SHM - #Zala + minuty, jeksponaty + minuty
-
-
-inside shm
-shm - main	
+==========
+==========
+==========
 
 
 
-
-Plane (BCN, TBS)							+25 +30					2 plane t-shirts							/	old hiking shorts with belt
+Plane (YYZ-BCN, BCN-TBS)					+25 +30					2 plane t-shirts							/	old hiking shorts			/ Prada shoes
 	2
-	Aug 31, Sep 6 (7)
-City Plane (TBS, LIS)						+25 +30					2 nice plane t-shirts						/	plane shorts with belt
-	2
-	Sep 18, Sep 24
-Beach (Costa Brava)							+25 +30					2 beach t-shirts							/	2 swim shorts
+	Aug 31
+		light green IB
+	Sep 7
+		light green IB
+		
+Beach (Costa Brava)							+25 +30					2 beach t-shirts							/	2 swim shorts				/ flip-flops
 	5
 	Aug 31-Sep 04
-Hiking (Kazbegi)							+15 / +7				2 hiking t-shirts							/	new hiking shorts
-	4
-	Sep 8, Sep 9, Sep 11, Sep 12
-City Hot (BCN)								+25 +30					3 nice t-shirts								/	nice shorts with belt
-	3
-	Sep 04-06
-City Cold (SPB, MOW)						+15 / +7				5 nice IB t-shirts							/	jeans
+		2 blue beach		
+		
+Town Hot (Girona)							+25 +30					1 nice t-shirt								/	nice shorts					/ Prada shoes
+	0.5
+	Sep 02, Sep 03
+		light brown Scotch and Soda t-shirt
+
+City Hot (BCN)								+25 +30					2 nice t-shirts								/	nice shorts					/ Prada shoes
+	2.5
+	Sep 04
+		light brown Scotch and Soda t-shirt
+	Sep 05
+		brown Diesel t-shirt
+	Sep 06	
+		green Diesel t-shirt		
+
+Hiking (Kazbegi)							+15 / +7				3 hiking t-shirts							/	old + new hiking shorts		/ hiking shoes
+	6
+	Sep 8-9
+		blue hooded IB
+	Sep 10, Sep 15
+		green IB
+	Sep 11, Sep 12
+		dark green hooded IB
+	
+Town Warm (TBS, Mtskheta)					+25 +30					1 semi-nice IB t-shirts						/	new hiking shorts			/ Prada shoes
+	2.5
+	Sep 12, Sep 13, Sep 17
+		orange image IB
+		
+Inland Hot (Kakheti)						+25 +30					1 semi-nice IB								/	new hiking shorts			/ hiking shoes
+	2
+	Sep 14, Sep 16
+		orange IB		
+
+City Plane (TBS-MOW, MOW-LIS)				+25 +30					2 nice plane t-shirts						/	old hiking shorts			/ Prada shoes
+	2
+	Sep 18
+		green image IB
+	Sep 24
+		wierd blue image IB
+	
+City Cold (SPB, MOW)						+15 / +7				3 nice IB t-shirts							/	jeans						/ hiking shoes
 	5
-	Sep 19-23
-Town Hot (Girona, TBS)						+25 +30					2 semi-nice t-shirts						/	semi-nice shorts with belt
-	4
-	Sep 02, Sep 03, Sep 12, Sep 13
-Inland Hot (Spain, Kakheti)					+25 +30					1 semi-nice t-shirt + 3 semi-nice IB		/	semi-nice shorts with belt
-	7
-	Aug 31, Sep 01, Sep 10, Sep 14-17
+	Sep 19, Sep 22
+		light blue image IB
+	Sep 20, Sep 23
+		dark blue image IB
+	Sep 21
+		wierd blue image IB
 	
 
+
+
+
+old hiking shorts with belt
+new hiking shorts
+swim shorts 2
+blue shorts with belt
+jeans
 
 IB coat
 IB mid-layer
-rain jacket
-rain pants
-hiking shoes / Asics hiking
-Prada shoes (do I need these???)
+
+hiking shoes / Asics hiking				6 + 2 + 5					13
+Prada shoes								2 + 3 + 2 + 2				9
+flip-flops								3							3
+
 socks hiking 3
-socks nice 3
-underpants 4
+socks nice 3 (including plane)
+underpants 4 (including plane)
+
+rain pants
+rain jacket
+
+
+
+
+==========
+==========
+==========
+
+
 
 
 Black suitcase
@@ -65,7 +111,7 @@ Yellow Pacsafe OR Old Red backpack OR Ted Baker!!! OR Old Mexx!!! OR Silver Bric
 2 Eddie Bauer (for hiking)
 	
 
-Aug 31 Plane + Beach + Inland				2 Eddie Bauer + 1 Pacsafe
+Aug 31 Plane + Beach + Inland				2 Eddie Bauer + 1 Pacsafe						
 Sep 01 Beach + Inland						2 Eddie Bauer + 1 Pacsafe
 Sep 02 Beach + Girona						2 Eddie Bauer + 1 Pacsafe
 Sep 03 Beach + Girona						2 Eddie Bauer + 1 Pacsafe
