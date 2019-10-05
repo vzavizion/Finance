@@ -57,7 +57,11 @@ Dec-
 March-April
 	New Zealand (AKL 1500 CAD, CHC 1500 CAD)
 	+
-	Australia (SYD 1600 CAD, MEL 1600 CAD)
+	Australia (SYD 1600 CAD, MEL 1600 CAD)	
+		https://www.google.ca/travel/flights?tcfs=UgJgAQ&ved=2ahUKEwjwr6uJmvLkAhVbpU8KHVgXC6wQyJABegQIABAM&ictx=2&hl=en&gl=ca#flt=YYZ.SYD.2020-03-01*SYD.YYZ.2020-04-30;c:CAD;e:1;px:2;sd:1;t:f&tcfs=UgJgAQ
+		https://www.google.ca/travel/flights?tcfs=UgJgAQ&ved=2ahUKEwjwr6uJmvLkAhVbpU8KHVgXC6wQyJABegQIABAM&ictx=2&hl=en&gl=ca#flt=YYZ.MEL.2020-03-01*MEL.YYZ.2020-04-30;c:CAD;e:1;px:2;sd:1;t:f&tcfs=UgJgAQ
+		
+	
 	------------------
 	South Korea / Taiwan
 	Carribean Cruise
