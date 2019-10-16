@@ -45,6 +45,20 @@ Base:
 ==========================================
 
 
+
+
+https://www.google.ca/flights#flt=YYZ.SYD.2020-01-01*SYD.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.MEL.2020-01-01*MEL.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.AKL.2020-01-01*AKL.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
+
+https://www.google.ca/flights#flt=YYZ.CPT.2020-01-01*CPT.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.JNB.2020-01-01*JNB.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
+
+
+
+
+
+
 Dec-
 	Costa Rica
 	Philippines (El Nido)
