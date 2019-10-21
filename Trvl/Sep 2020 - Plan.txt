@@ -53,7 +53,12 @@ https://www.google.ca/flights#flt=YYZ.AKL.2020-01-01*AKL.YYZ.2020-01-29;c:CAD;e:
 
 https://www.google.ca/flights#flt=YYZ.CPT.2020-01-01*CPT.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.JNB.2020-01-01*JNB.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.WDH.2020-01-01*WDH.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
 
+https://www.google.ca/flights#flt=YYZ.SJO.2020-01-01*SJO.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
+
+https://www.google.ca/flights#flt=YYZ.LON.2020-08-01*LON.YYZ.2020-08-30;c:CAD;e:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.BCN.2020-08-01*BCN.YYZ.2020-08-30;c:CAD;e:1;sd:1;t:f
 
 
 
