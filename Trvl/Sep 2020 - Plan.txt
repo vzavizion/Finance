@@ -46,19 +46,53 @@ Base:
 
 
 
+YYZ,/m/02_286,/m/0rh6k
 
-https://www.google.ca/flights#flt=YYZ.SYD.2020-01-01*SYD.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.MEL.2020-01-01*MEL.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.AKL.2020-01-01*AKL.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.SYD.2020-01-01*SYD.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.MEL.2020-01-01*MEL.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.AKL.2020-01-01*AKL.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
 
-https://www.google.ca/flights#flt=YYZ.CPT.2020-01-01*CPT.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.JNB.2020-01-01*JNB.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.WDH.2020-01-01*WDH.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.SYD.2020-01-01*SYD.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.MEL.2020-01-01*MEL.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.AKL.2020-01-01*AKL.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
 
-https://www.google.ca/flights#flt=YYZ.SJO.2020-01-01*SJO.YYZ.2020-01-29;c:CAD;e:1;sd:1;t:f
 
-https://www.google.ca/flights#flt=YYZ.LON.2020-08-01*LON.YYZ.2020-08-30;c:CAD;e:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.BCN.2020-08-01*BCN.YYZ.2020-08-30;c:CAD;e:1;sd:1;t:f
+
+https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.CPT.2020-01-01*CPT.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.JNB.2020-01-01*JNB.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+
+https://www.google.ca/flights#flt=YYZ.CPT.2020-01-01*CPT.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.JNB.2020-01-01*JNB.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.WDH.2020-01-01*WDH.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+
+
+
+https://www.google.ca/flights#flt=YYZ.SJO.2020-01-01*SJO.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+
+
+
+https://www.google.ca/flights#flt=YYZ.LON.2020-08-01*LON.YYZ.2020-08-30;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.BCN.2020-08-01*BCN.YYZ.2020-08-30;c:CAD;e:1;so:1;sd:1;t:f
+
+
+
+
+
+
+
+1st half of the year
+
+https://www.kayak.com/explore/YYZ-2001945fr/20200201,20200229?tripdurationrange=14,14
+https://www.kayak.com/explore/YYZ-2001937fr/20200501,20200531?tripdurationrange=14,14
+https://www.kayak.com/explore/YYZ-2001893fr/20200401,20200430?tripdurationrange=14,14
+
+
+Europe
+
+https://www.kayak.com/explore/YYZ-EUcg/20200901,20200930?tripdurationrange=14,14
+
+https://www.kayak.com/flights/YYZ-LON/2020-09-04-flexible-1day-after?sort=price_a&fs=flexdepart=~20200904
+https://www.kayak.com/flights/LON-YYZ/2020-09-28-flexible-1day?sort=price_a
 
 
 
@@ -77,8 +111,8 @@ March-April
 	New Zealand (AKL 1500 CAD, CHC 1500 CAD)
 	+
 	Australia (SYD 1600 CAD, MEL 1600 CAD)	
-		https://www.google.ca/travel/flights?tcfs=UgJgAQ&ved=2ahUKEwjwr6uJmvLkAhVbpU8KHVgXC6wQyJABegQIABAM&ictx=2&hl=en&gl=ca#flt=YYZ.SYD.2020-03-01*SYD.YYZ.2020-04-30;c:CAD;e:1;px:2;sd:1;t:f&tcfs=UgJgAQ
-		https://www.google.ca/travel/flights?tcfs=UgJgAQ&ved=2ahUKEwjwr6uJmvLkAhVbpU8KHVgXC6wQyJABegQIABAM&ictx=2&hl=en&gl=ca#flt=YYZ.MEL.2020-03-01*MEL.YYZ.2020-04-30;c:CAD;e:1;px:2;sd:1;t:f&tcfs=UgJgAQ
+		https://www.google.ca/travel/flights?tcfs=UgJgAQ&ved=2ahUKEwjwr6uJmvLkAhVbpU8KHVgXC6wQyJABegQIABAM&ictx=2&hl=en&gl=ca#flt=YYZ.SYD.2020-03-01*SYD.YYZ.2020-04-30;c:CAD;e:1;px:2;so:1;sd:1;t:f&tcfs=UgJgAQ
+		https://www.google.ca/travel/flights?tcfs=UgJgAQ&ved=2ahUKEwjwr6uJmvLkAhVbpU8KHVgXC6wQyJABegQIABAM&ictx=2&hl=en&gl=ca#flt=YYZ.MEL.2020-03-01*MEL.YYZ.2020-04-30;c:CAD;e:1;px:2;so:1;sd:1;t:f&tcfs=UgJgAQ
 		
 	
 	------------------
