@@ -91,7 +91,7 @@ Europe
 
 https://www.kayak.com/explore/YYZ-EUcg/20200901,20200930?tripdurationrange=14,14
 
-https://www.kayak.com/flights/YYZ-LON/2020-09-04-flexible-1day-after?sort=price_a&fs=flexdepart=~20200904
+https://www.kayak.com/flights/YYZ-LON/2020-09-04-flexible-1day-after?sort=price_a
 https://www.kayak.com/flights/LON-YYZ/2020-09-28-flexible-1day?sort=price_a
 
 
