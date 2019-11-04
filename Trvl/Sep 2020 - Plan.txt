@@ -46,22 +46,33 @@ Base:
 
 
 =========1st half of the year
+=========
+=========
 
+SIN, BKK, KUL, TPE
+SIN,KUL,/m/0fn2g,/m/0ftkx
 
+HKG, Shanghai, Seoul
+HKG,/m/06wjf,/m/0hsqf
 
+YYZ, WAS, NYC
 YYZ,/m/02_286,/m/0rh6k
 
-https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.SYD.2020-01-01*SYD.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.MEL.2020-01-01*MEL.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.AKL.2020-01-01*AKL.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.SIN,KUL,/m/0fn2g,/m/0ftkx.2020-01-01*SIN,KUL,/m/0fn2g,/m/0ftkx.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.HKG,/m/06wjf,/m/0hsqf.2020-01-01*HKG,/m/06wjf,/m/0hsqf.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+
+https://www.google.ca/flights#flt=SIN,KUL,/m/0fn2g,/m/0ftkx./m/0chgzm,SYD.2020-01-01*/m/0chgzm,SYD.SIN,KUL,/m/0fn2g,/m/0ftkx.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=HKG,/m/06wjf,/m/0hsqf./m/0chgzm,SYD.2020-01-01*/m/0chgzm,SYD.HKG,/m/06wjf,/m/0hsqf.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=SIN,KUL,/m/0fn2g,/m/0ftkx.AKL.2020-01-01*AKL.SIN,KUL,/m/0fn2g,/m/0ftkx.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=HKG,/m/06wjf,/m/0hsqf.AKL.2020-01-01*AKL.HKG,/m/06wjf,/m/0hsqf.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
 
 https://www.google.ca/flights#flt=YYZ.SYD.2020-01-01*SYD.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.MEL.2020-01-01*MEL.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.AKL.2020-01-01*AKL.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
 
-https://www.google.ca/flights#flt=YYZ.MNL.2020-01-01*MNL.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.SIN.2020-01-01*SIN.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.KUL.2020-01-01*KUL.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.MEL.2020-01-01*MEL.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.SYD.2020-01-01*SYD.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ,/m/02_286,/m/0rh6k.AKL.2020-01-01*AKL.YYZ,/m/02_286,/m/0rh6k.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
 
 
 
@@ -83,6 +94,10 @@ https://www.google.ca/flights#flt=YYZ.SJO.2020-01-01*SJO.YYZ.2020-01-29;c:CAD;e:
 
 
 =========1st half of the year
+=========
+=========
+
+
 
 https://www.kayak.com/explore/YYZ-2001945fr/20200201,20200229?tripdurationrange=14,14
 https://www.kayak.com/explore/YYZ-2001937fr/20200201,20200229?tripdurationrange=14,14
@@ -94,12 +109,18 @@ https://www.kayak.com/explore/YYZ-2001893fr/20200201,20200229?tripdurationrange=
 
 
 =========Europe Sep
+=========
+=========
+
 
 
 https://www.google.ca/flights#flt=YYZ.LON.2020-08-01*LON.YYZ.2020-08-30;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.BCN.2020-08-01*BCN.YYZ.2020-08-30;c:CAD;e:1;so:1;sd:1;t:f
 
+
 https://www.kayak.com/explore/YYZ-EUcg/20200901,20200930?tripdurationrange=14,14
+Morocco???
+
 
 https://www.kayak.com/flights/YYZ-LON/2020-09-04-flexible-1day-after?sort=price_a
 https://www.kayak.com/flights/LON-YYZ/2020-09-28-flexible-1day?sort=price_a
@@ -115,72 +136,142 @@ to
 
 TLV, IST
 	https://www.kayak.com/flights/YYZ-TLV/2020-09-04-flexible-1day-after?sort=price_a
-		550
+		550	450
 	https://www.kayak.com/flights/YYZ-IST/2020-09-04-flexible-1day-after?sort=price_a
-	
+		660
+		
 	https://www.kayak.com/flights/NYC-TLV/2020-09-04-flexible-1day-after?sort=price_a
+		460
 	https://www.kayak.com/flights/NYC-IST/2020-09-04-flexible-1day-after?sort=price_a
+		470
 	
 OSL, CPH, RIX
 	https://www.kayak.com/flights/YYZ-OSL/2020-09-04-flexible-1day-after?sort=price_a
+		650
 	https://www.kayak.com/flights/YYZ-CPH/2020-09-04-flexible-1day-after?sort=price_a
+		470
 	https://www.kayak.com/flights/YYZ-RIX/2020-09-04-flexible-1day-after?sort=price_a
+		650
 
 	https://www.kayak.com/flights/NYC-OSL/2020-09-04-flexible-1day-after?sort=price_a
-	https://www.kayak.com/flights/NYC-CPH/2020-09-04-flexible-1day-after?sort=price_a
-	https://www.kayak.com/flights/NYC-RIX/2020-09-04-flexible-1day-after?sort=price_a	
+		185	
+	https://www.kayak.com/flights/NYC-CPH/2020-09-04-flexible-1day-after?sort=price_a	
 	
 LON, ATH
 	https://www.kayak.com/flights/YYZ-LON/2020-09-04-flexible-1day-after?sort=price_a
+		385
 	https://www.kayak.com/flights/YYZ-ATH/2020-09-04-flexible-1day-after?sort=price_a
+		480
 	
 	https://www.kayak.com/flights/NYC-LON/2020-09-04-flexible-1day-after?sort=price_a
 	https://www.kayak.com/flights/NYC-ATH/2020-09-04-flexible-1day-after?sort=price_a
 
-FCO, MIL
-	https://www.kayak.com/flights/YYZ-FCO/2020-09-04-flexible-1day-after?sort=price_a
+MIL, FCO, VCE, ZRH, VIE
 	https://www.kayak.com/flights/YYZ-MIL/2020-09-04-flexible-1day-after?sort=price_a
-	
+		390 (435)
+	https://www.kayak.com/flights/YYZ-FCO/2020-09-04-flexible-1day-after?sort=price_a
+		475
+	https://www.kayak.com/flights/YYZ-VCE/2020-09-04-flexible-1day-after?sort=price_a
+		505
+	https://www.kayak.com/flights/YYZ-ZRH/2020-09-04-flexible-1day-after?sort=price_a
+		430
+	https://www.kayak.com/flights/YYZ-VIE/2020-09-04-flexible-1day-after?sort=price_a		
+		525
+		
 	https://www.kayak.com/flights/NYC-FCO/2020-09-04-flexible-1day-after?sort=price_a
-	https://www.kayak.com/flights/NYC-MIL/2020-09-04-flexible-1day-after?sort=price_a	
+	https://www.kayak.com/flights/NYC-MIL/2020-09-04-flexible-1day-after?sort=price_a
+		260 (350)
+	https://www.kayak.com/flights/NYC-ZRH/2020-09-04-flexible-1day-after?sort=price_a
+		260 (350)
+	https://www.kayak.com/cars/BUF-a3405/New-York,NY-c15830/2020-09-03/2020-09-04?sort=price_a
+		140
+	
 
-BUD, OTP, WAW, PRG
+BUD, OTP, KIV, PRG
 	https://www.kayak.com/flights/YYZ-BUD/2020-09-04-flexible-1day-after?sort=price_a
+		550
 	https://www.kayak.com/flights/YYZ-OTP/2020-09-04-flexible-1day-after?sort=price_a
-	https://www.kayak.com/flights/YYZ-WAW/2020-09-04-flexible-1day-after?sort=price_a
+		700
+	https://www.kayak.com/flights/YYZ-KIV/2020-09-04-flexible-1day-after?sort=price_a
+		700
 	https://www.kayak.com/flights/YYZ-PRG/2020-09-04-flexible-1day-after?sort=price_a
 	
 	https://www.kayak.com/flights/NYC-BUD/2020-09-04-flexible-1day-after?sort=price_a
 	https://www.kayak.com/flights/NYC-OTP/2020-09-04-flexible-1day-after?sort=price_a
-	https://www.kayak.com/flights/NYC-WAW/2020-09-04-flexible-1day-after?sort=price_a
+		440
+	https://www.kayak.com/flights/NYC-KIV/2020-09-04-flexible-1day-after?sort=price_a
+		660
 	https://www.kayak.com/flights/NYC-PRG/2020-09-04-flexible-1day-after?sort=price_a
 	
 LIS, OPO, BCN
 	https://www.kayak.com/flights/YYZ-LIS/2020-09-04-flexible-1day-after?sort=price_a
+		365
 	https://www.kayak.com/flights/YYZ-OPO/2020-09-04-flexible-1day-after?sort=price_a	
+		390
 	https://www.kayak.com/flights/YYZ-BCN/2020-09-04-flexible-1day-after?sort=price_a
+		390
 	
 	https://www.kayak.com/flights/NYC-LIS/2020-09-04-flexible-1day-after?sort=price_a
 	https://www.kayak.com/flights/NYC-OPO/2020-09-04-flexible-1day-after?sort=price_a	
 	https://www.kayak.com/flights/NYC-BCN/2020-09-04-flexible-1day-after?sort=price_a	
 	
-AMS, CDG
-	https://www.kayak.com/flights/YYZ-AMS/2020-09-04-flexible-1day-after?sort=price_a
-	https://www.kayak.com/flights/YYZ-CDG/2020-09-04-flexible-1day-after?sort=price_a
-	
-	https://www.kayak.com/flights/NYC-AMS/2020-09-04-flexible-1day-after?sort=price_a
-	https://www.kayak.com/flights/NYC-CDG/2020-09-04-flexible-1day-after?sort=price_a	
-	
 
 
 
 
 
+then to / from TLV, IST
 
-then to TLV, IST
+	OSL, BGO, ZRH
+		https://www.kayak.com/flights/OSL-TLV/2020-09-19-flexible?sort=price_a
+			165
+		https://www.kayak.com/flights/BGO-TLV/2020-09-19-flexible?sort=price_a
+			165
+		https://www.kayak.com/flights/ZRH-TLV/2020-09-19-flexible?sort=price_a
+			150
+		https://www.kayak.com/flights/MIL-TLV/2020-09-19-flexible?sort=price_a
+			105
+			
+		https://www.kayak.com/flights/OSL-IST/2020-09-19-flexible?sort=price_a
+			130
+		https://www.kayak.com/flights/BGO-IST/2020-09-19-flexible?sort=price_a
+			230
+		https://www.kayak.com/flights/ZRH-IST/2020-09-19-flexible?sort=price_a
+			110
+		https://www.kayak.com/flights/MIL-IST/2020-09-19-flexible?sort=price_a
+			100
+			
+			
+		https://www.kayak.com/flights/TLV-IST/2020-09-19-flexible?sort=price_a
+			105
+		https://www.kayak.com/flights/IST-TLV/2020-09-19-flexible?sort=price_a
+			105
 
 
-https://www.kayak.com/flights/CDG-TLV/2020-09-07-flexible-1day?sort=price_a
+	OSL, BGO, ZRH, MIL, LON
+		https://www.kayak.com/flights/TLV-OSL/2020-09-19-flexible?sort=price_a
+			195
+		https://www.kayak.com/flights/TLV-BGO/2020-09-19-flexible?sort=price_a
+			335
+		https://www.kayak.com/flights/TLV-ZRH/2020-09-19-flexible?sort=price_a
+			135	
+		https://www.kayak.com/flights/TLV-MIL/2020-09-19-flexible?sort=price_a
+			100
+		https://www.kayak.com/flights/TLV-LON/2020-09-19-flexible?sort=price_a
+			90
+		
+		
+		https://www.kayak.com/flights/IST-OSL/2020-09-19-flexible?sort=price_a
+			100
+		https://www.kayak.com/flights/IST-BGO/2020-09-19-flexible?sort=price_a
+			220
+		https://www.kayak.com/flights/IST-ZRH/2020-09-19-flexible?sort=price_a
+			100
+		https://www.kayak.com/flights/IST-MIL/2020-09-19-flexible?sort=price_a
+			90
+		https://www.kayak.com/flights/IST-LON/2020-09-19-flexible?sort=price_a
+			100
+
 
 
 
@@ -189,13 +280,88 @@ then to
 OSL, FNC, Madeira, Canary
 
 
+
+
+
+
+
+
+
 then to YYZ
 
+	TLV, IST
+		https://www.kayak.com/flights/TLV-YYZ/2020-09-28-flexible-1day?sort=price_a
+			670
+		https://www.kayak.com/flights/IST-YYZ/2020-09-28-flexible-1day?sort=price_a
+			470
+				
+	OSL, CPH
+		https://www.kayak.com/flights/OSL-YYZ/2020-09-28-flexible-1day?sort=price_a
+			420
+		https://www.kayak.com/flights/CPH-YYZ/2020-09-28-flexible-1day?sort=price_a
+			480
+		
+	LON, ATH
+		https://www.kayak.com/flights/LON-YYZ/2020-09-28-flexible-1day?sort=price_a
+			360
+		https://www.kayak.com/flights/ATH-YYZ/2020-09-28-flexible-1day?sort=price_a
+			670		
+
+	ZRH, MIL, FCO
+		https://www.kayak.com/flights/ZRH-YYZ/2020-09-28-flexible-1day?sort=price_a
+			490		
+		https://www.kayak.com/flights/MIL-YYZ/2020-09-28-flexible-1day?sort=price_a
+			495
+		https://www.kayak.com/flights/FCO-YYZ/2020-09-28-flexible-1day?sort=price_a
+			505			
+
+	OTP, KIV, BUD, PRG
+		https://www.kayak.com/flights/OTP-YYZ/2020-09-28-flexible-1day?sort=price_a
+			535
+		https://www.kayak.com/flights/KIV-YYZ/2020-09-28-flexible-1day?sort=price_a
+			805
+		https://www.kayak.com/flights/BUD-YYZ/2020-09-28-flexible-1day?sort=price_a
+			440			
+		https://www.kayak.com/flights/PRG-YYZ/2020-09-28-flexible-1day?sort=price_a
+			460	
+		
+	LIS, OPO, BCN
+		https://www.kayak.com/flights/LIS-YYZ/2020-09-28-flexible-1day?sort=price_a
+			450
+		https://www.kayak.com/flights/OPO-YYZ/2020-09-28-flexible-1day?sort=price_a	
+			460
+		https://www.kayak.com/flights/BCN-YYZ/2020-09-28-flexible-1day?sort=price_a			
+			480
+		
+
+	MOW
+		https://www.kayak.com/flights/MOW-YYZ/2020-10-19-flexible?sort=price_a
+			420
 
 
 
-https://www.kayak.com/flights/YYZ-LON/2020-09-04-flexible-1day-after?sort=price_a
-https://www.kayak.com/flights/LON-YYZ/2020-09-28-flexible-1day?sort=price_a
+
+YYZ-TLV-OSL-YYZ
+	450 + 200 + 420				1100 + 100
+YYZ-TLV-ZRH-YYZ
+	450 + 135 + 485				1100 + 100
+NYC-OSL-TLV-IST-YYZ
+	450 + 170 + 100 + 470		1200 + 200
+YYZ-ZRH-TLV-IST-YYZ
+	475 + 150 + 100 + 470		1200 + 200
+YYZ-ZRH-IST-YYZ
+	475 + 110 + 470				1100 + 100
+NYC-ZRH-IST-YYZ
+	350 + 110 + 470				1000 + 100
+
+
+
+
+
+
+
+
+
 
 
 ==========================================
