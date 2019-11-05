@@ -147,7 +147,7 @@ TLV, IST
 	
 OSL, CPH, RIX
 	https://www.kayak.com/flights/YYZ-OSL/2020-09-04-flexible-1day-after?sort=price_a
-		650
+		650 770
 	https://www.kayak.com/flights/YYZ-CPH/2020-09-04-flexible-1day-after?sort=price_a
 		470
 	https://www.kayak.com/flights/YYZ-RIX/2020-09-04-flexible-1day-after?sort=price_a
@@ -168,7 +168,10 @@ LON, ATH
 
 MIL, FCO, VCE, ZRH, VIE
 	https://www.kayak.com/flights/YYZ-MIL/2020-09-04-flexible-1day-after?sort=price_a
-		390 (435)
+		390 (435) = 825
+		Stopover	LIS 450 (500) = 950		OPO 470 (515) = 985
+		Car from MIL: 250 car drive + 350 car rent + ??? parking		1000 CAD
+		300 half-fare pass + 120 (60 MIL-Brig OW pp)
 	https://www.kayak.com/flights/YYZ-FCO/2020-09-04-flexible-1day-after?sort=price_a
 		475
 	https://www.kayak.com/flights/YYZ-VCE/2020-09-04-flexible-1day-after?sort=price_a
@@ -181,10 +184,17 @@ MIL, FCO, VCE, ZRH, VIE
 	https://www.kayak.com/flights/NYC-FCO/2020-09-04-flexible-1day-after?sort=price_a
 	https://www.kayak.com/flights/NYC-MIL/2020-09-04-flexible-1day-after?sort=price_a
 		260 (350)
+		Stopover	LIS 265 (345) = 610		OPO 285 (365) = 650		340 CAD less than from YYZ!!!
 	https://www.kayak.com/flights/NYC-ZRH/2020-09-04-flexible-1day-after?sort=price_a
 		260 (350)
+		
 	https://www.kayak.com/cars/BUF-a3405/New-York,NY-c15830/2020-09-03/2020-09-04?sort=price_a
 		140
+	https://www.ca.kayak.com/cars/MXP-a53596/2020-09-07-9h/2020-09-17-9h?sort=price_a
+		250-350
+	https://www.ca.kayak.com/cars/BGY-a53596/2020-09-07-9h/2020-09-17-9h?sort=price_a
+		250-350
+	
 	
 
 BUD, OTP, KIV, PRG
@@ -207,7 +217,7 @@ LIS, OPO, BCN
 	https://www.kayak.com/flights/YYZ-LIS/2020-09-04-flexible-1day-after?sort=price_a
 		365
 	https://www.kayak.com/flights/YYZ-OPO/2020-09-04-flexible-1day-after?sort=price_a	
-		390
+		390 (435) = 825
 	https://www.kayak.com/flights/YYZ-BCN/2020-09-04-flexible-1day-after?sort=price_a
 		390
 	
@@ -221,25 +231,28 @@ LIS, OPO, BCN
 
 
 then to / from TLV, IST
+	IZM, DLM, BJV, AYT
 
 	OSL, BGO, ZRH
-		https://www.kayak.com/flights/OSL-TLV/2020-09-19-flexible?sort=price_a
-			165
-		https://www.kayak.com/flights/BGO-TLV/2020-09-19-flexible?sort=price_a
-			165
-		https://www.kayak.com/flights/ZRH-TLV/2020-09-19-flexible?sort=price_a
-			150
-		https://www.kayak.com/flights/MIL-TLV/2020-09-19-flexible?sort=price_a
-			105
+		https://www.kayak.com/flights/OSL-TLV/2020-09-14-flexible?sort=price_a
+			165???
+		https://www.kayak.com/flights/BGO-TLV/2020-09-14-flexible?sort=price_a
+			165???
+		https://www.kayak.com/flights/ZRH-TLV/2020-09-14-flexible?sort=price_a
+			150 incl baggage
+		https://www.kayak.com/flights/MIL-TLV/2020-09-14-flexible?sort=price_a
+			105 incl baggage
 			
-		https://www.kayak.com/flights/OSL-IST/2020-09-19-flexible?sort=price_a
-			130
-		https://www.kayak.com/flights/BGO-IST/2020-09-19-flexible?sort=price_a
-			230
-		https://www.kayak.com/flights/ZRH-IST/2020-09-19-flexible?sort=price_a
+		https://www.kayak.com/flights/OSL-IST/2020-09-14-flexible?sort=price_a
+			130???
+		https://www.kayak.com/flights/BGO-IST/2020-09-14-flexible?sort=price_a
+			230???
+		https://www.kayak.com/flights/ZRH-IST/2020-09-14-flexible?sort=price_a
 			110
-		https://www.kayak.com/flights/MIL-IST/2020-09-19-flexible?sort=price_a
+			IZM 140, DLM 140, BJV 140, AYT 140		+	incl baggage
+		https://www.kayak.com/flights/MIL-IST/2020-09-14-flexible?sort=price_a
 			100
+			IZM 140, DLM 140, BJV 140, AYT 140		+	incl baggage
 			
 			
 		https://www.kayak.com/flights/TLV-IST/2020-09-19-flexible?sort=price_a
