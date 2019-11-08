@@ -580,11 +580,31 @@ end Jan - Feb - end Mar (Feb-beg Mar!!!)
 
 
 
-===================================
+================================================
+================================================
+================================================
 
-Sep 4-5 to Flores
-Sep 7-8 to PDL (2 days Flores + Corvo)
-Sep 14-15 to LPA
+
+
+Azores Plan
+
+
+Sep 30 leave YYZ + LIS stopover
+Sep 31-02 PDL
+Sep 02-05 Flores
+Sep 05-10 to PDL (2 days Flores + Corvo)
+Sep 10-11 to YYZ + LIS stopover
+
+
+
+================================================
+================================================
+================================================
+
+PDL
+
+
+
 
 Sep 4-8-15
 675 CAD
@@ -653,7 +673,12 @@ Coal Aqueduct
 
 
 
+================================================
+================================================
+================================================
 
+
+Flores
 
 
 
@@ -710,3 +735,231 @@ Tips
 	https://www.geekyexplorer.com/flores-azores-guide/
 	https://www.geekyexplorer.com/hiking-azores/
 	
+
+
+================================================
+================================================
+================================================
+
+	
+Flight to PDL	
+	
+	
+!!!
+https://book.flytap.com/air/TAPCA/Calendar.aspx?pageTrace=21&market=CA&_l=en&flightType=Return&origin=YYZ&destination=PDL&negotiatedFaresOnly=False&milesAndCash=0&maxConn=-1&depDate=30.03.2020&retDate=11.04.2020&adt=1&resident=&giftCode=&	
+
+https://book.flytap.com/air/TAPCA/MultiCity.aspx?market=CA&_l=en&requestID=5651538481535879489&flightType=OpenJaw&origin=YYZ&destination=LIS&origin1=LIS&destination1=PDL&origin2=PDL&destination2=YYZ&negotiatedFaresOnly=False&milesAndCash=0&maxConn=-1&depDate=28.03.2020&depDate1=31.03.2020&depDate2=11.04.2020&adt=1&resident=&giftCode=&
+
+
+
+VZ
+from BMO MD66ZN
+
+TB
+from BMO MAZI59
+
+
+
+================================================
+================================================
+================================================
+
+
+Flight to Flores
+
+
+75 EUR and 88 EUR
+https://booking.azoresairlines.pt/rzoweb/app/booking?lang=en
+
+
+
+PDL-FLW
+Flight SP 570
+09:00-11:00
+
+2h 00min
+1 Stop in HOR
+
+
+
+FLW-PDL
+Flight SP 503
+15:45-17:00
+
+1h 15min
+Non-stop
+
+OR
+
+Flight SP 571
+11:25-13:25
+
+2h 00min
+1 Stop in HOR
+
+
+
+Flores
+2-5		0.5 day + 2 full days + 0.5 day
+3-6
+4-7
+5-8
+6-9
+
+PDL
+1 + 6-11			0.5 day + 5 full days + 0.5 day
+1-2 + 7-11
+1-3 + 8-11
+1-4 + 9-11
+1-5 + 10-11
+
+
+
+
+================================================
+================================================
+================================================
+
+
+
+Flores Hotels
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB&sid=8197f1272ce9488d5b055d9f5b918000&tmpl=searchresults&ac_click_type=b&ac_position=1&checkin_month=4&checkin_monthday=2&checkin_year=2020&checkout_month=4&checkout_monthday=5&checkout_year=2020&class_interval=1&dest_id=3713&dest_type=region&from_sf=1&group_adults=2&group_children=0&label_click=undef&nflt=roomfacility%3D38%3Breview_score%3D80%3Boos%3D1%3Bfc%3D2%3B&no_rooms=1&raw_dest_type=region&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=e78f0bbfe9eb003b&ss=Flores%20Island%2C%20Portugal&ss_raw=flores&ssb=empty&ssne=Ponta%20Delgada&ssne_untouched=Ponta%20Delgada&top_ufis=1&order=price
+
+
+
+
+
+One by One
+
+2-5
+3-6
+Booked 2-5
+TB Review - NO
+https://www.booking.com/hotel/pt/alojamentos-flores-island.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB;sid=8197f1272ce9488d5b055d9f5b918000;all_sr_blocks=53873008_222129835_2_0_0;checkin=2020-04-02;checkout=2020-04-05;dest_id=3713;dest_type=region;dist=0;group_adults=2;group_children=0;hapos=2;highlighted_blocks=53873008_222129835_2_0_0;hpos=2;nflt=oos%3D1%3Breview_score%3D80%3Broomfacility%3D38%3Bfc%3D2%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1573094801;srpvid=78891388c75a0027;type=total;ucfs=1&#_
+
+
+
+All
+
+!!! - Taxes and service charges: 4 % VAT is included.  €25 Cleaning fee per stay is excluded. A City tax is not applicable
+Booked 2-5
+TB Review - MAYBE
+https://www.booking.com/hotel/pt/quinta-da-ana.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB;sid=8197f1272ce9488d5b055d9f5b918000;all_sr_blocks=324875501_216913307_2_0_0;bhgwe_cep=1;checkin=2020-04-06;checkout=2020-04-09;dest_id=3713;dest_type=region;dist=0;group_adults=2;group_children=0;hapos=7;highlighted_blocks=324875501_216913307_2_0_0;hpos=7;nflt=roomfacility%3D38%3Breview_score%3D80%3Boos%3D1%3Bfc%3D2%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1573094814;srpvid=641e138f39ed009e;type=total;ucfs=1&#_
+
+!!!, photo of heater
+TB Review - YES
+https://www.booking.com/hotel/pt/casa-avo-fraga.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB;sid=8197f1272ce9488d5b055d9f5b918000;all_sr_blocks=427389301_169723804_2_0_0;bhgwe_cep=1;checkin=2020-04-02;checkout=2020-04-05;dest_id=3713;dest_type=region;dist=0;group_adults=2;group_children=0;hapos=8;highlighted_blocks=427389301_169723804_2_0_0;hpos=8;nflt=roomfacility%3D38%3Breview_score%3D80%3Boos%3D1%3Bfc%3D2%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1573094814;srpvid=641e138f39ed009e;type=total;ucfs=1&#_
+
+!!! - beautiful
+TB Review - NO
+https://www.booking.com/hotel/pt/sitio-da-assumada-eco-turismo.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB;sid=8197f1272ce9488d5b055d9f5b918000;all_sr_blocks=124261502_103472025_2_0_0;bhgwe_cep=1;checkin=2020-04-02;checkout=2020-04-05;dest_id=3713;dest_type=region;dist=0;group_adults=2;group_children=0;hapos=9;highlighted_blocks=124261502_103472025_2_0_0;hpos=9;nflt=roomfacility%3D38%3Breview_score%3D80%3Boos%3D1%3Bfc%3D2%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1573094814;srpvid=641e138f39ed009e;type=total;ucfs=1&#_
+
+!!! - beautiful
+TB Review - NO
+https://www.booking.com/hotel/pt/aldeia-da-cuada-faja-grande.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB;sid=8197f1272ce9488d5b055d9f5b918000;all_sr_blocks=195978901_203100488_2_2_0;checkin=2020-04-02;checkout=2020-04-05;dest_id=3713;dest_type=region;dist=0;group_adults=2;group_children=0;hapos=11;highlighted_blocks=195978901_203100488_2_2_0;hpos=11;nflt=oos%3D1%3Breview_score%3D80%3Broomfacility%3D38%3Bfc%3D2%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1573094801;srpvid=78891388c75a0027;type=total;ucfs=1&#_
+
+
+
+San Miguel - wait for Genius Discount Nov 7: 394CAD NR, 438CAD R
+https://www.booking.com/hotel/pt/volcanic-charming-house.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB;sid=6e3a058bec6508af919a96fab904c3c4;all_sr_blocks=407820705_201314281_2_1_0;checkin=2020-04-06;checkout=2020-04-11;dest_id=-2174510;dest_type=city;dist=0;from_beach_key_ufi_sr=1;group_adults=2;group_children=0;hapos=1;highlighted_blocks=407820705_201314281_2_1_0;hpos=1;nflt=genius_benefits%3D0%3Bgenius_benefits%3D1%3Bgenius_benefits%3D2%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1573172341;srpvid=dd51023a152200fc;type=total;ucfac=102;ucfs=1&#_
+
+https://www.booking.com/hotel/pt/volcanic-charming-house.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB;sid=6e3a058bec6508af919a96fab904c3c4;all_sr_blocks=407820705_201314281_2_1_0;checkin=2020-04-02;checkout=2020-04-05;dest_id=-2174510;dest_type=city;dist=0;from_beach_key_ufi_sr=1;group_adults=2;group_children=0;hapos=1;highlighted_blocks=407820705_201314281_2_1_0;hpos=1;nflt=genius_benefits%3D0%3Bgenius_benefits%3D1%3Bgenius_benefits%3D2%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1573172341;srpvid=dd51023a152200fc;type=total;ucfac=102;ucfs=1&#_
+
+
+
+
+================================================
+================================================
+================================================
+
+
+Car Rent
+
+
+https://www.ca.kayak.com/cars/PDL-a8254/2020-03-31-23h/2020-04-11-17h?sort=price_a&fs=caragency=-ilhaverde
+https://magicislands.pt/en/
+https://flordonorte-rentacar.com/en/
+
+
+
+
+https://www.aeroportopontadelgada.pt/en/pdl/access-parking/for-your-full-comfort/car-rental
+
+
+
+
+!!!
+55 EUR + cleaning tax ??? EUR	NR
+Ford Fiesta
+https://magicislands.pt/en/
+
+
+?!
+48 EUR	NR
+Ford Fiesta
+https://www.goldcar.es/en/offices/goldcar-ponta-delgada-airport-office/
+
+
+!!!
+Agreggator
+150 EUR + including Out of hours	NR
+Fiat Punto from Luso
+https://www.discovercars.com
+
+Agreggator
+166 EUR + 30 EUR Out of hours with Full CDW	NR
+Fiat Punto from Luso
+https://www.zestcarrental.com
+
+185 EUR + 30 EUR Out of hours
+RENAULT CLIO 1.5 DCI or similar: OPEL CORSA, VW POLO
+132 EUR + 30 EUR Out of hours
+RENAULT CLIO 1.2 or similar Similars: VW POLO, OPEL CORSA, FORD FIESTA
+https://www.lusorentacar.com
+Normal business hours 08:01 - 19:59
+REE cancellation before 23:30 on March 29, 2020
+
+
+
+
+
+250 EUR
+https://www.thriftycanada.ca/book
+
+
+
+no results
+https://wayzor.pt/en
+https://www.guerin.pt/en
+
+Aggreggators
+https://www.economycarrentals.com/search
+
+Aggreggators Expensive
+https://www.azoresautos.com
+https://www.autocunha.net
+https://www.arguscarhire.com/
+
+
+
+================================================
+================================================
+================================================
+
+
+Car Rent Flores
+
+
+https://www.ca.kayak.com/cars/FLW-a52549/2020-04-02/2020-04-05?sort=price_a
+
+
+================================================
+================================================
+================================================
+
+
+SIM
+
+Vodaphone
