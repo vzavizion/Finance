@@ -138,7 +138,7 @@ TLV, IST
 	https://www.kayak.com/flights/YYZ-TLV/2020-09-04-flexible-1day-after?sort=price_a
 		550	450
 	https://www.kayak.com/flights/YYZ-IST/2020-09-04-flexible-1day-after?sort=price_a
-		660
+		660 580 520
 		
 	https://www.kayak.com/flights/NYC-TLV/2020-09-04-flexible-1day-after?sort=price_a
 		460
@@ -147,7 +147,7 @@ TLV, IST
 	
 OSL, CPH, RIX
 	https://www.kayak.com/flights/YYZ-OSL/2020-09-04-flexible-1day-after?sort=price_a
-		650 770
+		650 770 740 600
 	https://www.kayak.com/flights/YYZ-CPH/2020-09-04-flexible-1day-after?sort=price_a
 		470
 	https://www.kayak.com/flights/YYZ-RIX/2020-09-04-flexible-1day-after?sort=price_a
@@ -159,11 +159,12 @@ OSL, CPH, RIX
 	
 LON, ATH
 	https://www.kayak.com/flights/YYZ-LON/2020-09-04-flexible-1day-after?sort=price_a
-		385
+		370
 	https://www.kayak.com/flights/YYZ-ATH/2020-09-04-flexible-1day-after?sort=price_a
 		480
 	
 	https://www.kayak.com/flights/NYC-LON/2020-09-04-flexible-1day-after?sort=price_a
+		220
 	https://www.kayak.com/flights/NYC-ATH/2020-09-04-flexible-1day-after?sort=price_a
 
 MIL, FCO, VCE, ZRH, VIE
@@ -201,7 +202,7 @@ BUD, OTP, KIV, PRG
 	https://www.kayak.com/flights/YYZ-BUD/2020-09-04-flexible-1day-after?sort=price_a
 		550
 	https://www.kayak.com/flights/YYZ-OTP/2020-09-04-flexible-1day-after?sort=price_a
-		700
+		700 570
 	https://www.kayak.com/flights/YYZ-KIV/2020-09-04-flexible-1day-after?sort=price_a
 		700
 	https://www.kayak.com/flights/YYZ-PRG/2020-09-04-flexible-1day-after?sort=price_a
@@ -304,7 +305,7 @@ then to YYZ
 
 	TLV, IST
 		https://www.kayak.com/flights/TLV-YYZ/2020-09-28-flexible-1day?sort=price_a
-			670
+			670 540
 		https://www.kayak.com/flights/IST-YYZ/2020-09-28-flexible-1day?sort=price_a
 			470
 				
@@ -322,17 +323,17 @@ then to YYZ
 
 	ZRH, MIL, FCO
 		https://www.kayak.com/flights/ZRH-YYZ/2020-09-28-flexible-1day?sort=price_a
-			490		
+			490
 		https://www.kayak.com/flights/MIL-YYZ/2020-09-28-flexible-1day?sort=price_a
 			495
 		https://www.kayak.com/flights/FCO-YYZ/2020-09-28-flexible-1day?sort=price_a
-			505			
+			505 440			
 
 	OTP, KIV, BUD, PRG
 		https://www.kayak.com/flights/OTP-YYZ/2020-09-28-flexible-1day?sort=price_a
 			535
 		https://www.kayak.com/flights/KIV-YYZ/2020-09-28-flexible-1day?sort=price_a
-			805
+			805 630
 		https://www.kayak.com/flights/BUD-YYZ/2020-09-28-flexible-1day?sort=price_a
 			440			
 		https://www.kayak.com/flights/PRG-YYZ/2020-09-28-flexible-1day?sort=price_a
@@ -878,11 +879,7 @@ https://www.booking.com/hotel/pt/volcanic-charming-house.en-gb.html?aid=304142;l
 Car Rent
 
 
-https://www.ca.kayak.com/cars/PDL-a8254/2020-03-31-23h/2020-04-11-17h?sort=price_a&fs=caragency=-ilhaverde
-https://magicislands.pt/en/
-https://flordonorte-rentacar.com/en/
-
-
+https://www.ca.kayak.com/cars/PDL-a8254/2020-03-31-23h/2020-04-11-17h?sort=price_a&fs=caragency=-micauto,ilhaverde,2rent,rhodium
 
 
 https://www.aeroportopontadelgada.pt/en/pdl/access-parking/for-your-full-comfort/car-rental
@@ -904,9 +901,14 @@ https://www.goldcar.es/en/offices/goldcar-ponta-delgada-airport-office/
 
 !!!
 Agreggator
-150 EUR + including Out of hours	NR
+148.25 EUR + including Out of hours	NR (31-11)		109.65 EUR + including Out of hours	NR (05-11)
 Fiat Punto from Luso
 https://www.discovercars.com
+
+Agreggator
+166 EUR + including Out of hours	NR
+Fiat Punto from Luso
+https://www.carflexi.com
 
 Agreggator
 166 EUR + 30 EUR Out of hours with Full CDW	NR
@@ -927,8 +929,8 @@ REE cancellation before 23:30 on March 29, 2020
 
 250 EUR
 https://www.thriftycanada.ca/book
-
-
+270 EUR
+https://flordonorte-rentacar.com/en/
 
 no results
 https://wayzor.pt/en
@@ -952,7 +954,39 @@ https://www.arguscarhire.com/
 Car Rent Flores
 
 
-https://www.ca.kayak.com/cars/FLW-a52549/2020-04-02/2020-04-05?sort=price_a
+https://www.ca.kayak.com/cars/FLW-a52549/2020-04-02/2020-04-05?sort=price_a&fs=caragency=-ilhaverde
+
+
+
+
+================================================
+================================================
+================================================
+
+
+PDL Airport Shuttle
+https://www.aeroportopontadelgada.pt/en/pdl/access-parking/getting-to-and-from-the-airport/public-transportation
+
+Bus ensures the connection between the main sites of Ponta Delgada
+	Av. Príncipe do Mónaco
+	Rua de Lisboa (Ilha Hostels and Suites)
+	Av. Infante Dom Henrique
+	Rua João Melo Abreu (Antillia Hotel)
+	Av. Dom João III
+	São Gonçalo
+	Antero de Quental
+	Ramalho
+
+Aerobus
+Operated by MiniBus, available every day of the week, from 5 a.m. to midnight
+Periodicity and departure frequency – every 40 minutes.
+
+Tickets can be purchased at the Airport kiosk every day of the week, between 7 a.m. and midnight, as well as on board the MiniBus, from 5 a.m. to midnight.
+
+Adult:
+One-way ticket: €4.50
+Round-trip ticket: €6.50
+
 
 
 ================================================
