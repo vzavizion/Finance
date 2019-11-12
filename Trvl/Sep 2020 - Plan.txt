@@ -113,19 +113,43 @@ https://www.kayak.com/explore/YYZ-2001893fr/20200201,20200229?tripdurationrange=
 =========
 
 
-
+Google Flights
 https://www.google.ca/flights#flt=YYZ.LON.2020-08-01*LON.YYZ.2020-08-30;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.BCN.2020-08-01*BCN.YYZ.2020-08-30;c:CAD;e:1;so:1;sd:1;t:f
 
 
+Explore
 https://www.kayak.com/explore/YYZ-EUcg/20200901,20200930?tripdurationrange=14,14
 Morocco???
 
 
-https://www.kayak.com/flights/YYZ-LON/2020-09-04-flexible-1day-after?sort=price_a
-https://www.kayak.com/flights/LON-YYZ/2020-09-28-flexible-1day?sort=price_a
 
+https://www.ca.kayak.com/flights/YYZ-MIL/2020-09-04-h/IST-YYZ/2020-09-28-h?sort=price_a	
+	870
+https://www.ca.kayak.com/flights/YYZ-MIL/2020-09-04-h/IST-YYZ/2020-09-29-h?sort=price_a
+	870
+https://www.ca.kayak.com/flights/NYC-MIL/2020-09-04-h/IST-YYZ/2020-09-28-h?sort=price_a	
+	???	
+https://www.ca.kayak.com/flights/NYC-MIL/2020-09-04-h/IST-YYZ/2020-09-29-h?sort=price_a
+	745
+		
+https://www.ca.kayak.com/flights/YYZ-ZRH/2020-09-04-h/IST-YYZ/2020-09-28-h?sort=price_a
+	???	
+https://www.ca.kayak.com/flights/YYZ-ZRH/2020-09-04-h/IST-YYZ/2020-09-29-h?sort=price_a
+	915
+https://www.ca.kayak.com/flights/NYC-ZRH/2020-09-04-h/IST-YYZ/2020-09-28-h?sort=price_a
+	???
+https://www.ca.kayak.com/flights/NYC-ZRH/2020-09-04-h/IST-YYZ/2020-09-29-h?sort=price_a
+	750
 
+https://www.ca.kayak.com/flights/YYZ-OSL/2020-09-04-h/TLV-YYZ/2020-09-28-h?sort=price_a
+	1220
+https://www.ca.kayak.com/flights/YYZ-OSL/2020-09-04-h/TLV-YYZ/2020-09-29-h?sort=price_a
+	1160
+https://www.ca.kayak.com/flights/NYC-OSL/2020-09-04-h/TLV-YYZ/2020-09-28-h?sort=price_a
+	975
+https://www.ca.kayak.com/flights/NYC-OSL/2020-09-04-h/TLV-YYZ/2020-09-29-h?sort=price_a
+	840
 
 
 
@@ -305,8 +329,10 @@ then to YYZ
 
 	TLV, IST
 		https://www.kayak.com/flights/TLV-YYZ/2020-09-28-flexible-1day?sort=price_a
+		https://www.google.com/flights?hl=en#flt=TLV.YYZ.2020-09-28;c:CAD;e:1;so:1;sd:1;t:f;tt:o
 			670 540
 		https://www.kayak.com/flights/IST-YYZ/2020-09-28-flexible-1day?sort=price_a
+		https://www.google.com/flights?hl=en#flt=/m/09949m.YYZ.2020-09-28;c:CAD;e:1;so:1;sd:1;t:f;tt:o
 			470
 				
 	OSL, CPH
@@ -325,7 +351,7 @@ then to YYZ
 		https://www.kayak.com/flights/ZRH-YYZ/2020-09-28-flexible-1day?sort=price_a
 			490
 		https://www.kayak.com/flights/MIL-YYZ/2020-09-28-flexible-1day?sort=price_a
-			495
+			495 515
 		https://www.kayak.com/flights/FCO-YYZ/2020-09-28-flexible-1day?sort=price_a
 			505 440			
 
@@ -633,8 +659,12 @@ https://en.wikivoyage.org/wiki/S%C3%A3o_Miguel
 Lagoa do Fogo 
 
 Ponta da Ferraria, ocean-side swimming spot that is heated by geothermal activity
+	Spa and bathing site with therapeutic water springs that have been used since the fifteenth century.
 
 Sete Cidades – massive volcanic crater
+
+	One of the 7 Natural Wonders of Portugal, it showcases the Green and Blue Lakes, which according to legend, were formed from the tears of a shepherd and a princess who shared a forbidden love. These lakes can be seen from the Vista do Rei (King’s View) Lookout, named after King D. Carlos and Queen D. Amélia to celebrate their visit to the island in 1901
+
 	Visto do Rei aka Kings View
 		Lagoa Azul 
 		Lagoa Verde
@@ -644,33 +674,83 @@ Sete Cidades – massive volcanic crater
 		Lagoa do Santiago 
 		Lagoa Rasa
 		
+	Geoturism / Geolocation
+		Sete Cidades Volcano Caldera
+			Collapsed caldera featuring the largest fresh surface water reservoir of the Azores
+	Cycling and mountain biking
+		Sete Cidades Summit (Cumeeiras)
+		
 Lagoa do Canário
 
 tea plantations in Gorreana
+	São Miguel is the only place in Europe where tea is produced. The first seeds (Camelia sinensis) arrived at the end of the nineteenth century, along with experts who came to teach the various phases of production. The different varieties of tea depend upon the maturity of the leaves used and upon the manufacturing process.
 
 1 day
 	Farol Do Arnel 
 	Vista dos Barcos 
 	Miradouro da Ponta do Sossego 
+		prime locations to see the sun rising
 	Miradouro da Ponta da Madrugada
+		prime locations to see the sun rising
 	Faial da Terra
 		Salto do Prego
-	hot springs in Caldeiras 
-	Lagoa das Furnas
+	hot springs in Caldeiras aka Parque Natural da Ribeira dos Caldeirões
+	Lagoa das Furnas - nature reserve since 1974, this crater lake reaches a maximum depth of 30 metres.
+		30 different water springs, highly important for their mineral and medicinal properties. These waters have been used since the seventeenth century.
+		Caldera
+			Complex that features secondary volcanic activity.
+		Cycling and mountain biking		
+		Canoeing and kayaking
 
 hiking
 	Água D’Alto Beach to Fogo Lake - circular trail that takes about 4 hours to hike
+		Praia – Lagoa do Fogo
+			Splendid view over the south coast with many samples of endemic vegetation.
 	Faial da Terra/Salto do Prego - trail in the most remote area. It snakes through a dense forest and majestic lush hills, leading to a stunning waterfall hidden in the forest. Swim in the freezing cold water
 	Serra Devassa - 5-kilometer circular trail from Lagoa do Canário
+		
+	Pico da Vela
+		NOT FOUND ON MAP
+	Ribeira Funda (Maia)
+		On the north coast amidst streams flanked by watermills
+		NOT FOUND ON MAP
 
 Natural hot springs
 	Centro de Interpretação Ambiental da Caldeira Velha
+		waterfall of warm, iron water where you can take a dip, it is located on the north slope of the Fogo Volcano
 	Poça da Dona Beija
-	Terra Nosta Botanical Garden
+	Terra Nostra Botanical Garden - one of the most beautiful gardens in Europe, it features a thermal swimming pool and more than 2,000 different trees 
+
+
+Gardens
+	Romantic Gardens
+		Dating back to the nineteenth century, they include the António Borges Garden, named after the greatest Azorean landscape architect, and the José do Canto Garden, which has rare collections of plants.
+
+
+Canoeing and kayaking
+	Vila Franca do Campo Islet
+		nature reserve located approximately one km away from the coast, it features a salt water inlet inside. A popular spot for visitors during the summer
+
+
+Beach
+	Ribeira Quente Village - small fishing village with traditional fishing boats and a sheltered beach.
+	
+	
+Ponta Delgada
+	PORTAS DA CIDADE DE PONTA DELGADA (1783)
+		The gates marked the city’s entry point. They were removed from their original location due to the construction of the Avenida Infante D. Henrique (Prince Henry Avenue) and were placed where they now stand in 1952.
+	IGREJA MATRIZ DE SÃO SEBASTIÃO (16TH CENTURY)
+		Mother church with late gothic features, its façade was built according to the Portuguese Manueline style, with some baroque elements being introduced later during the eighteenth century.
+	FORTE SÃO BRÁS (16TH CENTURY)
+		This is the biggest fortress on the island and it protected it against the invasions of pirates and privateers. Presently, it is the headquarters of the Military Command of the Azores and it includes the Military Museum of the Azores.
+	
+	
+PINEAPPLE PLANTATIONS
+	The pineapple of São Miguel (Ananas comosus L.) was originally introduced as an ornamental plant, with its industrial production only starting in the mid nineteenth century. It grows in glass greenhouses, taking approximately two years to ripen and be ready to harvest.	
 
 ???
 Coal Aqueduct 
-
+Lagoa do Congro - Lake on the bottom of a crater formed after a phreatic (or ultravulcanian) eruption
 
 
 
@@ -686,18 +766,22 @@ Flores
 2-3 days (+1 day for Corvo)
 https://en.wikivoyage.org/wiki/Flores_(Azores)
 
-seven lagoons
+seven lagoons aka Sete Lagoas
 	most photogenic
 		Rasa and Funda (side by side) 
+			Expulsion craters (maars) associated with hydromagmatic eruptions.
 		Negra and Comprida (also side by side)
 	other
 		Lomba, Branca, Seca
+		
+	Located inside the caldera of Flores, the names of these seven lakes are connected to their features and to the lands- cape: Deep, White, Dry, Long, Shallow, Crest and Black Lake. The latter is 100 metres deep.
 		
 Poça das Patas – some call it the 8th lagoon but not of volcanic origin. This lake is the result of dozens of waterfalls streaming down luscious-green slopes. It takes a bit of hiking to get there, but it’s worth it
 
 Poço da Ribeira do Ferreiro 
 
 Rocha dos Bordões – the one-of-a-kind rock formation, the postcard-perfect most photographed natural landscape on the island (besides the lagoons)
+	Columnar basalt formation that resulted from a thermal shock during the solidification of the lava
 
 20+ viewpoints in the island
 	Ponta da Caveira
@@ -710,16 +794,32 @@ Rocha dos Bordões – the one-of-a-kind rock formation, the postcard-perfect mo
 beaches
 	Lajes beach – ideal for beach-goers who are looking for a more “Azorean style” place to go for a swim (black sand, rugged basalt rocks, and a little rougher waves)
 	Fajã Grande beach – resort-like beach (although, technically, this is not a beach) where you can choose to swim or just drop by to have a couple of cold drinks in the sun, at the nearby bar and café
+		Cycling and mountain biking
+		Canoeing and kayaking
 	Poço do Bacalhau – the only lagoon and waterfall where you can actually swim (keep in mind that the water is a bit colder than the Ocean, even in summers)
+		Located in Fajã Grande, this is a small pool at the bottom of a 90-metre high waterfall, where it is possible to swim
 	Fajã do Conde – for the adventurous, hike all the way down for a semi-secluded swim
 	
 Aguas Quentes - small hot sulfur springs
 
 Gruta dos Enxaréus - visible only by boat, the grotto is the largest of the myriad caves that open at the base of the promontory "La Caveira", about 3 km south of the capital
+
+Fajãzinha
+	A small fajã from where one can see about twenty waterfalls, the biggest of which drops for 300 metres.
+	
+hiking	
+	PONTA DELGADA – FAJÃ GRANDE
+		A trail that runs along the coastline affording a view over the Maria Vaz Islet and the island of Corvo.	
+	FAJÃ DE LOPO VAZ
+		A circular trail where you’ll often come across wild goats whilst walking.
+	LAJEDO – FAJÃ GRANDE
+		A trail that passes through the Seca and Branca Lakes, both sites of community interest.
 	
 ???
 Aldeia da Cuada – abandoned houses now transformed into cozy accommodation units
 Forest Reserve of Fazenda de Santa Cruz
+Fajã de Lopo Vaz
+	Named after one of the first settlers, this was probably the first place to be inhabited on this island. There are some wild goats in this fajã.
 
 Corvo Island
 	Caldeirão lagoon
@@ -995,5 +1095,9 @@ Round-trip ticket: €6.50
 
 
 SIM
-
 Vodaphone
+
+
+
+Weather
+http://www.spotazores.com/
