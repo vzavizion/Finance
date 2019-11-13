@@ -655,11 +655,22 @@ https://www.kayak.com/flights/LPA-LIS/2020-09-24-h/LIS-MOW/2020-09-28-h?sort=pri
 
 6-7 days (4-5 days for must sees)
 https://en.wikivoyage.org/wiki/S%C3%A3o_Miguel
+https://www.wikiloc.com/trails/outdoor/portugal/azores/sao-miguel-arcanjo
+http://parquesnaturais.azores.gov.pt/en/smiguel-eng/what-visit/trails
 
 Lagoa do Fogo 
 
 Ponta da Ferraria, ocean-side swimming spot that is heated by geothermal activity
-	Spa and bathing site with therapeutic water springs that have been used since the fifteenth century.
+	Spa and bathing site with therapeutic water springs that have been used since the fifteenth century
+	
+	hiking
+		? - linear
+		Pico das Camarinhas - Ponta da Ferraria			
+			5km RT
+			2,5 hrs RT
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/pico-das-camarinhas-ponta-da-ferraria
+			http://trails.visitazores.com/sites/default/files/flyer_prc_43_smi_-_pico_das_camarinhas-ponta_da_ferraria_-_cpia.pdf
+	
 
 Sete Cidades – massive volcanic crater
 
@@ -674,6 +685,34 @@ Sete Cidades – massive volcanic crater
 		Lagoa do Santiago 
 		Lagoa Rasa
 		
+	hiking
+		!? - circular
+			Serra Devassa
+				trail from Lagoa do Canário		
+				5 km
+				2 hrs
+				http://trails.visitazores.com/en/trails-azores/sao-Miguel/serra-devassa
+				http://trails.visitazores.com/sites/default/files/prc_05_smi_-_serra_devassa_nova_versao_0.pdf	
+				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+					page 45				
+	
+		!? - linear
+			Vista do Rei - Sete Cidades
+				8 km RT
+				2 hrs RT			
+				http://trails.visitazores.com/en/trails-azores/sao-miguel/vista-do-rei-sete-cidades
+				http://trails.visitazores.com/sites/default/files/flyer_pr_03_smi_-_vista_do_rei_0.pdf
+				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+					page 37
+		
+			Mata do Canário
+				12 km RT
+				3 hrs RT
+				http://trails.visitazores.com/en/trails-azores/sao-miguel/mata-do-canario-sete-cidades
+				http://trails.visitazores.com/sites/default/files/pr_04_smi_-_mata_do_canario_nova_versao_0.pdf
+				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+					page 41				
+		
 	Geoturism / Geolocation
 		Sete Cidades Volcano Caldera
 			Collapsed caldera featuring the largest fresh surface water reservoir of the Azores
@@ -681,21 +720,38 @@ Sete Cidades – massive volcanic crater
 		Sete Cidades Summit (Cumeeiras)
 		
 Lagoa do Canário
+	Canário Lake occupies the area that coincides with the caldera of the crater lake of the same name
 
 tea plantations in Gorreana
 	São Miguel is the only place in Europe where tea is produced. The first seeds (Camelia sinensis) arrived at the end of the nineteenth century, along with experts who came to teach the various phases of production. The different varieties of tea depend upon the maturity of the leaves used and upon the manufacturing process.
 
-1 day
+1 day - Nordeste
 	Farol Do Arnel 
 	Vista dos Barcos 
 	Miradouro da Ponta do Sossego 
 		prime locations to see the sun rising
+		the most iconic of viewing points of Nordeste. The gardened area covers about 13,000 m2 distributed in terraces located at different altitudes
 	Miradouro da Ponta da Madrugada
 		prime locations to see the sun rising
-	Faial da Terra
-		Salto do Prego
 	hot springs in Caldeiras aka Parque Natural da Ribeira dos Caldeirões
+		set of water mills and paths
 	Lagoa das Furnas - nature reserve since 1974, this crater lake reaches a maximum depth of 30 metres.
+		hiking
+			Lagoa das Furnas
+				circular
+				9.5 km
+				3 hrs
+				http://trails.visitazores.com/en/trails-azores/sao-miguel/furnas
+				http://trails.visitazores.com/sites/default/files/prc_06_smi_-_lagoa_das_furnas_nova_versao_3.pdf
+				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+					page 49					
+			Grená - Pico do Ferro
+				circular
+				6.5 km
+				3 hrs			
+				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+					page 73
+					
 		30 different water springs, highly important for their mineral and medicinal properties. These waters have been used since the seventeenth century.
 		Caldera
 			Complex that features secondary volcanic activity.
@@ -703,37 +759,156 @@ tea plantations in Gorreana
 		Canoeing and kayaking
 
 hiking
-	Água D’Alto Beach to Fogo Lake - circular trail that takes about 4 hours to hike
-		Praia – Lagoa do Fogo
-			Splendid view over the south coast with many samples of endemic vegetation.
-	Faial da Terra/Salto do Prego - trail in the most remote area. It snakes through a dense forest and majestic lush hills, leading to a stunning waterfall hidden in the forest. Swim in the freezing cold water
-	Serra Devassa - 5-kilometer circular trail from Lagoa do Canário
+	Praia – Lagoa do Fogo aka Água D’Alto Beach to Fogo Lake
+		Splendid view over the south coast with many samples of endemic vegetation			
+		37.727736, -25.471500
+		circular
+		11 km
+		4 hrs
+		http://trails.visitazores.com/en/trails-azores/sao-miguel/praia-lagoa-do-fogo
+		http://trails.visitazores.com/sites/default/files/prc_02_smi_-_lagoa_do_fogo_nova_versao_4.pdf
+		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+			page 33
+			
+	Faial da Terra - Salto do Prego
+		trail in the most remote area. It snakes through a dense forest and majestic lush hills, leading to a stunning waterfall hidden in the forest. Swim in the freezing cold water
+		linear
+		4.5 km RT
+		2 hrs RT
+		http://trails.visitazores.com/en/trails-Azores/sao-Miguel/faial-da-terra-salto-do-prego		
+		http://trails.visitazores.com/sites/default/files/prc_09_smi_-_sanguinho_nova_versao_0.pdf		
+		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+			page 55		
 		
-	Pico da Vela
-		NOT FOUND ON MAP
-	Ribeira Funda (Maia)
-		On the north coast amidst streams flanked by watermills
-		NOT FOUND ON MAP
+	Pico da Vara
+		linear
+		7 km RT
+		3 hrs RT
+		http://trails.visitazores.com/en/trails-azores/sao-miguel/pico-da-vara
+		http://trails.visitazores.com/sites/default/files/prc_07_smi_-_pico_da_vara_nova_versao_1.pdf
+		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+			page 53		
+		
+	Rota da Água - Janela do Inferno		
+		circular
+		7.5 km
+		2.5 hrs	
+		http://trails.visitazores.com/en/trails-azores/sao-miguel/rota-da-agua-janela-do-inferno
+		http://trails.visitazores.com/sites/default/files/prc_37_smi_-_rota_da_agua_nova_versao_2.pdf
+		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+			page 111		
+		
+	!? - circular
+		Caldeiras da Ribeira Grande - Salto do Cabrito
+			7.5 km
+			2.5 hrs
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/caldeiras-da-ribeira-grande-salto-do-cabrito
+			http://trails.visitazores.com/sites/default/files/prc_29_smi_-_salto_do_cabrito_nova_versao_0.pdf			
+			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+				page 87			
+			
+		Rocha da Relva
+			5.5 km
+			3 hrs		
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/rocha-da-relva
+			http://trails.visitazores.com/sites/default/files/prc_20_smi_-_rocha_da_relva_nova_versao_2.pdf
+			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+				page 65			
+			
+	!? - linear
+		Padrão das Alminhas - Salto da Farinha
+			linear
+			5 km RT
+			2 hrs RT	
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/padrao-das-alminhas-salto-da-farinha
+			http://trails.visitazores.com/sites/default/files/flyer_pr_21_smi_-_pooo_azul.pdf	
+			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+				page 69			
+	
+		Ribeira do Faial da Terra	
+			6 km RT
+			2 hrs RT		
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/ribeira-do-faial-da-terra				
+			http://trails.visitazores.com/sites/default/files/pr_11_smi_-_ribeira_do_faial_da_terra_nova_versao_0.pdf		
+			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+				page 59
+			
+			
+	
+	
+	? - circular			
+		Chá Gorreana
+			3.5 km
+			1.5 hrs
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/cha-gorreana
+			http://trails.visitazores.com/sites/default/files/prc_28_smi_-_gorreana_nova_versao_0.pdf						
+			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+				page 83
+			
+		Pedra Queimada
+			6.5 km
+			2.5 hrs
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/pedra-queimada-lajinha-degredo
+			http://trails.visitazores.com/sites/default/files/prc_36_smi_-_pedra_queimada_nova_versao_0.pdf
+			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+				page 107
+			
+	? - linear	
+		Agrião trail
+			7.5 km RT
+			3 hrs RT
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/agriao		
+			http://trails.visitazores.com/sites/default/files/pr_12_smi_-_agriao_0.pdf
+			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+				page 63			
+		
+		Praia da Viola 
+			5 km RT
+			2 hrs RT
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/praia-da-viola
+			http://trails.visitazores.com/sites/default/files/flyer_pr_27_smi_-_praia_da_viola_nova_versao_0.pdf
+			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+				page 79
+			
+		Rota da Água
+			15 km RT
+			5 hrs RT				
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/rota-da-agua-entre-tuneis-e-condutas			
+			http://trails.visitazores.com/sites/default/files/flyer_pr_42_smi_-_rota_da_ugua-entre_tneis_e_condutas.pdf
+			
+		Rota da Água, Pedras Brancas
+			5 km RT
+			2 hrs RT		
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/rota-da-agua-pedras-brancas
+			http://trails.visitazores.com/sites/default/files/flyer_pr_41_smi_-_rota_da_ugua-pedras_brancas.pdf			
+
+
 
 Natural hot springs
-	Centro de Interpretação Ambiental da Caldeira Velha
+	Caldeira Velha
 		waterfall of warm, iron water where you can take a dip, it is located on the north slope of the Fogo Volcano
 	Poça da Dona Beija
-	Terra Nostra Botanical Garden - one of the most beautiful gardens in Europe, it features a thermal swimming pool and more than 2,000 different trees 
+	Terra Nostra Botanical Garden
+		one of the most beautiful gardens in Europe, it features a thermal swimming pool and more than 2,000 different trees 
 
 
 Gardens
-	Romantic Gardens
+	Romantic Gardens aka Antonio Borges Garden
 		Dating back to the nineteenth century, they include the António Borges Garden, named after the greatest Azorean landscape architect, and the José do Canto Garden, which has rare collections of plants.
 
 
 Canoeing and kayaking
 	Vila Franca do Campo Islet
-		nature reserve located approximately one km away from the coast, it features a salt water inlet inside. A popular spot for visitors during the summer
+		nature reserve located approximately 1 km away from the coast, it features a salt water inlet inside. A popular spot for visitors during the summer
 
 
 Beach
 	Ribeira Quente Village - small fishing village with traditional fishing boats and a sheltered beach.
+		 Fogo Beach is formed by a stretch of sand in a bay where there are several submarine hydrothermal vents. This makes the seawater warm, an unusual event that contributes to make this beach quite popular.
+	Água d'Alto Beach
+		considered one of the best beaches on the island of São Miguel. This beach combines key attributes such as its wide stretch of sand and the clean and calm waters of the sea
+	Mosteiros
+		tidal pools - bounded by rock structures forming natural pools, this bathing area is located in the parish of Mosteiros on the north coast of the island of São Miguel and forms the northern boundary of the parish.
 	
 	
 Ponta Delgada
@@ -743,10 +918,22 @@ Ponta Delgada
 		Mother church with late gothic features, its façade was built according to the Portuguese Manueline style, with some baroque elements being introduced later during the eighteenth century.
 	FORTE SÃO BRÁS (16TH CENTURY)
 		This is the biggest fortress on the island and it protected it against the invasions of pirates and privateers. Presently, it is the headquarters of the Military Command of the Azores and it includes the Military Museum of the Azores.
+	DUQUE DE BRAGANÇA PROMENADE
+		Located in the city centre, the Duque de Bragança Promenade, popularly known as Relvão, is one of the green spaces of Ponta Delgada. It is normally used for recreational activities and various outdoor events
+	JOSÉ DO CANTO GARDEN
+		opened to the public daily despite being a private garden.
+	MILÍCIAS BEACH
+		one of the most famous beaches due to its volcanic features, including its dark sand, typical of the island, and the entire surroundings that are cared for. The sea is relatively calm and pleasant and the beach is easily accessed.
+
+
+		
 	
 	
 PINEAPPLE PLANTATIONS
 	The pineapple of São Miguel (Ananas comosus L.) was originally introduced as an ornamental plant, with its industrial production only starting in the mid nineteenth century. It grows in glass greenhouses, taking approximately two years to ripen and be ready to harvest.	
+	
+	Quinta Augusto Arruda
+		Consisting of a house, a garden, woods and pineapple greenhouses, it is an example of a rustic farmhouse that passed by the centuries adapting itself to the new productions and the trends of each time.
 
 ???
 Coal Aqueduct 
@@ -987,6 +1174,11 @@ https://www.aeroportopontadelgada.pt/en/pdl/access-parking/for-your-full-comfort
 
 
 
+Ask - how much
+	Cleaning Fee
+	Late night delivery
+
+
 !!!
 55 EUR + cleaning tax ??? EUR	NR
 Ford Fiesta
@@ -1101,3 +1293,31 @@ Vodaphone
 
 Weather
 http://www.spotazores.com/
+
+
+
+================================================
+================================================
+================================================
+
+
+Plan
+Sunrise 7:30 am
+Sunset 8:05 pm 
+
+Day 1
+	Nordeste + Pico da Vara + Faial da Terra + Thermal Springs Poça da Dona Beija	
+Day 2	
+	Parque Natural da Ribeira dos Caldeirões + Furnas + Thermal Springs Terra Nostra
+Day 3
+	Relax (tea, pineapple, mercado, etc)
+Day 4-5	
+	Praia - Lagoa do Fogo + Rota + Some other hiking + Thermal Springs Caldeira Velha
+Day 6
+	Relax (tea, pineapple, mercado, etc)
+Day 7-8
+	Rocha da Relva + Sete Cidades + Thermal Springs Ponta da Ferraria
+Day 9-10
+	Hiking
+Day 11
+	Relax (tea, pineapple, mercado, etc)
