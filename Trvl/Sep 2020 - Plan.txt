@@ -171,7 +171,8 @@ TLV, IST
 	
 OSL, CPH, RIX
 	https://www.kayak.com/flights/YYZ-OSL/2020-09-04-flexible-1day-after?sort=price_a
-		650 770 740 600
+	https://www.google.com/flights?hl=en#flt=YYZ.OSL.2020-09-04;c:CAD;e:1;so:1;sd:1;t:f;tt:o
+		650 770 740 600 540
 	https://www.kayak.com/flights/YYZ-CPH/2020-09-04-flexible-1day-after?sort=price_a
 		470
 	https://www.kayak.com/flights/YYZ-RIX/2020-09-04-flexible-1day-after?sort=price_a
@@ -183,6 +184,7 @@ OSL, CPH, RIX
 	
 LON, ATH
 	https://www.kayak.com/flights/YYZ-LON/2020-09-04-flexible-1day-after?sort=price_a
+	https://www.google.com/flights?hl=en#flt=YYZ./m/04jpl.2020-09-04;c:CAD;e:1;so:1;sd:1;t:f;tt:o
 		370
 	https://www.kayak.com/flights/YYZ-ATH/2020-09-04-flexible-1day-after?sort=price_a
 		480
@@ -193,6 +195,7 @@ LON, ATH
 
 MIL, FCO, VCE, ZRH, VIE
 	https://www.kayak.com/flights/YYZ-MIL/2020-09-04-flexible-1day-after?sort=price_a
+	https://www.google.com/flights?hl=en#flt=YYZ.MIL.2020-09-04;c:CAD;e:1;so:1;sd:1;t:f;tt:o
 		390 (435) = 825
 		Stopover	LIS 450 (500) = 950		OPO 470 (515) = 985
 		Car from MIL: 250 car drive + 350 car rent + ??? parking		1000 CAD
@@ -202,6 +205,7 @@ MIL, FCO, VCE, ZRH, VIE
 	https://www.kayak.com/flights/YYZ-VCE/2020-09-04-flexible-1day-after?sort=price_a
 		505
 	https://www.kayak.com/flights/YYZ-ZRH/2020-09-04-flexible-1day-after?sort=price_a
+	https://www.google.com/flights?hl=en#flt=YYZ.ZRH.2020-09-04;c:CAD;e:1;so:1;sd:1;t:f;tt:o
 		430
 	https://www.kayak.com/flights/YYZ-VIE/2020-09-04-flexible-1day-after?sort=price_a		
 		525
@@ -686,6 +690,8 @@ Sete Cidades – massive volcanic crater
 		Lagoa Rasa
 		
 	hiking
+		https://www.wikiloc.com/wikiloc/map.do?lt=37.8472&ln=-25.7719&z=13&k=1&event=map
+		
 		!? - circular
 			Serra Devassa
 				trail from Lagoa do Canário		
@@ -704,6 +710,8 @@ Sete Cidades – massive volcanic crater
 				http://trails.visitazores.com/sites/default/files/flyer_pr_03_smi_-_vista_do_rei_0.pdf
 				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
 					page 37
+				https://www.wikiloc.com/hiking-trails/sete-cidades-sao-miguel-azores-14109715	
+				
 		
 			Mata do Canário
 				12 km RT
@@ -759,6 +767,8 @@ tea plantations in Gorreana
 		Canoeing and kayaking
 
 hiking
+	https://www.wikiloc.com/trails/outdoor/portugal/azores?t=&d=&lfr=&lto=20&uom=mi&a=outdoor&months=&following=&since=&favorite-list=&q=Sao+MIguel%2C+Azores
+
 	Praia – Lagoa do Fogo aka Água D’Alto Beach to Fogo Lake
 		Splendid view over the south coast with many samples of endemic vegetation			
 		37.727736, -25.471500
@@ -798,7 +808,7 @@ hiking
 		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
 			page 111		
 		
-	!? - circular
+	!? - circular		many trails
 		Caldeiras da Ribeira Grande - Salto do Cabrito
 			7.5 km
 			2.5 hrs
