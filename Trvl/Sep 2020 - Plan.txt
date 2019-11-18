@@ -353,11 +353,11 @@ then to YYZ
 
 	ZRH, MIL, FCO
 		https://www.kayak.com/flights/ZRH-YYZ/2020-09-28-flexible-1day?sort=price_a
-			490
+			490 515 490			545 / 490 / 490			
 		https://www.kayak.com/flights/MIL-YYZ/2020-09-28-flexible-1day?sort=price_a
-			495 515
+			495 515 490			490 / 550 / 515
 		https://www.kayak.com/flights/FCO-YYZ/2020-09-28-flexible-1day?sort=price_a
-			505 440			
+			505 440	500
 
 	OTP, KIV, BUD, PRG
 		https://www.kayak.com/flights/OTP-YYZ/2020-09-28-flexible-1day?sort=price_a
@@ -377,6 +377,29 @@ then to YYZ
 		https://www.kayak.com/flights/BCN-YYZ/2020-09-28-flexible-1day?sort=price_a			
 			480
 		
+		
+		
+		
+		
+	ZRH, MIL
+		https://www.ca.kayak.com/flights/OPO-MIL/2020-09-17?sort=price_a
+			40
+		https://www.ca.kayak.com/flights/OPO-ZRH/2020-09-17?sort=price_a
+			40
+		
+		
+		
+	ZRH, MIL
+		https://www.kayak.com/flights/ZRH-YYZ/2020-09-28-flexible-1day?sort=price_a
+			490 515 490			545 / 490 / 490			
+		https://www.kayak.com/flights/MIL-YYZ/2020-09-28-flexible-1day?sort=price_a
+			495 515 490			490 / 550 / 515		
+		
+	ZRH, MIL
+		https://www.kayak.com/flights/ZRH-MOW/2020-09-28-flexible-1day?sort=price_a
+			165					165 / 165 / 240
+		https://www.kayak.com/flights/MXP-MOW/2020-09-28-flexible-1day?sort=price_a
+			180					225 / 150 / 190
 
 	MOW
 		https://www.kayak.com/flights/MOW-YYZ/2020-10-19-flexible?sort=price_a
@@ -663,6 +686,12 @@ https://www.wikiloc.com/trails/outdoor/portugal/azores/sao-miguel-arcanjo
 http://parquesnaturais.azores.gov.pt/en/smiguel-eng/what-visit/trails
 
 Lagoa do Fogo 
+	hiking
+		around the lake
+			https://www.wikiloc.com/hiking-trails/lagoa-do-fogo-s-miguel-acores-9180574
+		north of the lake
+			https://www.wikiloc.com/hiking-trails/lagoa-do-fogo-lado-norte-18441526
+	
 
 Ponta da Ferraria, ocean-side swimming spot that is heated by geothermal activity
 	Spa and bathing site with therapeutic water springs that have been used since the fifteenth century
@@ -692,6 +721,11 @@ Sete Cidades – massive volcanic crater
 	hiking
 		https://www.wikiloc.com/wikiloc/map.do?lt=37.8472&ln=-25.7719&z=13&k=1&event=map
 		
+		
+		! - circular
+			https://www.wikiloc.com/hiking-trails/lagos-sete-cidades-azores-23713579
+			https://www.wikiloc.com/hiking-trails/trilho-lagoa-das-sete-cidades-pr3-pr4-e-pr5-serra-devassa-10331964
+		
 		!? - circular
 			Serra Devassa
 				trail from Lagoa do Canário		
@@ -700,8 +734,9 @@ Sete Cidades – massive volcanic crater
 				http://trails.visitazores.com/en/trails-azores/sao-Miguel/serra-devassa
 				http://trails.visitazores.com/sites/default/files/prc_05_smi_-_serra_devassa_nova_versao_0.pdf	
 				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-					page 45				
-	
+					page 45
+				https://www.wikiloc.com/hiking-trails/pr5-smi-serra-devassa-e-grota-do-inferno-25122928
+					
 		!? - linear
 			Vista do Rei - Sete Cidades
 				8 km RT
@@ -710,8 +745,7 @@ Sete Cidades – massive volcanic crater
 				http://trails.visitazores.com/sites/default/files/flyer_pr_03_smi_-_vista_do_rei_0.pdf
 				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
 					page 37
-				https://www.wikiloc.com/hiking-trails/sete-cidades-sao-miguel-azores-14109715	
-				
+				https://www.wikiloc.com/hiking-trails/sete-cidades-sao-miguel-azores-14109715
 		
 			Mata do Canário
 				12 km RT
@@ -743,6 +777,7 @@ tea plantations in Gorreana
 		prime locations to see the sun rising
 	hot springs in Caldeiras aka Parque Natural da Ribeira dos Caldeirões
 		set of water mills and paths
+		https://www.wikiloc.com/walking-trails/parque-natural-da-ribeira-dos-caldeiroes-14003153
 	Lagoa das Furnas - nature reserve since 1974, this crater lake reaches a maximum depth of 30 metres.
 		hiking
 			Lagoa das Furnas
@@ -752,13 +787,24 @@ tea plantations in Gorreana
 				http://trails.visitazores.com/en/trails-azores/sao-miguel/furnas
 				http://trails.visitazores.com/sites/default/files/prc_06_smi_-_lagoa_das_furnas_nova_versao_3.pdf
 				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-					page 49					
+					page 49
+				https://www.wikiloc.com/hiking-trails/circular-lagoa-das-furnas-isla-de-sao-miguel-azores-13957805
+				https://www.wikiloc.com/hiking-trails/prc06-smi-lagoa-das-furnas-e-trilho-salto-do-rosal-30098611
+				https://www.wikiloc.com/hiking-trails/circular-a-lagoa-das-furnas-com-ascensao-ao-pico-do-ferro-s-miguel-acores-9190384
+				
 			Grená - Pico do Ferro
 				circular
 				6.5 km
 				3 hrs			
 				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
 					page 73
+				https://www.wikiloc.com/hiking-trails/prc22-smi-grena-pico-do-ferro-30111840
+				
+			Nordeste
+				https://www.wikiloc.com/hiking-trails/2014-05-19-smi-nordeste-prc31-lomba-fazenda-farol-arnel-7034374
+				https://www.wikiloc.com/hiking-trails/pr21smi-padrao-das-alminhas-salto-da-farinha-25141632
+				https://www.wikiloc.com/hiking-trails/nordeste-pedreira-faja-araujo-praia-lombo-gordo-miradouro-madrugada-miradouro-sossego-nordeste-16931342
+				
 					
 		30 different water springs, highly important for their mineral and medicinal properties. These waters have been used since the seventeenth century.
 		Caldera
@@ -779,6 +825,8 @@ hiking
 		http://trails.visitazores.com/sites/default/files/prc_02_smi_-_lagoa_do_fogo_nova_versao_4.pdf
 		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
 			page 33
+		https://www.wikiloc.com/hiking-trails/pr2-smi-praia-lagoa-do-fogo-10336193
+		https://www.wikiloc.com/hiking-trails/ribieria-cha-lagoa-do-fogo-agua-dalto-san-miguel-azores-23817331
 			
 	Faial da Terra - Salto do Prego
 		trail in the most remote area. It snakes through a dense forest and majestic lush hills, leading to a stunning waterfall hidden in the forest. Swim in the freezing cold water
@@ -788,7 +836,11 @@ hiking
 		http://trails.visitazores.com/en/trails-Azores/sao-Miguel/faial-da-terra-salto-do-prego		
 		http://trails.visitazores.com/sites/default/files/prc_09_smi_-_sanguinho_nova_versao_0.pdf		
 		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-			page 55		
+			page 55
+		https://www.wikiloc.com/hiking-trails/prc-9-faial-da-terra-salto-do-prego-sao-miguel-azores-18972493
+		https://www.wikiloc.com/hiking-trails/faial-da-terra-35867534
+		https://www.wikiloc.com/hiking-trails/pr9-smi-sanguinho-salto-do-prego-e-ida-ao-salto-do-cagarrao-25143025
+		https://www.wikiloc.com/hiking-trails/salto-do-prego-18719651
 		
 	Pico da Vara
 		linear
@@ -797,7 +849,10 @@ hiking
 		http://trails.visitazores.com/en/trails-azores/sao-miguel/pico-da-vara
 		http://trails.visitazores.com/sites/default/files/prc_07_smi_-_pico_da_vara_nova_versao_1.pdf
 		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-			page 53		
+			page 53
+		https://www.wikiloc.com/hiking-trails/pico-da-vara-sao-miguel-azores-9478330
+		https://www.wikiloc.com/hiking-trails/mirador-salto-do-cavalo-pico-da-vara-algarvia-28081819
+		https://www.wikiloc.com/hiking-trails/acores-pr-7-smi-pico-da-vara-2016-07-13-15120593
 		
 	Rota da Água - Janela do Inferno		
 		circular
@@ -807,6 +862,7 @@ hiking
 		http://trails.visitazores.com/sites/default/files/prc_37_smi_-_rota_da_agua_nova_versao_2.pdf
 		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
 			page 111		
+		https://www.wikiloc.com/hiking-trails/acores-prc-37-janela-do-inferno-rota-da-agua-2016-07-11-14950687
 		
 	!? - circular		many trails
 		Caldeiras da Ribeira Grande - Salto do Cabrito
@@ -816,6 +872,7 @@ hiking
 			http://trails.visitazores.com/sites/default/files/prc_29_smi_-_salto_do_cabrito_nova_versao_0.pdf			
 			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
 				page 87			
+			https://www.wikiloc.com/hiking-trails/pr29-smi-caldeiras-da-ribeira-grande-salto-do-cabrito-25122200
 			
 		Rocha da Relva
 			5.5 km
@@ -824,6 +881,7 @@ hiking
 			http://trails.visitazores.com/sites/default/files/prc_20_smi_-_rocha_da_relva_nova_versao_2.pdf
 			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
 				page 65			
+			https://www.wikiloc.com/walking-trails/rocha-da-relva-33860011
 			
 	!? - linear
 		Padrão das Alminhas - Salto da Farinha
