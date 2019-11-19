@@ -926,6 +926,10 @@ Swiss Half-Fare Card
 
 Swiss Rail Pass 
 
+Swiss Pass
+
+Swiss Saver Day Pass 
+
 
 
 Berner Oberland Regional Pass
@@ -986,15 +990,14 @@ Central Switzerland
 
 
 resorts like Weggis and Brunnen
-hike Mt Pilatus and Mt Rigi
-Zug has Kirschtorte (cherry cake) as rich as its residents and medieval heritage
-	
-	
-Central Switzerland Highlights
 
+hike Mt Pilatus and Mt Rigi
 Stanserhorn
+
+Zug has Kirschtorte (cherry cake) as rich as its residents and medieval heritage
+		
 superb museums in Schwyz
-Cruise Lake Lucerne 
+
 vertiginous Cliff Walk atop Mt Titlis 
 walking the Swiss Path around fjord-like Lake Uri
 Swiss Knife Valley Museum in Brunnen
@@ -1044,7 +1047,17 @@ Lucerne
 	Free guided tour ???
 	
 	Lake Lucerne boat trips 
+		www.lakelucerne.ch
+		
 		depart from the quays around Bahnhofplatz and Europaplatz
+		you can alight as often as you want.
+
+		passes
+			SGV day ticket costs
+				Sfr72
+			Swiss and Eurail passes are valid on scheduled boat trips
+			
+			Passes will also get you discounts on selected mountain railways and cable cars		
 
 	arrival
 		underground car park at the train station
@@ -1095,19 +1108,16 @@ Entlebuch
 
 
 
-Lake Lucerne
-Majestic peaks hunch conspiratorially around Vierwaldstättersee – which twists and turns as much as the tongue does when pronouncing it. Little wonder English speakers use the shorthand Lake Lucerne!
-To appreciate the views, ride up to Mt Pilatus, Mt Rigi or Stanserhorn. When the clouds peel away or you break through them, precipitous lookout points reveal a crumpled tapestry of green hillsides and shimmering cobalt waters below, with glaciated peaks beyond.
-Apart from its mountain viewpoints, the lake offers tucked-away resorts, all accessible by boat. The far eastern reach of Lake Lucerne – Lake Uri or Urnersee – is home to the Rütli Meadow, where the country was legendarily born.
-8Getting Around
-Boats operated by SGV (www.lakelucerne.ch), including some paddle-steamers, criss-cross Lake Lucerne daily throughout the year. Longer trips are relatively cheaper than short ones, and you can alight as often as you want.
-From Lucerne, destinations include Alpnachstad (one-way/return Sfr27/45, 1¾ hours), Weggis (one-way/return Sfr19.60/38, 50 minutes), Vitznau (one-way/return Sfr27/45, 1¼ hours), Brunnen (one-way/return Sfr39/63, 1¾ hours) and Flüelen (one-way/return Sfr46/72, 3¼ hours).
-An SGV day ticket costs Sfr72 for adults and Sfr36 for children. Swiss and Eurail passes are valid on scheduled boat trips, while InterRail entitles you to half-price tickets. Passes will also get you discounts on selected mountain railways and cable cars.
-Roads closely follow Lake Lucerne's shoreline most of the way around – excluding the stretch from Flüelen to Stansstad. Here, the A2 freeway ploughs a fairly straight line, sometimes underground and usually away from the water.
 
 Mt Pilatus
-Rearing above Lucerne from the southwest, Mt Pilatus (www.pilatus.ch) rose to fame in the 19th century when Wagner waxed lyrical about its Alpine vistas and Queen Victoria trotted up here on horseback. Legend has it that this 2132m peak was named after Pontius Pilate, whose corpse was thrown into a lake on its summit and whose restless ghost has haunted its heights ever since. Poltergeists aside, it’s more likely that the moniker derives from the Latin word pileatus, meaning cloud covered – as the mountain frequently is.
-From May to October, you can reach Mt Pilatus on a classic ‘golden round-trip’. Board a boat from Lucerne to Alpnachstad, then rise with the world’s steepest cog railway to Mt Pilatus. From the summit, cable cars bring you down to Kriens via Fräkmüntegg and Krienseregg, where bus 1 takes you back to Lucerne. The reverse route (Kriens–Pilatus–Alpnachstad–Lucerne) is also possible. The return trip costs Sfr97 (less with valid Swiss, Eurail or InterRail passes).
+	Legend has it that this 2132m peak was named after Pontius Pilate, whose corpse was thrown into a lake on its summit and whose restless ghost has haunted its heights ever since.
+
+	classic ‘golden round-trip’
+		board a boat from Lucerne to Alpnachstad, then rise with the world’s steepest cog railway to Mt Pilatus
+		from the summit, cable cars bring you down to Kriens via Fräkmüntegg and Krienseregg, where bus 1 takes you back to Lucerne
+		
+		return trip costs Sfr97 (less with valid Swiss, Eurail or InterRail passes)
+		
 For an above-the-treetops adventure in summer, head for Pilatus Seilpark (Rope Park; www.pilatus-seilpark.ch; adult/child Sfr27/20; h10am-5pm mid-Apr-mid-Oct) in Fräkmüntegg, where 11 head-spinning trails from high-wire bridges to tree climbs are graded according to difficulty. Fräkmüntegg is also the starting point for Switzerland’s longest summer toboggan run (adult/child Sfr8/6; h10am-5pm May-mid-Oct), a speedy 1.35km downhill ride.
 Mt Pilatus is fantastic for walking. Hikes include a steep, partially roped 2.8km scramble (June to September) from Fräkmüntegg to the summit, an easy 3.5km walk through forest and moor from Krienseregg to Fräkmüntegg, and the 1.5km trudge from Pilatus-Kulm to Tomlishorn, affording views that stretch as far as the Black Forest on a clear day. Climbers can tackle the dizzying Galtigentürme rock pillars or Holzwangflue’s gullies where ibex often roam.
 In winter, try sledging 6km through snowy woodlands from Fräkmüntegg to Kriens. A return ticket between Kriens and Fräkmüntegg by cable car costs Sfr40 for adults and Sfr20 for children. Free sledge hire is available at Fräkmüntegg station.
@@ -1282,6 +1292,11 @@ Tourist OfficeTOURIST INFORMATION
 Near the church; can help you find a bed in one of the town’s numerous hotels.
 8Getting There & Away
 Einsiedeln is in a rail cul-de-sac, so getting there usually involves changing trains. Trains to Lucerne (Sfr22.80, 1¼ hours) require a connection at Biberbrugg and/or Arth-Goldau. The most convenient connections to Zürich (Sfr20.80, 50 minutes) are via S-Bahn, with a change at Wädenswil.
+
+
+
+
+TB !!!
 Engelberg
 Pop 3989 / Elev 1050m
 Engelberg (literally ‘Angel Mountain’) attracts two kinds of pilgrims: those seeking spiritual enlightenment in its Benedictine monastery and those worshipping the virgin powder on its divine slopes. Framed by the glacial bulk of Mt Titlis and frosted peaks, it’s little wonder the scenery here features in many a Bollywood production. It’s a miracle that despite its deep snow, impeccable off-piste credentials and proximity to Lucerne, Engelberg remains lesser known than other resorts of its size. A blessing, some say.
