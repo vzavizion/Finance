@@ -248,9 +248,9 @@ Car Rent FNC
 		Sep 24
 														Lucerne + Engelberg + Fürenalp + Titlis
 		Sep 25
-														Bellinzona + Locarno + Val Verzasca
+														Bellinzona + Locarno + Val Verzasca + Val Maggia
 		Sep 26
-														Bellinzona + Locarno + Val Verzasca
+														Bellinzona + Locarno + Val Verzasca + Val Maggia
 		Sep 27
 														leave MXP
 		Sep 28
@@ -282,9 +282,6 @@ Car Rent FNC
 TO DO
 
 
-Clean emails and verify booking.com (with cancellation date) vs kayak
-
-
 Azores
 	Decide about Flores
 		what days to go (Apr 2-4 ???)
@@ -300,17 +297,16 @@ Azores
 		PDL
 		Flores
 	
-	
-Plane
-	to OPO
-	to MXP/ZRH
-	to YYZ - VZ + TB
 Car Rent
 	MXP/ZRH	
 Hotels
 	MXP/ZRH
 	live near sightseeings
+Clean emails and verify booking.com (with cancellation date) vs kayak
 
-Create plan for each day
-	OPO
-	MXP/ZRH		
+	
+Plane
+	to OPO
+	to MXP/ZRH
+	to YYZ - VZ + TB
+	
