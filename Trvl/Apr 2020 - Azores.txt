@@ -7,11 +7,108 @@
 Azores Plan
 
 
+
 Sep 30 leave YYZ + LIS stopover
 Sep 31-02 PDL
-Sep 02-05 Flores
-Sep 05-10 to PDL (2 days Flores + Corvo)
+Sep 02-05 Flores (2 days Flores + Corvo)
+Sep 05-10 to PDL
 Sep 10-11 to YYZ + LIS stopover
+
+
+================================================
+================================================
+================================================
+
+
+
+Plan
+Sunrise 7:30 am
+Sunset 8:05 pm 
+
+Apr 1
+	Lagoa das Furnas + Grená - Pico do Ferro + Thermal Springs Poça da Dona Beija	
+Apr 2	
+	Faial da Terra - Salto do Prego + Sanguinho + Thermal Springs Terra Nostra
+Apr 3
+	Padrão das Alminhas - Salto da Farinha + Hotel Pool / Thermal Springs Poça da Dona Beija	
+Apr 4
+	Pico da Vara + Nordeste (Miradouro da Ponta do Sossego + Miradouro da Ponta da Madrugada) + Hotel Pool / Thermal Springs Poça da Dona Beija
+Apr 5	
+	Parque Natural da Ribeira dos Caldeirões + Chá Gorreana + Relax (tea, pineapple, mercado, etc) + Thermal Springs Caldeira Velha / Thermal Springs Poça da Dona Beija
+Apr 6
+	Praia - Lagoa do Fogo + Pico da Barrosa + Some other hiking around the lake + Thermal Springs Caldeira Velha / Thermal Springs Poça da Dona Beija	
+Apr 7
+	Sete Cidades + Thermal Springs Ponta da Ferraria + Thermal Springs Caldeira Velha / Thermal Springs Poça da Dona Beija	
+Apr 8
+	Caldeiras da Ribeira Grande - Salto do Cabrito Beija + Thermal Springs Caldeira Velha / Thermal Springs Poça da Dona Beija	
+Apr 9	
+	Rota da Agua aka Janela do Inferno + Relax (tea, pineapple, mercado, etc) + Thermal Springs Caldeira Velha / Thermal Springs Poça da Dona Beija	
+Apr 10
+	Ponta Delgada (Mercado da Graça, Avenida do Mar, Antonio Borges Garden, Church of São Sebastião aka Igreja Matriz, Ananases A Arruda, José do Canto Garden) + Thermal Springs Caldeira Velha / Thermal Springs Poça da Dona Beija	
+Apr 11
+	Relax (tea, pineapple, mercado, etc) + Thermal Springs Poça da Dona Beija + leave PDL
+	
+
+
+
+Plan + Hotels
+Apr 31-1
+Ponta Delgado
+	Mar 31
+		arrive PDL
+
+Apr 1-2 OR Apr 31-2
+Hotel do Mar
+1 + 1
+	Apr 1 
+		Lagoa das Furnas
+			while moving to Hotel do Mar
+	Apr 2
+		Faial da Terra - Salto do Prego		
+			while moving to Lince
+			
+Apr 2-5
+Lince
+	Apr 3
+		Padrão das Alminhas - Salto da Farinha
+	Apr 4
+		Pico da Vara + Nordeste
+	Apr 5
+		Parque Natural da Ribeira dos Caldeirões + Chá Gorreana
+			while moving to Villa
+
+Apr 5-11
+Villa 
+	Apr 6
+		Praia - Lagoa do Fogo
+	Apr 7
+		Sete Cidades
+	Apr 8
+		Caldeiras da Ribeira Grande
+	Apr 9	
+		Rota da Agua
+	Apr 10
+		Ponta Delgada
+	Apr 11	
+		Relax + Thermal Springs Poça da Dona Beija + leave PDL
+
+
+
+
+
+Apr 31-6		6 nights
+Villa 
+2 + 1 + Ponta Delgado + West
+
+Apr 6-9			3 mights
+Lince
+2 + 1
+
+Apr 9-11		2 nights
+Hotel do Mar
+1 + 1
+
+
 
 
 
@@ -24,32 +121,15 @@ PDL
 
 
 
-Sep 4-8-15
-675 CAD
-https://www.kayak.com/flights/YYZ-FLW/2020-09-04-h/FLW-PDL/2020-09-08-h/PDL-LPA/2020-09-15-h?sort=price_a
-
-Sep 24
-385 CAD
-https://www.kayak.com/flights/LPA-YYZ/2020-09-24-flexible-2day?sort=price_a
-280 CAD
-https://www.kayak.com/flights/LPA-MOW/2020-09-24-flexible-2day?sort=price_a
-
-Sep 24-28
-CAD 470
-https://www.kayak.com/flights/LPA-LIS/2020-09-24-h/LIS-YYZ/2020-09-28-h?sort=price_a
-CAD 295
-https://www.kayak.com/flights/LPA-LIS/2020-09-24-h/LIS-MOW/2020-09-28-h?sort=price_a
-
-
-
-
 
 6-7 days (4-5 days for must sees)
 https://en.wikivoyage.org/wiki/S%C3%A3o_Miguel
 https://www.wikiloc.com/trails/outdoor/portugal/azores/sao-miguel-arcanjo
 http://parquesnaturais.azores.gov.pt/en/smiguel-eng/what-visit/trails
 
-Lagoa do Fogo 
+
+!
+Lagoa do Fogo
 	hiking
 		around the lake
 			https://www.wikiloc.com/hiking-trails/lagoa-do-fogo-s-miguel-acores-9180574
@@ -57,18 +137,20 @@ Lagoa do Fogo
 			https://www.wikiloc.com/hiking-trails/lagoa-do-fogo-lado-norte-18441526
 	
 
+!!!
 Ponta da Ferraria, ocean-side swimming spot that is heated by geothermal activity
 	Spa and bathing site with therapeutic water springs that have been used since the fifteenth century
 	
 	hiking
 		? - linear
-		Pico das Camarinhas - Ponta da Ferraria			
+		Pico das Camarinhas - Ponta da Ferraria
 			5km RT
 			2,5 hrs RT
 			http://trails.visitazores.com/en/trails-azores/sao-miguel/pico-das-camarinhas-ponta-da-ferraria
 			http://trails.visitazores.com/sites/default/files/flyer_prc_43_smi_-_pico_das_camarinhas-ponta_da_ferraria_-_cpia.pdf
 	
 
+!!!
 Sete Cidades – massive volcanic crater
 
 	One of the 7 Natural Wonders of Portugal, it showcases the Green and Blue Lakes, which according to legend, were formed from the tears of a shepherd and a princess who shared a forbidden love. These lakes can be seen from the Vista do Rei (King’s View) Lookout, named after King D. Carlos and Queen D. Amélia to celebrate their visit to the island in 1901
@@ -86,6 +168,24 @@ Sete Cidades – massive volcanic crater
 		https://www.wikiloc.com/wikiloc/map.do?lt=37.8472&ln=-25.7719&z=13&k=1&event=map
 		
 		
+		DAY: TB !!!
+		! - circular
+			Vista do Rei - Sete Cidades
+				8 km RT
+				2 hrs RT			
+				http://trails.visitazores.com/en/trails-azores/sao-miguel/vista-do-rei-sete-cidades
+				http://trails.visitazores.com/sites/default/files/flyer_pr_03_smi_-_vista_do_rei_0.pdf
+				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+					page 37
+				https://www.wikiloc.com/hiking-trails/sete-cidades-sao-miguel-azores-14109715
+				
+				
+				+
+				
+				branch to Lagoa do Canário + Miradouro da Boca do Inferno and back Vista do Rei - Sete Cidades
+				
+				
+		
 		! - circular
 			https://www.wikiloc.com/hiking-trails/lagos-sete-cidades-azores-23713579
 			https://www.wikiloc.com/hiking-trails/trilho-lagoa-das-sete-cidades-pr3-pr4-e-pr5-serra-devassa-10331964
@@ -101,16 +201,6 @@ Sete Cidades – massive volcanic crater
 					page 45
 				https://www.wikiloc.com/hiking-trails/pr5-smi-serra-devassa-e-grota-do-inferno-25122928
 					
-		!? - linear
-			Vista do Rei - Sete Cidades
-				8 km RT
-				2 hrs RT			
-				http://trails.visitazores.com/en/trails-azores/sao-miguel/vista-do-rei-sete-cidades
-				http://trails.visitazores.com/sites/default/files/flyer_pr_03_smi_-_vista_do_rei_0.pdf
-				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-					page 37
-				https://www.wikiloc.com/hiking-trails/sete-cidades-sao-miguel-azores-14109715
-		
 			Mata do Canário
 				12 km RT
 				3 hrs RT
@@ -134,16 +224,57 @@ tea plantations in Gorreana
 1 day - Nordeste
 	Farol Do Arnel 
 	Vista dos Barcos 
+
+
+	DAY: TB !!!
+	Pico da Vara
+		linear
+		7 km RT
+		3 hrs RT
+		http://trails.visitazores.com/en/trails-azores/sao-miguel/pico-da-vara
+		http://trails.visitazores.com/sites/default/files/prc_07_smi_-_pico_da_vara_nova_versao_1.pdf
+		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+			page 53
+		https://www.wikiloc.com/hiking-trails/pico-da-vara-sao-miguel-azores-9478330
+		https://www.wikiloc.com/hiking-trails/mirador-salto-do-cavalo-pico-da-vara-algarvia-28081819
+		https://www.wikiloc.com/hiking-trails/acores-pr-7-smi-pico-da-vara-2016-07-13-15120593	
+	
+	+
+	
 	Miradouro da Ponta do Sossego 
 		prime locations to see the sun rising
 		the most iconic of viewing points of Nordeste. The gardened area covers about 13,000 m2 distributed in terraces located at different altitudes
+	
+	+
+	
 	Miradouro da Ponta da Madrugada
 		prime locations to see the sun rising
+		
+		
+	TB!!!
 	hot springs in Caldeiras aka Parque Natural da Ribeira dos Caldeirões
+		2.5 km
+		1 hr
 		set of water mills and paths
 		https://www.wikiloc.com/walking-trails/parque-natural-da-ribeira-dos-caldeiroes-14003153
+		https://www.wikiloc.com/hiking-trails/ribeira-dos-caldeiroes-36989561
+		
+		+
+		
+		Chá Gorreana
+			3.5 km
+			1.5 hrs
+			http://trails.visitazores.com/en/trails-azores/sao-miguel/cha-gorreana
+			http://trails.visitazores.com/sites/default/files/prc_28_smi_-_gorreana_nova_versao_0.pdf						
+			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+				page 83
+		
+		
 	Lagoa das Furnas - nature reserve since 1974, this crater lake reaches a maximum depth of 30 metres.
 		hiking
+		
+		
+			DAY; TB !!!
 			Lagoa das Furnas
 				circular
 				9.5 km
@@ -155,7 +286,9 @@ tea plantations in Gorreana
 				https://www.wikiloc.com/hiking-trails/circular-lagoa-das-furnas-isla-de-sao-miguel-azores-13957805
 				https://www.wikiloc.com/hiking-trails/prc06-smi-lagoa-das-furnas-e-trilho-salto-do-rosal-30098611
 				https://www.wikiloc.com/hiking-trails/circular-a-lagoa-das-furnas-com-ascensao-ao-pico-do-ferro-s-miguel-acores-9190384
-				
+
+			+
+			
 			Grená - Pico do Ferro
 				circular
 				6.5 km
@@ -179,6 +312,7 @@ tea plantations in Gorreana
 hiking
 	https://www.wikiloc.com/trails/outdoor/portugal/azores?t=&d=&lfr=&lto=20&uom=mi&a=outdoor&months=&following=&since=&favorite-list=&q=Sao+MIguel%2C+Azores
 
+	DAY: TB !!!
 	Praia – Lagoa do Fogo aka Água D’Alto Beach to Fogo Lake
 		Splendid view over the south coast with many samples of endemic vegetation			
 		37.727736, -25.471500
@@ -191,7 +325,16 @@ hiking
 			page 33
 		https://www.wikiloc.com/hiking-trails/pr2-smi-praia-lagoa-do-fogo-10336193
 		https://www.wikiloc.com/hiking-trails/ribieria-cha-lagoa-do-fogo-agua-dalto-san-miguel-azores-23817331
-			
+				
+		+
+		
+		branch to Pico da Barrosa
+			At the very peak of the road from Ponta Delgada to Lagoa do Fogo. To sea south and North coasts 
+			https://www.wikiloc.com/hiking-trails/pico-barrosa-lagoa-do-fogo-31157893
+			https://www.wikiloc.com/hiking-trails/paseo-por-la-cima-del-pico-de-la-barrosa-34561206			
+		
+
+	DAY: TB !!!
 	Faial da Terra - Salto do Prego
 		trail in the most remote area. It snakes through a dense forest and majestic lush hills, leading to a stunning waterfall hidden in the forest. Swim in the freezing cold water
 		linear
@@ -206,18 +349,12 @@ hiking
 		https://www.wikiloc.com/hiking-trails/pr9-smi-sanguinho-salto-do-prego-e-ida-ao-salto-do-cagarrao-25143025
 		https://www.wikiloc.com/hiking-trails/salto-do-prego-18719651
 		
-	Pico da Vara
-		linear
-		7 km RT
-		3 hrs RT
-		http://trails.visitazores.com/en/trails-azores/sao-miguel/pico-da-vara
-		http://trails.visitazores.com/sites/default/files/prc_07_smi_-_pico_da_vara_nova_versao_1.pdf
-		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-			page 53
-		https://www.wikiloc.com/hiking-trails/pico-da-vara-sao-miguel-azores-9478330
-		https://www.wikiloc.com/hiking-trails/mirador-salto-do-cavalo-pico-da-vara-algarvia-28081819
-		https://www.wikiloc.com/hiking-trails/acores-pr-7-smi-pico-da-vara-2016-07-13-15120593
+		+
 		
+		2-hour hiking trail in Sanguinho - Salto do Prego (to waterfall in forest)
+		
+	
+	DAY: TB !!!	
 	Rota da Água - Janela do Inferno		
 		circular
 		7.5 km
@@ -257,7 +394,7 @@ hiking
 			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
 				page 69			
 	
-		Ribeira do Faial da Terra	
+		Ribeira do Faial da Terra
 			6 km RT
 			2 hrs RT		
 			http://trails.visitazores.com/en/trails-azores/sao-miguel/ribeira-do-faial-da-terra				
@@ -268,15 +405,7 @@ hiking
 			
 	
 	
-	? - circular			
-		Chá Gorreana
-			3.5 km
-			1.5 hrs
-			http://trails.visitazores.com/en/trails-azores/sao-miguel/cha-gorreana
-			http://trails.visitazores.com/sites/default/files/prc_28_smi_-_gorreana_nova_versao_0.pdf						
-			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-				page 83
-			
+	? - circular
 		Pedra Queimada
 			6.5 km
 			2.5 hrs
@@ -319,7 +448,9 @@ hiking
 Natural hot springs
 	Caldeira Velha
 		waterfall of warm, iron water where you can take a dip, it is located on the north slope of the Fogo Volcano
+		9.30-17.30
 	Poça da Dona Beija
+		7.00-23.00
 	Terra Nostra Botanical Garden
 		one of the most beautiful gardens in Europe, it features a thermal swimming pool and more than 2,000 different trees 
 
@@ -342,7 +473,8 @@ Beach
 	Mosteiros
 		tidal pools - bounded by rock structures forming natural pools, this bathing area is located in the parish of Mosteiros on the north coast of the island of São Miguel and forms the northern boundary of the parish.
 	
-	
+
+DAY TB!!! - see plan for POI	
 Ponta Delgada
 	PORTAS DA CIDADE DE PONTA DELGADA (1783)
 		The gates marked the city’s entry point. They were removed from their original location due to the construction of the Avenida Infante D. Henrique (Prince Henry Avenue) and were placed where they now stand in 1952.
@@ -395,10 +527,12 @@ seven lagoons aka Sete Lagoas
 		
 	Located inside the caldera of Flores, the names of these seven lakes are connected to their features and to the lands- cape: Deep, White, Dry, Long, Shallow, Crest and Black Lake. The latter is 100 metres deep.
 		
+!!!
 Poça das Patas – some call it the 8th lagoon but not of volcanic origin. This lake is the result of dozens of waterfalls streaming down luscious-green slopes. It takes a bit of hiking to get there, but it’s worth it
 
 Poço da Ribeira do Ferreiro 
 
+!!!
 Rocha dos Bordões – the one-of-a-kind rock formation, the postcard-perfect most photographed natural landscape on the island (besides the lagoons)
 	Columnar basalt formation that resulted from a thermal shock during the solidification of the lava
 
@@ -415,6 +549,7 @@ beaches
 	Fajã Grande beach – resort-like beach (although, technically, this is not a beach) where you can choose to swim or just drop by to have a couple of cold drinks in the sun, at the nearby bar and café
 		Cycling and mountain biking
 		Canoeing and kayaking
+	!!!
 	Poço do Bacalhau – the only lagoon and waterfall where you can actually swim (keep in mind that the water is a bit colder than the Ocean, even in summers)
 		Located in Fajã Grande, this is a small pool at the bottom of a 90-metre high waterfall, where it is possible to swim
 	Fajã do Conde – for the adventurous, hike all the way down for a semi-secluded swim
@@ -502,6 +637,9 @@ Flight SP 570
 
 
 
+
+
+
 FLW-PDL
 Flight SP 503
 15:45-17:00
@@ -582,12 +720,20 @@ https://www.booking.com/hotel/pt/aldeia-da-cuada-faja-grande.en-gb.html?aid=3041
 
 
 
-San Miguel - wait for Genius Discount Nov 7: 394CAD NR, 438CAD R
-https://www.booking.com/hotel/pt/volcanic-charming-house.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB;sid=6e3a058bec6508af919a96fab904c3c4;all_sr_blocks=407820705_201314281_2_1_0;checkin=2020-04-06;checkout=2020-04-11;dest_id=-2174510;dest_type=city;dist=0;from_beach_key_ufi_sr=1;group_adults=2;group_children=0;hapos=1;highlighted_blocks=407820705_201314281_2_1_0;hpos=1;nflt=genius_benefits%3D0%3Bgenius_benefits%3D1%3Bgenius_benefits%3D2%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1573172341;srpvid=dd51023a152200fc;type=total;ucfac=102;ucfs=1&#_
-
-https://www.booking.com/hotel/pt/volcanic-charming-house.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB;sid=6e3a058bec6508af919a96fab904c3c4;all_sr_blocks=407820705_201314281_2_1_0;checkin=2020-04-02;checkout=2020-04-05;dest_id=-2174510;dest_type=city;dist=0;from_beach_key_ufi_sr=1;group_adults=2;group_children=0;hapos=1;highlighted_blocks=407820705_201314281_2_1_0;hpos=1;nflt=genius_benefits%3D0%3Bgenius_benefits%3D1%3Bgenius_benefits%3D2%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1573172341;srpvid=dd51023a152200fc;type=total;ucfac=102;ucfs=1&#_
 
 
+================================================
+
+
+Hotels
+
+
+2-5
+
+
+5-11
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4At7u3u4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&checkin_month=4&checkin_monthday=5&checkin_year=2020&checkout_month=4&checkout_monthday=11&checkout_year=2020&class_interval=1&dest_id=-2174510&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&src=index&srpvid=65db499ee09b0017&ss=Ribeira%20Grande&ssb=empty&ssne=Ribeira%20Grande&ssne_untouched=Ribeira%20Grande&top_ufis=1&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D80%3Breview_score%3D90%3Broomfacility%3D38%3B&rsf=
 
 
 ================================================
@@ -611,21 +757,24 @@ Ask - how much
 	Late night delivery
 
 
+
 !!!
-55 EUR + cleaning tax ??? EUR	NR
+55 EUR + cleaning tax 15 EUR	NR
 Ford Fiesta
 https://magicislands.pt/en/
 
 
 ?!
 48 EUR	NR
+48.50 EUR R +  They can open on request at 6 am and take for it 40 Euro
 Ford Fiesta
 https://www.goldcar.es/en/offices/goldcar-ponta-delgada-airport-office/
 
 
 !!!
 Agreggator
-148.25 EUR + including Out of hours	NR (31-11)		109.65 EUR + including Out of hours	NR (05-11)
+148.25 EUR + including Out of hours	NR (31-11)
+150.72 EUR + including Out of hours	NR (31-11)
 Fiat Punto from Luso
 https://www.discovercars.com
 
@@ -654,7 +803,14 @@ REE cancellation before 23:30 on March 29, 2020
 250 EUR
 https://www.thriftycanada.ca/book
 270 EUR
+
 https://flordonorte-rentacar.com/en/
+
+262 EUR
+https://www.atlanticsecrets.com/en
+
+
+
 
 no results
 https://wayzor.pt/en
@@ -728,31 +884,7 @@ http://www.spotazores.com/
 
 
 
-================================================
-================================================
-================================================
 
-
-Plan
-Sunrise 7:30 am
-Sunset 8:05 pm 
-
-Day 1
-	Nordeste + Pico da Vara + Faial da Terra + Thermal Springs Poça da Dona Beija	
-Day 2	
-	Parque Natural da Ribeira dos Caldeirões + Furnas + Thermal Springs Terra Nostra
-Day 3
-	Relax (tea, pineapple, mercado, etc)
-Day 4-5	
-	Praia - Lagoa do Fogo + Rota + Some other hiking + Thermal Springs Caldeira Velha
-Day 6
-	Relax (tea, pineapple, mercado, etc)
-Day 7-8
-	Rocha da Relva + Sete Cidades + Thermal Springs Ponta da Ferraria
-Day 9-10
-	Hiking
-Day 11
-	Relax (tea, pineapple, mercado, etc)
 	
 	
 	
@@ -1137,6 +1269,9 @@ THINGS TO DO:
 			You can't swim in lake
 			Pico da Barrosa
 				At the very peak of the road from Ponta Delgada to Lagoa do Fogo. To sea south and North coasts 
+				https://www.wikiloc.com/hiking-trails/pico-barrosa-lagoa-do-fogo-31157893
+				https://www.wikiloc.com/hiking-trails/paseo-por-la-cima-del-pico-de-la-barrosa-34561206
+				
 		3.
 		Ponta Delgada
 			Seaside promenade (Avenida)
