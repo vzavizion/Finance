@@ -730,11 +730,13 @@ Hotels
 
 2-5
 
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4At7u3u4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=4&checkin_monthday=2&checkin_year=2020&checkout_month=4&checkout_monthday=5&checkout_year=2020&city=-2174510&class_interval=1&dest_id=-2170765&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=a2f94c37f36a0066&ss=Nordeste%2C%20Azores%2C%20Portugal&ss_raw=nordeste&ssb=empty&ssne=Ribeira%20Grande&ssne_untouched=Ribeira%20Grande&top_ufis=1&order=price
+
 
 5-11
 
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4At7u3u4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&checkin_month=4&checkin_monthday=5&checkin_year=2020&checkout_month=4&checkout_monthday=11&checkout_year=2020&class_interval=1&dest_id=-2174510&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&src=index&srpvid=65db499ee09b0017&ss=Ribeira%20Grande&ssb=empty&ssne=Ribeira%20Grande&ssne_untouched=Ribeira%20Grande&top_ufis=1&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D80%3Breview_score%3D90%3Broomfacility%3D38%3B&rsf=
 
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4At7u3u4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&checkin_month=4&checkin_monthday=5&checkin_year=2020&checkout_month=4&checkout_monthday=11&checkout_year=2020&class_interval=1&dest_id=-2174510&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D80%3Breview_score%3D90%3Broomfacility%3D38%3B&no_rooms=1&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&srpvid=ff4249a7e2d801ff&ss=Ribeira%20Grande&ss_all=0&ssb=empty&sshis=0&ssne=Ribeira%20Grande&ssne_untouched=Ribeira%20Grande&top_ufis=1&order=price
 
 ================================================
 ================================================
