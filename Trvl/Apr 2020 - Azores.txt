@@ -9,10 +9,17 @@ Azores Plan
 
 
 Sep 30 leave YYZ + LIS stopover
+Sep 31-10 to PDL
+Sep 10-11 to YYZ + LIS stopover
+
+
+
+Optional with FLW
+Sep 30 leave YYZ + LIS stopover
 Sep 31-02 PDL
 Sep 02-05 Flores (2 days Flores + Corvo)
-Sep 05-10 to PDL
-Sep 10-11 to YYZ + LIS stopover
+Sep 05-11 to PDL
+Sep 11-12 to YYZ + LIS stopover
 
 
 ================================================
@@ -50,14 +57,13 @@ Apr 11
 	
 
 
-
 Plan + Hotels
-Apr 31-1
+Apr 31-1 (optional)
 Ponta Delgado
 	Mar 31
 		arrive PDL
 
-Apr 1-2 OR Apr 31-2
+Apr 31-2 or 1-2 (optional)
 Hotel do Mar
 1 + 1
 	Apr 1 
@@ -68,7 +74,7 @@ Hotel do Mar
 			while moving to Lince
 			
 Apr 2-5
-Lince
+The Lince Nordeste Country and Nature Hotel
 	Apr 3
 		Padrão das Alminhas - Salto da Farinha
 	Apr 4
@@ -78,7 +84,7 @@ Lince
 			while moving to Villa
 
 Apr 5-11
-Villa 
+Mitós Vila 3
 	Apr 6
 		Praia - Lagoa do Fogo
 	Apr 7
@@ -91,6 +97,7 @@ Villa
 		Ponta Delgada
 	Apr 11	
 		Relax + Thermal Springs Poça da Dona Beija + leave PDL
+
 
 
 
@@ -603,9 +610,6 @@ Flight to PDL
 !!!
 https://book.flytap.com/air/TAPCA/Calendar.aspx?pageTrace=21&market=CA&_l=en&flightType=Return&origin=YYZ&destination=PDL&negotiatedFaresOnly=False&milesAndCash=0&maxConn=-1&depDate=30.03.2020&retDate=11.04.2020&adt=1&resident=&giftCode=&	
 
-https://book.flytap.com/air/TAPCA/MultiCity.aspx?market=CA&_l=en&requestID=5651538481535879489&flightType=OpenJaw&origin=YYZ&destination=LIS&origin1=LIS&destination1=PDL&origin2=PDL&destination2=YYZ&negotiatedFaresOnly=False&milesAndCash=0&maxConn=-1&depDate=28.03.2020&depDate1=31.03.2020&depDate2=11.04.2020&adt=1&resident=&giftCode=&
-
-
 
 VZ
 from BMO MD66ZN
@@ -674,13 +678,11 @@ PDL
 
 
 
+
 ================================================
 ================================================
 ================================================
-
-
-
-Flores Hotels
+===================Flores Hotels - DELETE as we do not visit
 
 
 https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB&sid=8197f1272ce9488d5b055d9f5b918000&tmpl=searchresults&ac_click_type=b&ac_position=1&checkin_month=4&checkin_monthday=2&checkin_year=2020&checkout_month=4&checkout_monthday=5&checkout_year=2020&class_interval=1&dest_id=3713&dest_type=region&from_sf=1&group_adults=2&group_children=0&label_click=undef&nflt=roomfacility%3D38%3Breview_score%3D80%3Boos%3D1%3Bfc%3D2%3B&no_rooms=1&raw_dest_type=region&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=e78f0bbfe9eb003b&ss=Flores%20Island%2C%20Portugal&ss_raw=flores&ssb=empty&ssne=Ponta%20Delgada&ssne_untouched=Ponta%20Delgada&top_ufis=1&order=price
@@ -723,9 +725,87 @@ https://www.booking.com/hotel/pt/aldeia-da-cuada-faja-grande.en-gb.html?aid=3041
 
 
 ================================================
+===================Sao Miguel Hotels - FINAL!!!
 
 
-Hotels
+
+
+31-1 (optional)
+
+
+Ilha Hostel & Suites
+CAD 82
+9.2
+
+https://www.booking.com/hotel/pt/ilha-hostel-amp-suites.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=c856d0a8deaae4de5e1d9010bd81d62e&checkin=2020-03-31&checkout=2020-04-01
+
+https://secure.booking.com/myreservations.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=c856d0a8deaae4de5e1d9010bd81d62e;auth_key=P90qgCMx7RXoNQiB&amp;
+
+
+NO TA
+
+
+
+==================
+
+
+31-2
+
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&checkin_month=3&checkin_monthday=31&checkin_year=2020&checkout_month=4&checkout_monthday=2&checkout_year=2020&city=-2173280&class_interval=1&dest_id=-2173280&dest_type=city&from_sf=1&group_adults=2&group_children=0&highlighted_hotels=40654&hp_sbox=1&label_click=undef&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D80%3Breview_score%3D90%3B&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&srpvid=66176671ebc400c3&ss=Povoa%C3%A7%C3%A3o&ssb=empty&ssne=Povoa%C3%A7%C3%A3o&ssne_untouched=Povoa%C3%A7%C3%A3o&top_ufis=1&order=price
+
+
+
+===BOOKED
+Hotel do Mar
+CAD 157
+8.6
+
+https://www.booking.com/hotel/pt/do-mar-vila-da-povoacao.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=c856d0a8deaae4de5e1d9010bd81d62e&checkin=2020-03-31&checkout=2020-04-02
+
+https://secure.booking.com/myreservations.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=c856d0a8deaae4de5e1d9010bd81d62e;auth_key=RyB6dWXAh6DV55qG&amp;
+
+https://www.tripadvisor.ca/Hotel_Review-g1114175-d469531-Reviews-or5-Hotel_do_Mar-Povoacao_Sao_Miguel_Azores.html
+
+
+
+
+1-2 (optional)
+
+
+
+https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&checkin_month=4&checkin_monthday=1&checkin_year=2020&checkout_month=4&checkout_monthday=2&checkout_year=2020&city=-2173280&class_interval=1&dest_id=-2173280&dest_type=city&from_sf=1&group_adults=2&group_children=0&highlighted_hotels=40654&hp_sbox=1&label_click=undef&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D80%3Breview_score%3D90%3B&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&srpvid=66176671ebc400c3&ss=Povoa%C3%A7%C3%A3o&ssb=empty&ssne=Povoa%C3%A7%C3%A3o&ssne_untouched=Povoa%C3%A7%C3%A3o&top_ufis=1&order=price
+
+
+
+===BOOKED
+Hotel do Mar
+CAD 78
+8.6
+https://www.booking.com/hotel/pt/do-mar-vila-da-povoacao.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=c856d0a8deaae4de5e1d9010bd81d62e&checkin=2020-04-01&checkout=2020-04-02
+
+
+
+
+
+
+
+
+===Good but NR
+===Location not so good
+Pestana Bahia Praia Nature & Beach Resort
+CAD 196 (31-2)
+8.9
+with breakfast
+https://www.booking.com/hotel/pt/bahia-palace.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=9f44b029d664f6d27bcaf6a6361634ec;all_sr_blocks=3974906_204195774_0_41_0;checkin=2020-03-31;checkout=2020-04-02;dest_id=-2173280;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=18;highlighted_blocks=3974906_204195774_0_41_0;hpos=18;nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D80%3Breview_score%3D90%3Bhr_24%3D8%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1574520336;srpvid=191067c82ab90153;type=total;ucfs=1&#_
+
+
+
+
+==================
+==================
+==================
 
 
 2-5
@@ -733,14 +813,90 @@ Hotels
 https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4At7u3u4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=4&checkin_monthday=2&checkin_year=2020&checkout_month=4&checkout_monthday=5&checkout_year=2020&city=-2174510&class_interval=1&dest_id=-2170765&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=a2f94c37f36a0066&ss=Nordeste%2C%20Azores%2C%20Portugal&ss_raw=nordeste&ssb=empty&ssne=Ribeira%20Grande&ssne_untouched=Ribeira%20Grande&top_ufis=1&order=price
 
 
+
+===BOOKED
+The Lince Nordeste Country and Nature Hotel
+285 CAD
+9.0
+
+https://www.booking.com/hotel/pt/the-lince-country-and-nature.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=0376ccea2cad7e9fbca91388e9415375&checkin=2020-04-02&checkout=2020-04-05
+
+https://secure.booking.com/myreservations.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=0376ccea2cad7e9fbca91388e9415375;auth_key=oXASPZfbHfgNfkk9&amp;
+
+https://www.tripadvisor.ca/Hotel_Review-g1190888-d12621414-Reviews-The_Lince_Nordeste_Country_and_Nature_Hotel-Nordeste_Sao_Miguel_Azores.html
+
+
+
+
+
+
+
+===Good but no WOW and NR
+Casa do Parque
+CAD 251
+9.0
+welcome basket is a nice touch but could be upgraded with some local produce
+https://www.booking.com/hotel/pt/casa-dos-7-arcos.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4At7u3u4FwAIB;sid=9f44b029d664f6d27bcaf6a6361634ec;all_sr_blocks=150207401_124223721_2_0_0;checkin=2020-04-02;checkout=2020-04-05;dest_id=-2170765;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=7;highlighted_blocks=150207401_124223721_2_0_0;hpos=7;nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3Breview_score%3D80%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1574509842;srpvid=c6745348d63101aa;type=total;ucfs=1&#tab-main
+
+
+
+
+===Good but no WOW
+===Location not so good
+
+
+Casa da Courela
+CAD 256
+9.5
+https://www.booking.com/hotel/pt/casa-da-courela.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4At7u3u4FwAIB;sid=9f44b029d664f6d27bcaf6a6361634ec;all_sr_blocks=213179201_153461207_2_0_0;bhgwe_cep=1;checkin=2020-04-02;checkout=2020-04-05;dest_id=-2170765;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=2;highlighted_blocks=213179201_153461207_2_0_0;hpos=2;nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3Breview_score%3D80%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1574509842;srpvid=c6745348d63101aa;type=total;ucfs=1&#map_closed
+
+Casa Cantinho Da Ilha
+CAD 257
+9.5
+https://www.booking.com/hotel/pt/casa-cantinho-da-ilha.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4At7u3u4FwAIB;sid=9f44b029d664f6d27bcaf6a6361634ec;all_sr_blocks=219912804_194841925_2_1_0;bhgwe_cep=1;checkin=2020-04-02;checkout=2020-04-05;dest_id=-2170765;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=5;highlighted_blocks=219912804_194841925_2_1_0;hpos=5;nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3Breview_score%3D80%3Bmealplan%3D1%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1574511718;srpvid=b42f56f22254001d;type=total;ucfs=1&#_
+
+
+
+
+===NO!!!
+
+Vila dos M´s
+cockroaches
+
+
+
+
+==================
+==================
+==================
+
+
 5-11
 
 
 https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4At7u3u4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&checkin_month=4&checkin_monthday=5&checkin_year=2020&checkout_month=4&checkout_monthday=11&checkout_year=2020&class_interval=1&dest_id=-2174510&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D80%3Breview_score%3D90%3Broomfacility%3D38%3B&no_rooms=1&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&srpvid=ff4249a7e2d801ff&ss=Ribeira%20Grande&ss_all=0&ssb=empty&sshis=0&ssne=Ribeira%20Grande&ssne_untouched=Ribeira%20Grande&top_ufis=1&order=price
 
+
+
+===BOOKED
+Mitós Vila 3
+CAD 352
+9.7
+
+https://www.booking.com/hotel/pt/mitos-vila-3.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=9f44b029d664f6d27bcaf6a6361634ec&checkin=2020-04-05&checkout=2020-04-11
+
+https://secure.booking.com/myreservations.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=0376ccea2cad7e9fbca91388e9415375;auth_key=Xy5i9e9fEpWqOzP2&amp;
+
+No TA
+
+
+
+
+
 ================================================
 ================================================
 ================================================
+
 
 
 Car Rent
@@ -753,15 +909,17 @@ https://www.aeroportopontadelgada.pt/en/pdl/access-parking/for-your-full-comfort
 
 
 
+Tue, 31 Mar
+	11:55 pm
+	TAP AIR PORTUGAL TP 1865
 
-Ask - how much
-	Cleaning Fee
-	Late night delivery
+Sat, 11 Apr
+	7:15 pm
 
 
 
 !!!
-55 EUR + cleaning tax 15 EUR	NR
+55 EUR + cleaning tax 15 EUR + no delivery fee	NR
 Ford Fiesta
 https://magicislands.pt/en/
 
@@ -889,7 +1047,6 @@ http://www.spotazores.com/
 
 	
 	
-	
 ================================================
 ================================================
 ================================================
@@ -897,541 +1054,3 @@ http://www.spotazores.com/
 ================================================
 ================================================
 
-
-
-		
-		AZORES:
-		
-Hotels in Sao Miguel:
-1.
-Apartment Apartamento Mar e Sol, 67m    360 R   ?
-The foam mattress was a bit uncomfortable to sleep on
-The apt is on the second floor
-In the bathroom there was no ventilation or a window, so it is very stuffy and humid.
-The neighbors are very loud (drilling, for example, at 11pm).	
-Since 2016
-Apartment: liv room+bedroom+kitchen	
-+
-easy parking. Quiet building.		
-		
-2.
-Apartment Quintas do Mar , 70m 400 R   ?
-2016
-Apartment: liv room+bedroom+kitchen	
-
-3. BOOKED 5-11
-Mitós Vila 3, 45m  350 R   !
--
-Unfortunately we had a bad time, it was a bit cool in the house despite the heating.
-If I had to put a but, the living room is a bit dim and the bathroom gets a bit wet after the shower and does not just dry well. A few little cupboards would also be good as well as the shelves. I missed a cutting board in the kitchen. But these are all very small details compared to how well the apartment is.
-Could be cold in bathroom
-+
-Very quiet area, always with a place to park and with good access.
-Check in was super easy, he welcomed us from the airport with a fruit basket and local bread which went down a treat after the long morning of travel. 	
-High humidity. I think a bathroom heater would be handy in winter.
-2018
-A/C !!!!! in living room
-Great location
-If you would like go on the boat trip or go to fishing - the Vila has also a boat for boat tours you just need to contact Daniel and schedule (great price). 
-
-4.
-Apartment Cosy Island Apartment, 89m  445 R   ?
--
-Since 2015
-Some humidity in the room coming from the wardrobe and the lack of air conditioning that would help to dehumidify the house.
-Bathroom very dark and poorly ventilated.
-The sofa in the living room has a modern design but is not very comfortable.
-The television in the room should be bigger as it looks more like a computer monitor adapted to the TV.
-Noise from road
-I was worried I would be charged for towel and linen use based on the instructions sent from the host, which made my stay less enjoyable as I was hesitant to use towels and sheets. No A/C and very humid (but that is typical in this area). 
-Hosts answer: we have several bathing areas with hot yellow-colored ferrous water witch is very difficult to remove from tissues. Often guests go to these bathing areas sometimes they take the white towels with them or when they take a bad shower at home and do not remove the iron from the hair and skin, damaging the towels and sheets. 
-+
-Parking
-
-5.
-Matriz Guest House, 14m, 412 R with breakf    ?
--
-I was surprised that the bathroom (even if private) was external. It wasn´t indicated in description of the accomodation (I checked it many times..)
-Although no heat and quite cold in winter
-No kitchen
-1 Small room
-+
-Кучи полотенец, терраса с невероятным видом на океан, близость к набережной. Невероятно вкусная собственная выпечка на завтрак и в знак приветствия при заезде, приготовленные хозяевами джемы и варенья (которые впоследствии можно приобрести у хозяев).
-The breakfast is good and consists primarily of homemade and local products.
-You can park right outside the building
- the hosts make an excellent cinnamon liqueur.
-homemade jams (pineapple and banana were our favourite). Rossana prepared breakfast boxes when we had to leave early in the morning which was very nice from her.
-o start the day, there was nothing missing on the table: homemade mermelades, cheeses, ananas da terra, eggs, (the three chickens are near in the garden) ham, etc...without forgetting a sweet that looks just a little like cream pastries and that is Eduardo's work.
-We appreciated the black towels available for the beach
-he property is located just 200 meters from the city center, near the main church, about 400 meters from the ocean, about 500 meters to the bus terminal 
-
-6. BOOKED 5-11, 31-2 (TB)
-Hotel Hotel Arcanjo, 15 m, 376 NR, 411 R with breakf   ?!				131 NR, 137 R for 31-02
--
-Small room
-Faulty air conditioner
-The ac had problems, it turned off after 3 mins
-I did not like the room, it did not match the photos on Booking, it was small with no view, and the TV was very loud.
-Room very small, no space to hang towels, especially bathing from the beach.
-Breakfast is simple but very characteristic nan Azores with fruit, loaves of cake, coffee, tea,...( based on bought products in super market)
-the fact that there are some cockroaches in the room and in the place of meals.
-Probably because it is already an old facility, there is a lot of humidity in the room. When we get to the room there is that characteristic smell and the bathroom always looks wet.
-There was a musty smell in the room
-+
-Есть своя парковка, но и рядом с отелем много мест и все бесплатные.
-Недалеко столица Понта-Делгада и аэропорт - на машине минут 15 максимум.
-Район тихий
-Daily room cleaning, as well as the replacement of towels if you wish.
-The hotel is kind to provide towels for guests to take to the pools / hot spring.
-50m away to a natural beach pool
-
-7.
-Apartments Apartamento Mãe de Deus, 15m, 401 NR, 525R ?
--
-2015
-The bathroom sometimes has a funny smell, but nothing that closing the door simply does not solve.
-Lack of parking. Sometimes it was necessary to park a bit far from the accommodation.
-Check out at 11
-Noise in the building.
-Bad smell in the building and inside the apartment. In need of an air freshener.
-A faulty sink in the bathroom sink (it must have been a long time) and the sink faucet flowed into the cabinet under the sink. We killed four cockroaches !!!0
-+
-Kitchen
-
-8. BOOKED 5-11
-Apartamento Tres Marias, 20m, 405 R  (20 EUR cleaning fee included)  ?! 
--
-2015
-В квартире стоит запах сырости. Рядом находится церковь, колокол которой звенит каждый день рано утром. И без конца лает соседская собака.
-The accommodation is only available at 20h
-WiFi didn't work
-The appartment was cold especially the bathrooms. One moveable Heater was not sufficent for such a big appartment.
-+
-Heater on photo
-2 bedrooms+liv room+kitchen
-Прямо под домом можно парковать машину, и рядом есть большая бесплатная парковка
-The small balcony overlooks the street and has the sea in the background.
-
-9.
-Vista do Norte - Northern View!, 14m, 411 R   ?
-+
-2017
-The welcome offer (small basket) is of a huge friendlinessjLastly, having coffee and biscuits for breakfast was extraordinary
--
-Mattress and pillows could be a bit more comfortable
-The bed was not very comfortable
-Very big windows
-The place is quite oldfashion and common area is not very attractive. It has not pleasent smell over there. However the most important issue why we left it was impossible sleeping conditions. The pillow are very old and has inopropriate conditions, the room does not have any mousquite's net but located in countrysided thus there are many mosquites. 
-Small room with bathroom
-There were a lot of flies in our room and in the common area which bothered us a lot. The decor is quite old but functional.
-
-10.
-Quinta dos Bravos, 25m, 472 NR, 525R with breakf    !
--
-No kitchen
-2014 but renovated?
-+
-Quiet
-The beds are huge and so comfy. The bathroom and shower in our room was gigantic. As much food as you can eat for breakfast. Location we found ideal for reaching all corners of the island and only 17 mins from Ponta Delgada. 
-We also liked the breakfast, there was a freshly baked cake every day, which was really delicious every time. There was also cheese, sausage, egg, jam etc.
-The rooms are big enough and are cleaned daily.  
-Everything is very stylish and comfortable! the room is so beautiful and we had the best sleeping (no noise, fresh air, super big comfortable bed and pillows)!
-Rui bakes fresh cakes everyday (if you are a chocolate lover, ask for the nesquik cake!).
-He is always in for a chat and gives you the best recommendations for your trips and foods and beaches around the island. He also helped us with making reservations and booking tours or taxis.
-You can also store your drinks or food in the kitchen if you want.
-The location is very good to visit the Island and the breakfast is very complete with coffee, tea, different milks, all kinds of breads, ham and cheese and the cakes and biscuits that Rui makes.
-Very high rating
-we stayed 5 nights and they even changed our sheets and towels.
-We also could use the kitchen anytime we wanted to. 
-
-11.
-Casa do Pico Arde, 40m, 482 R   !?
--
-very small kitchen
-2015
-The lighting of the apartment was a bit dim; there were some crawlers (insect) found inside the house, although that's kind of expected for such a countryside location.
-Seems to be very little sound proofing between apartments. So we were woken up quite early by other guests.
-Noise from the lower apartment, poor soundproofing, 
-Glass entrance door (cold?)
-+
-Balcony 
-sweet reception basket with treats and cakes 
-We used the bbq twice and enjoyed eating all our meals outside watching the sunset.
-good connection to highway, parking in front of the house
-
-12.
-Antillia Hotel
-	Buffet breakfast from 7am. But not is served even at 7:30
-	11 min by car to airport
-	pool, sauna and steam room - take towel from reception. Open at 9am
-	The gym opening hours are weird depending on weekday vs weekend.
-	Free cabled internet in the room ( don´t forget to take RJ 45 cable with you). Free Wi-Fi in all common areas. You can also borrow one from the front desk for a 10.00 Euro deposit fee.
-	From the moment we arrived at 7:30 am and given our rooms immediately
-	Our breakfast was included in our package deal and was enough to get anyone's day going, offering pancakes, scrambled eggs, boiled eggs, bacon, toast, buns, banana bread, cheeses, cold cuts, fruit, yogurt and cereals. And of course juices, teas and coffee. 
-	Парковка в гостинице бесплатная.
-	we can hardly park being a holiday in the city. 
-	unpleasant smell
-	cocoroach
-	Do you know that feeling of running out of cold water in the middle of the bath? Imagine this feeling early in the morning. In addition the central heating does not exist. There are really air conditioners, but they are locked so guests can't regulate. So we were in winter, without hot water and without heating, with total apathy from the receptionists who did nothing.
-	Despite asking the hotel, half a yearag o, from which date to book when arriving at night, I endeed up without no room 1st night when arriving. The hotel "offered" me an apartment at 262€ vs the 10 nights at 100€ a night when booking in Feb18. So I had to book a room at another hotel, at a higher price, had extra costs for a taxi and basically a waste of time. This at night and I just needed a bed for 6 hours before taking the taxi back and receiving correct room for the already 10 booked nights. Horrible and uprofessionel service!
-	Do not stay at this hotel!! Cruel treatment of a family with 3 kids. Would not give us a room we already paid for!! Leaving my wife and I (along with kids ages 4, 5, 7) scared and outside at 3:30 am on Thursday, August 9....in a foreign country. I think the man's name at reception was Pedro. Regardless, whatever his name is, he was rude, disrespectful, scared kids with his yelling, and ultimately is responsible for a young family spending the night outside in front of a car rental agency.
-	Our trip to the Azores Islands had to be cut short due to a family emergency and we cancelled our reservation at this property. We cancelled more than a week in advance but they charged us 100% for our stay 1) even during high season and 2) even when they offer more more flexible policies on other third party sites (50% cancellation fee the day before reservation).
-	bathroom (drainage poorly jointed). We will have a puddle during the whole stay. As it was not hot, I wanted to start air conditioning but it does not seem reversible although the system allows it. Stayed in May
-	
-13.
-	New Hostel in capital
-	Quite new, open only for 5 months. Staff are nice, 24h food & beverage is a bonus!! Especially for someone needs to catch the flight at 7am😂 Right in the center of the town,
-	the breakfast was good (specially the quiche
-	The breakfast was really good and selfmade.
-	The breakfast food was always available during the day, not hidden somewhere. The staff cooks fresh pie every single day, which you can freely take any time.
-	Breakfast is quite complete with bread, cheese, ham, various jams, fruit, fresh homemade cake, coffee and tea. 
-	Good coffee, but no juice and yoghurts at breakfast. Homecooked pies and cakes - lovely.
-	A bit noisy during the nights I had in July high season, probably from rooms above. Sounds hears to well in the building so next to reception and The dining from people hears loud and clear. Vegetables,, at breakfast gets empty, so maybe have some more (!?) of them?
-	Terrible smell when we open the windows due to restaurant chimneys outside. Almost impossible to have a good sleep due to the noise coming from the hostel (thin doors and walls) and from the restaurant playing music till late; moreover a window on top of the door shows the corridor light each time some one passes outside. When we asked to clean the shower they didn’t solve our problem (see photo).
-	
-14.
-Casa Areal de Santa Barbara   218 R 2-6 Apr with breakf     ?
-+
-Новая мебель, чисто и уютно. Хороший выбор на завтрак. 
-The well equipped kitchen
-Parking right outside the door.
--
-Breakfast could be earlier!	
-I just wish the shared bathroom was on the same floor as the room
-After more than three days of staying the same breakfast every morning becomes to be boring. 
-The bed was too short, and the furnitures old, creaky.
-The room itself needs some serious refurbishment 
-It was a bit noisy because of the road nearby. I guess the rooms on the street side are quieter. Nevertheless, it did not prevent us from sleeping so not so bad.
-Здесь уже писали: очень скрипят ручки на дверях и все проживающие ими постоянно хлопают, очень громко (но я сплю чутко). 
-В доме 5 номеров: 1-й на первом этаже, 2-й и 3-й на втором этаже. Эти номера имеют свои санузлы. Также на втором этаже находятся еще 2 номера- "Дупло" и "Трипло". При заселении указали, что санузлом на первом этаже могут пользоваться только гости этих двух без номерных комнат. Но ходили еще и другие постояльцы. Немного не комфортно
-
-15.
-The Lince Nordeste Country and Nature Hotel, 30m, 2-6 Apr: 255 NR or 283R with breakf    !?
--
-2017
-There were no towels in the spa.
-no kitchen
-Pillows are too low and no volume. As an option, there should be thicker,
-Access to the Spa is outside the hotel,
-Selection at breakfast
-We booked this apartment mainly because of the indoor swimming pool, but the temperature was too cold for our kids to really enjoy
-We were at the end of the season, without neighbors, but I'm not sure if the soundproofing is the best.
-Always the recurring problem of the quality of some products at breakfast
-Dark way to the Spa - outside walk
-wifi problem 
-The balcony door automatically locks behind you 
-We used the spa which is included in the price of the stay. When we got there we walked about 15min a little bit idle because there was no one at the reception to give towels or show the facilities. When we left it was the same.
-Another negative point is that unfortunately there is no connection between the hotel and the spa, so when we left the SPA we had to get rain and cold to return to the hotel.
-There was an unpleasant smell in the room.
-Room 216 overlooking the parking, without terrace, no mini bar, no hair dryer (the everything provided in the description) -A horrible smell comes from the pipes, smell noticed by the maids.
-поблизости нет крупного супермаркета.
-sauna and indoor pool were in maintenance works and there was nothing mentioned on the site.  - Oct 2019
-Пахнет сыростью и есть комары в апартаментах
-hotel is time-worn, renovation is needed
-+
-AC
-Bicycles are available for free
-indoor and outdoor pools + sauna. Possibility to go to Spa area until 21:00
-Room view over the village 5 stars.
-Quality of the bed: divine.
-Gym
-Близко к Pico-Da-Vara (высшей точки острова), если планируете восхождение - очень удобно.
-
-16.
-Hotel do Mar  8.6   2-5 Apr. 208 NR or 245 R with breakf
-
-17.
-Cantinho da Ilha - Guest House   66CAD
-https://www.expedia.ca/Nordeste-Hotels-Cantinho-Da-Ilha-Guest-House.h21961087.Hotel-Information?chkin=02%2F04%2F2020&chkout=05%2F04%2F2020&regionId=6035399&destination=Nordeste%2C+Azores%2C+Portugal&swpToggleOn=true&mctc=10&selected=21961087&rm1=a2&x_pwa=1&sort=recommended&MDPDTL=HTL.21961087.20200402.20200405.DDF.143.CID.2040585584.AUDID.&MDPCID=CA.META.HPA.HOTEL-CORESEARCH-desktop.HOTEL&top_dp=66&top_cur=CAD&rfrr=HSR&pwa_ts=1573502683361
-
-	FLORE Island
-
-Hotels:
-1.
-Alojamentos Flores Island, 42m, 306 R    !?
--
-2 single beds
-Small room
-The mattresses were not perfect.
-Very dark rooms, old furniture, insufficient air conditioning, humidity.
-There was one room that had a flood due to a problem on the roof.
-Everything was a bit damp but I don't fault the place or the staff... I think its just par for the course of staying on a rainy island near the ocean.
-The website shows the beautiful apartments and we had therefore booked. On the other hand, we were in a basement that was cold and unhealthy without a kitchen....
-2013
-+
-The mini-mercado is within two minutes walking distance 
-The accommodation is very close to the most paradisiacal area of ​​the island!
-A/C
-
-2.
-Quinta da Ana, 94m, 370 R 	!
--
-dated
-And she even asked us whether we wanted additional red wine although she already prepared a bottle of white wine for us.
-+
-It is a typical Azorean house.
-Дом полностью был в нашем распоряжении! Спальня, гостиная, кухня, туалет.
-Понравилось что был пакет продовольственных продуктов. Мой муж воспользовался этим :) Магазинов в округе нет. Небольшой только с небольшим ассортиментом.
-left in the fridge some typical things of the area, cheese, wine, cherries.
-she also did transfer for our trek to Lajeda
-She was also kind enough to give us a lift to the other side of the island. 
-garden with fruits and vegetables
-flexible check-in and check-out is possible
-2018
-
-3.
-Casa Avô Fraga, 306 R    !
--
-A little cold in end of April. There is no heating in the apartment.
-The house had no heating. That was the only downside, as it was then quite fresh in the evening.
-+
-Heating in home description + photo of heater
-2018
-3 bedrooms + 2 bathroom + living room + kitchen
-The location is awesome, you can reach all attractions in a short time and there are restaurants, supermarkets, etc. very close.
-nice shower, good Wi-Fi
-welcome present left by them in the kitchen
-grill for barbeque
-The host is very very friendly and helpful,before we arrive,we asked if the house have BBQ and wood,the host said yes.When we arrived, we found there’s a brand new BBQ facility.. We are so amazing because we just stayed 3 nights,but the host did everything for us :He allow us check in earlier and prepared 2 bedrooms for us,left delicious local food,
-A few steps to a supermarket (although with very limited offer).
-Balcony
-
-4.
-Sítio da Assumada, 54m, 328 R    ?!
--
-2014
-Big windows
-There are missing essentials in the kitchen, such as oil, tea and the like, which are not a huge expense. In the bathroom have better gel and soap. 
-Bed was a little hard
-Except salt, no basic food was available. It would have been nice if a bottle of water, oil and vinegar as well as spices had been available on arrival.
-There was no where to put the shampoo/conditioner and soap in the shower. They do not provide soap or shampoo
-We booked a stay for four nights but due to bad weather the flight was cancelled for the next day and we only enjoyed three. It cost us that the owner proved to be insensitive to our no show, 
-+
-AC
-The bungalows allow you to be isolated from the rest of the complex and almost the world. Nice furniture. 
-Hammock
-the shower gel in single use packaging, not very ecofriendly
-As a coffee drinker, I was very happy with the existing capsule machine. 
-Quiet
-Fantastic host/owner who lives onsite and is available 24/7 
-It's 10 minutes walking to the grocery shop and bus stop, hikes within walking distance 
-
-5.
-Aldeia da Cuada, 50m, 328 R  ?
--
-There should be rolls by all the doors, and larger, to prevent wind entering the house.  - Cold?
-Not having television or internet access outside of the welcoming center can be a bit rough, especially on days like my stay where it was raining really hard and not much could be done outside.
-The house was full of bugs but expected given the location. The door made noise in the wind. Breakfast was full of bees in the food and space which was very uncomfortable.
-A slow-flowing shower with slow-flowing water takes time for the crew to warm up,
-Ants everywhere in the kitchen.
-+
-
-
-https://www.booking.com/hotel/pt/volcanic-charming-house.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Avbqje4FwAIB;sid=e0379c357f5271666cb2bf6d99995c4b;all_sr_blocks=407820706_201314281_2_1_0;checkin=2020-04-06;checkout=2020-04-11;dest_id=3343;dest_type=region;dist=0;group_adults=2;group_children=0;hapos=10;highlighted_blocks=407820706_201314281_2_1_0;hpos=10;nflt=roomfacility%3D38%3Breview_score%3D80%3Boos%3D1%3Bfc%3D2%3Bhr_24%3D8%3Bpri%3D1%3Bpri%3D2%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1573170947;srpvid=afe3a841edaa00c7;type=total;ucfs=1&#_
-
-___________________________________________
-
-THINGS TO DO:
-
-	SAO MIGUEL:
-		1.
-		Sete Cidades Lake
-		https://www.geekyexplorer.com/sao-miguel-island-in-4-days/#sao-miguel-road-trip-itinerary-sete-cidades
-			Vista do Rei viwpoint
-			Miradouro da Boca do Inferno (other name Lagoa Do Canario Viewpoint)
-			On the way down to village Sete Cidates there are few viwpoints, incl. Miradouro Do Cerrado Das Freiras
-			Pass bridge that separates 2 lakes to the village Sete Cidades
-			Ponta da Ferraria
-				ocean with hot springs - go on middle tide (low tide - burn, high tide - cold)
-				Tides: https://magicseaweed.com/Mosteiros-Right-Surf-Report/3832/Tide/
-				Need water shoes -  sharp rocks everywhere
-				For drivers: Firstly, once turning right onto the path down there is no turning back This is a very narrow zigzagging decent with the strong possibility of meeting cars coming back up. Coming back up you are on the outside edge. If you are confident in your car and don’t mind this type of road fine but if you are worried about highs and steep twisting declines perhaps this is not for you.
-				The current is strong and you must pay attention to the waves
-				Ferraria Thermal SPA nearby:
-					opened  from Tuesday to Sunday, from 11:00 a.m. to 7 p.m.
-					6 Euro in 2018
-					Bad reviews
-			Mosteiros:
-				Piscinas Naturais
-					ocean with hot springs - go on middle tide (low tide - burn, high tide - cold)
-					Tides: https://magicseaweed.com/Mosteiros-Right-Surf-Report/3832/Tide/
-				Mosteiros Beach
-					Black sand beach with beautiful views especially at sunset (Trick is to ctch the sun between the twin rock formations.)
-				O Americo:
-					locals were eating there in numbers
-					The seafood here was quite exceptional 
-					Recommendations:  grilled lapas (limpets)!  - best in Sao Miguel
-									  octopus! (polvo) - melt in mourh 12.90
-									  shrimps (Camarao) 7.50
-									  grilled mussels (mexilhao) 11.00
-					Not open Monday evenings (only lunchtime)
-					Book in advance or before walking leave your name					
-		2.
-		Lagoa do Fogo
-			You can't swim in lake
-			Pico da Barrosa
-				At the very peak of the road from Ponta Delgada to Lagoa do Fogo. To sea south and North coasts 
-				https://www.wikiloc.com/hiking-trails/pico-barrosa-lagoa-do-fogo-31157893
-				https://www.wikiloc.com/hiking-trails/paseo-por-la-cima-del-pico-de-la-barrosa-34561206
-				
-		3.
-		Ponta Delgada
-			Seaside promenade (Avenida)
-			Mercado da Grace (farmers market)   
-				Frieday and Saturday. Closed on Sunday 
-				Cheese, pineapple, tea, fruite and veggies 
-			Igreja Matriz (matriz church)
-			Arruda Pineapple plantation
-				Pineapple Liqueur testing for free
-				They also have a cafe that sells pineapple foods: pineapple juice, piña coladas, pineapple pastries,  pineapple ice-cream 
-				The shop and cafe are quite expensive.
-			Jardim Antonio Borges
-!				Terra Nostra Park in Furnas is better
-			Pinhal da Paz
-				If you can't have a barbecue at your hotel or appartment in Ponta Delgada. Just drive up to Pinhal da Paz and take your barbecuw with you.	
-			A Tasca restaurant - fish of the day, lapas
-			Taberna Acor - tapas
-		4.
-		Caldeira Velha 
-			Half way between Lagoa do Fogo and the city Ribeira Grande
-			Jurassik park with couple of hot springs
-			Waterfall spring (> 20) at the end of the park. There are hot springs with > 35 - crouded.
-			There is an iron infused, mineral rich waterfall at the top which is 24 degrees and a natural beauty. The further 3 pools 37 degrees!
-			Best time - late afternoon
-			8 Euro for springs and  3€ just to walk around
-			Lockers and cold showers
-			Old dark swimsuite (orangy water)	
-			Saw rats along the water’s edge. Interpreters did not seem surprised.
-			Having arrived merely 15 minutes after they opened, the 15 parking spaces they had were already taken.
-			Open 9:30-5:30pm, in winter: 9:00 - 9:00 pm
-				
-		5.
-		Furnas 	
-			2-hour hiking trail in Sanguinho - Salto do Prego (to waterfall in forest)
-			Lagoa Das Furnas	
-				Go around Furnas lake (1h30min)
-			Pico do Ferro viewpoint
-				view of Furnas valley
-				Hike from Pico do Ferro viewpoint - 6Km Grena-Pico do Ferro trail with views
-			Fumarolas
-				The place where cozido das furnas is cooked (Furnas srew) for 6-7 hours - too bland and dry.
-			Terra Nostra Park (thermal springs)	
-				Tropical garden and pools
-				Iron-rish thermal pool - 38C
-				8 Euro
-				Lockers can be rented at extra cost
-				Changing rooms
-				The park closes at 18:00.
-				There are also a couple of little pools close to the changing rooms, which are hotter, and really nice too
-			Poca Da Dona Beija (thermal springs)	
-				5 small pools 25-39C
-				The most popular among locals
-				7AM - 11PM
-				6 Euro
-				Lockers and hor showers at extra charge
-		6.
-		Nordeste	
-			Vegetation is thicker, cliffs are stipper
-			Miradouro da Ponta do Sossego
-			Miradouro da Ponta da Modrugada
-			Farol do Arnel (lighthouse)	 - go there by foot (the road is 35 degree steep - difficult driving)
-			Ribeira dos Caldeiroes
-				the most amazing waterfalls in island
-			Gorreana tea factory
-				free tea testing
-			Porto formoso	
-					
-		7.
-		Thermal springs in Sao Miguel
-				Choose cloudy day and evenings
-				Do not use jewelry
-				Dark swimwear
-			Terra Nostra Park
-			Poca Da Dona Beija
-			Ponta da Ferraria
-				2h30min - 30 Euro for indoor/ outdoor pools, sauna, Turkish bath, aromatic showers
-				Free who stay here
-			Termas das Caldeiras 	
-				3 pools, 1 of which is ourdoors
-				Not crowded
-				10am - 10pm
-				3 Euro
-				Changing rooms
-				go to the private small pool through a small building that has a dressing room and some privacy. Some days you might be the only ones in the pool there
-				Dirty?
-			Caldeira Velha 
-				
-		8.
-		Best hiking	
-		https://www.geekyexplorer.com/hiking-azores/	
-			Sao Miguel
-				Praia – Lagoa do Fogo 
-					11km 4hours
-				Faial da Terra – Salto do Prego 
-					4.5km   2h 
-					It could be done in gloomy days (no views, only lush forest and waterfall)
-				Serra Devassa 
-					5km 2h
-					Good visibility is essencial to see views
-				Pico da Vara
-`					7km 3h
-					Good visibility is essencial to see views
-				Rota da Agua  - Janela do Inferno
-					7.6km 2h30min 
-					Jurassic Park
-					It could be done in gloomy days (no views, only lush forest, waterfall)
-					There are 4 tunnels--2 long and 2 short. You will need a flashlight (my cellphone flashlight was sufficient, but barely!)
-			Other trecks in Sao Miguel:
-				Caldeiras da Ribeira Grande - Salto do Cabrito   !
-					7.5km 2h30min
-					http://www.gonewiththegrins.com/hiking-the-azores-salto-do-cabrito-hydroelectric-plant/
-					It could be done in gloomy days 
-				Rocha da Relva                                    ? as the same path back
-					5.50km   3h 
-					Good visibility is essencial to see views
-					https://www.youtube.com/watch?v=onPwiOLrWK4	
-					
-				Padrão das Alminhas - Salto da Farinha            !	
-					5km 2h    Linear (the same way back)
-					It could be done in gloomy days - 1 big waterfall, 1 wooden bridge, forest, from 1 village to another
-					https://www.youtube.com/watch?v=7Pofj759_DI
-					https://www.youtube.com/watch?v=-YsjuLpH-6c
-					
-				Ribeira do Faial da Terra                          !  looks like Padrão das Alminhas - Salto da Farinha
-					6km 2h Linear
-					It could be done in gloomy days - 2 small waterfalls, wooden bridge, forest
-						
-				Chá Gorreana                                       ! (Unofficial shorter trail is available)
-					3.5 km 	1.5 hrs    Circular
-					Start and finish at Tea plantation
-					If you are short on time or are just interested in the tea fields themselves, then you definitely do not need to take part of the entire official hike. Instead of making that immediate left turn alongside the fence at the beginning of the hike, continue straight uphill into the tea fields 
-					https://triptins.com/cha-gorreana-tea-plantation/
-					It could be done in gloomy days
-					
-				Pedra Queimada                                     !?
-					6.5 km 	2.5 hrs	Linear						https://www.tripadvisor.ca/Attraction_Review-g8780889-d8779526-Reviews-Pedra_Queimada_Lajinha_Degredo-Maia_Ribeira_Grande_Sao_Miguel_Azores.html#photos;aggregationId=101&albumid=101&filter=7&ff=226660035
-					Good visibility is essencial to see views od village below
-					
-				Agrião trail                                       ?
-					7.5 km 3 hrs Linear
-					Route near coast, viwpoint
-					If the conditions allow (calm sea and few people) go along the beach passing by the base of Ferro bridge.
-					In case of bad weather or high tide, choose to go up along the main road. 
-					Good weather is essencial for views
-					
-				Praia da Viola                                     !
-					5 km 2 hrs  Linear  
-					Route near coast, viwpoint. Connect 2 villages
-					https://www.youtube.com/watch?v=4slQGMOqecc
-					Need good visibility
-	
-				Rota da Água                                         ! 
-					15km  5h    Linear   (may be longer if use circular route Rota da Agua  - Janela do Inferno)
-					Rota da Agua  - Janela do Inferno and Rota da Água - Pedras Brancas  are included
-					In gloomy weather	 
-					 
-					
-	
-		Islands Flores and Corvo are the most prone to rain 
-		Web cameras: http://spotazores.com/cams
-		Weather is very cangable: starts sunny, but later rain (for few hours) 			
