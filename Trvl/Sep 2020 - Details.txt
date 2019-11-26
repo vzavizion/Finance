@@ -347,22 +347,59 @@ Plane
 				https://www.kayak.com/flights/MIL-YYZ/2020-09-28-flexible-1day?sort=price_a
 					495 515 490			490 / 550 / 515		
 					
-					https://www.kayak.com/flights/MIL-YYZ/2020-09-27?sort=price_a&fs=flexdepart=20200927;airports=MXP,YYZ
+					https://www.kayak.com/flights/OSL-YYZ/2020-09-27?sort=price_a
+					https://www.kayak.com/flights/CPH-YYZ/2020-09-27?sort=price_a
+					https://www.kayak.com/flights/FNC-YYZ/2020-09-27?sort=price_a
+					
+					https://www.kayak.com/flights/ALC-YYZ/2020-09-27?sort=price_a&fs=flexdepart=20200927;stops=-2
+						Alicante 420 / 355					
+					https://www.kayak.com/flights/BIO-YYZ/2020-09-27?sort=price_a&fs=flexdepart=20200927;stops=-2
+						Bilbao 420 / 355					
+					https://www.kayak.com/flights/BRU-YYZ/2020-09-27?sort=price_a&fs=flexdepart=20200927;stops=-2
+						Brussels 300 / 300
+					https://www.kayak.com/flights/BUD-YYZ/2020-09-27?sort=price_a&fs=flexdepart=20200927;stops=-2
+						Budapest 390 / 300
+					https://www.kayak.com/flights/CPH-YYZ/2020-09-27?sort=price_a&fs=flexdepart=20200927;stops=-2	
+						Copenhagen 340 / 280
+					https://www.kayak.com/flights/GVA-YYZ/2020-09-27?sort=price_a&fs=flexdepart=20200927;stops=-2
+						Geneva 430 / 380
+						
+
+					Amsterdam 
+					Barcelona					
+					Berlin–Tegel
+					Bologna 
+					Bordeaux			
+					Dublin					
+					Düsseldorf
+					Florence 					
+					Frankfurt
+					Funchal
+					Gran Canaria
+					
+					
+					Hamburg
+					Helsinki
+					London–Gatwick
+					London–Heathrow
+					
+					, Luxembourg, Lyon, Madrid, Málaga, Manchester, Marseille, Milan–Malpensa, Munich, Nantes, Naples, Nice, Oslo–Gardermoen, Paris–Orly, Porto, Prague, Rome–Fiumicino, Seville, Stockholm–Arlanda, Tel Aviv, Tenerife–South, Toulouse, Valencia, Venice, Vienna, Warsaw–Chopin, Zürich
+					https://www.kayak.com/flights/LIS-YYZ/2020-09-28-flexible-1day?sort=price_a
+						450
+					https://www.kayak.com/flights/OPO-YYZ/2020-09-28-flexible-1day?sort=price_a	
+						460
+					
+					https://www.kayak.com/flights/MIL-YYZ/2020-09-26?sort=price_a&fs=flexdepart=20200926;airports=MXP,YYZ
+					https://www.kayak.com/flights/MIL-YYZ/2020-09-27?sort=price_a&fs=flexdepart=20200927;airports=MXP,YYZ					
+					https://www.google.ca/flights#flt=MXP.YYZ.2020-09-27;c:CAD;e:1;so:1;sd:1;t:f;tt:o
 					https://www.kayak.com/flights/MIL-YYZ/2020-09-28?sort=price_a&fs=flexdepart=20200928;airports=MXP,YYZ					
+					
+					https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=CPH&destination=YYZ&depDate=27.09.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
 					https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=MXP&destination=YYZ&depDate=27.09.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
 					https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=ZRH&destination=YYZ&depDate=27.09.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
 
 			
-			???
-			LIS, OPO, BCN
-				https://www.kayak.com/flights/LIS-YYZ/2020-09-28-flexible-1day?sort=price_a
-					450
-				https://www.kayak.com/flights/OPO-YYZ/2020-09-28-flexible-1day?sort=price_a	
-					460
-				https://www.kayak.com/flights/BCN-YYZ/2020-09-28-flexible-1day?sort=price_a			
-					480	
-				https://www.kayak.com/flights/FNC-YYZ/2020-09-28-flexible-1day?sort=price_a			
-					???
+
 					
 
 	to MOW - TB
@@ -372,7 +409,7 @@ Plane
 				https://www.kayak.com/flights/MXP-MOW/2020-09-28-flexible-1day?sort=price_a
 					180					225 / 150 / 190
 					
-					https://www.kayak.com/flights/MXP-MOW/2020-09-27?sort=price_a
+					https://www.kayak.com/flights/MXP-MOW/2020-09-27?sort=price_a					
 					https://www.kayak.com/flights/MXP-MOW/2020-09-28?sort=price_a
 
 			MOW
@@ -389,5 +426,5 @@ Car Rent
 	https://www.ca.kayak.com/cars/YYZ-a3405/EWR-a15830/2020-09-04-18h/2020-09-05-18h?sort=price_a
 		185
 		
-	https://www.ca.kayak.com/cars/MXP-a53596/2020-09-07-9h/2020-09-17-9h?sort=price_a
+	https://www.ca.kayak.com/cars/MXP-a53596/2020-09-17-9h/2020-09-27-9h?sort=price_a
 		250-350
