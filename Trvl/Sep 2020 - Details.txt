@@ -27,29 +27,14 @@ Sep Plan
 15 from FNC to Porto (morning flight)
 	2 days Porto
 17 from Porto to Milan (evening flight)
-	10 days MXP/ZRH
-		2 days Zermatt		Sep 17-19
-		
-			hotel
-				Brig
-				Zermatt
-				Leukerbad
-		
-		3 days Interlaken	Sep 19-22
-						
-			hotels
-				Interlaken
-				Grindelwald
-				Lauterbrunnen
-				Thun
-				Spiez
-				Lake Thun
-				
-		3 days Lucerne	Sep 22-25
-		2 days Locarno	Sep 25-26
-		1 day Milan		Sep 26-27
-		
-27 from Milan
+	8 days MXP/ZRH
+		2 days Zermatt		Sep 18-19
+		3 days Interlaken	Sep 20-22
+		2 days Lucerne		Sep 23-24
+		1 days Locarno		Sep 25		
+26 from Porto to Milan to Brussels (morning flight)
+	1 day Brussels
+27 from Brussels to YYZ / MOW
 
 
 =============================================
@@ -227,17 +212,7 @@ Car Rent FNC
 =============================================
 
 
-		Sep 17-19 Zermatt				OR 17-20
-		Sep 19-22 Interlaken			OR 19-23 OR 20-22 OR 20-23
-		Sep 22-25 Lucerne				OR 23-25
-		Sep 25-26 Locarno Marriott
-		Sep 26-27 MXP
-
-
-
 		Sep 17
-			Porto
-		
 			arrive MXP
 		
 			MXP pick up rental car
@@ -289,12 +264,23 @@ Car Rent FNC
 		Sep 25
 			Bellinzona + Locarno + Val Verzasca + Val Maggia
 		Sep 26
-			Bellinzona + Locarno + Val Verzasca + Val Maggia
-		Sep 27
-			leave MXP
-		Sep 28
-			leave MXP
+			leave MXP 
 			
+
+=============================================
+=============================================
+=============================================
+
+
+	OPO
+		
+		Sep 26
+			arrive Brussels
+	
+		Sep 27
+			leave Brussels for YYZ / MOW
+
+
 
 
 
@@ -306,11 +292,11 @@ Car Rent FNC
 
 TO DO
 
+
 Pay Scotia Credit Cards
 
-Travel Guides
-	Switzerland		
 
+Swiss Pass
 
 
 	
@@ -319,158 +305,64 @@ Hotels
 	live near sightseeings	
 		Sep 17-19 Zermatt				OR 17-20
 				https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4AtqO6-4FwAIB&sid=f1e81f7e4be7659c8a5c960b2d87d558&tmpl=searchresults&ac_click_type=b&ac_position=3&checkin_month=9&checkin_monthday=17&checkin_year=2020&checkout_month=9&checkout_monthday=19&checkout_year=2020&class_interval=1&dest_id=-2551394&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=index&srpvid=d5837fe1de240019&ss=Brig%2C%20Canton%20of%20Valais%2C%20Switzerland&ss_raw=brig&ssb=empty&ssne=Locarno&ssne_untouched=Locarno&top_ufis=1&nflt=pri%3D3%3Bpri%3D2%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D38%3Boos%3D1%3B&rsf=&rdf=#map_closed
+		
+
+				17-18							
+					https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4AtqO6-4FwAIB&sid=f1e81f7e4be7659c8a5c960b2d87d558&tmpl=searchresults&ac_click_type=b&ac_position=3&checkin_month=9&checkin_monthday=17&checkin_year=2020&checkout_month=9&checkout_monthday=18&checkout_year=2020&class_interval=1&dest_id=-2551394&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=index&srpvid=d5837fe1de240019&ss=Brig%2C%20Canton%20of%20Valais%2C%20Switzerland&ss_raw=brig&ssb=empty&ssne=Locarno&ssne_untouched=Locarno&top_ufis=1&nflt=pri%3D3%3Bpri%3D2%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D38%3Boos%3D1%3B&rsf=&rdf=#map_closed
 				
+				18-19				
+					https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4AtqO6-4FwAIB&sid=f1e81f7e4be7659c8a5c960b2d87d558&tmpl=searchresults&ac_click_type=b&ac_position=3&checkin_month=9&checkin_monthday=18&checkin_year=2020&checkout_month=9&checkout_monthday=19&checkout_year=2020&class_interval=1&dest_id=-2551394&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=index&srpvid=d5837fe1de240019&ss=Brig%2C%20Canton%20of%20Valais%2C%20Switzerland&ss_raw=brig&ssb=empty&ssne=Locarno&ssne_untouched=Locarno&top_ufis=1&nflt=pri%3D3%3Bpri%3D2%3Bpri%3D1%3Breview_score%3D80%3Broomfacility%3D38%3Boos%3D1%3B&rsf=&rdf=#map_closed
+
+		
 		Sep 19-22 Interlaken			OR 19-23 OR 20-22 OR 20-23
 		
+				https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4AtqO6-4FwAIB&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=19&checkin_year=2020&checkout_month=9&checkout_monthday=22&checkout_year=2020&city=-2551394&class_interval=1&dest_id=3791&dest_type=region&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&nflt=pri%3D2%3Bpri%3D3%3Boos%3D1%3Breview_score%3D80%3Broomfacility%3D38%3B&no_rooms=1&offset=0&order=price&postcard=0&raw_dest_type=region&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=3bf2544cfe5f0051&ss=Interlaken%2C%20Switzerland&ss_all=0&ss_raw=interlaken&ssb=empty&sshis=0&ssne=Brig&ssne_untouched=Brig&top_ufis=1&no_dorms=1
+		
+		
 		Sep 22-25 Lucerne				OR 23-25	
+				
+				https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4AtqO6-4FwAIB&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=22&checkin_year=2020&checkout_month=9&checkout_monthday=25&checkout_year=2020&class_interval=1&dest_id=-2552994&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&nflt=pri%3D2%3Bpri%3D3%3Broomfacility%3D38%3Boos%3D1%3Breview_score%3D80%3B&no_rooms=1&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=8d3355397bc6000f&ss=Luzern%2C%20Canton%20of%20Lucerne%2C%20Switzerland&ss_all=0&ss_raw=lucerne&ssb=empty&sshis=0&ssne=Interlaken&ssne_untouched=Interlaken&top_ufis=1&order=price
 		
 
 	
 Plane
 				
-	to YYZ - VZ
-			ZRH, MIL
-				https://www.kayak.com/flights/ZRH-YYZ/2020-09-28-flexible-1day?sort=price_a
-					490 515 490			545 / 490 / 490			
-				https://www.kayak.com/flights/MIL-YYZ/2020-09-28-flexible-1day?sort=price_a
-					495 515 490			490 / 550 / 515		
-					
-					
-					MXP-YYZ
-					MAU			Sep 27-28
-						TOTAL to YYZ 375!!!
-						TOTAL to MOW 150!!!
-						GRAND TOTAL 525!!!	+ 40 hotel								565
-						
-					MXP-CPH-YYZ	Sep 27-28
-						TOTAL to YYZ 370!!!
-						TOTAL to MOW 230!!!							
-						GRAND TOTAL 600!!!	+ 45 luggage	+ 160 hotel				805
-					
-					GVA-BRU-YYZ Sep 26-27
-						TOTAL to YYZ 390 / ???!!!
-						TOTAL to MOW 210!!!
-						GRAND TOTAL 600!!!	+ 45 luggage	+ 60 hotel				705		- 100 hotel		605
-						
-					MXP-BRU-YYZ Sep 26-27
-						TOTAL to YYZ 435
-						TOTAL to MOW 190!!!
-						GRAND TOTAL 625!!!	+ 45 luggage	+ 60 hotel				730		- 100 hotel		630						
-					
-					
-						
-					https://www.kayak.com/flights/BRU-YYZ/2020-09-27?sort=price_a&fs=stops=-2
-						Brussels 300 / 300
-						https://www.kayak.com/flights/MXP-BRU/2020-09-26?sort=price_a&fs=stops=~0
-							95 + 40 luggage
-						https://www.kayak.com/flights/MXP-BRU/2020-09-27?sort=price_a&fs=stops=~0
-							135 + ??? luggage
-							TOTAL to YYZ 435 / 435!!!
-							
-						https://www.kayak.com/flights/GVA-BRU/2020-09-26?sort=price_a&fs=stops=~0
-							50 + 40 luggage
-						https://www.kayak.com/flights/GVA-BRU/2020-09-27?sort=price_a&fs=stops=~0
-							??? + ??? luggage
-							TOTAL to YYZ 390 / ???!!!
-							
-						https://www.kayak.com/flights/BRU-MOW/2020-09-28?sort=price_a&fs=stops=-2
-							160
-							TOTAL to MOW 210!!!
-							GRAND TOTAL 600!!!
-						
-												
-												
-					https://www.kayak.com/flights/CPH-YYZ/2020-09-27?sort=price_a&fs=stops=-2
-						Copenhagen 340 / 280
-						https://www.kayak.com/flights/MXP-CPH/2020-09-27?sort=price_a&fs=stops=~0
-							50 (3 seats left)	+ 40 luggage
-							TOTAL to YYZ 430 / 370!!!
-							
-						https://www.kayak.com/flights/CPH-MOW/2020-09-28?sort=price_a&fs=stops=-2
-							180
-							TOTAL to MOW 230!!!
-							
-							GRAND TOTAL 600!!!
-												
-			
-						
-					https://www.kayak.com/flights/GVA-YYZ/2020-09-27?sort=price_a&fs=stops=-2
-						Geneva 430 / 380
-							https://www.kayak.com/flights/GVA-MOW/2020-09-27?sort=price_a&fs=stops=~0
-								200
-								
-							TOTAL to YYZ 430!!!
-							TOTAL to MOW 200!!!
-							GRAND TOTAL 630!!!			45				675
-							
-							
-							
-							
+	to YYZ
+					vzMadeira2020@gmail.com
+					TAP TG38W9
 
 
-					https://www.kayak.com/flights/LGW-YYZ/2020-09-27?sort=price_a&fs=stops=-2
-						London–Gatwick 385 / 385					
-						https://www.kayak.com/flights/MXP-LGW/2020-09-27?sort=price_a&fs=stops=~0
-							55 + 40 luggage
-							TOTAL to YYZ 480!!!
-						
-						
-						
-						
-					https://www.kayak.com/flights/OPO-YYZ/2020-09-27?sort=price_a&fs=stops=-2
-						Porto 500 / 435
-					https://www.kayak.com/flights/LIS-YYZ/2020-09-27?sort=price_a&fs=stops=-2					
-						Lisbon 490 / 420
-						
-
-						
-					
-					
-					
-					https://www.kayak.com/flights/MIL-YYZ/2020-09-26?sort=price_a&fs=flexdepart=20200926;airports=MXP,YYZ					
-					https://www.google.ca/flights#flt=MXP.YYZ.2020-09-27;c:CAD;e:1;so:1;sd:1;t:f;tt:o
-					https://www.kayak.com/flights/MIL-YYZ/2020-09-28?sort=price_a&fs=flexdepart=20200928;airports=MXP,YYZ					
-					
-
-
-
-
-
-
-					TAP: QUUYSP				
-					Agency confirmation number: GYEPQH
-					Toll Free: + 1800 221 73 70
+					BRU
 					https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=BRU&destination=YYZ&depDate=27.09.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
 					
-					https://www.kayak.com/flights/BRU-YYZ/2020-09-27?sort=price_a					
-				
-
-
-
-				https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=CPH&destination=YYZ&depDate=27.09.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
-				https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=MXP&destination=YYZ&depDate=26.09.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
-				https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=MXP&destination=YYZ&depDate=27.09.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
-				https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=ZRH&destination=YYZ&depDate=27.09.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
-				https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=GVA&destination=YYZ&depDate=27.09.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
-			
-
+					https://www.kayak.com/flights/BRU-YYZ/2020-09-27?sort=price_a
 					
-
-	to MOW - TB
-			MOW
-				https://www.kayak.com/flights/MOW-YYZ/2020-10-22-flexible?sort=price_a
-					420					
+				
+					MXP
+					https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=MXP&destination=YYZ&depDate=27.09.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
+					
+					https://www.kayak.com/flights/MXP-YYZ/2020-09-27?sort=price_a
+					
+				
+					DME			
 					https://book.flytap.com/r3air/tap/DeepLink.aspx?flightType=Single&origin=DME&destination=YYZ&depDate=22.10.2020&depTime=0&adt=1&yad=0&chd=0&inf=0&market=CA&language=en-US&searchType=fixed&retTime=0&cabinClass=Y&resident=false&_a=FTCAen-US&TAPID=1002-1761-9741-7026&EMAIL=vzavizion@yahoo.com&uh=92b6fcaf94fc638dd6183c137b19f67c
+	
 	
 	
 	
 
 Car Rent
-	MXP/ZRH
+	YYZ
 	https://www.ca.kayak.com/cars/BUF-a3405/EWR-a15830/2020-09-04-18h/2020-09-05-18h?sort=price_a
-		140
+		155
 	https://www.ca.kayak.com/cars/YYZ-a3405/EWR-a15830/2020-09-04-18h/2020-09-05-18h?sort=price_a
 		185
 		
-	https://www.ca.kayak.com/cars/MXP-a53596/2020-09-17-9h/2020-09-27-9h?sort=price_a
-		250-350
+	FNC
+	https://www.ca.kayak.com/cars/FNC/2020-09-06-10h/2020-09-15-10h?sort=price_a
+		205
+		
+	MXP
+	https://www.ca.kayak.com/cars/MXP-a53596/2020-09-17-22h/2020-09-26-22h?sort=price_a
+		225
+		
