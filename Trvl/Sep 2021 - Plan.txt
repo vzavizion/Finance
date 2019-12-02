@@ -274,6 +274,8 @@ https://www.google.ca/flights#flt=YYZ.WDH.2020-01-01*WDH.YYZ.2020-01-29;c:CAD;e:
 
 https://www.google.ca/flights#flt=YYZ.SJO.2020-01-01*SJO.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
 
+Patagonia: Argentina / Chile
+
 
 
 https://www.google.ca/flights#flt=YYZ.SIN,KUL,/m/0fn2g,/m/0ftkx.2020-01-01*SIN,KUL,/m/0fn2g,/m/0ftkx.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
