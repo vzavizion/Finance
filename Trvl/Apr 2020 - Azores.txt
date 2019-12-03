@@ -3,6 +3,35 @@
 ================================================
 
 
+Lounge Plan
+
+Total visits: 6+6+4 = 16 / 2 = 8
+
+
+Apr
+YYZ-LIS	BMO VZ x 2
+LIS-PDL	BMO VZ x 2
+PDL-LIS ??? (departure 08:50)
+LIS-YYZ Scotia VZ x 2
+
+
+Sep 
+NYC-LIS Scotia VZ x 2
+LIS-FNC Scotia VZ x 2
+FNC-OPO ??? (departure 08:50)
+OPO-MXP Scotia TB x 2
+MXP-BRU ??? (departure 09:00)
+BRU-LIS Scotia TB x 2
+MOW-LIS	Scotia TB x 1
+LIS-YYZ	Scotia TB x 1
+
+
+
+
+================================================
+================================================
+================================================
+
 
 Azores Plan
 
@@ -33,9 +62,9 @@ Sunrise 7:30 am
 Sunset 8:05 pm 
 
 Apr 1
-	Lagoa das Furnas + Grená - Pico do Ferro + Thermal Springs Poça da Dona Beija	
-Apr 2	
 	Faial da Terra - Salto do Prego + Sanguinho + Thermal Springs Terra Nostra
+Apr 2	
+	Lagoa das Furnas + Grená - Pico do Ferro + Thermal Springs Poça da Dona Beija	
 Apr 3
 	Padrão das Alminhas - Salto da Farinha + Hotel Pool / Thermal Springs Poça da Dona Beija	
 Apr 4
@@ -67,11 +96,9 @@ Apr 31-2 or 1-2 (optional)
 Hotel do Mar
 1 + 1
 	Apr 1 
-		Lagoa das Furnas
-			while moving to Hotel do Mar
+		Faial da Terra - Salto do Prego
 	Apr 2
-		Faial da Terra - Salto do Prego		
-			while moving to Lince
+		Lagoa das Furnas
 			
 Apr 2-5
 The Lince Nordeste Country and Nature Hotel
@@ -299,7 +326,7 @@ tea plantations in Gorreana
 			Grená - Pico do Ferro
 				circular
 				6.5 km
-				3 hrs			
+				3 hrs
 				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
 					page 73
 				https://www.wikiloc.com/hiking-trails/prc22-smi-grena-pico-do-ferro-30111840

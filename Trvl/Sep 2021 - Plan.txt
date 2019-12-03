@@ -274,8 +274,21 @@ https://www.google.ca/flights#flt=YYZ.WDH.2020-01-01*WDH.YYZ.2020-01-29;c:CAD;e:
 
 https://www.google.ca/flights#flt=YYZ.SJO.2020-01-01*SJO.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
 
-Patagonia: Argentina / Chile
+https://www.google.ca/flights#flt=YYZ./m/01ly5m.2020-01-01*/m/01ly5m.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.SCL.2020-01-01*SCL.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
 
+	Trelew REL
+		1250
+	El Calafate FTE
+		1550
+	Rio Gallegos RGL
+		1300
+	Ushuaia	USH
+		1350
+	Puerto Natales PNT
+		1550
+	Punta Arenas PUQ
+		1450
 
 
 https://www.google.ca/flights#flt=YYZ.SIN,KUL,/m/0fn2g,/m/0ftkx.2020-01-01*SIN,KUL,/m/0fn2g,/m/0ftkx.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
