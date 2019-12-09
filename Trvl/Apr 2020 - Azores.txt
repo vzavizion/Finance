@@ -17,14 +17,18 @@ LIS-YYZ Scotia VZ x 2
 
 Sep 
 NYC-LIS Scotia VZ x 2
-LIS-FNC Scotia VZ x 2
+LIS-FNC ??? not enough time 
 FNC-OPO ??? (departure 08:50)
 OPO-MXP Scotia TB x 2
 MXP-BRU ??? (departure 09:00)
-BRU-LIS Scotia TB x 2
+BRU-LIS Scotia VZ x 1
+BRU-MOW Scotia TB x 1
 MOW-LIS	Scotia TB x 1
 LIS-YYZ	Scotia TB x 1
 
+Left
+Scotia VZ x 1
+Scotia TB x 1
 
 
 
