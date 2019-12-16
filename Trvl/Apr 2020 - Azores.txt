@@ -11,7 +11,7 @@ Total visits: 6+6+4 = 16 / 2 = 8
 Apr
 YYZ-LIS	BMO VZ x 2
 LIS-PDL	BMO VZ x 2
-PDL-LIS ??? (departure 08:50)
+PDL-LIS Scotia VZ x 1 + Scotia TB x 1
 LIS-YYZ Scotia VZ x 2
 
 
@@ -26,9 +26,7 @@ BRU-MOW Scotia TB x 1
 MOW-LIS	Scotia TB x 1
 LIS-YYZ	Scotia TB x 1
 
-Left
-Scotia VZ x 1
-Scotia TB x 1
+
 
 
 
@@ -55,6 +53,7 @@ Sep 05-11 to PDL
 Sep 11-12 to YYZ + LIS stopover
 
 
+
 ================================================
 ================================================
 ================================================
@@ -65,12 +64,15 @@ Plan
 Sunrise 7:30 am
 Sunset 8:05 pm 
 
+
+Mar 31
+	arrive PDL
 Apr 1
 	Faial da Terra - Salto do Prego + Sanguinho + Thermal Springs Terra Nostra
 Apr 2	
-	Lagoa das Furnas + Grená - Pico do Ferro + Thermal Springs Poça da Dona Beija	
+	Lagoa das Furnas + Grená - Pico do Ferro + Thermal Springs Parque Terra Nostra
 Apr 3
-	Padrão das Alminhas - Salto da Farinha + Hotel Pool / Thermal Springs Poça da Dona Beija	
+	Padrão das Alminhas - Salto da Farinha + Hotel Pool / Thermal Springs Poça da Dona Beija
 Apr 4
 	Pico da Vara + Nordeste (Miradouro da Ponta do Sossego + Miradouro da Ponta da Madrugada) + Hotel Pool / Thermal Springs Poça da Dona Beija
 Apr 5	
@@ -91,10 +93,6 @@ Apr 11
 
 
 Plan + Hotels
-Apr 31-1 (optional)
-Ponta Delgado
-	Mar 31
-		arrive PDL
 
 Apr 31-2 or 1-2 (optional)
 Hotel do Mar
@@ -130,21 +128,6 @@ Mitós Vila 3
 		Relax + Thermal Springs Poça da Dona Beija + leave PDL
 
 
-
-
-
-
-Apr 31-6		6 nights
-Villa 
-2 + 1 + Ponta Delgado + West
-
-Apr 6-9			3 mights
-Lince
-2 + 1
-
-Apr 9-11		2 nights
-Hotel do Mar
-1 + 1
 
 
 
@@ -308,44 +291,7 @@ tea plantations in Gorreana
 				page 83
 		
 		
-	Lagoa das Furnas - nature reserve since 1974, this crater lake reaches a maximum depth of 30 metres.
-		hiking
-		
-		
-			DAY; TB !!!
-			Lagoa das Furnas
-				circular
-				9.5 km
-				3 hrs
-				http://trails.visitazores.com/en/trails-azores/sao-miguel/furnas
-				http://trails.visitazores.com/sites/default/files/prc_06_smi_-_lagoa_das_furnas_nova_versao_3.pdf
-				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-					page 49
-				https://www.wikiloc.com/hiking-trails/circular-lagoa-das-furnas-isla-de-sao-miguel-azores-13957805
-				https://www.wikiloc.com/hiking-trails/prc06-smi-lagoa-das-furnas-e-trilho-salto-do-rosal-30098611
-				https://www.wikiloc.com/hiking-trails/circular-a-lagoa-das-furnas-com-ascensao-ao-pico-do-ferro-s-miguel-acores-9190384
 
-			+
-			
-			Grená - Pico do Ferro
-				circular
-				6.5 km
-				3 hrs
-				https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-					page 73
-				https://www.wikiloc.com/hiking-trails/prc22-smi-grena-pico-do-ferro-30111840
-				
-			Nordeste
-				https://www.wikiloc.com/hiking-trails/2014-05-19-smi-nordeste-prc31-lomba-fazenda-farol-arnel-7034374
-				https://www.wikiloc.com/hiking-trails/pr21smi-padrao-das-alminhas-salto-da-farinha-25141632
-				https://www.wikiloc.com/hiking-trails/nordeste-pedreira-faja-araujo-praia-lombo-gordo-miradouro-madrugada-miradouro-sossego-nordeste-16931342
-				
-					
-		30 different water springs, highly important for their mineral and medicinal properties. These waters have been used since the seventeenth century.
-		Caldera
-			Complex that features secondary volcanic activity.
-		Cycling and mountain biking		
-		Canoeing and kayaking
 
 hiking
 	https://www.wikiloc.com/trails/outdoor/portugal/azores?t=&d=&lfr=&lto=20&uom=mi&a=outdoor&months=&following=&since=&favorite-list=&q=Sao+MIguel%2C+Azores
@@ -372,25 +318,6 @@ hiking
 			https://www.wikiloc.com/hiking-trails/paseo-por-la-cima-del-pico-de-la-barrosa-34561206			
 		
 
-	DAY: TB !!!
-	Faial da Terra - Salto do Prego
-		trail in the most remote area. It snakes through a dense forest and majestic lush hills, leading to a stunning waterfall hidden in the forest. Swim in the freezing cold water
-		linear
-		4.5 km RT
-		2 hrs RT
-		http://trails.visitazores.com/en/trails-Azores/sao-Miguel/faial-da-terra-salto-do-prego		
-		http://trails.visitazores.com/sites/default/files/prc_09_smi_-_sanguinho_nova_versao_0.pdf		
-		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-			page 55
-		https://www.wikiloc.com/hiking-trails/prc-9-faial-da-terra-salto-do-prego-sao-miguel-azores-18972493
-		https://www.wikiloc.com/hiking-trails/faial-da-terra-35867534
-		https://www.wikiloc.com/hiking-trails/pr9-smi-sanguinho-salto-do-prego-e-ida-ao-salto-do-cagarrao-25143025
-		https://www.wikiloc.com/hiking-trails/salto-do-prego-18719651
-		
-		+
-		
-		2-hour hiking trail in Sanguinho - Salto do Prego (to waterfall in forest)
-		
 	
 	DAY: TB !!!	
 	Rota da Água - Janela do Inferno		
@@ -422,53 +349,7 @@ hiking
 				page 65			
 			https://www.wikiloc.com/walking-trails/rocha-da-relva-33860011
 			
-	!? - linear
-		Padrão das Alminhas - Salto da Farinha
-			linear
-			5 km RT
-			2 hrs RT	
-			http://trails.visitazores.com/en/trails-azores/sao-miguel/padrao-das-alminhas-salto-da-farinha
-			http://trails.visitazores.com/sites/default/files/flyer_pr_21_smi_-_pooo_azul.pdf	
-			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-				page 69			
-	
-		Ribeira do Faial da Terra
-			6 km RT
-			2 hrs RT		
-			http://trails.visitazores.com/en/trails-azores/sao-miguel/ribeira-do-faial-da-terra				
-			http://trails.visitazores.com/sites/default/files/pr_11_smi_-_ribeira_do_faial_da_terra_nova_versao_0.pdf		
-			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-				page 59
-			
-			
-	
-	
-	? - circular
-		Pedra Queimada
-			6.5 km
-			2.5 hrs
-			http://trails.visitazores.com/en/trails-azores/sao-miguel/pedra-queimada-lajinha-degredo
-			http://trails.visitazores.com/sites/default/files/prc_36_smi_-_pedra_queimada_nova_versao_0.pdf
-			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-				page 107
-			
-	? - linear	
-		Agrião trail
-			7.5 km RT
-			3 hrs RT
-			http://trails.visitazores.com/en/trails-azores/sao-miguel/agriao		
-			http://trails.visitazores.com/sites/default/files/pr_12_smi_-_agriao_0.pdf
-			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-				page 63			
-		
-		Praia da Viola 
-			5 km RT
-			2 hrs RT
-			http://trails.visitazores.com/en/trails-azores/sao-miguel/praia-da-viola
-			http://trails.visitazores.com/sites/default/files/flyer_pr_27_smi_-_praia_da_viola_nova_versao_0.pdf
-			https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
-				page 79
-			
+	? - linear			
 		Rota da Água
 			15 km RT
 			5 hrs RT				
@@ -483,14 +364,11 @@ hiking
 
 
 
+
 Natural hot springs
 	Caldeira Velha
 		waterfall of warm, iron water where you can take a dip, it is located on the north slope of the Fogo Volcano
 		9.30-17.30
-	Poça da Dona Beija
-		7.00-23.00
-	Terra Nostra Botanical Garden
-		one of the most beautiful gardens in Europe, it features a thermal swimming pool and more than 2,000 different trees 
 
 
 Gardens
@@ -1067,6 +945,31 @@ Round-trip ticket: €6.50
 
 SIM
 Vodaphone
+
+	https://www.vodafone.pt/en/products-services/visiting-portugal.html#phone-sim-card
+
+	20 EUR	
+	Travellers Voice SIM Card
+	5 GB + 500 mins
+	
+	Reservation + Pick up at arrivals
+	http://mobilegen.vodafone.pt/reservation-form/OYEPA
+	
+	Loja Lisboa - C.C. Chiado
+	10:00 - 23:00
+
+
+
+Left Luggage LIS
+
+	You may use our Baggage Storage Area, open 24 hours a day, 7 days a week, to leave your luggage. It is located in the arrivals area, next to car park area P2.
+	
+	Fees (per piece and per day) 
+		- up tp 10 Kg 2,90€
+		- from 10 to 30 kg 4,30€
+		- more than 30 Kg 8,60€
+
+	http://www.lisbon-airport.com/baggage.html
 
 
 

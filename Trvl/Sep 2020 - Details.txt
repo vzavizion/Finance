@@ -32,7 +32,7 @@ Sep Plan
 		3 days Interlaken	Sep 20-22
 		2 days Lucerne		Sep 23-24
 		1 days Locarno		Sep 25		
-26 from Porto to Milan to Brussels (morning flight)
+26 from Milan to Brussels (morning flight)
 	1 day Brussels
 27 from Brussels to YYZ / MOW
 
@@ -69,7 +69,7 @@ FNC Plan
 
 
 	Sep 6-8 Machico
-	Sep 8-10 Eira				DONE
+	Sep 8-10 Eira
 	Sep 10-13 Porto Moniz
 		Hotel Euro Moniz NR 284 including breakfast
 		Casa Das Videiras R 229, NR 206, 30% prepayment
@@ -314,6 +314,9 @@ Hotels
 				https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4AtqO6-4FwAIB&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=22&checkin_year=2020&checkout_month=9&checkout_monthday=25&checkout_year=2020&class_interval=1&dest_id=-2552994&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&nflt=pri%3D2%3Bpri%3D3%3Broomfacility%3D38%3Boos%3D1%3Breview_score%3D80%3B&no_rooms=1&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=8d3355397bc6000f&ss=Luzern%2C%20Canton%20of%20Lucerne%2C%20Switzerland&ss_all=0&ss_raw=lucerne&ssb=empty&sshis=0&ssne=Interlaken&ssne_untouched=Interlaken&top_ufis=1&order=price
 		
 
+		Swp 25-26 MXP
+
+
 	
 Plane
 				
@@ -343,20 +346,99 @@ Plane
 	
 
 Car Rent
-	YYZ
+	BUF
 	https://www.ca.kayak.com/cars/BUF-a3405/EWR-a15830/2020-09-04-18h/2020-09-05-18h?sort=price_a
-		155
+		155		https://www.expedia.ca/carsearch?date1=04%2F09%2F2020&date2=05%2F09%2F2020&dpln=4609346&drid1=5396293&loc2=Newark%2C%20NJ%2C%20United%20States%20of%20America%20(EWR-Liberty%20Intl.)&locn=Buffalo%2C%20NY%2C%20United%20States%20of%20America%20(BUF-Buffalo%20Niagara%20Intl.)&time1=600PM&time2=600PM
+	
+	YYZ
 	https://www.ca.kayak.com/cars/YYZ-a3405/EWR-a15830/2020-09-04-18h/2020-09-05-18h?sort=price_a
-		185
+		185		https://www.expedia.ca/carsearch?date1=04%2F09%2F2020&date2=05%2F09%2F2020&dlat=40.69085&dpln=5921113&drid1=5396293&loc2=Newark%2C%20NJ%2C%20United%20States%20of%20America%20(EWR-Liberty%20Intl.)&locn=Toronto%2C%20ON%2C%20Canada%20(YYZ-Pearson%20Intl.)&olat=43.68146&rdus=10&selSort=Price&time1=0600PM&time2=0600PM
+		
 		
 	FNC
 	https://www.ca.kayak.com/cars/FNC/2020-09-06-10h/2020-09-15-10h?sort=price_a
-		205
+		205 CAD / 3.7 Google https://www.expedia.ca/carsearch?date1=06%2F09%2F2020&date2=15%2F09%2F2020&dlat=40.69085&dpln=4410950&loc2=&locn=Funchal%2C%20Portugal%20(FNC-Cristiano%20Ronaldo)&olat=32.693588&rdus=10&selSort=Price&time1=1000AM&time2=1000AM		 
 		
+			Insular Car	!!!
+				270 EUR / 4.3 Google
+			Rodavante !!!
+				300 EUR (440 CAD) / 4.1 Google
+			Avia Car
+				205 EUR / 4.4 Google
+				
+			other
+				Avis-Budget
+					395 CAD / 2.2 Google
+				Europcar
+					N/A / 3.7 Google
+				Goldcar
+					1.6 Google
+				Guerin
+					N/A / 3.8 Google
+				Hertz
+					553.25 EUR / 2.9 Google
+				Madeira Rent
+					N/A / N/A
+				Sixt
+					455 EUR / 3.2 Google
+				Alamo
+					424 EUR / N/A
+				Enterprise 
+					715 CAD
+
+				
 	MXP
 	https://www.ca.kayak.com/cars/MXP-a53596/2020-09-17-22h/2020-09-26-22h?sort=price_a
-		225
+		210 CAD  / 240 CAD	https://www.expedia.ca/carsearch?date1=17%2F09%2F2020&date2=26%2F09%2F2020&dlat=40.69085&dpln=5265485&loc2=&locn=Milan%2C%20Italy%20(MXP-Malpensa%20Intl.)&olat=45.627723&rdus=10&selSort=Price&time1=1000PM&time2=1000PM
 		
+		!!!
+		Alamo - BOOKED
+			240 CAD / Google 3.1	
+		LOCAUTO
+			www.locautorent.com
+			215 EUR (315 CAD) / Google 3.2	
+		SIXT
+			www.sixt.it
+			230 EUR (335 CAD) / Google 3.9			
+		SICILY BY CAR AUTO EUROPA
+			www.autoeuropa.it	
+			245 EUR / Google 3.1
+		LEASYS
+			www.leasysrent.it
+			280 EUR (410 CAD) / Google 3.9			
+		
+		Sites down
+			DOLLAR
+				www.dollar.com
+				Google 1.4
+			THRIFTY - BOOKED
+				www.thriftycars4rent.it		
+				Google 1.2
+		
+		Other
+			GOLDCAR
+				www.goldcar.es/it
+				270 CAD / Google 2.4					
+			AVIS
+				www.avisautonoleggio.it
+				Google 2.5
+			BUDGET
+				www.budgetautonoleggio.it
+				655 CAD / Google 1.8			
+			EUROPCAR
+				www.europcar.it
+				390 CAD / Google 3.0
+			HERTZ
+				www.hertz.it
+				290 CAD / Google 2.5			
+			MAGGIORE
+				www.maggiore.it
+				N/A / Google 2.5
+			INTERRENT
+				https://www.interrent.com/
+				N/A / Google 3.1
+
+
 
 
 
@@ -366,6 +448,79 @@ Car Rent
 
 
 
-TO DO
+	Padrão das Alminhas - Salto da Farinha
+		http://trails.visitazores.com/en/trails-azores/sao-miguel/padrao-das-alminhas-salto-da-farinha
+		http://trails.visitazores.com/sites/default/files/trails/sao-miguel/pr21smi-3599.jpg
+		http://trails.visitazores.com/sites/default/files/flyer_pr_21_smi_-_pooo_azul.pdf
+		https://api.visitazores.com/sites/default/files/brochures/Guia_EN_BQ02_0.pdf
+			page 69
+			
+		Nordeste
+			https://www.wikiloc.com/hiking-trails/2014-05-19-smi-nordeste-prc31-lomba-fazenda-farol-arnel-7034374
+			https://www.wikiloc.com/hiking-trails/pr21smi-padrao-das-alminhas-salto-da-farinha-25141632
+			https://www.wikiloc.com/hiking-trails/nordeste-pedreira-faja-araujo-praia-lombo-gordo-miradouro-madrugada-miradouro-sossego-nordeste-16931342
 
 
+
+
+
+
+Trail Info
+This linear route in Nordeste connects the villages of Achadinha to Salga, passing by places of enormous natural beauty and of great historical importance. Begin the trail near the Historical Standard of Alminhas, monument that signs the disembarking of the liberal forces coming from Terceira island, in August of 1831, in the context of the Portuguese Civil War (1828-1834). Follow the road towards the coast, passing by the Cultural House of João Melo and along the descending profit from the view over the shoreline.
+
+Turn left by a parallel road to a levada (water channel) that used to supply a watermill. In this region, known as Risco, profit to explore the area, from the waterfalls to the beach. Back to the trail, go along the hill until the first fork where you should follow left, choosing alike on the following crossings. Along this ride you will pass by Poço Azul, where you can profit to refresh and follow the Ponte de Nosso Senhor. Arriving again to the first fork, continue left towards Salto da Farinha (Salga) until you reach the main road where you should go right.
+
+Follow the curve and turn right by a trail that goes down to Salto da Farinha, a waterfall of 40 metres high that used to help in the cereals grinding. Pass by the waterfall until a picnic area and make a detour to the left to the base of this water stream. The trail ends at the parking place. Profit to have a swim in this bathing area with access to the sea or in the small swimming poll near the toilets. At the top of the climbing there is the viewpoint of Salto da Farinha from where it is possible to see the waterfall as well as the North coast of the island.
+
+
+
+
+This linear route in Nordeste connects
+the villages of Achadinha to Salga,
+passing by places of enormous
+natural beauty and of great historical
+importance.
+Begin the trail near the Historical
+Standard of Alminhas, monument that
+signs the disembarking of the liberal
+forces coming from Terceira island, in
+August of 1831, in the context of the
+Portuguese Civil War (1828-1834).
+Follow the road towards the coast,
+passing by the Cultural House of João
+Melo and along the descending profit
+from the view over the shoreline.
+Turn left by a parallel road to a
+levada (water channel) that used to
+supply a watermill (photo 1). In this
+region, known as Risco, profit to
+explore the area, from the waterfalls
+to the beach. Back to the trail, go
+along the hill until the first fork where
+you should follow left, choosing alike
+on the following crossings.
+Along this ride you will pass by Poço
+Azul (photo 2), where you can profit
+to refresh and follow the Ponte de
+Nosso Senhor (photo 3). Arriving
+again to the first fork, continue left
+towards Salto da Farinha (Salga)
+until you reach the main road where
+you should go right.
+Follow the curve and turn right by a
+trail that goes down to Salto da
+Farinha, a waterfall of 40 metres
+high that used to help in the cereals
+grinding. Pass by the waterfall until a
+picnic area and make a detour to the
+left to the base of this water stream
+(photo 4).
+The trail ends at the parking place.
+Profit to have a swim in this bathing
+area with access to the sea or in the
+small swimming poll near the toilets.
+At the top of the climbing there is the
+viewpoint of Salto da Farinha from
+where it is possible to see the
+waterfall as well as the North coast of
+the island. 
