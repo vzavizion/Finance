@@ -264,17 +264,21 @@ HKG,/m/06wjf,/m/0hsqf,/m/07dfk
 YYZ, WAS, NYC
 YYZ,/m/02_286,/m/0rh6k
 
-https://www.google.ca/flights#flt=YYZ.SYD.2020-01-01*SYD.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.MEL.2020-01-01*MEL.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.AKL.2020-01-01*AKL.YYZ.2020-01-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.SYD.2020-10-01*SYD.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.MEL.2020-10-01*MEL.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.AKL.2020-10-01*AKL.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.DRW.2020-10-01*DRW.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
 
+https://www.google.ca/flights#flt=YYZ.CPT.2020-10-01*CPT.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.JNB.2020-10-01*JNB.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.CPT.2020-04-01*CPT.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.JNB.2020-04-01*JNB.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.WDH.2020-04-01*WDH.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
 
 https://www.google.ca/flights#flt=YYZ.SJO.2020-04-01*SJO.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.HNL,OGG,LIH.2020-04-01*HNL,OGG,LIH.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
 
+https://www.google.ca/flights#flt=YYZ./m/01ly5m.2020-10-01*/m/01ly5m.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.SCL.2020-10-01*SCL.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ./m/01ly5m.2020-04-01*/m/01ly5m.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.SCL.2020-04-01*SCL.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
 

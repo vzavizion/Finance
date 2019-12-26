@@ -8,7 +8,8 @@ www.myswitzerland.com/map
 
 http://wanderland.myswitzerland.com
 
-
+Meteo Suisse
+	country’s official weather app
 
 
 =============================================
@@ -22,43 +23,84 @@ https://i.pinimg.com/originals/70/60/77/706077c85c590f6bd536668a1a59d298.jpg
 https://www.matterhornparadise.ch/en/
 www.zermatt.ch
 
+www.aletsch.ch
+
 https://www.alpenwild.com/staticpage/the-best-day-hikes-in-zermatt/
+
+
+Milan to Zermatt
+	Vignette
+		to use Swiss motorways, which are indicated by green signs, drivers require annual sticker called a vignette, which costs SF 40
+		sold at border crossings, petrol stations, tourist offices and post offices		
+		sticker must be displayed on the windscreen
+		sticker is valid for one calendar year
+		if you’re caught without it, you’ll be fined Sfr100
+		
+		www.vignette.ch
+		
+
+	Simplon Pass
+		www.simplon.ch
+		
+		2005 m 
+		Napoleon built new road here in 1800–06
+			road is about 64 km long and runs from Brig, over the pass and through the village of Simplon, down to the Italian town of Domodossola
+			road is passable virtually all year round
+			railway tunnel under the pass was built in 1906, as an alternative crossing
 
 
 Matterhorn
 	Zermatt
-		car-free 
+		car-free
+			take narrow-gauge railway from Visp
+				OR
+			park in Täsch
 	Zermatt's Gornergatbahn
 		admire the unfathomable trigonometry of Switzerland's icon
 	Matterhorn Glacier Paradise
 		admire the unfathomable trigonometry of Switzerland's icon
-	Matterhorn Glacier Trail
-		a hike taking in wild glaciers and 4000m peaks		
+	Matterhorn Glacier Ride
+		new cableway
 	Saas Fee
+		www.saas-fee.ch
 		feed wild marmots and shoot down the mountain on a scooter
+		hiking trails
+			Mattmarksee, an artificial lake
+			cable car also runs up to Felskinn. From here, the Alpine Metro makes the journey up to Mittelallalin
 	Betten
-		cable-car station for the drop-dead-gorgeous, car-free village of Bettmeralp
-	Fiesch 
-		hiking and staring wide-mouthed at the gargantuan icy tongue of the Aletsch Glacier
-	Brig 
-		eclectic schloss (castle) topped with exotic onion domes
-
+		cable-car station for the drop-dead-gorgeous, car-free village of Bettmeralp	
 		
+		
+	
+???
+Brig
+	www.brig-simplon.ch
+	
+	eclectic schloss (castle) topped with exotic onion domes
+		during the 17th century, the trade route to Italy, leading over the Simplon Pass, was controlled by the Stockalper family of merchants. Kaspar Jodok Stockalper von Thurm  built Renaissance-Baroque palace between 1658 and 1678
+		
+		three tall square towers crowned by cupolas Caspar, Melchior and Balthazar
+		arcaded courtyard 
+		chapel dedicated to the Three Kings, with an ornate silver altarpiece made by Samuel Hornung of Augsburg
+
+
 
 Leukerbad
+	www.leukerbad.ch
+	
 	1,411 m
 
-	Europe’s largest thermal spa resort 
+	Europe’s largest thermal spa resort
 		thermal waters beneath soaring mountain peaks
-	
+
 	Mountain & Spa Pass
 		Use of the Torrent cableways
 		Use of the Gemmi cableways
 		Access to the thermal baths of the Leukerbad Therme
 		Access to the thermal baths of the Walliser Alpentherme & Spa Leukerbad
-		
+
 		https://www.leukerbad-therme.ch/prices/mountainandspapass.php
-	
+
 
 	Gemmibahn
 		single/return Sfr23/34
@@ -69,32 +111,34 @@ Leukerbad
 		fantastic area for hiking
 		steely panoramic platform
 			incredible panorama of Valais at your feet
-			
+
 	Torrent-Bahnen
 		single/return Sfr11.50/23
 		8.45am-12.15pm & 1.15-5.15pm
-		
+
 		cable car up to Rinderhütte (2350m) from where a chairlift continues to 2610m
-		monster scooter 
+		monster scooter
 			Sfr15
 			one hour for the steep, at-times rocky descent.
-			
+
 	Walliser Alpentherme & Spa Leukerbad
 		thermal baths 3hr/day Sfr23/28, with sauna village Sfr39/53, Roman-Irish bath with/without soap-brush massage Sfr74/54
 		pools 9am-8pm, sauna village & Roman-Irish baths 10am-8pm
-		
-		two pools – one in, one out, both 36°C – with whirlpools, jets, Jacuzzi and dramatic mountain view		
+
+		two pools – one in, one out, both 36°C – with whirlpools, jets, Jacuzzi and dramatic mountain view
 		traditional Valaisan Sauna Village – all wood and rustic cartwheels, with several saunas, mill, ice-cold stream and herbal steam rooms – you must be nude
 		Roman-Irish bath is a two-hour nude bathing ritual with aromatic soap-brush massage and 11 different air, steam and thermal baths to drift between
 		
+		http://www.alpentherme.ch/en.html
+
 	Leukerbad Therme
 		day ticket Sfr29
 		3hr ticket Sfr23
 		8am-8pm
-		
+
 		10 different indoor and outdoor pools with water ranging in temperature from 28° to 43°C
 		whirlpools, massage jets, steam grottoes and a brightly cloured curly-wurly waterslide and the crowds love it
-	
+		
 	Thermalbad Brigerbad
 		www.thermalbad-wallis.ch
 		morning/afternoon/day Sfr12/14/17
@@ -102,7 +146,7 @@ Leukerbad
 		9.30am-7pm
 
 		six curative pools, including one in a grotto with air-con
-		
+
 
 	La Ferme Gemmet
 		www.lafermegemmet.ch
@@ -122,68 +166,87 @@ Zermatt
 	Matterhorn Glacier Paradise
 		Sfr99
 		8.30am-4.20pm
-		
-		Europe’s highest-altitude cable car - 3883m 
+
+		Europe’s highest-altitude cable car - 3883m
 		views from the Panoramic Platform (only open in good weather)
 			14 glaciers and 38 mountain peaks over 4000m
 		Glacier Palace
 			ice palace complete with glittering ice sculptures and an ice slide to swoosh down bum first
 		snow tubing outside in the snowy surrounds
-	
+
 	!!!
 	Gornergratbahn
 		Sfr42 OW
 		7am-9.50pm
-		
+
 		Europe's highest cogwheel railway to Gornergrat (3089m) – since 1898
 			30-minute journey
 			tickets allow you to get on and off en route
 			in summer an extra train runs once a week at sunrise and sunset – the most spectacular trips of all
-			
+
 			sit on the right-hand side of the little red train to gawp at the Matterhorn
 
 
-	Ricola Herb Garden 
+	Ricola Herb Garden
 		circular walk
-		
+
 	Gletschergarten Dossen
-		1.5 hrs circular walk 
-		3km 
-		
+		1.5 hrs circular walk
+		3km
+
 		bizarre glacial rock formations
 		picnic area with stone-built barbecues to cook up lunch
 		dizzying 90m-high, 100m-long steel suspension bridge above the Gornerschlucht Gorge
-			
-			
+
+
 	hiking
 		Höhbalmen Höhenweg
+
+		5 Lakes trail	
+
+		360 Trail aka 360° Loop
+			from Gornergrat					
+				see Monte Rosa massif and Switzerland’s highest peak - the Dufourspitze
+				Gorner Glacier aka Gornergletscher lies below and is the second largest glacier in Switzerland				
+				around you are 29, four-thousand metre high peaks, one of which is the Matterhorn
+				you might even be lucky enough to observe some ibex
+
+			15-20 min loop 
+			360° Loop path is easy to reach: it starts and ends at the viewing platform on Gornergrat, which lies behind the 3100 Kulm Hotel			
 		
-		5 Lakes trail
+			https://www.gornergratbahn.ch/en/summer/special-offers/hiking/360-loop-gornergrat/		
 
 
-		other
+		other		
+			Matterhorn Trail 
+				from Zermatt to Schwarzee and its tiny chapel, passing through the hamlet of Zmutt where restaurants serve Valasian specialities		
 
 			Hörnlihutte from Schwarzsee
 
-			Matterhorn Glacier Trail 
+			Matterhorn Glacier Trail
 				6.5 km
 				2 hrs
 				from Trockener Steg to Schwarzsee
-				
-				23 information panels en route tell you everything you could possibly need to know about glaciers and glacial life		
+
+				a hike taking in wild glaciers and 4000m peaks		
+					23 information panels en route tell you everything you could possibly need to know about glaciers and glacial life
+
+			Europaweg aka Europaweg Zermatt-Grächen
+				Charles Kuonen Suspension Bridge
+
 
 
 	passes
-		hiking pass 
+		hiking pass
 			three-day - Sfr144
-	
+
 		Panoramic Pass
-			Sfr128 for one day 
+			Sfr128 for one day
 			Sfr146 for two consecutive days
-			
+
 
 	arrival
-		park in the Matterhorn Terminal Täsch and ride the Zermatt Shuttle train 
+		park in the Matterhorn Terminal Täsch and ride the Zermatt Shuttle train
 			parking
 				www.matterhornterminal.ch
 				day/subsequent day Sfr14.40/13.50
@@ -191,8 +254,29 @@ Zermatt
 			shuttle train
 				Sfr8
 				6am to 9.40pm
-				12 minutes every 20 minutes 
+				12 minutes every 20 minutes
 
+
+!
+Aletsch Glacier
+	viewpoints
+		cable car from Bettmeralp to Bettmerhorn
+			return Sfr20
+
+			exit the station and follow the wooden walkway through cinematically oversized boulders to the so-called Eis Terrasse (Ice Terrace) where information panels tell you about the glacier and several marked footpaths start
+			
+			keep an eye out for black-nosed sheep	
+			
+			
+		cable car from Fiesch to Eggishorn		
+			www.eggishorn.ch
+			return Sfr42.80
+			ride the cable car up to Fiescheralp and continue up to Eggishorn
+	hike from Riederalp to Eggishorn aka Aletsch Panoramaweg
+		12-km walk beside the 23-km Aletsch Glacier
+		
+		
+		
 
 
 
@@ -205,37 +289,58 @@ Zermatt
 https://swissfamilyfun.com/wp-content/uploads/2008/06/oeschinensee-summer-panorama-map-labeled.jpg
 
 
+
+
+
 Kandersteg
+	www.kandersteg.ch
+	
 	1,176 m
 
 	hiking is this town’s raison d’être
-	
+
 	!!!
 	Oeschinensee
-		cable car 
+		oeschinensee.ch/en
+	
+		cable car
 			one way/return Sfr18/26
 			8am-6pm
-			
-			cable car, then 20 minutes' walk to the lake
+
+			cable car
+				then 25 minutes' walk to the lake OR short shuttle ride
 			once there, it takes an hour to hike back down to Kandersteg
+			
+		kayaking
+		hiking 
+		Kandersteg-Allmenalp via ferrata
+			starting point - railway station
+			Allmibach river itself is crossed using two rope bridges
+		epic summer toboggan run
+		picnic 
+		
 
 	!!!
 	Gemmi Pass
 		2,314 m
-		Gemmi Pass to Leukerbad	
-			superb high-level trek 
+		Gemmi Pass to Leukerbad
+			superb high-level trek
 			steep descent
 			6-7 hrs
 
+	!!!
 	Blausee
 		Sfr7
 		9am-5pm
 
 		scenic 5km hike up to the azure, crystal-clear Blausee and its nature park
-			
 
 
 
+Adelboden
+	hiking
+		Engstligenfälle 
+		Ammertenspitz
 
 
 =============================================
@@ -251,6 +356,15 @@ https://skimap.org/data/3787/3564/1559592912.jpg
 
 
 
+www.bls.ch
+www.steamchen.com
+www.interlaken.ch
+
+www.thuntourismus.ch
+
+www.brienz-tourismus.ch
+
+
 Interlaken
 	base yourself in Interlaken
 
@@ -259,44 +373,57 @@ Interlaken
 		1,322 m
 		www.harderkulm.ch
 		far-reaching views to the 4000m giants
+			Eiger, Mönch and Jungfrau peaks can all be seen
 		ride the funicular to 1322m Harder Kulm
 			Interlaken to Harder Kulm
 			many hiking paths begin here
 			vertigo-free can enjoy the panorama from the Zweiseensteg (Two Lake Bridge) jutting out above the valley
+				glass-floored viewing platform.
 			wildlife park near the valley station is home to Alpine critters, including marmots and ibex
 			Sfr28
 			every 30 min
 			8.10am-6.25pm
+			
+		from TB
+		Augstmatthorn
 		
+		Gemmenalphorn hike
+			Take funicular to Beatenberg. Then catch a cable car to the Niederhorn, a great viewpoint nearly 2000m high. An easy one-hour walk brings you 100m higher to the Gemmenalphorn. Here you are surrounded by mountain flowers, ibexes and cows. It’s an Alpine dream.
+
 	!!!
 	Schynige Platte
 		2,076 m
 		www.schynigeplatte.ch
 		must-do day trip
-		Alpengarten 
+		Alpengarten
 			www.alpengarten.ch
 			8.30am-6pm
+			free
 			600 types of Alpine blooms, including snowbells, arnica, gentian and edelweiss
-		Panoramaweg 
+		Panoramaweg
 			easy two-hour circuit
 		!!!
-		Faulhornweg trail 
+		Faulhornweg trail
 			high-level 15 km
 			4.5-5.5 hrs
 			page 336 LP
 			Schynige Platte to Grindelwald-First via the cobalt Bachalpsee (Lake Bachalp)
-				classic high-Alpine hike, with photogenic views of the glacier-capped Jungfrau massif (Eiger, Mönch and Jungfrau) and Lakes Thun and Brienz	
+				classic high-Alpine hike, with photogenic views of the glacier-capped Jungfrau massif (Eiger, Mönch and Jungfrau) and Lakes Thun and Brienz
 		cog-wheel train
 			Wilderswil to Schynige Platte
 			late-19th-century cog-wheel train
-			one way/return Sfr34/63
-			every 40 minutes between 
+			one way/return Sfr35/65
+			every 40 minutes between
 			7.25am-4.45pm
-	
+
 	!!! Important
 	The only way south for vehicles without a big detour round the mountains is to take the car-carrying train from Kandersteg
 		https://www.zermatt.ch/en/arrival/Arrival-by-car/Car-Train/Loetschberg-Car-Train
 		www.bls.ch/autoverlad
+		Lötschberg Tunnel
+			massively cutting travel times
+			trains run for 15 km from Kandersteg to Goppenstein
+			
 	Brünig Pass (1008m) is the road route north to Lucerne
 
 	lake cruises for Lake Thun and Lake Brienz
@@ -311,7 +438,7 @@ Interlaken
 Jungfraubahnen
 	Hourly trains depart for the region from Interlaken Ost station
 		Sit in the front half of the train for Lauterbrunnen or the back half for Grindelwald. The two sections of the train split up where the two valleys diverge at Zweilütschinen
-		
+
 	without a money-saving pass
 		to Kleine Scheidegg
 			Interlaken Ost to Grindelwald Sfr10.80
@@ -320,15 +447,17 @@ Jungfraubahnen
 			Interlaken Ost to Lauterbrunnen Sfr7.40
 			Lauterbrunnen to Wengen Sfr6.60
 			Wengen to Kleine Scheidegg Sfr23
-		
+
 		Kleine Scheidegg to Jungfraujoch Sfr120 (return)
-		
+
 
 Grindelwald
+	www.grindelwald.ch
+	
 	1,034 m
 	base yourself in Grindelwald
 		www.wir-grindelwalder.ch
-		
+
 	close-ups of ‘big three’ – Eiger (Ogre), Mönch (Monk) and Jungfrau (Virgin)
 
 	high-altitude walks
@@ -338,91 +467,99 @@ Grindelwald
 			one of the region's most stunning day hikes
 			15km trek
 			5.5 - 6 hrs
-			
+
 		around Männlichen, First and Pfingstegg
 			reached by taking cable cars up from the village
 			
+		1-1.5 hrs walk east of the village leads to a wooded trail up to the Oberer Gletscher Viewpoint
+			Sfr6
+			9am-6pm
+			
+			terrace offering dramatic views
+			vertiginous hanging bridge spans the gorge
+		
+
 	Bort Scooter Trail
 		rent scooters to zoom back down to the valley on a 4.5km marked trail
 		rental including the cable car to Bort costs Sfr23
-	
+
 	Gletscherschlucht Glacier Gorge
 		Sfr7
 		10am-5pm
 		30-minute walk south of Grindelwald
 		footpath weaves through tunnels hacked into cliffs veined with pink and green marble
-	
+
 	!!!
 	Sportzentrum Grindelwald
 		swimming pool, mini spa, boulder and climbing halls, an ice rink and an indoor rope park
 
-	Europe’s longest toboggan run on the back of an old-fashioned sledge	
-		
-		
+	Europe’s longest toboggan run on the back of an old-fashioned sledge
+
+
 First aka Grindelwald-First
 	2,167 m
-	
+
 	cable car from Grindelwald up to First
 		www.jungfrau.ch
 		one way/return Sfr31/57
 		8am-6pm
-		
+
 	trailhead for 100km of paths
 		!!! aka Faulhornweg trail
-		First to Faulhorn (2681m; 2½ hours) via the cobalt Bachalpsee (Lake Bachalp)			
+		First to Faulhorn (2681m; 2½ hours) via the cobalt Bachalpsee (Lake Bachalp)
 			unfolding views of the Jungfrau massif
 			stop for lunch and 360-degree views at Faulhorn
 			from Faulhorn
 				continue on to Schynige Platte (another three hours) and return by train
 				hike to Bussalp (1800m; 1½ hours) and return by bus to Grindelwald (Sfr22.80, 32 minutes)
-				
+
 		other
 			Schwarzhorn
 				3 hrs
-			Grosse Scheidegg 
+			Grosse Scheidegg
 				1.5 hrs
 			Unterer Gletscher
 				1.5 hrs
 			Grindelwald
 				2.5 hrs
-			
+
 	First Flyer
 		starting 46 CHF
-		staggeringly fast zip-line from First to Schreckfeld 
+		staggeringly fast zip-line from First to Schreckfeld
 			speeds of around 85km/h
 		https://www.jungfrau.ch/en-gb/grindelwaldfirst/first-flyer/
-		
+
 	First Skywalk by Tissot
 
-				
+
 Männlichen
 	2,230 m
-	
+
 	cable car
 		Europe’s longest cable car connects Grindelwald Grund to Männlichen
 			one way/return Sfr35.40/65.20
 			8.15am-5.30pm
 		cable car swings up the other side of the ridge, from Wengen
-			one way/return Sfr23/43	
-			
+			one way/return Sfr23/43
+
 	one of the region’s top viewpoints
-		walk 10 minutes up to the crown of the hill from Männlichen top station to enjoy the view 
+		walk 10 minutes up to the crown of the hill from Männlichen top station to enjoy the view
 			incredible views of the Grindelwald and Lauterbrunnen valleys reached via Europe’s longest cable car
 			at the southern end of the ridge are Tschuggen (2520m) and Lauberhorn (2472m), with the ‘big three’ looming behind
 			to the north you can see a stretch of Thunersee
-			
-	speedy 45-minute sled run down to Holenstein, negotiating steep bumps and hairpin bends		
-	
+
+	speedy 45-minute sled run down to Holenstein, negotiating steep bumps and hairpin bends
+
 	!!!
-	Panoramaweg 
+	Panoramaweg
 		Männlichen to Kleine Scheidegg
 			wildflower-cloaked pastures
 			orchestra of chiming cowbells
 			peerless views of the Eiger, Mönch, Jungfrau and the pearl-white pyramid of Silberhorn (3695m)
 			easygoing trail
 			1.5 hrs
-			
-	Felixweg			
+
+	Felixweg
 		from Männlichen to Holenstein
 		marmot-filled
 		easygoing trail - for kids
@@ -430,114 +567,139 @@ Männlichen
 
 
 Pfingstegg
-	cable car rises up to Pfingstegg 
+	cable car rises up to Pfingstegg
 		one way/return Sfr12.60/18.80
-		8-5.30pm 
-	short hiking trails 
+		8-5.30pm
+	short hiking trails
 		to Stieregg, near the deeply crevassed Unterer Gletscher
 		trail skirting the base of the Oberer Gletscher (1.5 hrs) via the Restaurant Milchbach
 			along this, you pass the Breitlouwina, a geologically fascinating rock terrace scarred with potholes caused by moving ice
-			
+
 
 
 Kleine Scheidegg
 	2,061 m
-	
+
 	cable car to Kleine Scheidegg
-	
-	close-ups of ‘big three’ – Eiger (Ogre), Mönch (Monk) and Jungfrau (Virgin)	
+
+	close-ups of ‘big three’ – Eiger (Ogre), Mönch (Monk) and Jungfrau (Virgin)
 
 	terrific base for hiking
 		!!!
-		Eiger Trail	hike
+		Eiger Trail hike
 			Kleine Scheidegg to Eigergletscher
 				1 hr
 			spectacular 6km Eiger Trail from Eigergletscher to Alpiglen (2 hrs) for close-ups of the mountain’s fearsome north face
-			
+				part of Eiger Ultra Trail - 3-hour hike from Eigergletscher Station back down to Grindelwald
+						
+
 		short, undemanding trails, one hour apiece
+			to Eigergletscher
 			down to Wengernalp
-			up the Lauberhorn behind the village			
-	
+			up the Lauberhorn behind the village
+			
+			
 
 
 Jungfraujoch
+	www.jungfrau.ch
+	
 	3, 454 m
 
 	once-in-a-lifetime trip that you need to experience first-hand
 		uplifting lookout on 4000m peaks, the Aletsch Glacier and the Black Forest beyond
-	
+
 	tips
 		good weather is essential for this journey
 		take warm clothing, sunglasses and sunscreen
+		
+	hike to Mönchsjoch hut
+		1 hr OW
+		at around 3700m
+		bring warm clothes, sunglasses and good shoes
 
 	Ice Palace gallery of otherworldly ice sculptures
-		
+
 	views of the Aletsch Glacier
 		zip across the frozen plateau on a flying fox
 			Sfr20
-		dash downhill on a sled or snow disc 
+		dash downhill on a sled or snow disc
 			Sfr15
 		cross the glacier along the prepared path to reach the Mönchsjochhütte
 			1hr
-			
-	journey from Interlaken Ost 
+
+	journey from Interlaken Ost
 		once-in-a-lifetime train journey up to Europe’s highest station
 			last stage of the train journey from Kleine Scheidegg burrows through the heart of the Eiger before arriving at the sci-fi Sphinx meteorological station. Opened in 1912, the tunnel took 3000 men 16 years to drill. Along the way, you stop at Eigerwand and Eismeer, where panoramic windows offer tantalising glimpses across rivers of crevassed ice
-	
-		2.5 hrs OW 
+			
+			seat reservations are recommended
+			
+			step 1
+				trains head from Interlaken to Lauterbrunnen, then change to the rack railway that climbs up through the village of Wengen, then further up to the dramatic station at Kleine-Scheidegg, directly beneath the famous north face of the Eiger
+					OR
+				trains head from Interlaken up to Grindelwald, then change to the rack railway that climbs up to Kleine-Scheidegg from the other direction
+			
+			step 2
+				from Kleine-Scheidegg, a separate line heads up through tunnels and along the mountain face to the Jungfraujoch itself. The cogwheel railway stops twice, at the Eismeer and at the Eiger Wall, from where visitors can enjoy magnificent views
+
+		2.5 hrs OW
 		Sfr197.60 RT
-		last train at 5.45pm 
-		
+		last train at 5.45pm
+
 		ordinary return ticket to Jungfraujoch is valid for one month
-		
+
 		Good Morning Ticket
 			Sfr145 if you take the first train (which departs at 6.35am from Interlaken Ost) and leave the summit by 1pm
 		Good Afternoon Ticket
-			Sfr145 
+			Sfr145
 			only valid for the 3.30pm train from Kleine Scheidegg
 		Excursion-fare train at 8am
 			stay overnight at Kleine Scheidegg to take advantage of this train
 			from here, a return Good Morning Ticket is Sfr95
-		
+
+	web camera
+		http://www.swisspanorama.com/html/navsummer.html
 
 
 
 Lauterbrunnen
+	www.lauterbrunnen.swiss
+
 	796 m
-	
+
 	base yourself in Lauterbrunnen
-		
-	Lauterbrunnen Valley		
-	
-	!!!	
+
+	Lauterbrunnen Valley
+
+	!!!
 	Staubbach Falls
 		297m-high
 		8am-8pm
 		got for early-morning light
 		walk behind the falls, be prepared to get wet
-			
+
 	Trümmelbachfälle
 		Sfr11/4
 		9am-5pm
-		
-		bus 141 from the train station (Sfr3.40, nine minutes) takes you to the falls			
 
-	hikes 
+		bus 141 from the train station (Sfr3.40, nine minutes) takes you to the falls
+
+	hikes
 		Lauterbrunnen to Mürren
-			2.5 hrs 
+			2.5 hrs
 		Lauterbrunnen to Stechelberg
 			1.5 hrs
-			
-			922 m
-			72 waterfalls cascading down the cliffs	
 
-		
-	base station of Schilthorn 
+			922 m
+			72 waterfalls cascading down the cliffs
+
+
+	base station of Schilthorn
 		see BASE jumpers
-		
+
 	car parking
 		multistorey car park by the train station
-			www.jungfraubahn.ch	
+			www.jungfraubahn.ch
 			Sfr17 per day
 
 		open-air car park by the Stechelberg cable-car station
@@ -546,13 +708,15 @@ Lauterbrunnen
 
 
 Wengen
-	1,274 m
+	www.wengen.ch
 	
+	1,274 m
+
 	views
 		close-ups of ‘big three’ – Eiger (Ogre), Mönch (Monk) and Jungfrau (Virgin)
 		vista peers over to the misty Staubbach Falls, down to the Lauterbrunnen Valley
-		
-	Europe’s longest toboggan run on the back of an old-fashioned sledge		
+
+	Europe’s longest toboggan run on the back of an old-fashioned sledge
 
 	hiking
 		forest trail down to Lauterbrunnen
@@ -564,30 +728,39 @@ Gimmelwald
 	1,370 m
 
 	hikers away from the crowds
-		down from Mürren 
+		down from Mürren
 			30 to 40 minutes
-		up from Stechelberg 
+		up from Stechelberg
 			1.5 hrs
-	
-	cable cars 
+
+	cable cars
 		Mürren or Stechelberg
 		Sfr5.80
 
 
 
 Mürren
+	www.muerren.ch
+	
 	1,650 m
 	
+	two ways of reaching Mürren from Lauterbrunnen
+		cable car rises to Grütschalp, from where a tram takes a scenic route along the cliff edge to reach Mürren
+			OR
+		buses travel along the valley-floor road (past a magnificent series of waterfalls at Trümmelbach) to Stechelberg, from where a cable car climbs to Mürren
+		
+	another cable car heads further up, to the ice-bound summit of the Schilthorn
+
 
 Allmendhubel
-	Allmendhubel funicular 
+	Allmendhubel funicular
 		www.schilthorn.ch
 		one-way/return Sfr6.40/12.60
 		9am-5pm
 		every 20 mins
-	
+
 	!!!
-	Skyline Chill relaxation area 
+	Skyline Chill relaxation area
 
 	!!!
 	many walks
@@ -595,11 +768,11 @@ Allmendhubel
 		famous Northface Trail
 			Allmendhubel via Schiltalp to the west
 				circular
-				views to the glaciers and waterfalls of the Lauterbrunnen Valley 
+				views to the glaciers and waterfalls of the Lauterbrunnen Valley
 				views of the monstrous Eiger north face
 					bring binoculars to spy intrepid climbers
 			2 hrs
-			
+
 		!!!
 		Mountain View Trail
 			5km
@@ -607,33 +780,33 @@ Allmendhubel
 			https://www.myswitzerland.com/en-ca/experiences/route/mountain-view-trail/
 
 
-			
-Schilthorn 
+
+Schilthorn
 	2,970 m
 	360-degree vista of 200 peaks stretching from Mt Titlis to Mont Blanc in France, and across to the German Black Forest
-	
+
 	Skyline view platform
-	
+
 	Bond World 007
-		http://schilthorn.ch 
+		http://schilthorn.ch
 		free with cable car ticket
 		8am-6pm
-		
-		pose for photos secret-agent style 
+
+		pose for photos secret-agent style
 		relive movie moments in a helicopter and bob sled
-		
+
 	excursion trip from Interlaken to Lauterbrunnen, Grütschalp, Mürren, Schilthorn and returning through Stechelberg to Interlaken
 		from Interlaken
 			Sfr121.80 RT
 			Half-Fare Card and Swiss Card 50% off, Swiss Pass 65% off
-		from Lauterbrunnen via Grütschalp and Mürren 
+		from Lauterbrunnen via Grütschalp and Mürren
 			Sfr107 RT
-		from Lauterbrunnen via the Stechelberg 
+		from Lauterbrunnen via the Stechelberg
 			Sfr107 RT
-		from Mürren 
+		from Mürren
 			Sfr77 RT
 		discounts for early-morning trips
-		
+
 	Birg station
 		2,677 m
 		marvellous views
@@ -641,23 +814,20 @@ Schilthorn
 
 !!!
 Almabtriebe in September
-	cows wreathed in flower garlands are brought down from the mountains for another winter of dung-shovelling		
-	
-	
-other	
-	Aletsch Glacier
-		view of Aletsch
-			from Jungfraujoch
-			from Bettmerhorn 
-			from Eggishorn 
-		hike between crevasses with a mountain guide from Riederalp
-			keep an eye out for black-nosed sheep
+	cows wreathed in flower garlands are brought down from the mountains for another winter of dung-shovelling
 
 
 
 
-	
-	
+
+
+		
+
+
+
+
+
+
 Thun
 	TB ?
 	Jakobshübeli viewpoint
@@ -668,39 +838,40 @@ Thun
 	Schloss Thun
 		Sfr10
 		10am-5pm
-		
+
 		fairy tale schloss (castle)
-		
+
 		tremendous views of the lake and Alps
 		once belonged to Duke Berchtold V of the powerful Zähringen family. Today it houses a museum, showcasing prehistoric and Roman relics, tapestries, majolica and plenty of shining armour
-	
-	TB ?	
+
+	TB ?
 	Schadau Park
 		beautiful botanical gardens spread along the shores of Lake Thun
 		mid-19th-century, candyfloss-pink Schloss Schadau (now a restaurant)
 		1000-year-old Kirche Scherzlingen, with its beautifully restored Carolingian tower and the early 19th-century Thun Panorama, one of the world’s oldest panoramic paintings
 			10am-6pm
-			
+
 	TB !
 	Altstadt
 		300-year-old Untere Schleusenbrücke
 			covered wooden bridge that is a mass of pink and purple flowers in summer
 		split-level, flag-bedecked Obere Hauptgasse, whose arcades conceal boutiques and galleries
+			walkway is built on the roofs of the arcaded buildings lining the street
 		cobblestone Rathausplatz, centred on a fountain and framed by arcaded buildings
-		
+
 	TB ?
 	Flussbad Schwäbis
 		turquoise Aare River open-air pool
 		splash area and slides
-		
+
 	arrival
 		frequent trains run to Interlaken West
 			Sfr15.60, 30 minutes
-		boats 
-			Interlaken West 
+		boats
+			Interlaken West
 				Sfr42
 			Spiez
-				Sfr20	
+				Sfr20
 
 
 Spiez
@@ -709,28 +880,28 @@ Spiez
 		Sfr10
 		2-5pm Mon
 		10am-5pm Tue-Sun
-		
+
 		medieval castle rising above emerald vineyards (crisp, lemony riesling and Sylvaner white wines)
-		
+
 		views to conical Niesen (2362m) and a fjord-like slither of the lake
-			from the lofty tower (which also sports 13th-century graffiti) 
+			from the lofty tower (which also sports 13th-century graffiti)
 			from banqueting hall
-			
+
 	Freibad Spiez
 		Sfr6
 		7.30am-8pm
-		
-		Spiez’ lido 
-		lake 
+
+		Spiez’ lido
+		lake
 		Olympic-sized swimming pool
 		longest waterslide in the Bernese Oberland
 
 	arrival
 		frequent trains run to Interlaken West
-			trains 
+			trains
 				Sfr10, 20 minutes
-		boat 
-			Sfr20 from Thun 
+		boat
+			Sfr20 from Thun
 			Sfr27 from Interlaken West
 
 
@@ -739,10 +910,10 @@ Lake Thun
 		Sfr10
 		castle 11am-5pm Tue-Sun
 		gardens 9am-dusk
-		
+
 		frescoed chapel, ornate Napoleonic drawing room and Turkish smoking room
 		manicured English landscaped gardens with views of the Bernese Alps
-		
+
 		25 minutes by boat from Thun
 			one way/return Sfr12/20
 
@@ -753,34 +924,34 @@ Lake Thun
 
 		feast of art-nouveau and neo-Renaissance styles
 		fabulous 19th-century stuccoed salons.
-		
+
 	Giessbachfälle
 		free
 
 		plummet 500m over 14 rocky ridges
-		
+
 		15-minute walk up to the most striking section of the falls
-		
-		easily reached by boat (return from Brienz Sfr17.80, from Interlaken Ost Sfr39)			
+
+		easily reached by boat (return from Brienz Sfr17.80, from Interlaken Ost Sfr39)
 
 
 
 Brienz
 	Rothorn Bahn
 		one way/return Sfr54/84
-		hourly 
+		hourly
 		7.30am-4.30pm
 
 		only steam-powered cogwheel train still operating in Switzerland, climbing 2350m
-		
-		hikes 
+
+		hikes
 		long views over Brienzersee to snow-dusted 4000m peaks
-		
+
 		walking up from Brienz takes around five hours
-		
+
 	Brunngasse
 		postcard-perfect, curving lane dotted with stout wooden chalets
-		
+
 	arrival
 		train from Interlaken Ost
 			Sfr8, 20 minutes
@@ -789,7 +960,27 @@ Brienz
 
 
 
-=============================================	
+nearby
+	!!!
+	Triftbrücke
+		cable car one way/return Sfr14/22
+		9am-4pm
+
+		from cable car it’s a 1.5-2 hr walk OW to the bridge (1870m)
+
+		170m-long, 100m-high suspension bridge, Europe’s longest and highest
+
+	Molki Meiringen
+		8am-12.15pm & 2-6.30pm Mon-Fri, 7.30am-5pm Sat
+
+		local dairy - tangy Haslital cheeses and homemade ice cream
+
+	TB !
+	Handeckfall Bridge
+
+
+
+=============================================
 
 
 
@@ -805,62 +996,44 @@ Meiringen
 	Aareschlucht
 		Sfr8.50
 	Gletscherschlucht Rosenlaui
-		Sfr7		
-		
+		Sfr7
 
-	
-	
-=============================================	
-	
-	
-Lucerne
-	lakeside - medieval bridge-strolling 
-	views across the lake of green hillsides, meadows and hidden lake resorts from atop Mt Pilatus, Mt Rigi or Stanserhorn	
-	ride a funfair car through the world of chocolate at Lucerne’s Verkehrshaus museum		
-	Verkehrshaus
-		Transport Museum	
-	Swiss Knife Valley Museum, Brunnen 
-		Build your own souvenir Swiss Army knife
-	cruise on a boat to lovely Lake Lucerne resorts like Weggis and Brunnen
-
-
-		
-to Lugano	
-	Triftbrücke
-		cable car one way/return Sfr14/22
-		9am-4pm
-		
-		from cable car it’s a 1.5-2 hr walk OW to the bridge (1870m)
-		
-		170m-long, 100m-high suspension bridge, Europe’s longest and highest
-		
-	Molki Meiringen
-		8am-12.15pm & 2-6.30pm Mon-Fri, 7.30am-5pm Sat
-		
-		local dairy - tangy Haslital cheeses and homemade ice cream
-		
-	TB !
-	Handeckfall Bridge
+	www.haslital.ch
 
 
 
+=============================================
+
+
+
+to Lugano
+	Schöllenen Gorge
 	Andermatt
 		perfect place to stretch legs
 	St Gotthard Pass
-	Valle Maggia
-		enchanting valley
+		passosangottardo.ch	
+		2108 m
+		trails 
+			up to Pizzo Lucendro
+	optional:
+		Susten Pass / Grimsel Pass / Furka Pass
 	Giornico
-	?	
+	?
 	Valle Leventina
-
+	Valle di Blenio
+		www.blenio.com		
+		Lucomagno Pass
+		magnificent scenery and picturesque villages		
 	
+
+
 Bellinzona
-	Unesco-listed trio of medieval castles in Italianate Ticino.	
-Lugano		
+	Unesco-listed trio of medieval castles in Italianate Ticino
+Lugano
 	glitzy and gorgeous town
-	Lago di Lugano	
-	Monte Generoso 
-		Ogle the Italian lakes, Alps and Apennines atop this 1704m summit.	
+	Lago di Lugano
+	Monte Generoso
+		Ogle the Italian lakes, Alps and Apennines atop this 1704m summit.
 	history of chocolate and tastings at the Museo del Cioccolato Alprose
 Locarno
 	glitzy and gorgeous town
@@ -873,8 +1046,8 @@ Locarno
 
 
 
-	
-	
+
+
 
 =============================================
 =============================================
@@ -891,10 +1064,10 @@ Walking & Hiking
 
 
 
-	Webcams 
-		www.jungfraubahn.ch 
+	Webcams
+		www.jungfraubahn.ch
 		www.swisspanorama.com
-		
+
 
 
 =============================================
@@ -909,50 +1082,75 @@ Central Switzerland
 
 
 Lucerne
+	www.luzern.com
+	
 	435 m
 
 	Altstadt
-	
-	Legend has it that an angel with a light showed the first settlers where to build a chapel in Lucerne, and today it still has amazing grace.
+
+	Legend has it that an angel with a light showed the first settlers where to build a chapel in Lucerne, and today it still has amazing grace
 
 
-		
 	Kapellbrücke
 
 		octagonal water tower is original, but its gabled roof is a modern reconstruction, rebuilt after a disastrous fire in 1993
-		
+
 		Heinrich Wägmann’s 17th-century triangular roof panels, showing important events from Swiss history and mythology. The icon is at its most photogenic when bathed in soft golden light at dusk
-		
+			roof panels with scenes from the history of Lucerne and episodes in the lives of the martyrs St Leodegar and St Mauritius, who became the town’s patron saints
+
 	Lion Monument
 		10m-long sculpture of a dying lion - to commemorate Swiss soldiers who died defending King Louis XVI during the French Revolution
+			on 10 August 1792, the guards defended the Palais des Tuileries, in Paris, when it was stormed by revolutionaries. Those who survived the attack were arrested and guillotined on the night of 2–3 September
 		Mark Twain once called it the ‘saddest and most moving piece of rock in the world’
-		
+
 	Spreuerbrücke
 		darker and smaller but entirely original
-		
+
 		this was the only bridge where Lucerne's medieval villagers were allowed to throw Spreu (chaff) into the river
-		
+
 		roof panels consist of artist Caspar Meglinger’s movie-storyboard-style sequence of paintings, The Dance of Death, showing how the plague affected all levels of society
 		
+		bridge’s roof is lined with panels painted by Kaspar Meglinger in 1626–35. Depicting the Dance of Death, they run in sequence from the north bank and culminate with Christ’s triumph over Death at the south bank
+		
+		Nadelwerk, a device that controls floods, stands downstream of the bridge
+
 	Museggmauer
 		8am-7pm
 		free
-		
+
 		bird’s-eye view over Lucerne’s rooftops
-		
+
 		walkway is open between the Schirmerturm, where you enter, and the Wachturm, from where you have to retrace your steps
 		you can also ascend and descend the Zytturm or Männliturm
+		
+	Kapellplatz
+		buzzes with life, particularly on market days
+		
+		Fritschi Fountain, adorned with allegorical figures depicting Brother Fritschi, a figure of Swiss legend who features in Lucerne’s Carnival tradition
+
+		18th-century chapel, St Peterskapelle, which stands on the site of a 12th-century church, the earliest to be built in Luzern. The chapel contains a 14th-century Gothic crucifix
+		
+	Weinmarkt
+		one of the most attractive features of the Old Town
+		
+		Weinmarktbrunnen, a Gothic fountain
+		
+		houses around both this square and the adjacent Hirschenplatz have painted façades, ornate doorways and oriel windows. Many of these buildings were once guildhouses
 
 	Market
 		every Tuesday and Saturday morning
 		along the river quays
-		fruit and vegetable stalls 
+		fruit and vegetable stalls
+		
+		squares of Weinmarkt and Kapellplatz are two of the key hotspots
 
 	Free guided tour ???
 	
-	Lake Lucerne boat trips 
+	Lake Lucerne boat trips
 		www.lakelucerne.ch
 		
+		cruise on a boat to lovely Lake Lucerne resorts like Weggis and Brunnen
+
 		depart from the quays around Bahnhofplatz and Europaplatz
 		you can alight as often as you want.
 
@@ -960,99 +1158,108 @@ Lucerne
 			SGV day ticket costs
 				Sfr72
 			Swiss and Eurail passes are valid on scheduled boat trips
-			
-			Passes will also get you discounts on selected mountain railways and cable cars		
+
+			Passes will also get you discounts on selected mountain railways and cable cars
 
 	arrival
 		underground car park at the train station
-		
-	
+
+
 	???
 	museums
 		Verkehrshaus aka Swiss Museum of Transport
 			Sfr30
 			10am-6pm
-		
+
 		Kultur und Kongresszentrum
 			guided tour Sfr15
-			
 
-		Sammlung Rosengart			
-			CHF 18.00			
+		Sammlung Rosengart
+			CHF 18.00
 			10.00–18.00 daily
-			
+
 			outstanding collection of Angela Rosengart, a Swiss art dealer and close friend of Picasso
 			works by Picasso and sketches by Klee, Cézanne, Kandinsky, Miró, Matisse and Monet, including the first item ever bought by Rosengart, Swiss artist Paul Klee’s childlike X-chen (1938)
 
 			some 200 photographs by David Douglas Duncan of the last 17 years of Picasso’s life with his family in their home near Cannes, France
 
 
-	other 
+	other
 		beach
 			Strandbad Lido
 				Sfr7
 				10am-7pm
-			
+
 			Seepark, off Alpenquai
-				swim for free 	
-	
-		Bike rental 
+				swim for free
+
+		Bike rental
 			several nice routes along the lakefront, including the easygoing, scenic 16km pedal to Winkel via Kastanienbaum
 
-		Lucerne Museum Card 
+		Lucerne Museum Card
 			2-day card Sfr36
-		
 
-		
+
+
 ?
 Entlebuch
 	Unesco Biosphere Reserve
 	home to some 17,000 people keen to preserve their traditional dairy farming lifestyle
 	wonderful hiking opportunities
 
-	
 
 
 
+!
 Mt Pilatus
-	Legend has it that this 2132m peak was named after Pontius Pilate, whose corpse was thrown into a lake on its summit and whose restless ghost has haunted its heights ever since.
+	www.pilatus.ch
+	
+	Legend has it that this 2132m peak was named after Pontius Pilate, whose corpse was thrown into a lake on its summit and whose restless ghost has haunted its heights ever since
 
 	classic ‘golden round-trip’
-		board a boat from Lucerne to Alpnachstad, then rise with the world’s steepest cog railway to Mt Pilatus
+		board a boat from Lucerne to Alpnachstad, then rise with the world’s steepest cog railway to Mt Pilatus aka Pilatus Kulm (or take gondola or cable car called the “Dragon Ride”)
 		from the summit, cable cars bring you down to Kriens via Fräkmüntegg and Krienseregg, where bus 1 takes you back to Lucerne
-		
+
 		return trip costs Sfr97 (less with valid Swiss, Eurail or InterRail passes)
 		
+		cog railway that climbs from Alpnachstad to Pilatus Kulm is, at an average gradient of 48 per cent is the steepest in the world
+			completed in 1889
+			5 km long
+			journey takes 30 minutes
 		
-	Fräkmüntegg
-		Pilatus Seilpark 
-			Sfr27
-			10am-5pm 
-			
-			11 head-spinning trails from high-wire bridges to tree climbs are graded according to difficulty
-			
-		Switzerland’s longest summer toboggan run 
-			Sfr8
-			10am-5pm
-			
-			speedy 1.35km downhill ride.
 		
 
-	hikes 
+	Fräkmüntegg
+		Pilatus Seilpark
+			Sfr27
+			10am-5pm
+
+			11 head-spinning trails from high-wire bridges to tree climbs are graded according to difficulty
+
+		Switzerland’s longest summer toboggan run
+			Sfr8
+			10am-5pm
+
+			speedy 1.35km downhill ride.
+
+
+	hikes
+		Flora Path
+			well-marked flower trail at the top of Pilatus - many colourful flowers that dot the hillside
 		steep, partially roped 2.8km scramble from Fräkmüntegg to the summit
 		easy 3.5km walk through forest and moor from Krienseregg to Fräkmüntegg
 		1.5km trudge from Pilatus-Kulm to Tomlishorn, affording views that stretch as far as the Black Forest on a clear day
-		
+
 
 
 Stanserhorn
-	360-degree vistas of Lake Lucerne, Mts Titlis and Pilatus 
-	
-	getting to the summit 
+	360-degree vistas of Lake Lucerne, Mts Titlis and Pilatus
+
+	getting to the summit
 		ride on a vintage 19th-century funicular from Stans to Kälti
 		from here, the nearly transparent CabriO, launched in 2012 as the world's first cable car with an open upper deck, takes you the rest of the way, offering amazing on-the-go views
 		at the summit, CabriO employees distribute time-specific boarding passes for the return trip. Request your desired return time upon arrival; otherwise, you may spend more time up top than you bargained for!
-	
+
 
 Klewenalp
 	hiking
@@ -1060,11 +1267,13 @@ Klewenalp
 	to get here
 		head first for Beckenried, accessible by bus from Stans or boat from Lucerne
 		upon disembarking at Beckenried's bus stop/boat dock, walk 200m to the cable car that whisks you up the mountain to Klewenalp (one-way/return Sfr24/38, 10 minutes)
-		
-		
+
+
 
 Mt Rigi
-	impressive views of Mt Titlis and the Jungfrau giants	
+	www.rigi.ch
+	
+	impressive views of Mt Titlis and the Jungfrau giants
 		sunrises and sunsets viewed from Rigi's summit are the stuff of bucket lists
 
 	two rival railways carry passengers to the top
@@ -1073,27 +1282,31 @@ Mt Rigi
 		one runs from Arth-Goldau (45 minutes)
 		the other from Vitznau (30 minutes)
 			option of diverting at Rigi Kaltbad on the return trip and taking the cable car down to Weggis
-			
+
 		Swiss Pass holders travel free.
-		
+
 	magnet for hikers
 		easy walks (one to two hours) lead down from Rigi Kulm to Rigi Kaltbad, with wonderful views
 		Rigi Lehnenweg, a scenic 17.5km trek around the mountain
-		
-	Mineralbad & Spa Rigi Kaltbad 
+
+	Mineralbad & Spa Rigi Kaltbad
 		Sfr35
 
 
 
-Lake Uri	
+Lake Uri
 	SGV's regular ferry service from Brunnen towards Flüelen
 		Rütli Meadow (Seelisberg), cradle of Swiss democracy
 		serene Tellskapelle (William Tell Chapel), covered in murals depicting four episodes in the Tell legend, including the one that’s supposed to have occurred on this spot, his escape from Gessler’s boat. There’s a huge carillon that chimes behind the chapel
 		Flüelen - staging post for the mule trains crossing the St Gotthard Pass, where William Tell is reputed to have performed his apple-shooting stunt
-		
+
 
 Brunnen
+	www.brunnentourismus.ch
+	
 	mesmerising views south and west
+	
+	Urnersee - resembles Norwegian fjord
 
 	Swiss Knife Valley Museum
 		10am-6.30pm Mon-Fri
@@ -1101,9 +1314,12 @@ Brunnen
 		free
 
 		historical knives from prehistoric, Roman and medieval times
-		
+
 		'build-your-own-knife' section: for Sfr30 they'll help you construct your own souvenir Victorinox (ages six and over; reserve in advance)
-		
+
+
+Burgenstock
+	outdoor elevator
 
 
 Stoos
@@ -1114,25 +1330,27 @@ Stoos
 
 TB !!!
 Engelberg
+	www.engelberg.ch
+	
 	1,050 m
 
 	Engelberg Monastery
 		church admission free
 		tours Sfr8
 			1hr tour 10am & 4pm Wed-Sat
-			4pm tour is always available; at other times, a four-person minimum may apply	
-	
+			4pm tour is always available; at other times, a four-person minimum may apply
+
 	Show Cheese Dairy
 		www.schaukaeserei-engelberg.ch
-		
+
 		cheesemaking 9.30am-4pm
 		store & restaurant 9am-5pm
-		
+
 		free
 
 		watch the cheesemakers
-		savour dairy goodies in the bistro 
-		buy creamy silo-free cheeses and other Swiss-themed souvenirs	
+		savour dairy goodies in the bistro
+		buy creamy silo-free cheeses and other Swiss-themed souvenirs
 
 	!!!
 	hiking
@@ -1140,9 +1358,9 @@ Engelberg
 			gentle ambles and gorgeous scenery
 			Brunni cable car up to Ristis then chairlift to refurbished Brunni Hütte
 				one-way/return Sfr18/30, incl chairlift one-way/return Sfr26/42
-				
+
 		trek over the Surenenpass (2291m) to Attinghausen, where you can catch a bus to Altdorf and the southern end of Lake Uri
-		
+
 		climb over Jochpass (2210m) to Meiringen via Engstlenalp
 
 	arrival
@@ -1152,82 +1370,82 @@ Engelberg
 	Mt Titlis
 
 		marvellously kitsch ice cave where you can watch neon lights make the sculpted ice tunnels sparkle
-			
+
 		nostalgic photo studio - strike a pose with a giant Toblerone or an alpenhorn against a backdrop of fake snowy mountains
 			from Sfr35
-		
+
 		panorama stretches to Eiger, Mönch and Jungfrau
-		
+
 		Cliff Walk
 			9.15am-4.45pm
-		
+
 		45-minute climb to Titlis' 3239m summit (wear sturdy shoes)
-		
+
 		Ice Flyer chairlift down to the Glacier Park
 			Sfr12
 			9.30am-4.30pm
-			 
+
 			free snow tubes, scooters and sledges to test out
-			
+
 		arrival
 			breathtaking three-stage journey
 				glide up to Trübsee via Gerschnialp (don't get off at Gerschnialp if you're continuing to the top)
-				
+
 				larger gondola at Trübsee whisks you up to Stand
-			
-				world’s first revolving cable car - revolving Rotair
-				
+
+				world’s first revolving cable car - revolving Rotair					
+
 				return Sfr89
 				45 minutes OW
-				8.30am-5pm		
-		
-		
+				8.30am-5pm
+
+
 			you can walk some sections
 				between Stand and Trübsee - the Geologischer Wanderweg is open from July to September
 					2 hrs up and 1.5 hrs down
-				
-				from Trübsee up to Jochpass 
+
+				from Trübsee up to Jochpass
 					1.5 hrs
-					
+
 				from Trübsee down to Engelberg
 					1.5 hrs
-	
-		other cable cars from Engelberg 
-			Gerschnialp 
+
+		other cable cars from Engelberg
+			Gerschnialp
 				one-way/return Sfr8/12
-			Trübsee 
+			Trübsee
 				one-way/return Sfr21/30
 			Jochpass
 				one-way/return Sfr31/44
-			Stand 
+			Stand
 				one-way/return Sfr36/51
-				
+
 			reductions on all fares, including to Titlis
 				50% for Swiss pass holders
-				
+
 
 Andermatt
 	four major Alpine passes – Susten, Oberalp, St Gotthard and Furka
 	terrific base for hiking
-	
+
 		Gemsstock
-			Gemsstockbahn cable car from Andermatt 
+			Gemsstockbahn cable car from Andermatt
 				one-way/return Sfr36/50
 
 		popular hike from the nearby Oberalp Pass to sparkly Lai da Tuma, the source of the Rhine
 			drive to the pass
 			11km round trip takes three to four hours, with 500m elevation gain
-			
 
-	St Gotthard Tunnel		
+	St Gotthard Tunnel
 		15km St Gotthard Tunnel is one of the busiest north–south routes across the Alps, running from Göschenen to close to Airolo (Ticino), bypassing Andermatt
 		notorious for traffic jams
 			check www.gotthard-strassentunnel.ch before heading out
+		open year-round		
 
 
 
 
-		
+
 
 =============================================
 
@@ -1246,32 +1464,42 @@ Ticino
 
 
 !!!
-Bellinzona 
+Bellinzona
+	www.bellinzonaturismo.ch
+
+	Ponte Tibetano Carasc	
+		suspension bridge above Bellinzona
+		funicular up into Monte Carasso
+			circular hike leads to the spectacular Carasc wooden Tibetan bridge
+				hangs above the Sementina Valley, 
+				sweeping views over the treetops to the town.
+		
+	
 	trio of medieval castles
 	spirit-soaring views of the Old Town and the Alps
 
 	main castle, Castelgrande
 		Murata - castle’s snaking ramparts, with photogenic views of vine-streaked mountains and castle-studded hills
-		
-		grounds 9am-10pm 
+
+		grounds 9am-10pm
 		Murata 10am-7pm
 		free
 
 	Castello di Montebello
 		most impressive fortress with its drawbridges and ramparts
 		on cloudless days, you can see Lago Maggiore
-		
+
 		10am-6pm
 		free
-	
+
 	Castello di Sasso Corbaro
 		10am-6pm
 		free
-		
+
 	Chiesa di San Biagio
 		7am-noon & 2-5pm
 
-	rent e-bikes at the tourist office 
+	rent e-bikes at the tourist office
 		Sfr15/20 for a half/full day
 		they also hand out brochures with suggested itineraries and maps
 		www.e-bike-park.ch
@@ -1279,73 +1507,95 @@ Bellinzona
 	La Bacchica
 		traditional vintners’ festival in September, with wine-tasting, folk processions, plays and music aplenty
 		www.labacchica.ch
+		
+	Saturday market
+		cheeses and bread, plus wines and local crafts
 
 
 Northern Valleys
-	Valle di Blenio 
-	Valle Leventina 
-	
+	Valle di Blenio
+	Valle Leventina
+
 
 ?
-Lugano 
+Lugano
 	lake and mountain views from Monte Brè and Monte San Salvatore
 
 	Monte Brè
 		funicular from Cassarate
 			one-way/return Sfr16/25
-			
+
 	Monte San Salvatore
 		funicular from Paradiso
 			one way/return Sfr24/28
-			
+
 
 Monte Generoso
 	you can survey lakes, Alps and the Apennines on a clear day
-	
+	cogwheel railway from Capolago up Monte Generoso
+
 Parco Botanico San Grato
 
 
 
-!
-Locarno	
-	lakefront
 
+
+!
+Locarno
+	www.ascona-locarno.com
+	locarno.ch
+
+	lakefront
+	
+	watch the sunset over Lake Maggiore
+	
+	Piazza Grande
+		weekly market on Thursdays
+		
+	Chiesa San Francesco
+		eagle, ox and lamb on its Renaissance façade represent Locarno’s aristocrats, ordinary citizens and country-dwellers 
+		
 	Castello Visconteo
 		museum with Roman and Bronze Age exhibits
-	
+		
+		built in 12th century for the Orelli family. In 1342 ownership fell into the hands of the Milanese Visconti family
+		dovetailed crenellation of the walls and the towers dates from a series of 15th-century expansions and believed to be the work of Leonardo da Vinci
+
 		Sfr7/5
 		10am-noon & 2-5pm
-	
+		
+	Promenade Lungolago Giuseppe Motta
+
 	Santuario della Madonna del Sasso
 		sanctuary was built after the Virgin Mary supposedly appeared in a vision to a monk, Bartolomeo d’Ivrea, in 1480
 		highly adorned church
-		
+
 		20-minute walk up the chapel-lined Via Crucis (take Via al Sasso off Via Cappuccini)
 
-		funicular 
+		funicular
 			one way/return Sfr4.80/7.20
 			8am-10pm
-			every 15 minutes 
-		
+			every 15 minutes
+
 		6.30am-6.30pm
 		free
-		
+
 	Cardada
 		cable car
 			one-way/return Sfr24/28
 			9.15am-8.15pm
-			every 30 minutes 
-			
+			every 30 minutes
+
 			hiking
-			
-			then chair lift to Cimetta 
+
+			then chair lift to Cimetta
 				tremendous lake and mountain views
 
 		Walking Tour
 			Cima della Trosa
-				high-level route 
-				eagle’s-eye perspectives of Lago Maggiore and Alpine peaks		
-				
+				high-level route
+				eagle’s-eye perspectives of Lago Maggiore and Alpine peaks
+
 				START CARDADA, LOCARNO
 				FINISH MERGOSCIA
 				LENGTH 10KM; 3¾ TO FIVE HOURS
@@ -1354,42 +1604,52 @@ Locarno
 				Below the upper chairlift station, the left-hand path descends quickly to a saddle (1610m) with a springwater fountain. Make a rising traverse of the southwestern slopes of Cima della Trosa. A short side trail brings you to the cross mounted on the windswept 1869m summit after a further 35 to 45 minutes.
 				The path soon winds down Cima della Trosa’s northeastern flank to a minor col (1657m). From here a side trip to the often snow-dusted peak of Madone (2039m) takes 1½ to two hours; the straightforward route follows the ridge, with some harmless rock-scrambling and arresting views higher up.
 				Descend in broad zigzags to Alpe di Bietri (1499m), stopping for creamy goat’s cheese made at the dairy, then continuing on an old mule trail tracing the northern slopes of Valle di Mergoscia. The route descends gently past dilapidated houses and rustic hamlets to reach Bresciadiga (1128m), 1¼ to 1¾ hours from Cima della Trosa.
-				Bear right at a junction, leading past small shrines before coming into a car park. Stroll 600m downhill to intersect with the main road, then follow the sealed road left up steep, vine-clad hillsides to arrive at the square beside the large baroque church of postcard-pretty Mergoscia, sitting high above the Val Verzasca, after a final one-to-1¼-hour leg. From Mergoscia, bus 312 runs every two hours back to Locarno (Sfr6.20, 37 minutes).				
-				
-	cheap street parking (Sfr3 for 10 hours) along Via della Morettina
-	
+				Bear right at a junction, leading past small shrines before coming into a car park. Stroll 600m downhill to intersect with the main road, then follow the sealed road left up steep, vine-clad hillsides to arrive at the square beside the large baroque church of postcard-pretty Mergoscia, sitting high above the Val Verzasca, after a final one-to-1¼-hour leg. From Mergoscia, bus 312 runs every two hours back to Locarno (Sfr6.20, 37 minutes).
 
-hike	
+	cheap street parking (Sfr3 for 10 hours) along Via della Morettina
+
+
+hiking
 	!!!
 	rugged Val Verzasca
-		Verzasca Dam
+		www.ascona-locarno.com
+		
+		Verzasca Dam aka Contra Dam
+			Lago di Vogorno, a large artificial lake
+			James Bond did 220 m- bungee jump from the Contra Dam
 		Gola Verzasca
-		Lavertezzo 
-			Romanesque bridge 
+		Lavertezzo
+			Romanesque bridge aka Ponte dei Salti
 			natural pools in the icy stream
-	
+			
 	!!!
 	Valle Maggia
-		wispy waterfalls, granite villages and authentic grotti in the 
-		700km of hiking trails 
 		www.vallemaggia.ch
 		
+		enchanting valley - wispy waterfalls, granite villages and authentic grotti in the
+		700km of hiking trails
+
 		Valle di Campo
-		
+
 		Val Bavona
 			impossibly pretty grey-stone hamlet of Foroglio is dominated by the wispy spray of its 100m waterfall (a 10-minute walk away)
+				Cascata di Foroglio
 			at the end of the valley, just after San Carlo, a cable car rides up to Robiei dam
 				one-way/rtn Sfr19/24
-		
+
 		Avegno
 			sandy beaches and natural rock pools
 			glacially cold Maggia river
 			
-	
 
-		
+
+
+
 Western Valleys
 	Centovalli
+		Centovalli Railway
+			from Locarno to Domodossola in Italy
+			train crosses 79 bridges or viaducts over deep canyons and passes through 24 tunnels
 	Valle Onsernone
 
 
@@ -1429,11 +1689,13 @@ https://www.graechen.ch/en/Goldcard
 
 Swiss Half-Fare Card
 
-Swiss Rail Pass 
+Swiss Rail Pass
 
 Swiss Pass
+	unlimited travel on most train, bus, tram and boat services, discounts on some funiculars and cable cars
+	entry to over 500 museums
 
-Swiss Saver Day Pass 
+Swiss Saver Day Pass
 
 
 
@@ -1442,20 +1704,24 @@ Berner Oberland Regional Pass
 		4-/6-/8-/10-day pass
 		Sfr230/290/330/370
 		unlimited travel on most trains, buses, boats, mountain railways and cable cars
-		discounts on local sights and attractions 
+		discounts on local sights and attractions
 		50% reduction on tickets to Jungfraujoch
 		
-Jungfraubahnen Pass 
+		???
+		7-day pass (Sfr233) gives you 3 days’ unlimited free travel and 4 days’ discounted travel in the region
+		15-day pass (Sfr290) offers 5 days' unlimited free travel and 10 days' discounted travel
+
+Jungfraubahnen Pass
 	www.jungfrau.ch
 		https://www.jungfrau.ch/en-gb/jungfrau-travel-pass/
 	Sfr250 (Sfr185 with Swiss Pass, Swiss Card or Half-Fare Card)
 	six days of unlimited regional travel
 		you still have to pay Sfr58 from Eigergletscher to Jungfraujoch
-		
+
 Jungfrau VIP Pass
 	Sfr235
 	three-day pass covers unlimited travel on the Jungfrau Railways network, including the return journey from Eigergletscher to Jungfraujoch
-	
+
 Interlaken Guest Card
 	https://www.interlaken.ch/en/info-service/gaestekarten/interlaken-guest-card
 	Ask your hotel for the card if one isn’t forthcoming
@@ -1473,14 +1739,13 @@ Matterhorn
 Lake Lucerne Region Visitors Card aka Vierwaldstättersee Gästekarte
 	www.luzern.com/visitors-card
 	if you're staying overnight in Lucerne
-	
+
 	discounts on various museums, sporting facilities, cable cars and lake cruises in Lucerne and the surrounding area
 
-Tell-Pass 
+Tell-Pass
 	www.tell-pass.ch
 	regional
 	2/3/4/5/10 days Sfr170/200/220/230/280
 	unlimited travel region-wide on trains, boats, buses, cable cars and mountain railways
-
 
 
