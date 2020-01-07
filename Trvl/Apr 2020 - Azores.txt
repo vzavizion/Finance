@@ -1,8 +1,3 @@
-================================================
-================================================
-================================================
-
-
 Lounge Plan
 
 Total visits: 6+6+4 = 16 / 2 = 8
@@ -25,29 +20,6 @@ BRU-LIS Scotia VZ x 1
 BRU-MOW Scotia TB x 1
 MOW-LIS	Scotia TB x 1
 LIS-YYZ	Scotia TB x 1
-
-
-
-================================================
-================================================
-================================================
-
-
-SIM
-Vodaphone
-
-	https://www.vodafone.pt/en/products-services/visiting-portugal.html#phone-sim-card
-
-	20 EUR	
-	Travellers Voice SIM Card
-	5 GB + 500 mins
-	
-	Reservation + Pick up at arrivals
-	http://mobilegen.vodafone.pt/reservation-form/OYEPA
-	
-	Loja Lisboa - C.C. Chiado
-	10:00 - 23:00
-
 
 
 
@@ -121,92 +93,22 @@ https://www.booking.com/hotel/pt/aldeia-da-cuada-faja-grande.en-gb.html?aid=3041
 
 
 ================================================
-===================Sao Miguel Hotels - FINAL!!!
+================================================
+================================================
+===================Sao Miguel Hotels
 
-
-
-
-31-1 (optional)
-
-
-Ilha Hostel & Suites
-CAD 82
-9.2
-
-https://www.booking.com/hotel/pt/ilha-hostel-amp-suites.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=c856d0a8deaae4de5e1d9010bd81d62e&checkin=2020-03-31&checkout=2020-04-01
-
-https://secure.booking.com/myreservations.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=c856d0a8deaae4de5e1d9010bd81d62e;auth_key=P90qgCMx7RXoNQiB&amp;
-
-
-NO TA
-
-
-
-==================
-
-
-31-2
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&checkin_month=3&checkin_monthday=31&checkin_year=2020&checkout_month=4&checkout_monthday=2&checkout_year=2020&city=-2173280&class_interval=1&dest_id=-2173280&dest_type=city&from_sf=1&group_adults=2&group_children=0&highlighted_hotels=40654&hp_sbox=1&label_click=undef&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D80%3Breview_score%3D90%3B&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&srpvid=66176671ebc400c3&ss=Povoa%C3%A7%C3%A3o&ssb=empty&ssne=Povoa%C3%A7%C3%A3o&ssne_untouched=Povoa%C3%A7%C3%A3o&top_ufis=1&order=price
-
-
-
-===BOOKED
-Hotel do Mar
-CAD 157
-8.6
-
-https://www.booking.com/hotel/pt/do-mar-vila-da-povoacao.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=c856d0a8deaae4de5e1d9010bd81d62e&checkin=2020-03-31&checkout=2020-04-02
-
-https://secure.booking.com/myreservations.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=c856d0a8deaae4de5e1d9010bd81d62e;auth_key=RyB6dWXAh6DV55qG&amp;
-
-https://www.tripadvisor.ca/Hotel_Review-g1114175-d469531-Reviews-or5-Hotel_do_Mar-Povoacao_Sao_Miguel_Azores.html
-
-
-
-
-1-2 (optional)
-
-
-
-https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&checkin_month=4&checkin_monthday=1&checkin_year=2020&checkout_month=4&checkout_monthday=2&checkout_year=2020&city=-2173280&class_interval=1&dest_id=-2173280&dest_type=city&from_sf=1&group_adults=2&group_children=0&highlighted_hotels=40654&hp_sbox=1&label_click=undef&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D80%3Breview_score%3D90%3B&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&srpvid=66176671ebc400c3&ss=Povoa%C3%A7%C3%A3o&ssb=empty&ssne=Povoa%C3%A7%C3%A3o&ssne_untouched=Povoa%C3%A7%C3%A3o&top_ufis=1&order=price
-
-
-
-===BOOKED
-Hotel do Mar
-CAD 78
-8.6
-https://www.booking.com/hotel/pt/do-mar-vila-da-povoacao.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=c856d0a8deaae4de5e1d9010bd81d62e&checkin=2020-04-01&checkout=2020-04-02
-
-
-
-
-
-
-
-
-===Good but NR
-===Location not so good
-Pestana Bahia Praia Nature & Beach Resort
-CAD 196 (31-2)
-8.9
-with breakfast
-https://www.booking.com/hotel/pt/bahia-palace.en-gb.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=9f44b029d664f6d27bcaf6a6361634ec;all_sr_blocks=3974906_204195774_0_41_0;checkin=2020-03-31;checkout=2020-04-02;dest_id=-2173280;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=18;highlighted_blocks=3974906_204195774_0_41_0;hpos=18;nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D80%3Breview_score%3D90%3Bhr_24%3D8%3B;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;srepoch=1574520336;srpvid=191067c82ab90153;type=total;ucfs=1&#_
-
-
-
-
-==================
-==================
-==================
 
 
 2-5
 
+
+Verify this - need lower price - 254 CAD now!!!
+https://www.booking.com/hotel/pt/the-lince-country-and-nature.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=0376ccea2cad7e9fbca91388e9415375&checkin=2020-04-02&checkout=2020-04-05
+
+
+
 https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4At7u3u4FwAIB&sid=9f44b029d664f6d27bcaf6a6361634ec&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=4&checkin_monthday=2&checkin_year=2020&checkout_month=4&checkout_monthday=5&checkout_year=2020&city=-2174510&class_interval=1&dest_id=-2170765&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&nflt=pri%3D1%3Bpri%3D2%3Boos%3D1%3Breview_score%3D90%3Broomfacility%3D38%3B&no_rooms=1&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=a2f94c37f36a0066&ss=Nordeste%2C%20Azores%2C%20Portugal&ss_raw=nordeste&ssb=empty&ssne=Ribeira%20Grande&ssne_untouched=Ribeira%20Grande&top_ufis=1&order=price
+
 
 
 

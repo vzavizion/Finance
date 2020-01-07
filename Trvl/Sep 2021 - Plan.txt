@@ -255,19 +255,25 @@ end Jan - Feb - end Mar (Feb-beg Mar!!!)
 =========
 =========
 
-SIN, BKK, KUL, TPE
-SIN,KUL,/m/0fn2g,/m/0ftkx
 
-HKG, Shanghai, Seoul, Tokyo
-HKG,/m/06wjf,/m/0hsqf,/m/07dfk
+https://www.booking.com/hotel/pt/the-lince-country-and-nature.en-gb.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4Aoi45O4FwAIB;sid=0376ccea2cad7e9fbca91388e9415375&checkin=2020-04-02&checkout=2020-04-05#availability
 
-YYZ, WAS, NYC
-YYZ,/m/02_286,/m/0rh6k
+https://www.scotiabank.com/ca/en/personal/rates-prices/gic-rates.html
 
+https://www.google.ca/flights#flt=BNE,/m/0chgzm,DRW.AKL,CHC.2020-10-01*AKL,CHC.BNE,/m/0chgzm,DRW.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.SYD.2020-10-01*SYD.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.MEL.2020-10-01*MEL.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.AKL.2020-10-01*AKL.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.DRW.2020-10-01*DRW.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=HKG,KUL,SIN,/m/0fn2g.SYD.2020-10-01*SYD.HKG,KUL,SIN,/m/0fn2g.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=HKG,KUL,SIN,/m/0fn2g.MEL.2020-10-01*MEL.HKG,KUL,SIN,/m/0fn2g.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=HKG,KUL,SIN,/m/0fn2g.AKL.2020-10-01*AKL.HKG,KUL,SIN,/m/0fn2g.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=HKG,KUL,SIN,/m/0fn2g.DRW.2020-10-01*DRW.HKG,KUL,SIN,/m/0fn2g.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=/m/07dfk,/m/0hsqf,/m/0ftkx.SYD.2020-10-01*SYD./m/07dfk,/m/0hsqf,/m/0ftkx.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=/m/07dfk,/m/0hsqf,/m/0ftkx.MEL.2020-10-01*MEL./m/07dfk,/m/0hsqf,/m/0ftkx.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=/m/07dfk,/m/0hsqf,/m/0ftkx.AKL.2020-10-01*AKL./m/07dfk,/m/0hsqf,/m/0ftkx.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=/m/07dfk,/m/0hsqf,/m/0ftkx.DRW.2020-10-01*DRW./m/07dfk,/m/0hsqf,/m/0ftkx.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
+
 
 https://www.google.ca/flights#flt=YYZ.CPT.2020-10-01*CPT.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.JNB.2020-10-01*JNB.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
