@@ -1,31 +1,21 @@
-https://www.schweizmobil.ch/en/hiking-in-switzerland.html
-
 www.myswitzerland.com
-www.wanderland.ch
-
-map.wanderland.ch
-www.myswitzerland.com/map
-
-http://wanderland.myswitzerland.com
-
-Meteo Suisse
-	country’s official weather app
 
 
-=============================================
-=============================================
-=============================================
+Links
+	www.wanderland.ch
+	map.wanderland.ch
+	
+	www.myswitzerland.com
+	www.myswitzerland.com/map
+	http://wanderland.myswitzerland.com
+	
 
+Apps
+	hiking
+		https://www.schweizmobil.ch/en/hiking-in-switzerland.html
+	Meteo Suisse
+		country’s official weather app
 
-
-https://www.gornergratbahn.ch/en/summer/
-https://www.matterhorngotthardbahn.ch/en/summer/
-https://www.matterhornparadise.ch/en/
-https://www.matterhornparadise.ch/en/Current-news/Lifts/Tickets-tariffs/Price-calculator?from=2020-09-18&to=2020-09-19
-https://www.zermatt.ch/en
-https://www.aletscharena.ch/nature-en/the-great-aletsch-glacier/
-https://www.leukerbad.ch/en/
-https://www.gemmi.ch/home/?L=2
 
 
 Other regions
@@ -35,8 +25,10 @@ https://www.outdooractive.com/en/routes/#area=1039828&cat=Hiking%20Trail&filter=
 
 
 
-=====================
-
+=======================================================================================================================================
+=======================================================================================================================================
+=======================================================================================================================================
+=====================Sep 18-19
 
 
 
@@ -45,19 +37,58 @@ Best hiking + price + time
 
 	Plan
 		VZ Best
-			Gornergrat
-				Good Afternoon Ticket
-				360 Trail aka 360° Loop Gornergrat hike
-			Riffelsee
-			5-Seenweg: Blauherd - Sunnegga
-			Edelweissweg aka Höhbalmen Höhenweg
+			Zermatt
+				Gornergrat
+					Good Afternoon Ticket
+					360 Trail aka 360° Loop Gornergrat hike
+				Riffelsee
+				5-Seenweg: Blauherd - Sunnegga
+				Edelweissweg aka Höhbalmen Höhenweg
+				Viewpoints
+					Kirchbrücke bridge
+					Kirchplatz viewpoint
+				VZ 2nd choice
+					Matterhorn
+						Matterhorn Glacier Paradise
+						Matterhorn Glacier Trail
+						Hanging Bridge near Furi				
+				
+			Thermalbad Brigerbad
+			
+			Aletsch Glacier
+				Belalp-Hängebrücke-Riederfurka
+				Aletsch+ pass
+					viewpoints
+					weekend of traditions Bettmeralp
+					Bettmeralp - Bettmersee - Bettmerhorn
+						hiking			
+							‘Big Three Lakes’ hike: Bettmersee, Blausee, Märjelensee			
+							Bettmerhorn to Bettmeralp via Märjelensee
+						VZ 2nd choice
+							Bettmerhorn / Hängebrücke / Bellwald			
+
+			Leukerbad
+				Mountain & Spa Pass
+					therme
+						Leukerbad Therme
+						Walliser Alpentherme
+						Therme 51°
+					hiking
+						Gemmipass – Lämmerenhütte – Lämmerensee – Gemmipass
+						Albinen ladders aka Albinenleitern + Rinderhütte - Flüealp - Flüekapelle - Clabinualp - Leukerbad aka Majingbärgji
+						Thermalquellen-Steg aka Thermal canyon walk into the Dala Gorge						
+				La Ferme Gemmet
 				
 			VZ 2nd choice
-				Matterhorn Glacier Paradise
-				Matterhorn Glacier Trail
-				Hanging Bridge near Furi
-				Kristallweg
+				Brig
+					farmers market
+					Show Dairy aka Schaukäserei Rhone
+				Visp
+					Pürumärt farmers market
 			
+			VZ 2nd choice
+				Oeschinensee
+
 			
 	
 		Sep 18 - Zermatt
@@ -82,12 +113,13 @@ Best hiking + price + time
 							
 				OR			
 			
-			Option 2			
+			Option 2
 					07.00-14.30 hiking: Edelweissweg aka Höhbalmen Höhenweg
 						
 				OR
 				
 			Option 3
+					07.00-11.00 sleep hotel
 					11.00-11.30 Sunnegga-Blauherd
 					11.30-14.00 hiking: 5-Seenweg: Blauherd - Sunnegga
 							
@@ -109,53 +141,137 @@ Best hiking + price + time
 								
 								
 					
+			Option 4
+					07.00-11.00 hiking: 5-Seenweg: Blauherd - Sunnegga
+					11.00-15.00 Zermatt - Gornergrat - Rotenboden - Riffelseeweg - Zermatt
+					15.00-16.00 drive: Zermatt-Visp
+					16.00-18.00 Visp: Pürumärt farmers market (4 pm - 8 pm)			
+					18.00-21.00 Thermalbad Brigerbad
+			
+							Total Option 4
+								CHF 87, Half-Fare: CHF 43
+				
+
+
+
+
+					
 						
 		Sep 19
-			Aletsch
-				Aletsch+ pass
-					hiking: Belalp-Hängebrücke-Riederfurka
-					cable car: Riederfurka-Mörel
-					train: Mörel-Betten
-					cable car: Betten - Bettmeralp
-					hiking OR cable car: Bettmeralp - Bettmerhorn - optional: Eggishorn
-					hiking: Bettmerhorn - Bettmeralp OR Bettmerhorn – Bellwald
-					drive to Interlaken
-					
-				OR
-					
-				Weekend of traditions Bettmeralp
-				‘Big Three Lakes’ hike: Bettmersee, Blausee, Märjelensee
-					side-trip:
-						cable car Fiescheralp - Eggishorn - Fiescheralp
-					OR
-					do not go till the end of the trail:
-						before Obers Tälli (tunnel) turn to Aspi-Titter Hängebrücke and go to Bellwald
-						train to Fiesch
-						cable car Fiesch - Eggishorn
-						cable car Eggishorn - Fiescheralp
-						hiking Fiescheralp - Bettmeralp
-					drive to Interlaken
+		
+			morning
+				Brig
+					!!!
+					farmers market
+						when: every Saturday, 8 a.m. - 1 p.m.
+					!!!
+					Show Dairy, Brig-Glis aka Schaukäserei Rhone
+						Mon-Fri 8am–12pm 2–6:30pm
+						Sat 8am–1pm
 			
-			OR
-			
-			Leukerbad
-				Mountain & Spa Pass
-					spa: Walliser Alpentherme 3 hrs
-					hiking: Gemmi: Gletscherpfad Lämmeren + Daubensee
-					hiking: Torrent
-					spa: Leukerbad Therme 3 hrs
-					drive to Interlaken					
-				Dala Gorge
-				La Ferme Gemmet
+		
+			afternoon
+				Aletsch
+					Aletsch+ pass
+						hiking: Belalp-Hängebrücke-Riederfurka
+						cable car: Riederfurka-Mörel
+						train: Mörel-Betten
+						cable car: Betten - Bettmeralp
+						hiking OR cable car: Bettmeralp - Bettmerhorn - optional: Eggishorn
+						hiking: Bettmerhorn - Bettmeralp OR Bettmerhorn – Bellwald
+						drive to Interlaken
 						
-			
+					OR
+						
+					weekend of traditions Bettmeralp
+					‘Big Three Lakes’ hike: Bettmersee, Blausee, Märjelensee
+						side-trip:
+							cable car Fiescheralp - Eggishorn - Fiescheralp
+						OR
+						do not go till the end of the trail:
+							before Obers Tälli (tunnel) turn to Aspi-Titter Hängebrücke and go to Bellwald
+							train to Fiesch
+							cable car Fiesch - Eggishorn
+							cable car Eggishorn - Fiescheralp
+							hiking Fiescheralp - Bettmeralp
+						drive to Interlaken
+				
+				OR
+				
+				Leukerbad
+					Mountain & Spa Pass
+						spa: Walliser Alpentherme 3 hrs
+						hiking: Gemmi: Gemmipass – Lämmerenhütte + Daubensee
+						hiking: Leukerbad - Albinen ladders - Rinderhütte, then to Flüekapelle, then to Thermalquellen / Dala Gorge, then to Leukerbad
+						spa: Leukerbad Therme 3 hrs
+						drive to Interlaken					
+					La Ferme Gemmet
+					drive to Interlaken
+						
 
+
+
+=============================================
+=============================================
+=============================================
+=====================Links
+
+
+
+https://www.gornergratbahn.ch/en/summer/
+https://www.matterhorngotthardbahn.ch/en/summer/
+https://www.matterhornparadise.ch/en/
+https://www.matterhornparadise.ch/en/Current-news/Lifts/Tickets-tariffs/Price-calculator?from=2020-09-18&to=2020-09-19
+https://www.zermatt.ch/en
+https://www.aletscharena.ch/nature-en/the-great-aletsch-glacier/
+https://www.leukerbad.ch/en/
+https://www.gemmi.ch/home/?L=2
+
+
+
+
+=============================================
+=============================================
+=============================================
+=====================Drive: Milan to Zermatt
+
+
+
+Milan to Zermatt
+	Vignette
+		to use Swiss motorways, which are indicated by green signs, drivers require annual sticker called a vignette, which costs SF 40
+		sold at border crossings, petrol stations, tourist offices and post offices		
+		sticker must be displayed on the windscreen
+		sticker is valid for one calendar year
+		if you’re caught without it, you’ll be fined Sfr100
+		
+		www.vignette.ch
+		
+
+	Simplon Pass
+		www.simplon.ch
+		
+		2005 m 
+		Napoleon built new road here in 1800–06
+			road is about 64 km long and runs from Brig, over the pass and through the village of Simplon, down to the Italian town of Domodossola
+			road is passable virtually all year round
+			railway tunnel under the pass was built in 1906, as an alternative crossing
+
+
+
+
+
+=============================================
+=============================================
+=============================================
 =====================Gornergrat + Matterhorn
 
 
 
 	Ticket sales
 		https://www.matterhornparadise.ch/en/Current-news/Lifts/Opening-times
+
+
 		
 	!!!
 	hiking - best maps
@@ -166,27 +282,114 @@ Best hiking + price + time
 		
 		https://i.pinimg.com/originals/70/60/77/706077c85c590f6bd536668a1a59d298.jpg
 		
+
 		
 	!!!
-	events - review few mnths in advance
+	events - review few months in advance
 		https://www.zermatt.ch/en/zermatt/offer?globalReset=1&lang=de&profileVariant=0
+		
+		
+		
+	arrival
+		Zermatt - car-free
+			park in the Matterhorn Terminal Täsch and ride the Zermatt Shuttle train
+				parking
+					https://www.zermatt.ch/en/arrival/Arrival-by-car
+					
+				schedule & prices
+					until 6 h - CHF 11.00
+					until 8 h - CHF 14.00
+					1 day - CHF 16.00 per day			
+					
+					parking garage with 24-hour service
+					
+					multi-storey car park with 2100 covered parking spaces
+					
+					parking tickets and train tickets to Zermatt can be purchased
+						online
+						on site at the ticket machines 
+						at the counter in the Täsch terminal (opening hours 7.00 - 19.00 hrs)
+						
+					https://www.zermatt.ch/en/arrival/mtt/Matterhorn-Terminal-Schedule-Prices
+					
+				shuttle train
+					CHF 8.20, Half-Fare: CHF 4.10
+					6:00 am to 10:00 pm, 24-hour service from Thursday to Sunday
+					12 minutes every 20 minutes
+					
+					total RT + parking Half-Fare: CHF 32.40
+					
+					https://www.zermatt.ch/en/arrival/Arrival-by-train/Shuttle-MTT/Zermatt-Shuttle-Train
+					
+				www.matterhornterminal.ch
+				https://www.matterhorngotthardbahn.ch/en/summer/
+				https://www.matterhorngotthardbahn.ch/en/winter/anreise/matterhorn-terminal-taesch/
+				
+				OR			
+				
+			take narrow-gauge railway from Visp or Brig				
+			
+				park in Brig
+					park at hotel
+					
+					first train from Brig
+						05:20				
+					last train from Zermatt
+						22:13
+					train duration
+						1 hr 20 mins
+					train price
+						CHF 19.20 OW, Half-Fare: CHF 9.60
+						total RT + parking Half-Fare: CHF 38.40
+				
+				park in Visp
+					park
+						car park at the station (Bahnhof)
+						https://www.visp.ch/sicherheit/regionalpolizei/parkhaeuserundparkplaetze.php
+						
+						https://www.parking.ch/en/parkings/visp
+							!!!
+							https://www.parking.ch/en/parkings/visp/p-und-rail-visp
+							https://www.sbb.ch/en/station-services/railway-stations/visp-station.html#mobility
+								CHF 7.00 / day
+				
+					first train from Visp
+						05:33				
+					last train from Zermatt			
+						22:13
+					train duration
+						1 hr
+					train price
+						CHF 18.80 OW, Half-Fare: CHF 9.40
+						total RT + parking Half-Fare: CHF 44.6
+						
+				park in Graechen
+					park at hotel
+						bus + train
+							CHF 30.20 OW, Half-Fare: CHF 15.10			
+			
+
 
 
 	!!!
 	Gornergrat
+	
+		Europe's highest cogwheel railway to Gornergrat (3089m) – since 1898
+			30-minute journey
+			tickets allow you to get on and off en route
+			in summer an extra train runs once a week at sunrise and sunset – the most spectacular trips of all
+
+			sit on the right-hand side of the little red train to gawp at the Matterhorn			
+			https://www.gornergratbahn.ch/en/webcam/
+			
 	
 		September Timetable
 			first from Zermatt 07.00
 			last from Gornergrat 20.07
 			https://www.matterhornparadise.ch/en/Current-news/Timetable
 			https://www.gornergratbahn.ch/en/winter/railway-information/timetable/
+
 	
-		Gornergrat Priority Boarding
-			before 12pm CHF 10.00
-			after 12pm CHF 5.00
-			you get to board the Gornergrat train early – three minutes before the other passengers – thus ensuring that you can find your perfect seat. 
-			we recommend a seat on the right-hand side (in the direction of travel) for the very best views
-			
 		Price
 			Zermatt - Gornergrat
 				51 CHF OW / 102 CHF RT
@@ -201,77 +404,88 @@ Best hiking + price + time
 			
 			https://www.zermatt.ch/en/Media/Tickets/Gornergrat-Ticket
 			https://www.gornergratbahn.ch/en/summer/railway-information/prices/			
-		
-		!!!
-		Good Afternoon Ticket
-			from 15.36 Uhr
-			Zermatt–Gornergrat–Zermatt 
-				CHF 72.00, Half-Fare: CHF 36.00
-			
-		??? Furi–Riffelberg (Riffelberg-Express) closed in September
-		Gornergrat Round Trip
-			Gornergrat round trip (Standard): Zermatt - Gornergrat - Riffelberg Express - Furi - Zermatt
-				CHF 104.00, Half-Fare: CHF 52.00
-			Gornergrat round trip (Riffelberg Express): Zermatt - Furi - Riffelberg Express - Gornergrat - Riffelberg Express - Furi - Zermatt
-				CHF 96.00, Half-Fare: CHF 48.00				
-			https://www.gornergratbahn.ch/en/summer/special-offers/gornergrat-round-trip/
-			https://www.matterhornparadise.ch/en/Book/Online-tickets/Gornergrat-round-trip			
-		
-		Peak Pass
-			unlimited rides
-				Zermatt−Matterhorn glacier paradise (Klein Matterhorn)
-				Zermatt−Schwarzsee
-				Zermatt−Gornergrat
-				Zermatt−Sunnegga−Blauherd−Rothorn
-				Randa−Täsch−Zermatt
-				admission to the Glacier Palace is included as well
-				
-				1 day CHF 182.00, Half-Fare: CHF 137.00
-				2 days CHF 203.00, Half-Fare: CHF 152.00
-				
-			https://www.gornergratbahn.ch/en/summer/special-offers/peak-pass/
-			https://www.matterhornparadise.ch/en/Book/Online-tickets/Peak-pass
-				
-		!!! / ??? available 27.06.2020–16.08.2020
-		Peak2Peak Ticket
-			Gornergrat Bahn und Matterhorn glacier paradise in one day!
 
-			included
-				travel to the viewpoints at the Matterhorn glacier paradise and Gornergrat following the route of your choice, as timetabled										
-				admission to the Glacier Palace				
-				local bus					
-				
-			Peak2Peak Tickets can only be bought at counter of the Gornergrat Bahn in Zermatt or at the counters of the Zermatt Bergbahnen AG
-				Offical ID showing date of birth required.
-				
-			CHF 165.00, Half-Fare: CHF 78.00
 			
-			available from July to August and from November to April ???
-				try to book
+			Gornergrat Priority Boarding
+				before 12pm CHF 10.00
+				after 12pm CHF 5.00
+				you get to board the Gornergrat train early – three minutes before the other passengers – thus ensuring that you can find your perfect seat. 
+				we recommend a seat on the right-hand side (in the direction of travel) for the very best views			
+		
+			!!! BEST OPTION	!!!
+			Good Afternoon Ticket
+				from 15.36 Uhr
+				Zermatt–Gornergrat–Zermatt 
+					CHF 72.00, Half-Fare: CHF 36.00
 				
-			https://www.gornergratbahn.ch/en/summer/special-offers/peak2peak/
-			https://www.matterhornparadise.ch/en/Experience/Top-Experiences/Peak-2-Peak
-			https://www.zermatt.ch/en/Media/Tickets/Peak2Peak-Ticket
-	
-		Kombi-Tickets
-			https://www.matterhornparadise.ch/en/Book/Online-tickets/Kombi-tickets
+			??? Furi–Riffelberg (Riffelberg-Express) closed in September
+			Gornergrat Round Trip
+				Gornergrat round trip (Standard): Zermatt - Gornergrat - Riffelberg Express - Furi - Zermatt
+					CHF 104.00, Half-Fare: CHF 52.00
+				Gornergrat round trip (Riffelberg Express): Zermatt - Furi - Riffelberg Express - Gornergrat - Riffelberg Express - Furi - Zermatt
+					CHF 96.00, Half-Fare: CHF 48.00				
+				https://www.gornergratbahn.ch/en/summer/special-offers/gornergrat-round-trip/
+				https://www.matterhornparadise.ch/en/Book/Online-tickets/Gornergrat-round-trip			
+		
+			Peak Pass
+				unlimited rides
+					Zermatt−Matterhorn glacier paradise (Klein Matterhorn)
+					Zermatt−Schwarzsee
+					Zermatt−Gornergrat
+					Zermatt−Sunnegga−Blauherd−Rothorn
+					Randa−Täsch−Zermatt
+					admission to the Glacier Palace is included as well
+					
+					1 day CHF 182.00, Half-Fare: CHF 137.00
+					2 days CHF 203.00, Half-Fare: CHF 152.00
+					
+				https://www.gornergratbahn.ch/en/summer/special-offers/peak-pass/
+				https://www.matterhornparadise.ch/en/Book/Online-tickets/Peak-pass
+					
+			!!! / ??? available 27.06.2020–16.08.2020
+			Peak2Peak Ticket
+				Gornergrat Bahn und Matterhorn glacier paradise in one day!
+
+				included
+					travel to the viewpoints at the Matterhorn glacier paradise and Gornergrat following the route of your choice, as timetabled										
+					admission to the Glacier Palace				
+					local bus					
+					
+				Peak2Peak Tickets can only be bought at counter of the Gornergrat Bahn in Zermatt or at the counters of the Zermatt Bergbahnen AG
+					Offical ID showing date of birth required.
+					
+				CHF 165.00, Half-Fare: CHF 78.00
+				
+				available from July to August and from November to April ???
+					try to book
+					
+				https://www.gornergratbahn.ch/en/summer/special-offers/peak2peak/
+				https://www.matterhornparadise.ch/en/Experience/Top-Experiences/Peak-2-Peak
+				https://www.zermatt.ch/en/Media/Tickets/Peak2Peak-Ticket
+		
+			Kombi-Tickets
+				https://www.matterhornparadise.ch/en/Book/Online-tickets/Kombi-tickets
 			
+
 			
 		!!!
 		Route up + down - information on price / time only!
 			!!!
 			train: Zermatt - Gornergrat
 				40 mins
+				CHF 51
 			hiking: 360° Loop Gornergrat
 				20 mins
 			train: Gornergrat - Rotenboden
 				5 mins
-			hiking: Rotenboden to Riffelsee to Riffelalp (Riffelseeweg + extension of Swiss Topwalk)
-				1.5 hrs
-			train: Riffelalp - Zermatt
-				25 mins
+				CHF 14
+			hiking: Rotenboden to Riffelsee to Riffelberg (Riffelseeweg)
+				1 hr
+			train: Riffelberg - Zermatt
+				45 mins
+				CHF 36
 			
-				CHF 89, Half-Fare: CHF 44
+				CHF 101, Half-Fare: CHF 51
 				time 3-3.5 hrs
 			
 			OR
@@ -279,194 +493,143 @@ Best hiking + price + time
 			!!!
 			train: Zermatt - Gornergrat
 				40 mins
+				CHF 51
 			hiking: 360° Loop Gornergrat
 				20 mins
 			hiking: Gornergrat to Rotenboden (Aussichtsweg / part of Swiss Topwalk)
 				40 mins
-			hiking: Rotenboden to Riffelsee to Riffelalp (Riffelseeweg + extension of Swiss Topwalk)
-				1.5 hrs
-			train: Riffelalp - Zermatt
-				25 mins
+			hiking: Rotenboden to Riffelsee to Riffelberg (Riffelseeweg)
+				1 hr
+			train: Riffelberg - Zermatt
+				45 mins
+				CHF 36
 			
-				CHF 75, Half-Fare: CHF 37
+				CHF 87, Half-Fare: CHF 43
 				time 3.5-4 hrs
-						
-			OR
-			
-			train: Zermatt - Gornergrat
-				40 mins
-			hiking: 360° Loop Gornergrat
-				20 mins
-			train: Gornergrat - Rotenboden
-				5 mins
-			hiking: Rotenboden to Riffelsee to Riffelalp (Riffelseeweg + extension of Swiss Topwalk)
-				1.5 hrs
-			hiking: Riffelalp - Zermatt (Arvenweg)
-				1.5 hrs
-			
-				CHF 65, Half-Fare: CHF 32
-				time 4-4.5 hrs
-					
-			OR
-			
-			train: Zermatt - Gornergrat
-				40 mins
-			hiking: 360° Loop Gornergrat
-				20 mins
-			hiking: Gornergrat to Rotenboden (Aussichtsweg / part of Swiss Topwalk)
-				40 mins
-			hiking: Rotenboden to Riffelsee to Riffelalp (Riffelseeweg + extension of Swiss Topwalk)
-				1.5 hrs
-			hiking: Riffelalp - Zermatt (Arvenweg)
-				1.5 hrs
-			
-				CHF 51, Half-Fare: CHF 25
-				time 4.5-5.5 hrs					
 
-	
-		!!!
-		360 Trail aka 360° Loop Gornergrat hike
-			from Gornergrat - 15 to 20 minute gentle walk
-			0.5 km
-			
-			the very best views in all directions
-				Monte Rosa massif
-				Switzerland’s highest peak - the Dufourspitze
-				Gorner Glacier aka Gornergletscher lies below and is the second largest glacier in Switzerland
-				29, four-thousand metre high peaks, one of which is the Matterhorn
-				you might even be lucky enough to observe some ibex
-
-			Loop path starts and ends at the viewing platform on Gornergrat, which lies behind the 3100 Kulm Hotel
-			
-			There are free Viscopes available on the viewing platform, which is where the high-altitude hiking trail starts and ends. These are viewing telescopes which display information, such as the names of mountains, villages and trails, in the user’s field of vision
-
-			https://www.gornergratbahn.ch/en/summer/special-offers/hiking/360-loop-gornergrat/
-			https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/hiking-trail/360-loop-gornergrat-nr.-16-/28095343/
-
-
-
-		--Consider as an option - TB TO REVIEW
-		!
-		Aussichtsweg: Gornergrat - Rotenboden aka Scenic Trail
-			Distance:  1.9 km
-			Way there:  40 min
-			Way back:  1h
-			Elevation difference:  274 m
-			Difficulty:  Medium
-			
-			views are truly heavenly: Matterhorn, Breithorn, Klein Matterhorn, Weisshorn
-			flowers: gentians, alpine anemones and other beautiful plants blossoming along the trail
-			glorious views of the Gornergrat Bahn cog railway and the chance to photograph trains from many different angles
-			with a bit of luck, you can see an ibex, and sometimes you can also meet them at the salt posts especially set up on Gornergrat
-			
-			start
-				45.983241, 7.782378
-				
-			turn-by-turn directions
-				Gornergrat - Rotenboden (extension possible via Riffelseeweg trail)
-			
-			https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/scenic-trail-nr.-15-/8853916/
-
-		--Consider as an option - TB TO REVIEW
-		Swiss Topwalk: Riffelalp - Gornergrat
-			Distance:  6.3 km
-			Way there:  3h
-			Way back:  2h
-			Elevation difference:  878 m
-			Difficulty:  Hard
-			
-			highlight: the reflection of the Matterhorn in the Riffelsee lake.
-			sweeping panoramic views
-
-			start
-				46.004845, 7.753651	
-				
-			turn-by-turn directions
-				Riffelalp - Riffelberg - Riffelsee - Gornergrat
-			
-			https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/swiss-topwalk-nr.-23-/8893707/
-
-		!!!
-		Riffelsee
 		
-			Riffelseeweg: Rotenboden - Riffelberg
-				Distance:  3 km
-				Way there:  1h
-				Way back:  1h 15
-				Elevation difference:  233 m
-				Difficulty:  Easy
+		
+		hiking
+		
+			!!!
+			360 Trail aka 360° Loop Gornergrat hike
+				from Gornergrat - 15 to 20 minute gentle walk
+				0.5 km
 				
-				start
-					45.984433, 7.765319
+				the very best views in all directions
+					Monte Rosa massif
+					Switzerland’s highest peak - the Dufourspitze
+					Gorner Glacier aka Gornergletscher lies below and is the second largest glacier in Switzerland
+					29, four-thousand metre high peaks, one of which is the Matterhorn
+					you might even be lucky enough to observe some ibex
+
+				Loop path starts and ends at the viewing platform on Gornergrat, which lies behind the 3100 Kulm Hotel
+				
+				There are free Viscopes available on the viewing platform, which is where the high-altitude hiking trail starts and ends. These are viewing telescopes which display information, such as the names of mountains, villages and trails, in the user’s field of vision
+
+				https://www.gornergratbahn.ch/en/summer/special-offers/hiking/360-loop-gornergrat/
+				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/hiking-trail/360-loop-gornergrat-nr.-16-/28095343/
+
+
+
+			! Consider as an option: TB TO REVIEW whether we need: hiking or cable car
+			Gornergrat - Rotenboden
+			
+				!
+				Aussichtsweg: Gornergrat - Rotenboden aka Scenic Trail
+					Distance:  1.9 km
+					Way there:  40 min
+					Way back:  1h
+					Elevation difference:  274 m
+					Difficulty:  Medium
 					
-				turn-by-turn directions
-					Rotenboden - Riffelsee - Riffelberg (extension possible via Mark Twain Weg or Swiss Topwalk trails)
+					views are truly heavenly: Matterhorn, Breithorn, Klein Matterhorn, Weisshorn
+					flowers: gentians, alpine anemones and other beautiful plants blossoming along the trail
+					glorious views of the Gornergrat Bahn cog railway and the chance to photograph trains from many different angles
+					with a bit of luck, you can see an ibex, and sometimes you can also meet them at the salt posts especially set up on Gornergrat
+					
+					start
+						45.983241, 7.782378
+						
+					turn-by-turn directions
+						Gornergrat - Rotenboden (extension possible via Riffelseeweg trail)
+					
+					https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/scenic-trail-nr.-15-/8853916/
+
+
+				Swiss Topwalk: Riffelalp - Gornergrat
+					Distance:  6.3 km
+					Way there:  3h
+					Way back:  2h
+					Elevation difference:  878 m
+					Difficulty:  Hard
+					
+					highlight: the reflection of the Matterhorn in the Riffelsee lake.
+					sweeping panoramic views
+
+					start
+						46.004845, 7.753651	
+						
+					turn-by-turn directions
+						Riffelalp - Riffelberg - Riffelsee - Gornergrat
+					
+					https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/swiss-topwalk-nr.-23-/8893707/
+
+
+			!!!
+			Riffelsee
+			
+				Riffelseeweg: Rotenboden - Riffelberg
+					Distance:  3 km
+					Way there:  1h
+					Way back:  1h 15
+					Elevation difference:  233 m
+					Difficulty:  Easy
+					
+					start
+						45.984433, 7.765319
+						
+					turn-by-turn directions
+						Rotenboden - Riffelsee - Riffelberg (extension possible via Mark Twain Weg or Swiss Topwalk trails)
+					
+					
+				Riffelsee lake: the most beautiful of photographic subjects, with reflection of the Matterhorn. Wealth of alpine flora
+
 				
+				travel from Zermatt to Rotenboden station with the Gornergrat Bahn. From there, take the "Riffelsee hiking path", it is just under a 10 minute walk to reach the Riffelsee
 				
-			Riffelsee lake: the most beautiful of photographic subjects, with reflection of the Matterhorn. Wealth of alpine flora
+				Tip: visit the Riffelsee early in the morning or late in the evening. That's when weather conditions will usually be calm and give you the perfect conditions in which to admire and photograph the reflection of the Matterhorn
+				
+				Tip: sunrise is an unforgettable moment when the clear surface of the Riffelsee lake reflects the orange-tinted peak of the Matterhorn
+				
+				Tip: Consider first riding all the way up to the Gornergrat on the 111-year-old Gornergrat Bahn cog railway. The view from the observation platform: a breathtaking panorama of glaciers and mountains, including 29 peaks above 4,000 m. Then ride back to Rotenboden.
+				
+				Riffelsee insider tip: Not many people know that not far from the famous Riffelsee lake in the direction of the Riffelberg there is small, nameless lake which is seldom discovered by tourists and is the ideal spot to take peaceful photos of a reflected Matterhorn.
+					45.983218, 7.757979
+				
+				Tip: continue along the Riffelsee lake path and up to Riffelberg station. Apart from the pleasure of seeing the lake the remainder of the hike gives great views across an amazing mountain panorama including the Matterhorn. You will pass the little Riffelberg chapel where Brother Klaus once lived and which is also a good place to stop and take some photos
+				
+				Tip: from Riffelberg station you can then choose to take the historic Mark Twain path up to Riffelalp
+					Google Maps
+						Mark Twain Weg
+						
+				!!!
+				Riffelsee lake viewpoint
+					draws people from around the world: a viewpoint that is high on the bucket lists of Zermatt visitors. Especially beautiful in in autumn with its orange-yellow hues. To enjoy the silence and fully appreciate the natural beauty, it's worth getting up early to catch the first train
+					best time to visit is when there is no wind and the surface of the lake is completely still – usually early in the morning or in the evening
+					https://www.zermatt.ch/en/Media/Attractions/Riffelsee
 
-			
-			travel from Zermatt to Rotenboden station with the Gornergrat Bahn. From there, take the "Riffelsee hiking path", it is just under a 10 minute walk to reach the Riffelsee
-			
-			Tip: visit the Riffelsee early in the morning or late in the evening. That's when weather conditions will usually be calm and give you the perfect conditions in which to admire and photograph the reflection of the Matterhorn
-			
-			Tip: sunrise is an unforgettable moment when the clear surface of the Riffelsee lake reflects the orange-tinted peak of the Matterhorn
-			
-			Tip: Consider first riding all the way up to the Gornergrat on the 111-year-old Gornergrat Bahn cog railway. The view from the observation platform: a breathtaking panorama of glaciers and mountains, including 29 peaks above 4,000 m. Then ride back to Rotenboden.
-			
-			Riffelsee insider tip: Not many people know that not far from the famous Riffelsee lake in the direction of the Riffelberg there is small, nameless lake which is seldom discovered by tourists and is the ideal spot to take peaceful photos of a reflected Matterhorn.
-				45.983218, 7.757979
-			
-			Tip: continue along the Riffelsee lake path and up to Riffelberg station. Apart from the pleasure of seeing the lake the remainder of the hike gives great views across an amazing mountain panorama including the Matterhorn. You will pass the little Riffelberg chapel where Brother Klaus once lived and which is also a good place to stop and take some photos
-			
-			Tip: from Riffelberg station you can then choose to take the historic Mark Twain path up to Riffelalp
-				Google Maps
-					Mark Twain Weg
+				https://www.zermatt.ch/en/Media/Planning-hikes-tours/Riffelsee-Lake-Trail-Nr.-21
+				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/riffelsee-lake-trail-nr.-21-/8877309/
+				https://www.gornergratbahn.ch/en/summer/discover/riffelsee-lake/
+		
 
-			Rotenboden – Riffelsee 10 mins
-			Rotenboden – Riffelsee – Riffelberg 30 mins
-			Rotenboden – Riffelsee – Riffelberg – Riffelalp 1h 10 mins
-			
-			https://www.zermatt.ch/en/Media/Planning-hikes-tours/Riffelsee-Lake-Trail-Nr.-21
-			https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/riffelsee-lake-trail-nr.-21-/8877309/
-			https://www.gornergratbahn.ch/en/summer/discover/riffelsee-lake/
 
-		--Consider as an option - TB TO REVIEW
-		Arvenweg: Riffelalp - Zermatt
-			Distance:  3.1 km
-			Way there:  1h 10
-			Way back:  1h 40
-			Elevation difference:  561 m
-			Difficulty:  Easy
-
-		--Consider as an option - TB TO REVIEW
-		--Goes to Furi, not to Zermatt !!!
-		Gletschergartenweg: Riffelberg - Furi
-			Distance:  6.2 km
-			Way there:  1h 50
-			Way back:  2h 35
-			Elevation difference:  715 m
-			Difficulty:  Hard
 		
 
 		!
 		Route down
-			hiking: Weg der Stille: Gornergrat - Grünsee
-				1h 45
-			hiking: Naturweg: Riffelalp - Sunnegga (partial)
-				1 hrs
-			hiking: Riffelalp - Zermatt (Arvenweg)
-				1.5 hrs
-			
-				??? 50 CHF
-					Half-Price Savings 
-						??? 25 CHF
-				time
-					4.5 hrs
-			
-			OR
-			
-			!
+		
 			hiking: Weg der Stille: Gornergrat - Grünsee
 				1h 45
 			hiking: 5-Seenweg: Blauherd - Sunnegga
@@ -474,101 +637,109 @@ Best hiking + price + time
 			hiking: Marmot Trail: Blauherd - Sunnegga
 				1h 10
 				
-				??? 50 CHF					+ proce
+				??? 50 CHF					+ price from Sunnegga to Zermatt
 					Half-Price Savings 
 						??? 25 CHF
 				time
-					5 hrs + time for 
+					5 hrs + time from Sunnegga to Zermatt
+					
 								
+			hiking
+				Weg der Stille: Gornergrat - Grünsee
+					Distance:  5 km
+					Way there:  1h 45
+					Way back:  2h 35
+					Elevation difference:  789 m
+					Difficulty:  Hard
+					
+					treat for all seeking tranquillity - few people to be seen
+					
+					start
+						45.983242, 7.782375
+					
+					turn-by-turn directions
+						Gornergrat - Kelle - Grünsee (variant Grünsee - Findeln - Sunnegga approx. 1h 30, or variant to Riffelalp along the Naturweg trail approx. 40 min)
+					
+					https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/path-of-silence-nr.-24-/8877093/
+					
 
-		Side-track
-			Weg der Stille: Gornergrat - Grünsee
-				Distance:  5 km
-				Way there:  1h 45
-				Way back:  2h 35
-				Elevation difference:  789 m
-				Difficulty:  Hard
-				
-				 treat for all seeking tranquillity - few people to be seen
-				
-				start
-					45.983242, 7.782375
-				
-				turn-by-turn directions
-					Gornergrat - Kelle - Grünsee (variant Grünsee - Findeln - Sunnegga approx. 1h 30, or variant to Riffelalp along the Naturweg trail approx. 40 min)
-				
-				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/path-of-silence-nr.-24-/8877093/
-				
-				+
-				
-			Naturweg: Riffelalp - Sunnegga aka Nature Trail
-				Distance:  6.2 km
-				Way there:  1h 40
-				Way back:  1h 50
-				Elevation difference:  161 m
-				Difficulty:  Medium
-				
-				family trail
-				
-				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/hiking-trail/nature-trail-nr.-19-/8872510/
-				
+				!!!
+				5-Seenweg: Blauherd - Sunnegga
+					Distance:  9.3 km
+					Way there:  2h 30
+					Way back:  2h 50
+					Elevation difference:  283 m
+					Difficulty:  Medium
+					Please note: Only the Leisee and Grünsee are open for swimming!
+					
+					this Walk is in a class of its own among hikes in the Zermatt mountains
+						views of the mountain lakes are superb (with the Matterhorn reflected in three of them)
+						trail is full of variety				
+						
+					lakes
+						!!!
+						Stellisee
+							reflection of Matterhorn
+							
+							Stellisee lake viewpoint
+								subject of numerous advertising posters - at sunrise and sunset, especially
+								combine this viewpoint easily with the Five Lakes Walk
+									lake is a 20-minute walk from the Blauherd summit station
+								https://www.zermatt.ch/en/Media/Attractions/Stellisee
+							
+						!!!
+						Grindjisee
+							home to rare flowers
+							reflection of Matterhorn
+						
+						Grünsee
+							rugged landscape
+							swimming 
+						
+						Moosjisee
+							has the typical milky hue of sediment-rich glacial meltwater, known as “glacial milk”
+						
+						Leisee
+							good for swimming
+							reflection of Matterhorn
+							
+					Findeln Glacier moraine
+					
+					picnic
+					
+					!
+					Hidden Valley viewpoint
+						secluded location far away from everything. There are no signposts so it’s not easy to find. For those who make it, however, a quiet and idyllic valley awaits: green meadows, a small river and a view of the Matterhorn at the end of the valley
+						near 5-Seenweg
+						46.00990,7.80785
+						https://www.zermatt.ch/en/Media/Attractions/Viewpoint-Hidden-valley
+						https://www.outdooractive.com/en/poi/visp/viewpoint-hidden-valley/9355969/
+					
+					start
+						46.016855, 7.786430
 
-		Side-track: circular
-			!!!
-			5-Seenweg: Blauherd - Sunnegga
-				Distance:  9.3 km
-				Way there:  2h 30
-				Way back:  2h 50
-				Elevation difference:  283 m
-				Difficulty:  Medium
-				Please note: Only the Leisee and Grünsee are open for swimming!
-				
-				this Walk is in a class of its own among hikes in the Zermatt mountains
-					views of the mountain lakes are superb (with the Matterhorn reflected in three of them)
-					trail is full of variety				
-				lakes
-					Stellisee
-						reflection of Matterhorn
-					Grindjisee
-						home to rare flowers
-						reflection of Matterhorn
-					Grünsee
-						rugged landscape
-						swimming 
-					Moosjisee
-						has the typical milky hue of sediment-rich glacial meltwater, known as “glacial milk”
-					Leisee
-						good for swimming
-						reflection of Matterhorn
-				Findeln Glacier moraine
-				picnic
-				
-				start
-					46.016855, 7.786430
+					turn-by-turn directions
+						Blauherd - Stellisee - Grindjisee - Grünsee - Moosjisee - Leisee - Sunnegga
+					
+					https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/5-lakes-walk-nr.-11-/8690926/
+					https://www.zermatt.ch/en/Media/Planning-hikes-tours/5-Lakes-Walk-Nr.-11
 
-				turn-by-turn directions
-					Blauherd - Stellisee - Grindjisee - Grünsee - Moosjisee - Leisee - Sunnegga
-				
-				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/5-lakes-walk-nr.-11-/8690926/
-				https://www.zermatt.ch/en/Media/Planning-hikes-tours/5-Lakes-Walk-Nr.-11
+					
+				Marmot Trail: Blauherd - Sunnegga
+					Distance:  3.8 km
+					Way there:  1h 10
+					Way back:  1h 30
+					Elevation difference:  283 m
+					Difficulty:  Medium
+					
+					start
+						46.016783, 7.786326
 
-				+
-				
-			Marmot Trail: Blauherd - Sunnegga
-				Distance:  3.8 km
-				Way there:  1h 10
-				Way back:  1h 30
-				Elevation difference:  283 m
-				Difficulty:  Medium
-				
-				start
-					46.016783, 7.786326
+					turn-by-turn directions
+						Blauherd - Stellisee - Sunnegga
+					
+					https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/marmot-trail-nr.-8-/8746707/
 
-				turn-by-turn directions
-					Blauherd - Stellisee - Sunnegga
-				
-				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/marmot-trail-nr.-8-/8746707/
-				
 
 			
 		Skip	
@@ -597,62 +768,104 @@ Best hiking + price + time
 				Elevation difference:  68 m
 				Difficulty:  Hard							
 
+			--Skip				
+			Arvenweg: Riffelalp - Zermatt
+				Distance:  3.1 km
+				Way there:  1h 10
+				Way back:  1h 40
+				Elevation difference:  561 m
+				Difficulty:  Easy				
+
+			--Skip
+			--Goes to Furi, not to Zermatt !!!
+			Gletschergartenweg: Riffelberg - Furi
+				Distance:  6.2 km
+				Way there:  1h 50
+				Way back:  2h 35
+				Elevation difference:  715 m
+				Difficulty:  Hard
+
+			--Skip
+			Naturweg: Riffelalp - Sunnegga aka Nature Trail
+				Distance:  6.2 km
+				Way there:  1h 40
+				Way back:  1h 50
+				Elevation difference:  161 m
+				Difficulty:  Medium
+				
+				family trail
+				
+				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/hiking-trail/nature-trail-nr.-19-/8872510/
 
 
+
+	!!!
 	Viewpoints
+	
+		!!!
 		Viewpoint Kirchbrücke bridge
 			one of the best known and loved viewpoints in the village
 			get up early - make sure you don't miss the first rays of sun on the Matterhorn
 				Ideal time: before sunrise. The spectacle begins as the sun’s first rays light up the pinnacle of the Matterhorn. Duration: just a few minutes			
 			https://www.zermatt.ch/en/Media/Attractions/Viewpoint-Kirchbruecke-bridge
-		
+
+		!!!
 		Kirchplatz viewpoint
 			You can either climb a few of the church steps or stand on the Community Centre's terrace (open to the public). The traditional wooden houses in the foreground add a special charm to a beautiful picture. You can include another typical Swiss emblem in your picture too - there’s a huge bronze alphorn on the steps of the building – a traditional Swiss instrument		
 			https://www.zermatt.ch/en/Media/Attractions/Photopoint-Kirchplatz-and-the-Community-Centre-terrace
 			 
-		Viewpoint at the bench on Höhbalmen hiking trail
-			these views have to be earned: there’s no cable car up here. Once you reach the top, you are almost at eye level with the Matterhorn - around three hours hiking time
-			https://www.zermatt.ch/en/Media/Attractions/Point-Photo-Small-bench-at-Hoehbalmen
-			
-		Hidden Valley viewpoint
-			secluded location far away from everything. There are no signposts so it’s not easy to find. For those who make it, however, a quiet and idyllic valley awaits: green meadows, a small river and a view of the Matterhorn at the end of the valley
-			46.00990,7.80785
-			https://www.zermatt.ch/en/Media/Attractions/Viewpoint-Hidden-valley
-			https://www.outdooractive.com/en/poi/visp/viewpoint-hidden-valley/9355969/
-			
-		Riffelsee lake viewpoint
-			draws people from around the world: a viewpoint that is high on the bucket lists of Zermatt visitors. Especially beautiful in in autumn with its orange-yellow hues. To enjoy the silence and fully appreciate the natural beauty, it's worth getting up early to catch the first train
-			best time to visit is when there is no wind and the surface of the lake is completely still – usually early in the morning or in the evening
-			https://www.zermatt.ch/en/Media/Attractions/Riffelsee
-			
-		Stellisee lake viewpoint
-			subject of numerous advertising posters - at sunrise and sunset, especially
-			combine this viewpoint easily with the Five Lakes Walk
-				lake is a 20-minute walk from the Blauherd summit station
-			https://www.zermatt.ch/en/Media/Attractions/Stellisee				
-			
-		North face viewpoint from the Schwarzee lake bench
-
 			
 		https://www.zermatt.ch/en/Viewpoints-summer
 		
 
 
+	!!!
+	Edelweissweg aka Höhbalmen Höhenweg
+		Distance 20 km
+		Way there: 7h 30
+		Höhenunterschied: 1143 m
+		Accessible: June - October
+		
+		start
+			46.023587, 7.748039
+
+		turn-by-turn directions
+			Zermatt (station) - Alterhaupt (Edelweiss) - Trift - Höhbalmen - [option to continue to Schwarzsee] - Zmutt - Zermatt (station)
+				in addition to the regular path to Stafel, there is also the option to continue hiking to Schwarzsee, and take cable car to Furi/Zermatt from there. But trail to Schwarzsee goes up and trail to Zmutt goes down
+
+		between the Gasthaus Edelweiss and the Berggasthaus Trift hotels: edelweiss at eye level (right-hand side)
+		
+		Trift Berggasthaus
+			do not miss the homemade ice tea and fruitcake (Nummmmy!)
+		
+		Höhbalmen
+			one of Zermatt’s finest viewpoints - panorama is breathtaking: the north face of the Matterhorn with the Zmuttgrat ridge, the Breithorn, Liskamm and the Monte Rosa massif
+			
+		Photopoint: Small bench at Höhbalmen
+			!!!
+			Viewpoint at the bench on Höhbalmen hiking trail
+				these views have to be earned: there’s no cable car up here. Once you reach the top, you are almost at eye level with the Matterhorn - around three hours hiking time
+				https://www.zermatt.ch/en/Media/Attractions/Point-Photo-Small-bench-at-Hoehbalmen
+		
+		possible encounters with Valais Blacknose sheep and Valais Blackneck goats
+		
+		beyond turn to Schwarzsee
+			Alpine cheese dairy Stafel aka Alpsennerei Stafel
+				tip: try the Zieger – fresh milk cheese similar to Ricotta						
+					The alpine dairy Stafel can be visited from Monday to Sunday. The caseation takes place daily at 7.30 am and 7.00 pm. (End of June till beginning of September)
+					Sale of Ziger soft cheese, cheese and milk every day from 7.30am to 7.00pm
+					Reservation is requested 24 hours before on the following number: +41 (0) 27 966 28 48 (Calls are just answered from end of June till beginning of September - otherwise please contact the Tourism Office +41 (0) 27 967 81 00)
+					
+		Zmutt dam
+
+		https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/edelweiss-trail-hoehbalmen-nr.-30-/8922990/
+		https://www.zermatt.ch/en/Media/Planning-hikes-tours/Edelweiss-Trail-Hoehbalmen-Nr.-30
+
+
 	
-	
+	!!!
 	Matterhorn Glacier Paradise
 	
-		September Timetable
-			first from Zermatt 08.30
-			last from Matterhorn Glacier Paradise 16.15
-			
-			Schwarzsee – Trockener Steg - Open until 13.09.2020
-			Furi – Trockener Steg - Open from 14.09.2020
-			
-			https://www.matterhornparadise.ch/en/Current-news/Timetable
-			https://www.tripadvisor.ca/Attraction_Review-g188098-d2314066-Reviews-Matterhorn_Glacier_Paradise-Zermatt_Canton_of_Valais_Swiss_Alps.html
-			
-			
 		!!!
 		Route Up
 			Zermatt - Furi - Trockener Steg - Matterhorn Glacier Paradise
@@ -670,28 +883,44 @@ Best hiking + price + time
 			Matterhorn Glacier Paradise - Trockener Steg - hiking: Matterhorn Glacier Trail - hiking: Matterhorn Trail - Zermatt
 				5.5-6 hrs				
 				CHF 19.00, Half-Fare: CHF 9
+
 				
 
-			
-	
 		!!!
-		Matterhorn Glacier Paradise tickets
-			return trip to the Matterhorn glacier paradise (option of getting on or off at stations en route)
-				from Trockener Steg to the Matterhorn glacier paradise (Klein Matterhorn)
-					3S cableway aka Matterhorn glacier ride
-						OR
-					cable car
-			admission to the Glacier Palace 
-			use of the Viewing Platform, Cinema Lounge and snow tubing run (as timetabled)
-			admission to the 3S InfoCube on Trockener Steg - learn more about the mammoth 3S cableway project "Matterhorn glacier ride"
-			bike transport (as far as Trockener Steg)
-			local bus
+		Matterhorn Glacier Paradise
+		
+			tickets include
+				Europe’s highest-altitude cable car - 3883m
+					return trip to the Matterhorn glacier paradise (option of getting on or off at stations en route)
+						from Trockener Steg to the Matterhorn glacier paradise (Klein Matterhorn)
+							new: 3S cableway aka Matterhorn glacier ride
+								OR
+							old: cable car
+				admission to the Glacier Palace 
+					ice palace complete with glittering ice sculptures and an ice slide to swoosh down bum first
+				use of the Viewing Platform, Cinema Lounge and snow tubing run (as timetabled)
+					views from the Panoramic Platform (only open in good weather)
+						14 glaciers and 38 mountain peaks over 4000m
+				admission to the 3S InfoCube on Trockener Steg - learn more about the mammoth 3S cableway project "Matterhorn glacier ride"			
+				local bus					
+				https://www.matterhornparadise.ch/en/Current-news/Live-up-to-date/Webcams
 			
-			Price
+			price
 				CHF 92 RT, Half-Fare: CHF 46
 				
 			40 mins ride
-
+			
+			September Timetable
+				first from Zermatt 08.30
+				last from Matterhorn Glacier Paradise 16.15
+				
+				Schwarzsee – Trockener Steg - Open until 13.09.2020
+				Furi – Trockener Steg - Open from 14.09.2020
+				
+				https://www.matterhornparadise.ch/en/Current-news/Timetable
+				https://www.tripadvisor.ca/Attraction_Review-g188098-d2314066-Reviews-Matterhorn_Glacier_Paradise-Zermatt_Canton_of_Valais_Swiss_Alps.html
+			
+			
 			https://www.zermatt.ch/en/Media/Tickets/Matterhorn-glacier-paradise-Ticket-Return-ticket-with-reduction
 			https://www.zermatt.ch/en/Media/Tickets/Matterhorn-glacier-paradise-Ticket-Return-ticket-without-reduction
 			https://www.zermatt.ch/en/Media/Tickets/Matterhorn-glacier-paradise-Ticket
@@ -717,20 +946,16 @@ Best hiking + price + time
 			https://www.matterhornparadise.ch/en/Book/Online-tickets/Crystal-ride
 			
 			
-		!!!
+		!!! - can't find on web-site
 		Afternoon ticket			
 			afternoon hours at reduced prices in Matterhorn glacier paradise or on the peak at Schwarzsee
 
-			
 
-
-
-		
-		
 
 	Trockener Steg
 	
 		hiking
+		
 			!!!
 			Matterhorn Glacier Trail: Trockener Steg - Schwarzsee
 				Distance:  6.5 km
@@ -739,10 +964,11 @@ Best hiking + price + time
 				Elevation difference:  356 m
 				Difficulty:  Medium
 				
-				walkers approach the glacier on a safe path, close enough to see the meltwater running out -  a memorable moment on a hiking adventure
+				a hike taking in wild glaciers and 4000m peaks		
+				walkers approach the glacier on a safe path, close enough to see the meltwater running out - a memorable moment on a hiking adventure
 				numerous small lakes to be seen
 				mirror image of the Matterhorn in the lake of the Theodul glacier
-
+				23 information panels en route tell you everything you could possibly need to know about glaciers and glacial life
 				
 				start
 					45.970885, 7.722715
@@ -753,7 +979,7 @@ Best hiking + price + time
 				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/matterhorn-glacier-trail-nr.-26-/8893799/
 				
 				
-			--Consider as an option - TB TO REVIEW
+			--Skip
 			Säumerweg: Trockener Steg - Furi
 				Distance 7.6 km
 				Way there: 2h 30
@@ -762,31 +988,40 @@ Best hiking + price + time
 				Accessible: June - October
 			
 	
-		30 minutes on the Matterhorn Express or by cable car
+		details
+			30 minutes on the Matterhorn Express or by cable car
 
-		CHF 37.50
+			CHF 37.50
 
-		https://www.zermatt.ch/en/Media/Tickets/Trockener-Steg-Ticket
-		https://www.matterhornparadise.ch/en/Book/Online-tickets/Single-tickets-Trockener-Steg
+			https://www.zermatt.ch/en/Media/Tickets/Trockener-Steg-Ticket
+			https://www.matterhornparadise.ch/en/Book/Online-tickets/Single-tickets-Trockener-Steg
 				
-		https://www.matterhornparadise.ch/en/Experience/Top-Experiences/Photopoints	
+			https://www.matterhornparadise.ch/en/Experience/Top-Experiences/Photopoints	
 		
 		
 	
 
-	Schwarzsee 
+	Schwarzsee
+	
+		!!!
+		North face viewpoint from the Schwarzsee lake bench
 	
 		hiking
 	
+			!
 			Matterhorn Trail: Schwarzsee - Zermatt
 				Distance:  9.8 km
 				Way there:  2h 55
 				Way back:  3h 45
 				Elevation difference:  971 m
-				Difficulty:  Medium	
+				Difficulty:  Medium
+				
+				from Zermatt to Schwarzsee and its tiny chapel, passing through the hamlet of Zmutt where restaurants serve Valasian specialities
 				
 				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/matterhorn-trail-nr.-29-/8905187/
 
+
+			!
 			Hörnliweg
 				from Schwarzsee to Hörnlihutte
 				demanding hike - path is rated “difficult”
@@ -795,18 +1030,22 @@ Best hiking + price + time
 				altitude difference: 707 m
 				best season: July to August
 				transport: Matterhorn-Express via Furi to Schwarzsee
+
 		
-		20 minutes on the Matterhorn Express from Zermatt
+		details		
+			20 minutes on the Matterhorn Express from Zermatt
 		
-		CHF 28.00
+			CHF 28.00
 		
-		https://www.zermatt.ch/en/Media/Tickets/Schwarzsee-Ticket
-		https://www.matterhornparadise.ch/en/Book/Online-tickets/Single-tickets-Schwarzsee
+			https://www.zermatt.ch/en/Media/Tickets/Schwarzsee-Ticket
+			https://www.matterhornparadise.ch/en/Book/Online-tickets/Single-tickets-Schwarzsee
 
 
 
 	Furi
+	
 		hiking
+		
 			!!!
 			--Hanging Bridge near Furi - TB TO REVIEW
 			--Google Maps 46.000817, 7.736867
@@ -831,14 +1070,6 @@ Best hiking + price + time
 				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/furi-suspension-bridge-trail-nr.-17a-/8871900/
 				
 				
-			--Consider as an option - TB TO REVIEW
-			Säumerweg: Trockener Steg - Furi
-				Distance:  7.6 km
-				Way there:  2h 30
-				Way back:  3h 40
-				Elevation difference:  1072 m
-				Difficulty:  Hard
-				
 			--Skip
 			Larch Trail: Schwarzsee - Furi
 				Distance:  4.4 km
@@ -848,46 +1079,12 @@ Best hiking + price + time
 				Difficulty:  Medium
 				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/larch-trail-nr.-28-/8905161/
 				
-			!!!
-			Edelweissweg aka Höhbalmen Höhenweg
-				Distance 20 km
-				Way there: 7h 30
-				Höhenunterschied: 1143 m
-				Accessible: June - October
-				
-				start
-					46.023587, 7.748039
 
-				turn-by-turn directions
-					Zermatt (station) - Alterhaupt (Edelweiss) - Trift - Höhbalmen - [option to continue to Schwarzsee] - Zmutt - Zermatt (station)
-						in addition to the regular path to Stafel, there is also the option to continue hiking to Schwarzsee, and take cable car to Furi/Zermatt from there. But trail to Schwarzsee goes up and trail to Zmutt goes down
-
-				between the Gasthaus Edelweiss and the Berggasthaus Trift hotels: edelweiss at eye level (right-hand side)
-				Trift Berggasthaus
-					do not miss the homemade ice tea and fruitcake (Nummmmy!)
-				Höhbalmen
-					one of Zermatt’s finest viewpoints - panorama is breathtaking: the north face of the Matterhorn with the Zmuttgrat ridge, the Breithorn, Liskamm and the Monte Rosa massif
-				Photopoint: Small bench at Höhbalmen
-				possible encounters with Valais Blacknose sheep and Valais Blackneck goats			
-				beyond turn to Schwarzsee
-					Alpine cheese dairy Stafel aka Alpsennerei Stafel
-						tip: try the Zieger – fresh milk cheese similar to Ricotta
-						
-							The alpine dairy Stafel can be visited from Monday to Sunday. The caseation takes place daily at 7.30 am and 7.00 pm. (End of June till beginning of September)
-							Sale of Ziger soft cheese, cheese and milk every day from 7.30am to 7.00pm
-							Reservation is requested 24 hours before on the following number: +41 (0) 27 966 28 48 (Calls are just answered from end of June till beginning of September - otherwise please contact the Tourism Office +41 (0) 27 967 81 00)
-				Zmutt dam
-
-				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/edelweiss-trail-hoehbalmen-nr.-30-/8922990/
-				https://www.zermatt.ch/en/Media/Planning-hikes-tours/Edelweiss-Trail-Hoehbalmen-Nr.-30
-
-		price
+		details
 			CHF 9.50
 		
 			https://www.matterhornparadise.ch/en/Book/Online-tickets/Single-tickets-Furi
 	
-
-
 
 
 	!!!
@@ -901,16 +1098,20 @@ Best hiking + price + time
 		!!!
 		access Five Lakes Walk (5-Seenweg)
 		
-		access Flower Trail (Blumenweg)			
+		access Flower Trail (Blumenweg)
 			https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/flower-trail-nr.-3-/8747732/
+
+
+		details			
+			20 minutes ride
 			
-		20 minutes ride
+			CHF 26.00
+			
+			https://www.zermatt.ch/en/Media/Tickets/Blauherd-Ticket
+			https://www.matterhornparadise.ch/en/Book/Online-tickets/Single-tickets-Blauherd
 		
-		CHF 26.00
-		
-		https://www.zermatt.ch/en/Media/Tickets/Blauherd-Ticket
-		https://www.matterhornparadise.ch/en/Book/Online-tickets/Single-tickets-Blauherd
-		
+
+
 		
 	Sunnegga 
 		
@@ -919,10 +1120,13 @@ Best hiking + price + time
 		https://www.matterhornparadise.ch/en/Book/Online-tickets/Single-tickets-Sunnegga
 
 
-	Rothorn 
+
+
+	Rothorn
 	
 		hiking
-			!!!
+		
+			!
 			Kristallweg: Rothorn - Blauherd aka Crystal Trail (Nr. 7)
 				Distance:  5.4 km
 				Way there:  1h 45
@@ -939,21 +1143,48 @@ Best hiking + price + time
 					46.021150, 7.797492
 					
 				turn-by-turn directions
-					Rothorn - Fluhalp - Stellisee - Blauherd
-								
+					Rothorn - Fluhalp - Stellisee - Blauherd								
 				
 				https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/regional-hiking-trail/crystal-trail-nr.-7-/8836752/
-				
 		
-		CHF 38.50
+		
+		details		
+			CHF 38.50
+		
+			https://www.matterhornparadise.ch/en/Book/Online-tickets/Single-tickets-Rothorn
+
+
+
+
+	Other
 	
-		https://www.matterhornparadise.ch/en/Book/Online-tickets/Single-tickets-Rothorn
+		--Too far away
+		Europaweg aka Europaweg Zermatt-Grächen
+			Charles Kuonen Suspension Bridge
+	
+		--Skip
+		Ricola Herb Garden
+			circular walk		
+		
+		--Skip
+		Gletschergarten Dossen
+			1.5 hrs circular walk
+			3km
+
+			bizarre glacial rock formations
+			picnic area with stone-built barbecues to cook up lunch
+			dizzying 90m-high, 100m-long steel suspension bridge above the Gornerschlucht Gorge		
+			
+			https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/glacier-garden-trail-nr.-17-/8863129/
 
 
 
 
+
+=============================================
+=============================================
+=============================================
 =====================Aletsch Glacier
-
 
 
 
@@ -966,6 +1197,10 @@ Aletsch Glacier
 			Betten Talstation1 day CHF 10.-
 			Fiesch valley station 1 day CHF 7.-
 			https://www.aletscharena.ch/destination-en/getting-here/car-park/
+
+			
+	weekend of traditions Bettmeralp
+		https://www.myswitzerland.com/en-ca/experiences/events/weekend-of-traditions-bettmeralp/			
 			
 			
 	!!!
@@ -1052,8 +1287,18 @@ Aletsch Glacier
 					
 
 	!!!
-	Bettmersee
-		Take the Matterhorn Gotthard Bahn to the Betten valley station, then transfer to the cable car. The cable car journey from Betten to the Bettmeralp only takes around 10 minutes. Having arrived at the Bettmeralp, a further 10-15 minute walk will then take you to Bettmersee
+	Bettmeralp - Bettmersee - Bettmerhorn
+		take the Matterhorn Gotthard Bahn to the Betten valley station, then transfer to the cable car
+		
+		cable-car from Betten to the drop-dead-gorgeous, car-free village of Bettmeralp
+			cable car journey from Betten to the Bettmeralp only takes around 10 minutes. Having arrived at the Bettmeralp, a further 10-15 minute walk will then take you to Bettmersee
+		
+		cable car from Bettmeralp to Bettmerhorn
+			exit Bettmerhorn station and follow the wooden walkway through cinematically oversized boulders to the so-called Eis Terrasse (Ice Terrace) where information panels tell you about the glacier and several marked footpaths start
+			
+		keep an eye out for black-nosed sheep
+
+
 
 
 	hiking
@@ -1166,6 +1411,9 @@ Aletsch Glacier
 			
 			starting and finishing point of the circular trail that opened in 2019 is the mountain station of the Eggishorn cable car
 			
+			cable car from Fiesch to Eggishorn				
+				ride the cable car up to Fiescheralp and continue up to Eggishorn
+			
 			https://www.outdooractive.com/en/route/thematic-trail/aletsch-arena/circular-themed-trail-on-eggishorn-/39906239/
 			https://maps.aletscharena.ch/en/tour/thematic-trail/circular-themed-trail-on-eggishorn-/39906239/
 
@@ -1211,45 +1459,22 @@ Aletsch Glacier
 
 
 
+
+
+
+=============================================
+=============================================
+=============================================
 =====================Leukerbad
 
 
 
 
-!!!
-Brigerbad
-	Termal Baths (Brigerbad)
-		
-		Family
-			!!!
-			3 hours Family * thermal pools, adult, price per person CHF 17.00
-			daily Family * thermal pools, adult, price per person CHF 23.00
-			!!!
-			3 hours Family * thermal pools & SPA (grotto, steambaths, saunas), price per person CHF 23.00
-			daily Family * thermal pools & SPA (grotto, steambaths, saunas), price per person CHF 31.00
-		Single
-			3 hours Single * thermal pools CHF 21.00
-			daily Single * thermal pools CHF 27.00
-			3 hours CHF * thermal pools & SPA (grotto, steambaths, saunas) 27.00
-			daily CHF * thermal pools & SPA (grotto, steambaths, saunas) 37.00
-		https://thermalbad-wallis.ch/en/therme/prices/
-		3 hours without spa 19,00 CHF
-			https://www.zermatt.ch/en/Media/Tickets/Entrance-for-3-hours-without-spa
-		3 hours with spa 25,00 CHF
-			https://www.zermatt.ch/en/Media/Tickets/Entrance-for-3-hours-with-spa
-			
-		other prices
-			https://www.zermatt.ch/en/Media/Tickets/Entrance-for-1-day-without-spa
-			https://www.zermatt.ch/en/Media/Tickets/Entrance-for-1-day-with-spa
-			
-		https://thermalbad-wallis.ch/en/opening-hours/
-		https://thermalbad-wallis.ch/en/therme/layout/
-
-
-		
-
-
 Leukerbad
+
+	Europe’s largest thermal spa resort
+		thermal waters beneath soaring mountain peaks
+		
 
 	parking
 		https://www.leukerbad.ch/aufenthalt/anreise-transport/anreise-mit-dem-auto/ortsplan-leukerbad1.jpg
@@ -1265,49 +1490,201 @@ Leukerbad
 			Day rate 14.00
 			https://www.leukerbad.ch/aufenthalt/anreise-transport/anreise-mit-dem-auto/parkhaus-alpentherme.pdf
 
+
+		parking cableway Leukerbad - Rinderhütte
+			just above the village - about 15 minutes from village
+			CHF 7.00 per day
+			
+		parking cable car Flaschen - Rinderhütte 
+			between Albinen and Leukerbad, hourly bus service is available
+			park your car for free
+		
+
+
 	hiking
+		
 		Gemmi
+			!!!
 			Gemmipass – Lämmerenhütte – Lämmerensee – Gemmipass
-			Difficulty
-				easy
+				Difficulty easy
 				10 km
-				3:15 h
-			Ascent
-				460 m
-			Descent
-				460 m		
+				3 hrs RT
+				Ascent 460 m
+				Descent 460 m		
 				
-		Torrent ridge trail
-			trail begins at the Torrenthorn pre-summit and passes via Schafberg to the Rinderhütte mountain station
-			option: hike from Rinderhütte to Flüekapelle, then to Dala Gorge, then to Leukerbad
-			
-		Gletscherpfad Lämmeren
-			Gemmi-Bahnen – Lämmerenboden – Lämmerenhütte – Gemmi-Bahnen
-			10 km
-			3 h 00
-			Ascent 390 m
-			Descent 390 m
-			
-			#5 on Leukerbad Map.pdf
-			
-			also - add around Daubensee
-			
-			
+				#5 on Leukerbad Map.pdf
+				
+				Lämmeren glacier trail with views of the Wildstrubel
+				good chances of observing ibex from the welcoming Lämmeren hut (enjoy the fruit tart, freshly baked every day)
+				Gemmi Pass with breathtaking views of Leukerbad and the 4,000-metre Valais peaks
+				
+				viewing platform 
+					situated directly at the terrace of the mountain lodge and restaurant Wildstrubel
+				
+				start Gemmi Pass (2338 m)
+					46.398251, 7.616201
+				turn-by-turn directions
+					hike begins at the Gemmi Pass, which you can reach by cable car or on foot from Leukerbad
+					trail climbs very gently along the Lämmerendalu river across the Lämmerenboden plateau. Before the final climb to the Swiss Alpine Club hut, about 250 vertical metres higher, you cross the river and then follow a well-made trail up to the mountain refuge
+					return to Lämmerenboden via the same route. Once you reach the plateau, take the left turning in the direction of the Lämmerensee lake, and then follow the left bank of the Lämmerendalu back towards the Gemmi Pass
+				
+				https://www.outdooractive.com/en/route/hiking-trail/valais/from-the-gemmi-pass-to-the-laemmeren-mountain-refuge-/29018847/
+				https://www.leukerbad.ch/adventures/summer/hiking/region-of-gemmi/laemmeren-hut/
+				
+				option: Gemmi pass - Daubensee - Gemmipass
+					2-hour hiking trail around the Daubensee
+				
+				
+			!!! - not enough time
+			Kandersteg-Leukerbad
+				https://www.leukerbad.ch/adventures/summer/hiking/region-of-gemmi/gemmi-hike/
+
+
+
+		!!!
 		Thermalquellen-Steg aka Thermal canyon walk into the Dala Gorge
 			Leukerbad – Passerelle des sources thermales
-			3.5 km
-			1 h 30,
+			Difficulty moderate
+			Distance 3.5 km 
+			Duration 2:00 h 
 			Ascent 180 m
 			Descent 180 m
+			
+			600-metres thermal spring trek along Dala Gorge at least 4 meters above water level
 
+			!!!
 			Dalaschlucht - Dramatisch und poetisch
 			#15 on Leukerbad Map.pdf
 			
+			start
+				Leukerbad, main village square (1397 m)
+				46.379443, 7.629433
+				
+			turn-by-turn directions
+				first section of the walk follows the «Thermal spring trek» theme trail (Thermalquellen-Weg) from the village as far as the entrance to the Dala gorge
+				from the bridge, the «Thermal canyon walk» (Thermalquellen-Steg) leads along the left bank of the river into the gorge. A suspension footbridge spans the Dala and leads eventually to the waterfall
+				at the upper end of the gorge, it is possible to climb out via either side
+					one route leaves via the right bank and leads through forest and across meadows to the hamlet of Buljes and eventually to the starting point of the walk in the village centre
+					alternatively you can leave the gorge via the left bank, and return direct to the bridge at the start of the canyon walkway. From here, you can follow the second part of the theme trail past the other 5 mineral springs of the spa resort back to the village centre
+			
+			https://www.outdooractive.com/en/route/hiking-trail/valais/walk-to-the-thermal-springs-in-leukerbad-/28510570/
+			https://www.myswitzerland.com/en-ca/experiences/footbridge-to-the-thermal-springs-dala-gorge/
+			
 
 
+		!!! only for those with a good head for heights
+		Albinen ladders aka Albinenleitern
+			Difficulty difficult
+			Distance 6.6 km 
+			Duration 2:00 h 
+			Ascent 181m 
+			Descent 298m
+			
+			ascent of a sequence of 8 wooden ladders, which once provided the only link between Leukerbad and Albinen
+				climb of about 100 vertical metres ends by the base station of the Flaschen–Torrentalp gondola
+					!!!
+					do not go all the way to Albinen
+						continue by cable car to Rinderhütte, then to Flüekapelle, then to Dala Gorge, then to Leukerbad
+				
+			start
+				Leukerbad, main village square (1390 m)
+				46.379854, 7.628828
+		
+			https://www.outdooractive.com/en/route/hiking-trail/valais/from-leukerbad-to-albinen-via-the-historical-albinen-ladders/28448853/
+			https://www.leukerbad.ch/adventures/summer/hiking/ladders-of-albinen/
+
+			
+			
+		!!!
+		Rinderhütte - Flüealp - Flüekapelle - Clabinualp - Leukerbad aka Majingbärgji
+			3 hrs
+			
+			from Rinderhütte to Flüekapelle, then to Dala Gorge, then to Leukerbad
+			
+				follow the directions Rinderhütte - Torrenthorn  to Rinderhalde, here is a guide that shows the direction to Flüealp. From there to the forest chapel Flüekapelle and below the disk horns over Clabinualp to Leukerbad
+	
+				at Buljes, hikers can visit the thermal springs in the Dala gorge by joining the “Thermal canyon walk” (Thermalquellen-Steg), which leads 600 m into the ravine as far as a waterfall 35 m high			
+			
+			links for route: Leukerbad - Flüealp - Leukerbad			
+				https://www.outdooractive.com/en/route/hiking-trail/valais/loop-to-flueealp-alpine-pasture-/29149691/
+				https://www.leukerbad.ch/adventures/summer/hiking/flueealp/
+			
+
+			
+		skip
+			Leukerbad - Flüealp - Leukerbad
+				Difficulty moderate
+				Distance 13.7 km 
+				Duration 4:30 h 
+				Ascent 728m 
+				Descent 730m 
+				
+				spectacular views of mountain scenery
+				alpine pastures with working cheese dairies
+				
+				start
+					Leukerbad, main village square (1397 m)
+					46.381573, 7.626478
+				destination
+					Leukerbad, main village square
+				
+				https://www.outdooractive.com/en/route/hiking-trail/valais/loop-to-flueealp-alpine-pasture-/29149691/
+				https://www.leukerbad.ch/adventures/summer/hiking/flueealp/
+
+
+			Torrent ridge trail
+				Rinderhütte - Vorgipfel - Schafberg - Rinderhütte aka Gratweg
+					2.5 hrs
+						
+					trail begins at the Torrenthorn pre-summit and passes via Schafberg to the Rinderhütte mountain station
+						trail starts at the mountain station Rinderhütte, from here you follow the hike on Torrenthorn to the rocky summit. From Vorgipfel the road in a southerly direction along the ridge leading up to the Schaftberg. From the Schafberg, follow the blue and white flag in a southwesterly direction down the slope and then goes on the trail back to Rinderhütte. Those who like to feel adreanline in the body should not miss this trails in any case! Important are a good head for heights surefootedness
+						
+					from Torrenthorn you can enjoy a spectacular view of Jungfrau, Monte Rosa, Matterhorn, Mont-Blanc, etc - unique mountain panorama of 360°
+						
+					https://www.outdooractive.com/en/route/hiking-trail/valais/ascent-of-the-torrenthorn/29148418/
+		
+		
+			other
+				https://www.torrent.ch/summeractivities/hiking.php
+
+
+
+	!!!
+	Mountain & Spa Pass
+	
+		use of the Torrent cableways
+		use of the Gemmi cableways
+		access to the thermal baths of the Leukerbad Therme
+		access to the thermal baths of the Walliser Alpentherme & Spa Leukerbad
+		access to the thermal baths of the Therme 51°
+
+		validity
+			30.05.2020–08.11.2020
+			
+		prices
+			1 day - 50.–
+			
+		Sales / Return points
+			My Leukerbad guest service center
+			Tourist Information
+			Torrent cablecars
+			Gemmi cablecars
+			Leukerbad Therme
+
+		https://www.leukerbad.ch/stay/packages/all-inclusive-pass/mountain-spa-pass/
+		https://www.leukerbad-therme.ch/prices/mountainandspapass.php
+
+
+
+	!!!
 	Termal Baths (Leukerbad)
 		
+		!!!
 		Leukerbad Therme
+		
+			10 different indoor and outdoor pools with water ranging in temperature from 28° to 43°C
+			whirlpools, massage jets, steam grottoes and a brightly cloured curly-wurly waterslide and the crowds love it				
+		
 			prices
 				3 hours CHF 25.00
 				1 day CHF 30.00
@@ -1325,17 +1702,17 @@ Leukerbad
 				Sauna and wellness
 					10:00 - 20:30 
 				
-			!!!
-			Mountain & Spa Pass
-				CHF 50.00
-				https://www.leukerbad-therme.ch/prices/mountainandspapass.php
-				https://www.leukerbad.ch/stay/packages/all-inclusive-pass/mountain-spa-pass/
 				
 			https://www.leukerbad-therme.ch/en/index.php
 			https://www.leukerbad-therme.ch/offers/thermalpools.php
 			
 		
-		Walliser Alpentherme
+		!!!
+		Walliser Alpentherme & Spa Leukerbad
+
+			two pools – one in, one out, both 36°C – with whirlpools, jets, Jacuzzi and dramatic mountain view
+			traditional Valaisan Sauna Village – all wood and rustic cartwheels, with several saunas, mill, ice-cold stream and herbal steam rooms – you must be nude
+			Roman-Irish bath is a two-hour nude bathing ritual with aromatic soap-brush massage and 11 different air, steam and thermal baths to drift between		
 			
 			prices
 				thermal baths
@@ -1360,26 +1737,135 @@ Leukerbad
 			http://www.alpentherme.ch/en.html
 
 
+		!!!
 		Therme 51°
+		
+			smallest thermal bath in Leukerbad
+			bath is filled with natural thermal water 36 to 42 degrees Celsius and is approved as “Swiss Spa”
+		
 			hours
 				Mo–Sa 07:30–19:30
 				Su 08:00–19:30
+				
 			prices
 				21.–
 				Thermal bath, sauna, steam bath, infrared included
 				
 				https://therme51.ch/
 				
+	!!!
+	cable cars
+
+		Gemmibahn
+			Gemmi cable cars
+				hours
+					08:30–17:00
+					cable car: every 30 minutes, every 10 minutes if needed
+				prices
+					Return 36.–, Half-Fare 18.–
+					Single 24.–, Half-Fare 12.–
+
+			Daubensee Gondolas
+				Single 6.– 
+				Return 9.–
+
+			Gemmi Pass
+				2,322 m
+			fantastic area for hiking
+			steely panoramic platform
+				incredible panorama of Valais at your feet
+			https://www.gemmi.ch/summer/summer/hiking-trails/?L=2
+				
+			https://www.gemmi.ch/summer/cable-car/the-cable-car-gemmi/?L=2
+			https://www.gemmi.ch/summer/cable-car/cable-car-daubensee/?L=2
+
+
+		Torrent-Bahnen
+
+			2 cable cars
+				Leukerbad-Rinderhütte
+				Flaschen-Torrentalp-Rinderhütte			
+			
+			prices		
+				Hikers day pass 38.-, Half-Fare 25.-
+				Return 36.–, Half-Fare 18.–
+				Single 24.–, Half-Fare 12.–
+				https://www.torrent.ch/timetable-costs/pricesinsummer.php
+				
+			hours
+				08:45 only uphill
+				09:00–12:00, 13:00–17:00 (every 30 Minutes)
+				17:15 only downhill
+		
+
+		
+	!!!
+	La Ferme Gemmet
+		9am-12.15pm & 3-8pm Mon, Tue & Thu-Sat
+
+		no ordinary delicatessen - showcase for produce from the Gemmet family farm, some 50km east near Brig
+			shelves of Valais wine on the walls
+			glass-covered counter safeguarding carefully aged alpkäse (Alpine cheese only produced in summer)
+			fresh milk (bring your own bottle)
+
 				
 
 
+=============================================
+=============================================
+=============================================
+=====================Brig + Visp
 
-Other	
-	Ricola Herb Garden
-	
-	--Skip
-	Gletschergarten Dossen
-		https://regio.outdooractive.com/oar-zermatt-tourismus/en/tour/theme-trail/glacier-garden-trail-nr.-17-/8863129/
+
+	!!!
+	Thermalbad Brigerbad
+
+		12 different indoor and outdoor pools
+		health spa with numerous underwater massage jets and the grotto swimming pool with air-con
+		various hammams and saunas
+		50-metre-long Olympic-sized pool
+				
+		longest Alpine thermal water slide
+		jump off the boulders near the sports swimming pool 
+		let the current take you downstream in the riverside pool
+
+		hours
+			9am-9pm
+			https://thermalbad-wallis.ch/en/opening-hours/
+
+					
+		prices
+			Family
+				!!!
+				3 hours Family * thermal pools, adult, price per person CHF 17.00
+				daily Family * thermal pools, adult, price per person CHF 23.00
+				
+				!!!
+				3 hours Family * thermal pools & SPA (grotto, steambaths, saunas), price per person CHF 23.00
+				daily Family * thermal pools & SPA (grotto, steambaths, saunas), price per person CHF 31.00
+				
+				https://thermalbad-wallis.ch/en/therme/prices/
+				
+			Single
+				3 hours Single * thermal pools CHF 21.00
+				daily Single * thermal pools CHF 27.00
+				3 hours CHF * thermal pools & SPA (grotto, steambaths, saunas) 27.00
+				daily CHF * thermal pools & SPA (grotto, steambaths, saunas) 37.00		
+				https://thermalbad-wallis.ch/en/therme/prices/
+
+			3 hours without spa 19,00 CHF
+				https://www.zermatt.ch/en/Media/Tickets/Entrance-for-3-hours-without-spa
+
+			3 hours with spa 25,00 CHF
+				https://www.zermatt.ch/en/Media/Tickets/Entrance-for-3-hours-with-spa
+				
+			other prices
+				https://www.zermatt.ch/en/Media/Tickets/Entrance-for-1-day-without-spa
+				https://www.zermatt.ch/en/Media/Tickets/Entrance-for-1-day-with-spa
+			
+		
+		https://thermalbad-wallis.ch/en/therme/layout/
+
 
 
 	Brig
@@ -1394,6 +1880,17 @@ Other
 			Mon-Fri 8am–12pm 2–6:30pm
 			Sat 8am–1pm
 			Sun Closed
+		
+		???
+		eclectic schloss (castle) topped with exotic onion domes
+			during the 17th century, the trade route to Italy, leading over the Simplon Pass, was controlled by the Stockalper family of merchants. Kaspar Jodok Stockalper von Thurm  built Renaissance-Baroque palace between 1658 and 1678
+			
+			three tall square towers crowned by cupolas Caspar, Melchior and Balthazar
+			arcaded courtyard 
+			chapel dedicated to the Three Kings, with an ornate silver altarpiece made by Samuel Hornung of Augsburg			
+		
+		https://www.brig-simplon.ch/
+
 
 
 	Visp
@@ -1405,385 +1902,21 @@ Other
 			
 		www.vispinfo.ch
 		
-		
-		
-	
-		
 
 
-???
-Multi-day pass «Adventure Card»
-	https://erlebniscard.ch/?lang=en
-	https://erlebniscard.ch/wp-content/uploads/2019/05/Erlebniscard_Folder_2019_20_WEB-1.pdf
-	
-	2 days - free travel on trains and buses, but not on funiculars / cableways
-	CHF 64 with Half-Fare
-	CHF 109 without reduction
+
+	???
+	Multi-day pass «Adventure Card»
+		https://erlebniscard.ch/?lang=en
+		https://erlebniscard.ch/wp-content/uploads/2019/05/Erlebniscard_Folder_2019_20_WEB-1.pdf
+		
+		2 days - free travel on trains and buses, but not on funiculars / cableways
+		CHF 64 with Half-Fare
+		CHF 109 without reduction
 	
 
 
 
-=====================
-
-
-
-Milan to Zermatt
-	Vignette
-		to use Swiss motorways, which are indicated by green signs, drivers require annual sticker called a vignette, which costs SF 40
-		sold at border crossings, petrol stations, tourist offices and post offices		
-		sticker must be displayed on the windscreen
-		sticker is valid for one calendar year
-		if you’re caught without it, you’ll be fined Sfr100
-		
-		www.vignette.ch
-		
-
-	Simplon Pass
-		www.simplon.ch
-		
-		2005 m 
-		Napoleon built new road here in 1800–06
-			road is about 64 km long and runs from Brig, over the pass and through the village of Simplon, down to the Italian town of Domodossola
-			road is passable virtually all year round
-			railway tunnel under the pass was built in 1906, as an alternative crossing
-
-
-Matterhorn
-	Zermatt
-		car-free
-			take narrow-gauge railway from Visp
-				OR
-			park in Tasch aka Täsch
-	Zermatt's Gornergatbahn
-		admire the unfathomable trigonometry of Switzerland's icon
-	Matterhorn Glacier Paradise
-		admire the unfathomable trigonometry of Switzerland's icon
-	Matterhorn Glacier Ride
-		new cableway
-	Saas Fee
-		www.saas-fee.ch
-		feed wild marmots and shoot down the mountain on a scooter
-		hiking trails
-			Mattmarksee, an artificial lake
-			cable car also runs up to Felskinn. From here, the Alpine Metro makes the journey up to Mittelallalin
-			
-		
-	
-???
-Brig
-	www.brig-simplon.ch
-	
-	eclectic schloss (castle) topped with exotic onion domes
-		during the 17th century, the trade route to Italy, leading over the Simplon Pass, was controlled by the Stockalper family of merchants. Kaspar Jodok Stockalper von Thurm  built Renaissance-Baroque palace between 1658 and 1678
-		
-		three tall square towers crowned by cupolas Caspar, Melchior and Balthazar
-		arcaded courtyard 
-		chapel dedicated to the Three Kings, with an ornate silver altarpiece made by Samuel Hornung of Augsburg
-
-
-
-Leukerbad
-	www.leukerbad.ch
-	
-	1,411 m
-
-	Europe’s largest thermal spa resort
-		thermal waters beneath soaring mountain peaks
-
-	Mountain & Spa Pass
-		Use of the Torrent cableways
-		Use of the Gemmi cableways
-		Access to the thermal baths of the Leukerbad Therme
-		Access to the thermal baths of the Walliser Alpentherme & Spa Leukerbad
-		Access to the thermal baths of the Therme 51°
-
-		Validity
-			30.05.2020–08.11.2020
-			
-		prices
-			1 day - 50.–
-			
-		Sales / Return points
-			My Leukerbad guest service center
-			Tourist Information
-			Torrent cablecars
-			Gemmi cablecars
-			Leukerbad Therme
-
-		https://www.leukerbad-therme.ch/prices/mountainandspapass.php
-
-
-	Gemmibahn
-		Gemmi cable cars
-			hours
-				08:30–17:00
-				cable car: every 30 minutes, every 10 minutes if needed
-			prices
-				Return 36.–, Half-Fare 18.–
-				Single 24.–, Half-Fare 18.–
-
-		Daubensee Gondolas
-			Single 6.– 
-			Return 9.–
-
-		Gemmi Pass
-			2,322 m
-		fantastic area for hiking
-		steely panoramic platform
-			incredible panorama of Valais at your feet
-
-
-	Torrent-Bahnen
-		
-		Leukerbad-Rinderhütte
-			cable car up to Rinderhütte (2350m), then chairlift continues to 2610m
-		Flaschen-Torrentalp-Rinderhütte			
-		
-		prices		
-			Hikers day pass 38.-, Half-Fare 25.-
-			Return 36.–, Half-Fare 18.–
-			Single 24.–, Half-Fare 18.–
-			
-		hours
-			08:45 only uphill
-			09:00–12:00, 13:00–17:00 (every 30 Minutes)
-			17:15 only downhill
-			
-		monster scooter
-			Sfr15
-			one hour for the steep, at-times rocky descent
-			
-		hiking
-			Torrenthorn
-			
-
-	!!!
-	Walliser Alpentherme & Spa Leukerbad
-		two pools – one in, one out, both 36°C – with whirlpools, jets, Jacuzzi and dramatic mountain view
-		traditional Valaisan Sauna Village – all wood and rustic cartwheels, with several saunas, mill, ice-cold stream and herbal steam rooms – you must be nude
-		Roman-Irish bath is a two-hour nude bathing ritual with aromatic soap-brush massage and 11 different air, steam and thermal baths to drift between
-		
-		http://www.alpentherme.ch/en.html
-
-
-	!!!
-	Leukerbad Therme
-		10 different indoor and outdoor pools with water ranging in temperature from 28° to 43°C
-		whirlpools, massage jets, steam grottoes and a brightly cloured curly-wurly waterslide and the crowds love it
-
-	
-	!!!	
-	Thermalbad Brigerbad
-		six curative pools, including one in a grotto with air-con
-
-
-	!!!
-	Therme 51°
-		smallest thermal bath in Leukerbad
-		bath is filled with natural thermal water 36 to 42 degrees Celsius and is approved as “Swiss Spa”
-		
-
-	!!!
-	Thermal canyon walk into the Dala Gorge
-		to walk the almost 600-metres thermal spring trek along Dala Gorge at least 4 meters above water level, you need a head for heights and good walking shoes
-		circuit takes a total of about 75 minutes
-		https://www.myswitzerland.com/en-ca/experiences/footbridge-to-the-thermal-springs-dala-gorge/
-
-		
-
-	La Ferme Gemmet
-		www.lafermegemmet.ch
-		9am-12.15pm & 3-8pm Mon, Tue & Thu-Sat
-
-		no ordinary delicatessen - showcase for produce from the Gemmet family farm, some 50km east near Brig
-			shelves of Valais wine on the walls
-			glass-covered counter safeguarding carefully aged alpkäse (Alpine cheese only produced in summer)
-			fresh milk (bring your own bottle)
-
-
-
-
-Zermatt
-	1,605 m
-
-	!!!
-	Matterhorn Glacier Paradise
-		Sfr99
-		8.30am-4.20pm
-
-		Europe’s highest-altitude cable car - 3883m
-		views from the Panoramic Platform (only open in good weather)
-			14 glaciers and 38 mountain peaks over 4000m
-		Glacier Palace
-			ice palace complete with glittering ice sculptures and an ice slide to swoosh down bum first
-		snow tubing outside in the snowy surrounds
-		
-		https://www.matterhornparadise.ch/en/Current-news/Live-up-to-date/Webcams
-
-	!!!
-	Gornergratbahn
-		Sfr42 OW
-		7am-9.50pm
-
-		Europe's highest cogwheel railway to Gornergrat (3089m) – since 1898
-			30-minute journey
-			tickets allow you to get on and off en route
-			in summer an extra train runs once a week at sunrise and sunset – the most spectacular trips of all
-
-			sit on the right-hand side of the little red train to gawp at the Matterhorn
-			
-		https://www.gornergratbahn.ch/en/webcam/
-			
-			
-			
-			
-
-
-	Ricola Herb Garden
-		circular walk
-
-	Gletschergarten Dossen
-		1.5 hrs circular walk
-		3km
-
-		bizarre glacial rock formations
-		picnic area with stone-built barbecues to cook up lunch
-		dizzying 90m-high, 100m-long steel suspension bridge above the Gornerschlucht Gorge
-
-
-	hiking
-		Höhbalmen Höhenweg
-
-		5 Lakes trail	
-
-		360 Trail aka 360° Loop
-
-		other		
-			Matterhorn Trail 
-				from Zermatt to Schwarzee and its tiny chapel, passing through the hamlet of Zmutt where restaurants serve Valasian specialities		
-
-			Hörnlihutte from Schwarzsee
-
-			Matterhorn Glacier Trail
-				6.5 km
-				2 hrs
-				from Trockener Steg to Schwarzsee
-
-				a hike taking in wild glaciers and 4000m peaks		
-					23 information panels en route tell you everything you could possibly need to know about glaciers and glacial life
-
-			Europaweg aka Europaweg Zermatt-Grächen
-				Charles Kuonen Suspension Bridge
-
-
-
-	passes
-		hiking pass
-			three-day - Sfr144
-
-		Panoramic Pass
-			Sfr128 for one day
-			Sfr146 for two consecutive days
-
-
-	arrival
-		park in the Matterhorn Terminal Täsch and ride the Zermatt Shuttle train
-			parking
-				https://www.zermatt.ch/en/arrival/Arrival-by-car
-				
-			schedule & prices
-				until 6 h - CHF 11.00
-				until 8 h - CHF 14.00
-				1 day - CHF 16.00 per day			
-				
-				parking garage with 24-hour service
-				
-				multi-storey car park with 2100 covered parking spaces
-				
-				parking tickets and train tickets to Zermatt can be purchased
-					online
-					on site at the ticket machines 
-					at the counter in the Täsch terminal (opening hours 7.00 - 19.00 hrs)
-					
-				https://www.zermatt.ch/en/arrival/mtt/Matterhorn-Terminal-Schedule-Prices
-				
-			shuttle train
-				CHF 8.20, Half-Fare: CHF 4.10
-				6:00 am to 10:00 pm, 24-hour service from Thursday to Sunday
-				12 minutes every 20 minutes
-				
-				total RT + parking Half-Fare: CHF 32.40
-				
-				https://www.zermatt.ch/en/arrival/Arrival-by-train/Shuttle-MTT/Zermatt-Shuttle-Train
-				
-			www.matterhornterminal.ch
-			https://www.matterhorngotthardbahn.ch/en/summer/
-			https://www.matterhorngotthardbahn.ch/en/winter/anreise/matterhorn-terminal-taesch/
-			
-
-		park in Brig
-			park at hotel
-			
-			first train from Brig
-				05:20				
-			last train from Zermatt
-				22:13
-			train duration
-				1 hr 20 mins
-			train price
-				CHF 19.20 OW, Half-Fare: CHF 9.60
-				total RT + parking Half-Fare: CHF 38.40
-		
-		park in Visp
-			park
-				car park at the station (Bahnhof)
-				https://www.visp.ch/sicherheit/regionalpolizei/parkhaeuserundparkplaetze.php
-				
-				https://www.parking.ch/en/parkings/visp
-					!!!
-					https://www.parking.ch/en/parkings/visp/p-und-rail-visp
-					https://www.sbb.ch/en/station-services/railway-stations/visp-station.html#mobility
-						CHF 7.00 / day
-		
-			first train from Visp
-				05:33				
-			last train from Zermatt			
-				22:13
-			train duration
-				1 hr
-			train price
-				CHF 18.80 OW, Half-Fare: CHF 9.40
-				total RT + parking Half-Fare: CHF 44.6
-				
-		park in Graechen
-			park at hotel
-				bus + train
-					CHF 30.20 OW, Half-Fare: CHF 15.10
-				
-
-
-
-
-!
-Aletsch Glacier
-	viewpoints	
-		!!!
-		cable-car from Betten to the drop-dead-gorgeous, car-free village of Bettmeralp
-		cable car from Bettmeralp to Bettmerhorn
-		
-			exit Bettmerhorn station and follow the wooden walkway through cinematically oversized boulders to the so-called Eis Terrasse (Ice Terrace) where information panels tell you about the glacier and several marked footpaths start
-			
-			keep an eye out for black-nosed sheep									
-			
-		!!!
-		cable car from Fiesch to Eggishorn
-			www.eggishorn.ch
-			return Sfr42.80
-			ride the cable car up to Fiescheralp and continue up to Eggishorn
-			
-	
-		
-		
 		
 
 
@@ -1791,46 +1924,61 @@ Aletsch Glacier
 =============================================
 =============================================
 =============================================
+=====================Kandersteg
 
 
 
 https://swissfamilyfun.com/wp-content/uploads/2008/06/oeschinensee-summer-panorama-map-labeled.jpg
 
 
-
+https://www.kandersteg.ch/
+https://www.oeschinensee.ch/
+https://www.blausee.ch/
 
 
 Kandersteg
-	www.kandersteg.ch
-	
-	1,176 m
 
-	hiking is this town’s raison d’être
 
 	!!!
 	Oeschinensee
-		oeschinensee.ch/en
 	
 		cable car
-			one way/return Sfr18/26
-			8am-6pm
+			09.00	17.00
+			
+			one way/return CHF 22.00/CHF 30.00, Half-Fare: CHF 11.00/CHF 15.00
+				free ride with the regional pass Bernese Oberland
 
 			cable car
-				then 25 minutes' walk to the lake OR short shuttle ride
-			once there, it takes an hour to hike back down to Kandersteg
+				then 25 minutes' walk to the lake
+					OR
+				short shuttle ride
+					11.00	16.30, every 30 minutes
+			once there, it takes an hour to hike back down to Kandersteg				
+				1 hr. Oeschinensee - Kandersteg (1 hr. 30 mins. Kandersteg - Oeschinensee)
+			https://www.oeschinensee.ch/en/gondelbahn/
+			
+		hiking
+			Oeschinensee loop from Kandersteg, without using the Gondola
+				Difficulty moderate
+				Distance 10.5 km 
+				Duration 3:30 h
+				Ascent 625m 
+				Descent 626m
+				https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/oeschinensee-loop-from-kandersteg/123310998/
+			
+		epic summer toboggan run
+			09.30	16.30
+			CHF 6.00
+			https://www.oeschinensee.ch/en/summer/mountaincoaster/
 			
 		kayaking
-		hiking 
-		Kandersteg-Allmenalp via ferrata
-			starting point - railway station
-			Allmibach river itself is crossed using two rope bridges
-		epic summer toboggan run
 		picnic 
 		
 		https://swissfamilyfun.com/wp-content/uploads/2008/06/oeschinensee-summer-panorama-map-labeled.jpg
 		
+		
 
-	!!!
+	!!! - not enough time
 	Gemmi Pass
 		2,314 m
 		Gemmi Pass to Leukerbad
@@ -1838,26 +1986,62 @@ Kandersteg
 			steep descent
 			6-7 hrs
 
-	!!!
-	Blausee
-		Sfr7
-		9am-5pm
 
-		scenic 5km hike up to the azure, crystal-clear Blausee and its nature park
+	not enough time
+	
+		Blausee
+			Sfr7
+			9am-5pm
+			scenic 5km hike up to the azure, crystal-clear Blausee and its nature park	
+	
+		Adelboden
+			hiking
+				Engstligenfälle 
+				Ammertenspitz
 
 
 
-Adelboden
-	hiking
-		Engstligenfälle 
-		Ammertenspitz
+
+
+
+=======================================================================================================================================
+=======================================================================================================================================
+=======================================================================================================================================
+=====================Sep 20-22
+
+
+
+
+
+
+Best hiking + price + time
+
+
+	Plan
+		VZ Best
+			Eiger Walk + Eiger Trail			
+			Faulhornweg trail OR First to Bussalp
+			Panoramaweg: Männlichen to Kleine Scheidegg
+			
+		VZ 2nd choice
+			Männlichen: every Sunday - Mountain Brunch
+
+
+
 
 
 =============================================
+=============================================
+=============================================
+=====================Links
 
 
-https://www.sagetraveling.com/wp-content/uploads/2017/12/interlaken-accessibility-map.jpg
-https://vcdn.bergfex.at/images/downsized/b2/073bee1ca9dc2fb2_d683ad59d594bca8@2x.jpg
+https://www.regionalpass-berneroberland.ch/en/
+
+
+
+
+
 https://schilthorn.ch/fr/Infos/daten/karten/schilthorn_wanderplan.jpg
 
 https://i.redd.it/udy837mzycp31.jpg
@@ -1865,14 +2049,153 @@ https://skimap.org/data/3787/3564/1559592912.jpg
 
 
 
+https://jungfrauregion.swiss/en/summer/services/brochures/
+https://www.jungfrau.ch/en-gb/
+https://www.jungfrau.ch/en-gb/summer-sport/hiking/
+https://www.outdooractive.com/en/source/jungfrau-region-tourismus-ag/22983975/
+https://www.outdooractive.com/en/routes/#area=1039828&cat=Hiking%20Trail&filter=r-fullyTranslatedLangus-en,sb-sortedBy-0&wt=Wallis%20(Geographic%20region)%0A1039828&zc=13,7.73995,46.01163
+https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/
+https://www.maennlichen.ch/en/
+http://grindelwald.swiss/
+https://www.jungfrau.ch/en-gb/grindelwaldfirst/
+https://www.jungfrau.ch/en-gb/schynige-platte/
+https://schilthorn.ch/en/Info/Allmendhubel_1907_m_._6257ft
+https://schilthorn.ch/en/Welcome
+https://www.jungfrau.ch/en-gb/harder-kulm/
+https://www.niederhorn.ch/en/
+http://www.stockhorn.ch/en/home
+http://www.pfingstegg.ch/index.php/en/
+https://www.isenfluh.ch/english/
+
 
 www.bls.ch
+https://www.bls.ch/en/fahren/unterwegs-mit/schiff#time.from:26.01.2017,time.to:26.05.2017
 www.steamchen.com
 www.interlaken.ch
 
 www.thuntourismus.ch
 
+
+
 www.brienz-tourismus.ch
+https://brienz-rothorn-bahn.ch/?lang=en
+
+
+https://www.grimselwelt.ch/en/transport-lift/gelmer
+https://www.grimselwelt.ch/en/excursion-tips/sidelhorn
+https://www.grimselwelt.ch/en/transport-lift/trift
+
+
+
+
+http://www.titlis.ch/en
+https://brunni.ch/en/
+
+http://www.niesen.ch/en/niesen-news/?oid=1948&lang=en
+
+
+
+=============================================
+=============================================
+=============================================
+=====================Drive: Zermatt to Intelaken
+
+
+
+
+
+=============================================
+=============================================
+=============================================
+=====================Regional Pass Bernese Oberland
+
+
+--VZ: does not seem to worth it, but needs to be calculated
+Regional Pass Bernese Oberland
+
+
+	free travel by train, bus, boat, mountain railway and cableway during 3, 4, 6, 8 or 10 consecutive days
+	for trips on the lines where a reduction of 50% is granted, please buy the tickets in advance at any ticket counter or machine
+
+	
+	prices
+		3 Days	CHF	220.-, Half-Fare 165.-
+		4 Days	CHF	260.-, Half-Fare 195.-
+		6 Days	CHF	320.-, Half-Fare 240.-
+		
+		comparison return:
+			Wilderswil - Schynige Platte	64.-
+			Grindelwald - First	64.-
+			Grindelwald Grund - Männlichen	64.-
+			Interlaken East - Kleine Scheidegg	82.80
+			Kleine Scheidegg to Jungfraujoch	99.-  (reduction of 50%)
+			Mürren to Schilthorn 42.80 (reduction of 50%)
+			
+			Brienz - Brienzer Rothorn	92.-
+			Mülenen - Niesen Kulm	59.-
+			Beatenbucht - Niederhorn	56.-
+
+		https://www.regionalpass-berneroberland.ch/en/pass-and-infos/pricing/
+		
+	
+	sales points	
+		railway stations
+		ship landing stages
+		many tourist offices and travel agencies 
+		online at BLS Webshop as Print@Home
+		online at SBB Ticket Shop as Print@Home
+		
+		https://www.regionalpass-berneroberland.ch/en/pass-and-infos/buy-ticket/
+
+
+	best attractions
+		Jungfraubahnen
+		Wengen - Männlichen
+		Gondola Cableway Grindelwald - Männlichen
+		Grindelwald - First -- Top of adventure
+		Schynige Platte
+		Mürren - Allmendhubel		
+		Schilthorn
+			
+		Titlis Cableways
+		Engelberg - Brunni
+	
+	2nd choice attractions
+		Harder Kulm	
+		Niederhorn
+		Brienz Rothorn Bahn
+		Navigation Lake Thun and Lake Brienz
+		Stockhorn
+		
+		Pfingstegg – Grindelwald Paradise
+							
+		Aletsch Arena
+		Brigerbad, Brig
+		Kandersteg - Lake Oeschinen	
+		
+		Gelmer Funicular
+		Sidelhornbahn
+		Triftbahn
+		
+		
+	other attractions
+		Gletscherschlucht Grindelwald
+		Isenfluh - Sulwald
+		
+		St. Beatus Caves
+		
+		Niesen
+		
+
+
+https://www.regionalpass-berneroberland.ch/en/
+
+
+
+=============================================
+=============================================
+=============================================
+
 
 
 Interlaken
@@ -1882,12 +2205,14 @@ Interlaken
 	Harder Kulm
 		1,322 m
 		www.harderkulm.ch
+		
 		far-reaching views to the 4000m giants
 			Eiger, Mönch and Jungfrau peaks can all be seen
+			
 		ride the funicular to 1322m Harder Kulm
 			Interlaken to Harder Kulm
 			many hiking paths begin here
-			vertigo-free can enjoy the panorama from the Zweiseensteg (Two Lake Bridge) jutting out above the valley
+			vertigo-free can enjoy the panorama from the Zweiseensteg aka Zwei-Seen-Steg aka Two Lake Bridge jutting out above the valley
 				glass-floored viewing platform.
 			wildlife park near the valley station is home to Alpine critters, including marmots and ibex
 			Sfr28
@@ -1895,36 +2220,87 @@ Interlaken
 			8.10am-6.25pm
 			
 		from TB
-		Augstmatthorn
+			Augstmatthorn
 		
+		highlight
+			daily evening trips with the funicular railway from Interlaken to Harder Kulm
+			https://www.jungfrau.ch/en-gb/harder-kulm/evening-trips/
+
+	
+	!!!
+	Niederhorn	
 		Gemmenalphorn hike
-			Take funicular to Beatenberg. Then catch a cable car to the Niederhorn, a great viewpoint nearly 2000m high. An easy one-hour walk brings you 100m higher to the Gemmenalphorn. Here you are surrounded by mountain flowers, ibexes and cows. It’s an Alpine dream.
+			Take funicular from Beatenbucht to Beatenberg. Then catch a cable car to the Niederhorn, a great viewpoint nearly 2000m high. An easy one-hour walk brings you 100m higher to the Gemmenalphorn. Here you are surrounded by mountain flowers, ibexes and cows. It’s an Alpine dream
+				
+		evening trips onto the Niederhorn and an Alpine buffet in the Berghaus Niederhorn restaurant - every Friday and Saturday evening 
+			from 16.00 hours, you can travel at special rates up onto the Niederhorn or as far as the Vorsass middle station. A generous Alpine buffet awaits you in the Berghaus Niederhorn. Our trains then take you back to your starting point in Beatenberg or Beatenbucht. Last trip down into valley from the Niederhorn: 22.20 hours
+			watch the sunset on the Niederhorn
+
+		tip
+			stay overnight in the Berghaus Niederhorn and experience the dawning of the new day when you wake up
+			with a bit of luck, early risers will encounter one or two ibex or maybe the odd chamois just a few hundred metres from the Berghaus Niederhorn
+
+		fast-paced trip down into valley on a micro-scooter
+			Niederhorn with micro-scooter
+				train to Thun
+				boat trip to Beatenbucht
+				funicular Beatenbucht - Beatenberg
+				cable car Beatenberg - Niederhorn
+				hiking Niederhorn - Middle sation Vorsaas (1 hr)
+				scooter riding to Beatenberg
+				bus Beatenberg - Interlaken West		
+				CHF 133.00
+		
+		St. Beatus Caves
+			hunted by St Beat, a 6th century monk, the story goes that the mythological creature, a dragon, took shelter in this this extraordinary geological site – St Beatus Caves, next to the the lakes of Interlaken
+			over 1 km of well-lit walkways
+			entrance seen from parking lot
+	
 
 	!!!
 	Schynige Platte
 		2,076 m
 		www.schynigeplatte.ch
+		
 		must-do day trip
+		
 		Alpengarten
 			www.alpengarten.ch
 			8.30am-6pm
 			free
 			600 types of Alpine blooms, including snowbells, arnica, gentian and edelweiss
-		Panoramaweg
+			only Alpine garden in Switzerland
+			
+		Panoramaweg aka Panorama Trail
 			easy two-hour circuit
+			
+		Swiss Flower Trail
+			
 		!!!
 		Faulhornweg trail
 			high-level 15 km
 			4.5-5.5 hrs
 			page 336 LP
-			Schynige Platte to Grindelwald-First via the cobalt Bachalpsee (Lake Bachalp)
-				classic high-Alpine hike, with photogenic views of the glacier-capped Jungfrau massif (Eiger, Mönch and Jungfrau) and Lakes Thun and Brienz
+			classic walk: Schynige Platte – Faulhorn – First
+				Schynige Platte to Grindelwald-First via the cobalt Bachalpsee (Lake Bachalp)
+					classic high-Alpine hike, with photogenic views of the glacier-capped Jungfrau massif (Eiger, Mönch and Jungfrau) and Lakes Thun and Brienz
+		
+		short walk (50 minutes) takes you to the Daube viewpoint from which Lake Brienz is also visible
+		convenient circular walks
+		daily alpenhorn blowing
+		barbecue site
+		
+		tip: walk from the Schynige Platte to Breitlauenen middle station for coffee and cake in the authentic little middle station café. Watch how the points operator switches points for trains by hand and take a short walk to the Ferdinand Hodler viewpoint
+		
 		cog-wheel train
 			Wilderswil to Schynige Platte
 			late-19th-century cog-wheel train
 			one way/return Sfr35/65
 			every 40 minutes between
 			7.25am-4.45pm
+
+		
+
 
 	!!! Important
 	The only way south for vehicles without a big detour round the mountains is to take the car-carrying train from Kandersteg
@@ -1952,18 +2328,24 @@ Interlaken
 
 Jungfraubahnen
 	Hourly trains depart for the region from Interlaken Ost station
-		Sit in the front half of the train for Lauterbrunnen or the back half for Grindelwald. The two sections of the train split up where the two valleys diverge at Zweilütschinen
+		trip takes 2 hours 15 minutes each way
+		sit in the front half of the train for Lauterbrunnen or the back half for Grindelwald. The two sections of the train split up where the two valleys diverge at Zweilütschinen
+		it is advisable to reserve a seat when travelling to the Jungfraujoch as tickets to the Jungfraujoch are limited
+			costs CHF 10 per person (no discount on seat reservations) RT
 
 	without a money-saving pass
-		to Kleine Scheidegg
-			Interlaken Ost to Grindelwald Sfr10.80
-			Grindelwald to Kleine Scheidegg Sfr31
-				OR
-			Interlaken Ost to Lauterbrunnen Sfr7.40
-			Lauterbrunnen to Wengen Sfr6.60
-			Wengen to Kleine Scheidegg Sfr23
+		Interlaken Ost - Jungfraujoch (Top of Europe)
+			CHF 210.80
+		
+			to Kleine Scheidegg
+				Interlaken Ost to Grindelwald Sfr10.80
+				Grindelwald to Kleine Scheidegg Sfr31
+					OR
+				Interlaken Ost to Lauterbrunnen Sfr7.40
+				Lauterbrunnen to Wengen Sfr6.60
+				Wengen to Kleine Scheidegg Sfr23
 
-		Kleine Scheidegg to Jungfraujoch Sfr120 (return)
+			Kleine Scheidegg to Jungfraujoch Sfr120 (return)
 
 
 Grindelwald
@@ -1992,14 +2374,15 @@ Grindelwald
 			
 			terrace offering dramatic views
 			vertiginous hanging bridge spans the gorge
-		
+			
+	Alpine Dairy
 
 	Bort Scooter Trail
 		rent scooters to zoom back down to the valley on a 4.5km marked trail
 		rental including the cable car to Bort costs Sfr23
 
 	Gletscherschlucht Glacier Gorge
-		Sfr7
+		CHF 19.- 
 		10am-5pm
 		30-minute walk south of Grindelwald
 		footpath weaves through tunnels hacked into cliffs veined with pink and green marble
@@ -2020,13 +2403,44 @@ First aka Grindelwald-First
 		8am-6pm
 
 	trailhead for 100km of paths
+
 		!!! aka Faulhornweg trail
 		First to Faulhorn (2681m; 2½ hours) via the cobalt Bachalpsee (Lake Bachalp)
+			#62 on hike map
+			
 			unfolding views of the Jungfrau massif
 			stop for lunch and 360-degree views at Faulhorn
+			
+			!!!
 			from Faulhorn
 				continue on to Schynige Platte (another three hours) and return by train
 				hike to Bussalp (1800m; 1½ hours) and return by bus to Grindelwald (Sfr22.80, 32 minutes)
+				
+			difficuty easy
+			duration 6h
+			distance 15.96km
+			ascent 832hm
+			descent 698hm
+			
+			Schynige Platte – Männdlenen – Faulhorn – First			
+				start Bergstation Schynige Platte
+				finish Bergstation First				
+			
+		!!!
+		VZ: maybe instead of Faulhornweg trail - also goes via Bachalpsee – Faulhorn
+		Bussalp
+			#2 on hike map
+			difficuty easy
+			distance 9.77km
+			duration 4h
+			
+			ascent 544hm
+			descent 789hm
+			
+			First – Bachalpsee – Faulhorn – Bussalp
+				start Bergstation First
+				finish Bussalp			
+			
 
 		other
 			Schwarzhorn
@@ -2044,7 +2458,7 @@ First aka Grindelwald-First
 			speeds of around 85km/h
 		https://www.jungfrau.ch/en-gb/grindelwaldfirst/first-flyer/
 
-	First Skywalk by Tissot
+	First Skywalk by Tissot aka First Cliff Walk by Tissot
 
 
 Männlichen
@@ -2068,27 +2482,67 @@ Männlichen
 	!!!
 	Panoramaweg
 		Männlichen to Kleine Scheidegg
+			# 33 on hike map
+			
 			wildflower-cloaked pastures
 			orchestra of chiming cowbells
 			peerless views of the Eiger, Mönch, Jungfrau and the pearl-white pyramid of Silberhorn (3695m)
-			easygoing trail
-			1.5 hrs
+			
+			difficulty easy
+			distance 4.63km
+			duration 1.30h
+
+			ascent 7hm
+			descent 163hm
+
+			start Bergstation Männlichen
+			finish Kleine Scheidegg			
+			
 
 	Felixweg
 		from Männlichen to Holenstein
 		marmot-filled
 		easygoing trail - for kids
 		1.5 hrs
+		
+	other walks
+		Royal Walk to Männlichen summit 
+			# 47 on hike map
+			
+			from the Männlichenbahn mountain station to the Männlichen summit 
+				trail through the Alpine kingdom starts at the "King's Gate"
+				hikers will encounter the court artist, discover the many and varied valuables in the treasure chamber and get to know the royal household
+				Männlichen summit
+					majestic panorama and royal views of the Eiger, Mönch and Jungfrau
+					360° view as far as the Swiss Central Plateau region and to the Jura Arc from the viewing platform on the summit of Männlichen
+			
+			distance 2km 
+			duration 30 mins
+
+			ascent 125hm
+			descent 125hm
+
+			start Bergstation Männlichenbahn
+			finish Bergstation Männlichenbahn
+			
+		
+	every Sunday - Mountain Brunch
+		selected regional products, various types of bread, Rösti, bacon and scrambled eggs welcome you at the buffet. Crépes are freshly prepared as a sweet attraction. A feast for the senses and the perfect setting for a cosy day
 
 
+--Next Time
 Pfingstegg
-	cable car rises up to Pfingstegg
+	cable car rises up from Grindelwald to Pfingstegg
 		one way/return Sfr12.60/18.80
 		8-5.30pm
 	short hiking trails
 		to Stieregg, near the deeply crevassed Unterer Gletscher
 		trail skirting the base of the Oberer Gletscher (1.5 hrs) via the Restaurant Milchbach
 			along this, you pass the Breitlouwina, a geologically fascinating rock terrace scarred with potholes caused by moving ice
+	activities
+		toboggan run
+		Fly-Line ride
+	
 
 
 
@@ -2100,12 +2554,40 @@ Kleine Scheidegg
 	close-ups of ‘big three’ – Eiger (Ogre), Mönch (Monk) and Jungfrau (Virgin)
 
 	terrific base for hiking
+
 		!!!
-		Eiger Trail hike
-			Kleine Scheidegg to Eigergletscher
-				1 hr
+		Eiger Walk: Kleine Scheidegg to Eigergletscher
+			# 37 on hike map
+			
+			distance 2.1km 
+			duration 1h
+			
+			ascent 1hm
+			descent 255hm				
+			
+			Kleine Scheidegg - Eigergletscher - Fallboden
+				start Kleine Scheidegg
+				finish Station Eigergletscher
+	
+		!!!
+		Eiger Trail
+			# 36 on hike map
+			
 			spectacular 6km Eiger Trail from Eigergletscher to Alpiglen (2 hrs) for close-ups of the mountain’s fearsome north face
 				part of Eiger Ultra Trail - 3-hour hike from Eigergletscher Station back down to Grindelwald
+
+			distance 6.09km 
+			duration 2h				
+
+			ascent 69hm
+			descent 773hm
+
+			Eigergletscher – Alpiglen
+				start station Eigergletscher
+				finish station Alpiglen
+
+
+
 						
 
 		short, undemanding trails, one hour apiece
@@ -2132,22 +2614,30 @@ Jungfraujoch
 		1 hr OW
 		at around 3700m
 		bring warm clothes, sunglasses and good shoes
+		cross the glacier along the prepared path to reach the Mönchsjochhütte
 
-	Ice Palace gallery of otherworldly ice sculptures
+	Ice Palace
+		gallery of otherworldly ice sculptures 30 metres under the surface of the glacier
+
+	Sphinx lookout terrace
+		3,571 m round view over the borders
 
 	views of the Aletsch Glacier
+	
+	Snow Fun Park on the Jungfraujoch (Top of Europe)
 		zip across the frozen plateau on a flying fox
 			Sfr20
 		dash downhill on a sled or snow disc
 			Sfr15
-		cross the glacier along the prepared path to reach the Mönchsjochhütte
-			1hr
+			
+	Lindt Swiss Chocolate Heaven
 
 	journey from Interlaken Ost
 		once-in-a-lifetime train journey up to Europe’s highest station
 			last stage of the train journey from Kleine Scheidegg burrows through the heart of the Eiger before arriving at the sci-fi Sphinx meteorological station. Opened in 1912, the tunnel took 3000 men 16 years to drill. Along the way, you stop at Eigerwand and Eismeer, where panoramic windows offer tantalising glimpses across rivers of crevassed ice
 			
 			seat reservations are recommended
+				www.jungfrau.ch/sitzplatzresevation
 			
 			step 1
 				trains head from Interlaken to Lauterbrunnen, then change to the rack railway that climbs up through the village of Wengen, then further up to the dramatic station at Kleine-Scheidegg, directly beneath the famous north face of the Eiger
@@ -2156,6 +2646,9 @@ Jungfraujoch
 			
 			step 2
 				from Kleine-Scheidegg, a separate line heads up through tunnels and along the mountain face to the Jungfraujoch itself. The cogwheel railway stops twice, at the Eismeer and at the Eiger Wall, from where visitors can enjoy magnificent views
+			
+		return trip
+			on the return trip, tramp from the Jungfraujoch between the Eigergletscher station and Kleine Scheidegg on a well-maintained hiking trail and let the magical view cast its spell on you
 
 		2.5 hrs OW
 		Sfr197.60 RT
@@ -2174,6 +2667,24 @@ Jungfraujoch
 
 	web camera
 		http://www.swisspanorama.com/html/navsummer.html
+
+
+--VZ: other
+Isenfluh and Sulwald 
+	hiking trails
+		Sulwald-Lobhornhütte 1.5 hrs
+		Isenfluh-Grütschalp  1.5 hrs
+		Sulwald-Chüebodmi-Soustal 1 hr
+		Isenfluh-Sulwald mountain trail 1.5 hrs
+
+Themed trail: "Nature + legends + energy hotspots" – exciting aspects of the powers of nature and legendary locations!
+
+Monster scooter: enjoy the four kilometre long pleasant trip!
+
+YOUR BENEFITS WITH A BERNER OBERLAND REGIONAL-PASS
+Special Price: Adult Single ride normal price CHF 8.40 with Regional Pass CHF 6.40 = 24% discount / Adult return ride normal Price CHF 12.- with Regional Pass CHF 9.- = 25% discount
+Children, half of the price stated
+
 
 
 
@@ -2458,11 +2969,26 @@ Brienz
 		7.30am-4.30pm
 
 		only steam-powered cogwheel train still operating in Switzerland, climbing 2350m
+			"Special presentations" of the animals that wander everywhere
+				colony of ibex 
+				herd of chamois 
+				golden eagles 
+				
+			tip:
+				train Brienz - Brienz Rothorn
+				cable car Brienz Rothorn - Sörenberg
+				bus Sörenberg - Giswil
+				train via Brünig-Hasliberg back to Lauterbrunnen
 
 		hikes
+			varied mountain walks
+			
 		long views over Brienzersee to snow-dusted 4000m peaks
 
 		walking up from Brienz takes around five hours
+		
+		
+			
 
 	Brunngasse
 		postcard-perfect, curving lane dotted with stout wooden chalets
@@ -2472,6 +2998,17 @@ Brienz
 			Sfr8, 20 minutes
 		boat
 			Sfr29
+
+
+
+nearby
+	Stockhorn
+		Stockhorn railway from Erlenbach in the Simmental 
+		panoramic viewing platform 
+		hiking trails around the 2 mountain lakes
+			Oberstockensee 
+			Hinterstockensee
+				40 mins
 
 
 
@@ -2491,8 +3028,18 @@ nearby
 		local dairy - tangy Haslital cheeses and homemade ice cream
 
 	TB !
-	Handeckfall Bridge
+	Handeckfall Bridge	
+		VZ
+		Gelmerbahn
+			Gelmersee
+			Gelmerhütte
 
+	Sidelhorn
+		Sidelhornbahn
+		hiking routes
+			to the summit of the Sidelhorn 
+			high trail to the Trübtensee
+		
 
 
 =============================================
@@ -2582,10 +3129,25 @@ Walking & Hiking
 	Webcams
 		www.jungfraubahn.ch
 		www.swisspanorama.com
+		
+		https://jungfrauregion.swiss/en/summer/planning-and-events/webcams/
 
 
 
 =============================================
+
+
+
+
+
+=======================================================================================================================================
+=======================================================================================================================================
+=======================================================================================================================================
+=====================Sep 23-24
+
+
+Sep 23 Titlis + Lucerne
+Sep 24 Brunni + Lucerne
 
 
 
@@ -2869,38 +3431,48 @@ Engelberg
 
 	!!!
 	hiking
+		!!!
 		Brunni
 			gentle ambles and gorgeous scenery
+			hikes in magnificent natural surroundings with a unique mountain panorama
+			3 fixed rope routes with varying levels of difficulty
+			Lake Härzli
 			Brunni cable car up to Ristis then chairlift to refurbished Brunni Hütte
 				one-way/return Sfr18/30, incl chairlift one-way/return Sfr26/42
+				
+				
 
 		trek over the Surenenpass (2291m) to Attinghausen, where you can catch a bus to Altdorf and the southern end of Lake Uri
 
 		climb over Jochpass (2210m) to Meiringen via Engstlenalp
+		
+		
 
 	arrival
 		free shuttle bus leaves Engelberg's train station roughly every half-hour between 8am and 5pm for all the village’s major attractions
 
 	!!!
 	Mt Titlis
-
-		marvellously kitsch ice cave where you can watch neon lights make the sculpted ice tunnels sparkle
-
-		nostalgic photo studio - strike a pose with a giant Toblerone or an alpenhorn against a backdrop of fake snowy mountains
-			from Sfr35
-
+	
 		panorama stretches to Eiger, Mönch and Jungfrau
 
-		Cliff Walk
-			9.15am-4.45pm
+		new Titlis tour: glacier grotto - Titlis Cliff Walk (Europe's highest altitude suspension bridge) - Ice Flyer
 
-		45-minute climb to Titlis' 3239m summit (wear sturdy shoes)
+			marvellously kitsch ice cave where you can watch neon lights make the sculpted ice tunnels sparkle
 
-		Ice Flyer chairlift down to the Glacier Park
-			Sfr12
-			9.30am-4.30pm
+			nostalgic photo studio - strike a pose with a giant Toblerone or an alpenhorn against a backdrop of fake snowy mountains
+				from Sfr35
 
-			free snow tubes, scooters and sledges to test out
+			Cliff Walk
+				9.15am-4.45pm
+
+			45-minute climb to Titlis' 3239m summit (wear sturdy shoes)
+
+			Ice Flyer chairlift down to the Glacier Park
+				Sfr12
+				9.30am-4.30pm
+
+				free snow tubes, scooters and sledges to test out
 
 		arrival
 			breathtaking three-stage journey
@@ -2928,10 +3500,20 @@ Engelberg
 		other cable cars from Engelberg
 			Gerschnialp
 				one-way/return Sfr8/12
+				
 			Trübsee
 				one-way/return Sfr21/30
+				
+				hiking trail around Trübsee + rowing on the lake
+				start of the fantastic 4-lakes hiking trail to Melchsee-Frutt
+					https://www.melchsee-frutt.ch/en/
+				
+				
 			Jochpass
 				one-way/return Sfr31/44
+				
+				hiking trails
+				
 			Stand
 				one-way/return Sfr36/51
 
@@ -3225,9 +3807,10 @@ Swiss Travel Pass
 		3 days	CHF 232
 		4 days	CHF 281
 		8 days	CHF 418	
+	https://www.sbb.ch/en/leisure-holidays/travel-in-switzerland/international-guests/swiss-travel-pass.html
 	https://www.myswitzerland.com/en-ca/planning/transport-accommodation/tickets-public-transport/swiss-travel-pass/
 	https://old.myswitzerland.com/en-ch/swiss-travel-pass.html
-	https://old.myswitzerland.com/en-ch/bonus-benefits.html
+	https://old.myswitzerland.com/en-ch/bonus-benefits.html	
 
 !!!
 Swiss Half-Fare Card
@@ -3239,11 +3822,10 @@ Swiss Half-Fare Card
 	You will receive your Half Fare Travelcard on your SwissPass
 	https://www.sbb.ch/en/travelcards-and-tickets/railpasses/half-fare-travelcard.html
 	
+	!!!
 	1 month CHF 120
-	https://www.sbb.ch/en/leisure-holidays/travel-in-switzerland/international-guests/swiss-halffare-card.html
-	
-	One Month - 120
-	https://old.myswitzerland.com/en-ch/swiss-half-fare-card.html
+		https://www.sbb.ch/en/leisure-holidays/travel-in-switzerland/international-guests/swiss-halffare-card.html
+		https://old.myswitzerland.com/en-ch/swiss-half-fare-card.html
 
 !!!
 Supersaver tickets 
@@ -3255,9 +3837,10 @@ Supersaver tickets
 1-day travelpasses
 	!!!
 	Saver Day Pass
+		quantities are limited
 		CHF 29 with a Half-Fare travelcard and from CHF 52 without a Half-Fare travelcard
 		can easily be bought using the smartphone app or at SBB.ch
-		only available when booking in advance: from 60 days in advance up to the day before travel. They cannot be purchased on the day of travel		
+		only available when booking in advance: from 60 days in advance up to the day before travel. They cannot be purchased on the day of travel
 		https://www.sbb.ch/en/travelcards-and-tickets/tickets-for-switzerland/1-day-travelpass/saver-day-pass.html
 	1-day travelpass
 		75 CHF
@@ -3268,28 +3851,28 @@ Supersaver tickets
 
 
 
-Berner Oberland Regional Pass
-	www.regiopass-berneroberland.ch
-		4-/6-/8-/10-day pass
-		Sfr230/290/330/370
-		unlimited travel on most trains, buses, boats, mountain railways and cable cars
-		discounts on local sights and attractions
-		50% reduction on tickets to Jungfraujoch
+
 		
-		???
-		7-day pass (Sfr233) gives you 3 days’ unlimited free travel and 4 days’ discounted travel in the region
-		15-day pass (Sfr290) offers 5 days' unlimited free travel and 10 days' discounted travel
+		
 
 Jungfraubahnen Pass
-	www.jungfrau.ch
-		https://www.jungfrau.ch/en-gb/jungfrau-travel-pass/
-	Sfr250 (Sfr185 with Swiss Pass, Swiss Card or Half-Fare Card)
-	six days of unlimited regional travel
-		you still have to pay Sfr58 from Eigergletscher to Jungfraujoch
+	www.jungfrau.ch	
+	
+	3 days CHF 180, Half-Fare CHF 135
+	
+	all Jungfrau Railway route network
+	special price for the Jungfraujoch journey
+	
+	points of sale
+		Tourist Center, Bahnhof Train Station Grindelwald & Grund, Firstbahn, Männlichenbahn
+		
+	https://www.jungfrau.ch/en-gb/jungfrau-travel-pass/
+	
 
 Jungfrau VIP Pass
 	Sfr235
 	three-day pass covers unlimited travel on the Jungfrau Railways network, including the return journey from Eigergletscher to Jungfraujoch
+	
 
 Interlaken Guest Card
 	https://www.interlaken.ch/en/info-service/gaestekarten/interlaken-guest-card

@@ -280,8 +280,8 @@ https://www.google.ca/flights#flt=YYZ.JNB.2020-10-01*JNB.YYZ.2020-10-29;c:CAD;e:
 https://www.google.ca/flights#flt=YYZ.CPT.2020-04-01*CPT.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.JNB.2020-04-01*JNB.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
 
-https://www.google.ca/flights#flt=YYZ.SJO.2020-04-01*SJO.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
-https://www.google.ca/flights#flt=YYZ.HNL,OGG,LIH.2020-04-01*HNL,OGG,LIH.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.SJO.2020-06-01*SJO.YYZ.2020-06-29;c:CAD;e:1;so:1;sd:1;t:f
+https://www.google.ca/flights#flt=YYZ.HNL,OGG,LIH.2020-06-01*HNL,OGG,LIH.YYZ.2020-06-29;c:CAD;e:1;so:1;sd:1;t:f
 
 https://www.google.ca/flights#flt=YYZ./m/01ly5m.2020-10-01*/m/01ly5m.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.SCL.2020-10-01*SCL.YYZ.2020-10-29;c:CAD;e:1;so:1;sd:1;t:f
@@ -292,17 +292,17 @@ https://www.google.ca/flights#flt=YYZ./m/06gmr.2020-04-01*/m/06gmr.YYZ.2020-04-2
 https://www.google.ca/flights#flt=YYZ.UIO.2020-04-01*UIO.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
 https://www.google.ca/flights#flt=YYZ.LPB.2020-04-01*LPB.YYZ.2020-04-29;c:CAD;e:1;so:1;sd:1;t:f
 
-	Trelew REL
+	Trelew REL			!!!
 		1250
-	El Calafate FTE
+	El Calafate FTE		!!!
 		1550
-	Rio Gallegos RGL
+	Rio Gallegos RGL	!!!
 		1300
-	Ushuaia	USH
+	Ushuaia	USH			!!!
 		1350
-	Puerto Natales PNT
+	Puerto Natales PNT	!!!
 		1550
-	Punta Arenas PUQ
+	Punta Arenas PUQ	!!!
 		1450
 
 
