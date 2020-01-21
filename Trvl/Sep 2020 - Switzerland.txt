@@ -2020,18 +2020,48 @@ Best hiking + price + time
 	Plan
 		VZ Best
 			
-			Panoramaweg: Männlichen to Kleine Scheidegg
-				1.5 hrs
-			Eiger Walk + Eiger Trail
-				1 hr + 2 hrs (3.5 hrs to Grindelwald)				
+			Grindelwald car parking + cable car from Grindelwald Grund to Männlichen
+			Kleine Scheidegg
+				hikes
+					Panoramaweg: Männlichen to Kleine Scheidegg
+						hike: 1.5 hrs
+					Eiger Walk + Eiger Trail + Alpiglen to Grindelwald (optional: train Alpiglen to Grindelwald)
+						hike: 1 hr + 2 hrs + 1.5 hrs
+					VZ 2nd choice
+						Royal Walk to Männlichen summit (Männlichen Gipfel)
+						Jungfraujoch
+							Grindelwald car parking + train from Grindelwald to Kleine Scheidegg
+							Good Morning Ticket Jungfraujoch from / to Kleine Scheidegg
+							hike down to Grindelwald (Eiger Walk + Eiger Trail + Alpiglen to Grindelwald)
+				hike: 6 hrs
+				cable car to Männlichen: 0.5 hr
+				
+				
 				
 			Allmendhubel: Northface Trail + Mountain View Trail
 				2.5 hrs + 2 hrs
 			
-			Mountain Bus Line 126 Grindelwald - Bussalp
-			Bussalp to First to Grindelwald OR Faulhornweg trail
-				5 hrs OR 6 hrs
+			
+			Grindelwald car parking + Mountain Bus Line 126 Grindelwald - Bussalp
+			Grindelwald
+				attractions
+					Grindelwald
+						Alpine Dairy	
+					First
+						First Skywalk by Tissot
+				hikes
+					Bussalp – Faulhorn – Bachalpsee – First – Grindelwald
+					VZ 2nd choice
+						First - Grosse Scheidegg		
+							Lakes and Glacier trail: First - Grosse Scheidegg		
+							Mountain Panoramatrail: Grosse Scheidegg – First						
+						Faulhornweg trail						
+				hike: 5 hrs
+				bus to Bussalp: 1 hr
 				
+
+				
+			Interlaken Ost car parking + Bus to Habkern/Lombachalp 
 			Augstmatthorn + Harder Kulm
 				attractions
 					Harder Kulm
@@ -2054,7 +2084,7 @@ Best hiking + price + time
 							Harderkulm - Horetegg - Augstmatthorn - Lombachalp - Habkern
 				hike: 5-6 hrs
 				bus to Habkern/Lombachalp: 1.5 hrs
-				
+								
 				VZ 2nd choice
 					drve by
 						St. Beatus Caves
@@ -2062,8 +2092,8 @@ Best hiking + price + time
 						Gemmenalphorn hike
 				
 			
-		VZ 2nd choice
-			Männlichen: every Sunday - Mountain Brunch
+			VZ 2nd choice
+				
 
 
 
@@ -2264,7 +2294,10 @@ Lötschberg Tunnel
 	Interlaken
 
 		parking
-			large car park at Interlaken Ost railway station where you can park there for the entire day (12 hrs) for CHF 5.-
+			large car park at Interlaken Ost railway station where you can park there for the entire day for CHF 10.-
+			
+			Parking spaces 200			
+			https://www.sbb.ch/en/station-services/railway-stations/further-stations/station.7492.interlaken-ost.html#mobility
 
 
 
@@ -2562,6 +2595,7 @@ Lötschberg Tunnel
 			
 		parking Wilderswil
 			paid parking spaces are available at the train station
+				free??? CHF 5.00???
 			https://www.jungfrau.ch/en-gb/arrival-at-station-car-parks/parking-wilderswil/
 			
 		cog-wheel train			
@@ -2657,18 +2691,30 @@ Lötschberg Tunnel
 
 Grindelwald
 
-	close-ups of ‘big three’ – Eiger (Ogre), Mönch (Monk) and Jungfrau (Virgin)
+	car parks
+		covered parking garages 
+			Parkhaus Eiger+ 
+				252 Parkplätze
+				1 day CHF 25.00
+			Parkhaus Sportzentrum
+				160 Parkplätze
+				1 day CHF 25.00
+				
+		uncovered parking spaces are available throughout the village
+			Grindelwald Grund
+			
+		https://www.jungfrau.ch/en-gb/arrival-at-station-car-parks/parking-grindelwald/
+		https://www.parking.ch/de/parkings/grindelwald
+
+	
 
 	high-altitude walks
-		!!!
+	
 		Kleine Scheidegg Walk
 			Grindelwald Grund to Wengen via Kleine Scheidegg
 			one of the region's most stunning day hikes
 			15km trek
 			5.5 - 6 hrs
-
-		around Männlichen, First and Pfingstegg
-			reached by taking cable cars up from the village
 			
 		1-1.5 hrs walk east of the village leads to a wooded trail up to the Oberer Gletscher Viewpoint
 			Sfr6
@@ -2678,51 +2724,62 @@ Grindelwald
 			vertiginous hanging bridge spans the gorge
 			
 	Alpine Dairy
-
-	Bort Scooter Trail
-		rent scooters to zoom back down to the valley on a 4.5km marked trail
-		rental including the cable car to Bort costs Sfr23
-
-	Gletscherschlucht Glacier Gorge
-		CHF 19.- 
-		10am-5pm
-		30-minute walk south of Grindelwald
-		footpath weaves through tunnels hacked into cliffs veined with pink and green marble
-
-	!!!
-	Sportzentrum Grindelwald
-		swimming pool, mini spa, boulder and climbing halls, an ice rink and an indoor rope park
-
-	Europe’s longest toboggan run on the back of an old-fashioned sledge
+		2 on Google Maps
+		https://tinyurl.com/rbjovbj
 	
-	car parks
-		covered parking garages 
-			Parkhaus Eiger+ 
-				252 Parkplätze
-			Parkhaus Sportzentrum
-				160 Parkplätze
-		uncovered parking spaces are available throughout the village
-			Grindelwald Grund
-			https://www.jungfrau.ch/en-gb/arrival-at-station-car-parks/parking-grindelwald/
+	other
+		Bort Scooter Trail
+			rent scooters to zoom back down to the valley on a 4.5km marked trail
+			rental including the cable car to Bort costs Sfr23
+
+		Gletscherschlucht Glacier Gorge
+			CHF 19.- 
+			10am-5pm
+			30-minute walk south of Grindelwald
+			footpath weaves through tunnels hacked into cliffs veined with pink and green marble
+
+		Sportzentrum Grindelwald
+			swimming pool, mini spa, boulder and climbing halls, an ice rink and an indoor rope park
+
+		Europe’s longest toboggan run on the back of an old-fashioned sledge
+	
 
 
 
 
+!!!
 First aka Grindelwald-First
-	2,167 m
 
-	cable car from Grindelwald up to First
-		www.jungfrau.ch
-		one way/return Sfr31/57
-		8am-6pm
+	arrival
+		with the Bernese Oberland Railway or by car to Grindelwald
+		with the First Railway from Grindelwald valley station in the upper village centre in three sections to Grindelwald-First
+			cable car from Grindelwald up to First
+				RT CHF 64
+				total: CHF 25 (parking) + 32 x 2 (cable car) = CHF 89
+		travel time from Grindelwald: approximately 25 minutes
+		08.30 – 17.00
+		
+		other options
+			from Wilderswil up to First
+				RT CHF 83.60
+				total: CHF ??? (parking) + 42 x 2 (cable car) = CHF 84
+			from Interlaken Ost up to First
+				RT CHF 86.40
+				total: CHF 10 (parking) + 43 x 2 (cable car) = CHF 96
+			from Lauterbrunnen up to First
+				RT CHF 82.00
+				total: CHF 17 (parking) + 41 x 2 (cable car) = CHF 99
 
-	trailhead for 100km of paths
+		https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/grindelwald-first		
+
+	
+	hikes
 
 		!!!
 		VZ 1st choice for Bachalpsee – Faulhorn
 		VZ: hike instead of Faulhornweg trail - also goes via Bachalpsee – Faulhorn
 		Bussalp
-			#2 on hike map			
+			#2 on hike map
 			
 			Difficulty Medium
 			Distance 9.77km
@@ -2741,11 +2798,12 @@ First aka Grindelwald-First
 			
 			
 			!!!
-			optional: different direction
+			optional: different direction - descend from Bussalp to Grindelwald
 				Bussalp – Faulhorn – Bachalpsee – First – Grindelwald
 				distance 8.8 km
 				duration 4-5 hours
 				
+				close-ups of ‘big three’ – Eiger (Ogre), Mönch (Monk) and Jungfrau (Virgin)
 				stop for lunch and 360-degree views at Faulhorn
 				
 				to start the hike, you can take a mountain bus (there is an extra charge for this bus) from Grindelwald to the restaurant in Bussalp
@@ -2763,8 +2821,13 @@ First aka Grindelwald-First
 			
 	
 
-		Mountain Panoramatrail: Grosse Scheidegg – First				
+		Mountain Panoramatrail: Grosse Scheidegg – First
 			#6 on hike map
+			
+			Grosse Scheidegg access
+				hike
+				Grindelwald Bus
+					https://www.grindelwaldbus.ch/en/hiking-and-exursions/grosse-scheidegg
 			
 			distance 5.89 km
 			duration 1.30 h
@@ -2784,6 +2847,7 @@ First aka Grindelwald-First
 
 			https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/mountain-panorama-trail-grosse-scheidegg-first/23431823/
 			https://jungfrauregion.swiss/en/summer/tracks/mountain-panorama-trail-grosse-scheidegg-first/
+			https://www.alltrails.com/trail/switzerland/bern/grosse-scheidegg-to-first
 			
 			
 			alternative
@@ -2801,6 +2865,7 @@ First aka Grindelwald-First
 					
 					https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/lakes-and-glacier-trail-first-grosse-scheidegg/23431826/
 					https://jungfrauregion.swiss/en/summer/tracks/lakes-and-glacier-trail-first-grosse-scheidegg/	
+					https://www.alltrails.com/trail/switzerland/bern/first-to-grosse-scheidegg
 
 		
 		
@@ -2811,24 +2876,57 @@ First aka Grindelwald-First
 				1.5 hrs
 			Grindelwald
 				2.5 hrs
-
-	First Flyer
-	First Flyer
-		starting 46 CHF
-		staggeringly fast zip-line from First to Schreckfeld
-			speeds of around 85km/h
-		https://www.jungfrau.ch/en-gb/grindelwaldfirst/first-flyer/
-
+				
 	!!!
-	First Skywalk by Tissot aka First Cliff Walk by Tissot
-	
-	arrival
-		with the Bernese Oberland Railway or by car to Grindelwald
-		with the First Railway from the valley station in the upper village centre in three sections to Grindelwald-First
-		travel time from Grindelwald: approximately 25 minutes
-		08.30 – 17.00
+	First Skywalk by Tissot aka First Cliff Walk by Tissot				
 
-	https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/grindelwald-first	
+	other
+		First Flyer
+			starting 46 CHF
+			staggeringly fast zip-line from First to Schreckfeld
+				speeds of around 85km/h
+			https://www.jungfrau.ch/en-gb/grindelwaldfirst/first-flyer/
+
+
+	
+	
+	
+Pfingstegg
+
+	cable car rises up from Grindelwald to Pfingstegg
+		RT 20.-
+		8-5.30pm
+		
+	hiking
+		Pfingstegg – Bäregg
+			#24 on hike map
+	
+			overwhelming view of glaciers
+		
+			Distance 2.6km
+			Duration 1.5 hours
+			
+			Starting Point
+				Grindelwald, Pfingstegg summit station
+			Ending Point
+				Berghaus Bäregg, Grindelwald
+			Step by Step Directions
+				Pfingstegg - Bäregg
+				
+			https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/pfingstegg-baeregg/23431798/
+			https://jungfrauregion.swiss/en/summer/tracks/pfingstegg-baeregg/			
+		
+	
+		other
+		
+			to Stieregg, near the deeply crevassed Unterer Gletscher
+			
+			trail skirting the base of the Oberer Gletscher (1.5 hrs) via the Restaurant Milchbach
+				along this, you pass the Breitlouwina, a geologically fascinating rock terrace scarred with potholes caused by moving ice
+			
+	other
+		summer toboggan run
+		Fly-Line ride	
 	
 	
 
@@ -2840,26 +2938,35 @@ First aka Grindelwald-First
 
 
 Männlichen
-	2,230 m
 
 	cable car
 		Europe’s longest cable car connects Grindelwald Grund to Männlichen
-			one way/return Sfr35.40/65.20
-			8.15am-5.30pm
-		cable car swings up the other side of the ridge, from Wengen
-			one way/return Sfr23/43
+			RT CHF 64.00
+			08.30–16.30
+			total: CHF 25 (parking) + 32 x 2 (cable car) = CHF 89
+			
+		other options
+			from Wilderswil up to Männlichen
+				RT CHF 87.60
+				total: CHF ??? (parking) + 44 x 2 (cable car) = CHF 88
+			from Interlaken Ost up to Männlichen
+				RT CHF ???
+				total: CHF 10 (parking) + ??? x 2 (cable car) = CHF ???
+			from Lauterbrunnen up to Männlichen
+				RT CHF 61.60
+				8.30–16.50
+				total: CHF 17 (parking) + 31 x 2 (cable car) = CHF 79 + return from Grindelwald to Lauterbrunnen
+		
+		https://www.maennlichen.ch/en/summer/information/timetable.html		
+		https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/maennlichen		
+		
 
 	one of the region’s top viewpoints
-		walk 10 minutes up to the crown of the hill from Männlichen top station to enjoy the view
-			incredible views of the Grindelwald and Lauterbrunnen valleys reached via Europe’s longest cable car
-			at the southern end of the ridge are Tschuggen (2520m) and Lauberhorn (2472m), with the ‘big three’ looming behind
-			to the north you can see a stretch of Thunersee
+	
 
-	speedy 45-minute sled run down to Holenstein, negotiating steep bumps and hairpin bends
-
-	!!!
-	Panoramaweg
-		Männlichen to Kleine Scheidegg
+	hiking
+		!!!
+		Panoramaweg: Männlichen to Kleine Scheidegg
 			# 33 on hike map
 			
 			wildflower-cloaked pastures
@@ -2882,17 +2989,9 @@ Männlichen
 	
 			https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/maennlichen-kleine-scheidegg/23431772/
 			https://jungfrauregion.swiss/en/summer/tracks/maennlichen-kleine-scheidegg/			
-			
-			
-			
-
-	Felixweg
-		from Männlichen to Holenstein
-		marmot-filled
-		easygoing trail - for kids
-		1.5 hrs
-		
-	other walks
+			https://www.alltrails.com/trail/switzerland/bern/panorama-trail-mannlichen-to-kleine-scheidegg
+				
+				
 		Royal Walk to Männlichen summit (Männlichen Gipfel)
 			# 47 on hike map
 			
@@ -2920,72 +3019,75 @@ Männlichen
 			https://jungfrauregion.swiss/en/summer/tracks/royal-walk-maennlichen/	
 			
 			
-			
-		Romantiktrail: Männlichen – Alpiglen
-			#35 on hike map
-			distance 7.4 km 
-			duration 2.30 h
-			ascent 76 hm
-			descent 680 hm
-			start Bergstation Männlichen
-			finish Alpiglen	
-			
-		
-	every Sunday - Mountain Brunch
-		selected regional products, various types of bread, Rösti, bacon and scrambled eggs welcome you at the buffet. Crépes are freshly prepared as a sweet attraction. A feast for the senses and the perfect setting for a cosy day
-		
-		08.30–11.30h
-		CHF 30.00
-		
-	https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/maennlichen
-		
 
-
---Next Time
-Pfingstegg
-	cable car rises up from Grindelwald to Pfingstegg
-		one way/return Sfr12.60/18.80
-		8-5.30pm
+		other		
 		
-	short hiking trails
-	
-		to Stieregg, near the deeply crevassed Unterer Gletscher
-		
-		trail skirting the base of the Oberer Gletscher (1.5 hrs) via the Restaurant Milchbach
-			along this, you pass the Breitlouwina, a geologically fascinating rock terrace scarred with potholes caused by moving ice
-			
-		Pfingstegg – Bäregg
-			#24 on hike map
-	
-			overwhelming view of glaciers
-		
-			Distance 2.6km
-			Duration 1.5 hours
-			
-			Starting Point
-				Grindelwald, Pfingstegg summit station
-			Ending Point
-				Berghaus Bäregg, Grindelwald
-			Step by Step Directions
-				Pfingstegg - Bäregg
+			Romantiktrail: Alpiglen - Männlichen
+				#35 on hike map
 				
-			https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/pfingstegg-baeregg/23431798/
-			https://jungfrauregion.swiss/en/summer/tracks/pfingstegg-baeregg/			
+				Difficulty moderate
+				Distance 7.4 km 
+				Duration 2:50 h
+				
+				Ascent 0 m 			
+				Descent 608 m 
+				
+				start Alpiglen	
+				finish Bergstation Männlichen
+				
+				Start
+					Alpiglen, Wengernalp railways middle station (1615 m)
+					46.600161, 8.001981
+				Destination
+					Alpiglen, Zwischenstation der Wengernalpbahn
+				Turn-by-turn directions
+					Alpiglen - Bustiglen - Männlichen
+				https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/maennlichen-alpiglen-romantikweg/23429707/			
+				
+			Felixweg
+				from Männlichen to Holenstein
+				marmot-filled
+				easygoing trail - for kids
+				1.5 hrs
+
 			
+	other
+		speedy 45-minute sled run down to Holenstein, negotiating steep bumps and hairpin bends
+	
+		every Sunday - Mountain Brunch
+			selected regional products, various types of bread, Rösti, bacon and scrambled eggs welcome you at the buffet. Crépes are freshly prepared as a sweet attraction. A feast for the senses and the perfect setting for a cosy day
 			
-	activities
-		summer toboggan run
-		Fly-Line ride
+			08.30–11.30h
+			CHF 30.00
+		
 	
 
 
 
 Kleine Scheidegg
-	2,061 m
 
-	cable car to Kleine Scheidegg
+	cable car to Kleine Scheidegg	
+	
+		Eiger Trail hike ticket
+			from Grindelwald to Eigergletscher and from Alpiglen back to Grindelwald
+				RT CHF 55.00
+				total: CHF 25 (parking) + 55 x 2 (cable car) = CHF 135
+			
+			from Wilderswil to Eigergletscher and from Alpiglen back to Wilderswil
+				RT CHF 73.00
+				total: CHF ??? (parking) + 73 x 2 (cable car) = CHF 146
+			
+			from Interlaken Ost to Eigergletscher and from Alpiglen back to Interlaken Ost
+				RT CHF 76.60
+				total: CHF 10 (parking) + 77 x 2 (cable car) = CHF 164
+			
+			from Lauterbrunnen to Eigergletscher and from Alpiglen back to Lauterbrunnen
+				RT CHF 63.80
+				total: CHF 17 (parking) + 64 x 2 (cable car) = CHF 145
+	
+		https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/kleine-scheidegg
 
-	close-ups of ‘big three’ – Eiger (Ogre), Mönch (Monk) and Jungfrau (Virgin)
+	
 
 	terrific base for hiking
 
@@ -3022,7 +3124,8 @@ Kleine Scheidegg
 				journey via Lauterbrunnen and Wengen offers a view of the valleys and Alps on the other side of Kleine Scheidegg
 	
 			spectacular 6km Eiger Trail from Eigergletscher to Alpiglen (2 hrs) for close-ups of the mountain’s fearsome north face
-				part of Eiger Ultra Trail - 3-hour hike from Eigergletscher Station back down to Grindelwald
+				part of Eiger Ultra Trail - 3-hour hike from Eigergletscher Station back down to Grindelwald				
+			close-ups of ‘big three’ – Eiger (Ogre), Mönch (Monk) and Jungfrau (Virgin)
 
 			difficulty easy
 			distance 6.09km 
@@ -3049,14 +3152,13 @@ Kleine Scheidegg
 			https://www.jungfrau.ch/en-gb/summer-sport/hiking/hiking-trail/eiger-trail-eigerletscher-alpiglen/
 			https://jungfrauregion.swiss/en/summer/tracks/eiger-trail/
 	
+
 	
 		short, undemanding trails, one hour apiece
 			down to Wengernalp
 			up the Lauberhorn behind the village
 
-	https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/kleine-scheidegg			
-			
-
+				
 
 
 =============================================
@@ -3065,79 +3167,35 @@ Kleine Scheidegg
 =====================Jungfraubahnen
 
 
+
 	Jungfraubahnen
-		Hourly trains depart for the region from Interlaken Ost station
-			
-			trip takes 2 hours 15 minutes each way
-			allow at least 5-6 hours for an enjoyable stay
-			
-			sit in the front half of the train for Lauterbrunnen or the back half for Grindelwald. The two sections of the train split up where the two valleys diverge at Zweilütschinen
-			
-			it is advisable to reserve a seat when travelling to the Jungfraujoch as tickets to the Jungfraujoch are limited
-				costs CHF 10 per person (no discount on seat reservations) RT
-			
-			first train leaves Interlaken Ost at 6.35 a.m. The trains then run every half hour (7.05, 7.35, 8.05 etc.)
+		
+		hourly trains from Interlaken Ost			
+		trip takes 2 hours 15 minutes each way			
+		allow at least 5-6 hours for an enjoyable stay
+		
+		sit in the front half of the train for Lauterbrunnen or the back half for Grindelwald. The two sections of the train split up where the two valleys diverge at Zweilütschinen
+		
+		it is advisable to reserve a seat when travelling to the Jungfraujoch as tickets to the Jungfraujoch are limited
+			costs CHF 10 per person (no discount on seat reservations) RT
+		
+		first train leaves Interlaken Ost at 6.35 a.m. The trains then run every half hour (7.05, 7.35, 8.05 etc.)
+		last train at 5.45pm
 
 
 		without a money-saving pass
 			Interlaken Ost - Jungfraujoch (Top of Europe)
-				CHF 210.80
+				RT CHF 210.80
 			
-				to Kleine Scheidegg
-					Interlaken Ost to Grindelwald Sfr10.80
-					Grindelwald to Kleine Scheidegg Sfr31
-						OR
-					Interlaken Ost to Lauterbrunnen Sfr7.40
-					Lauterbrunnen to Wengen Sfr6.60
-					Wengen to Kleine Scheidegg Sfr23
-
-				Kleine Scheidegg to Jungfraujoch Sfr120 (return)
+			Kleine Scheidegg to Jungfraujoch 
+				RT CHF 128.00
 				
-		https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/jungfraujoch-top-of-europe/billete-jungfraujoch
-
-
-
-	Jungfraujoch
-		www.jungfrau.ch
+			https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/jungfraujoch-top-of-europe/billete-jungfraujoch
 		
-		3, 454 m
-
-		once-in-a-lifetime trip that you need to experience first-hand
-			uplifting lookout on 4000m peaks, the Aletsch Glacier and the Black Forest beyond
-
-		tips
-			good weather is essential for this journey
-			take warm clothing, sunglasses and sunscreen
-			
-		hike to Mönchsjoch hut
-			1 hr OW
-			at around 3700m
-			bring warm clothes, sunglasses and good shoes
-			cross the glacier along the prepared path to reach the Mönchsjochhütte
-
-		Ice Palace
-			gallery of otherworldly ice sculptures 30 metres under the surface of the glacier
-
-		Sphinx lookout terrace
-			3,571 m round view over the borders
-
-		views of the Aletsch Glacier
 		
-		Snow Fun Park on the Jungfraujoch (Top of Europe)
-			zip across the frozen plateau on a flying fox
-				Sfr20
-			Snow tubing / sledging	CHF 20.–
-				
-		Lindt Swiss Chocolate Heaven
-		
-		Glacier trek, cross the glacier by yourself
-
 		journey from Interlaken Ost
 			once-in-a-lifetime train journey up to Europe’s highest station
 				last stage of the train journey from Kleine Scheidegg burrows through the heart of the Eiger before arriving at the sci-fi Sphinx meteorological station. Opened in 1912, the tunnel took 3000 men 16 years to drill. Along the way, you stop at Eigerwand and Eismeer, where panoramic windows offer tantalising glimpses across rivers of crevassed ice
-				
-				seat reservations are recommended
-					www.jungfrau.ch/sitzplatzresevation
 				
 				step 1
 					trains head from Interlaken to Lauterbrunnen, then change to the rack railway that climbs up through the village of Wengen, then further up to the dramatic station at Kleine-Scheidegg, directly beneath the famous north face of the Eiger
@@ -3150,33 +3208,57 @@ Kleine Scheidegg
 			return trip
 				on the return trip, tramp from the Jungfraujoch between the Eigergletscher station and Kleine Scheidegg on a well-maintained hiking trail and let the magical view cast its spell on you
 
-			2.5 hrs OW
-			Sfr197.60 RT
-			last train at 5.45pm
-
 			ordinary return ticket to Jungfraujoch is valid for one month
 
 			Good Morning Ticket Jungfraujoch
-				from CHF 85.00
-				Sfr145 if you take the first train (which departs at 6.35am from Interlaken Ost) and leave the summit by 1pm
+				from CHF 85.00 if you take the first train (which departs at 6.35am from Interlaken Ost) and leave the summit by 1pm
 				journey from Kleine Scheidegg to Jungfraujoch is only possible at 8.00 and 8.30, and the latest descent from Jungfraujoch is at 13.13
 				every visitor to the Jungfraujoch receives the exclusive Jungfrau Railway anniversary pass
 					pick up at any Jungfrau Railways station (exception: Jungfraujoch)
-				https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/jungfraujoch-top-of-europe/good-morning-ticket-jungfraujoch
-					
-			Good Afternoon Ticket
-				Sfr145
-				only valid for the 3.30pm train from Kleine Scheidegg
-			Excursion-fare train at 8am
-				stay overnight at Kleine Scheidegg to take advantage of this train
-				from here, a return Good Morning Ticket is Sfr95
+				https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/jungfraujoch-top-of-europe/good-morning-ticket-jungfraujoch				
+
+
+
+
+	Jungfraujoch
+
+		once-in-a-lifetime trip that you need to experience first-hand
+			uplifting lookout on 4000m peaks, the Aletsch Glacier and the Black Forest beyond
+
+		tips
+			good weather is essential for this journey
+			take warm clothing, sunglasses and sunscreen
+			
+		Ice Palace
+			gallery of otherworldly ice sculptures 30 metres under the surface of the glacier
+
+		Sphinx lookout terrace
+			3,571 m round view over the borders
+
+		Snow Fun Park on the Jungfraujoch (Top of Europe)
+			zip across the frozen plateau on a flying fox
+				Sfr20
+			Snow tubing / sledging	CHF 20.–
+				
+		Lindt Swiss Chocolate Heaven
+		
+		views of the Aletsch Glacier
+		
+		hike to Mönchsjoch hut
+			1 hr OW at around 3700m
+			bring warm clothes, sunglasses and good shoes
+			cross the glacier along the prepared path to reach the Mönchsjochhütte		
+		
+		Glacier trek, cross the glacier by yourself
 
 		web camera
 			http://www.swisspanorama.com/html/navsummer.html
 		
+		
 		https://www.jungfrau.ch/en-gb/prices-and-brochures/	
 		
 		https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/jungfraujoch-top-of-europe
+	
 	
 		
 		
@@ -3188,7 +3270,7 @@ Kleine Scheidegg
 	
 
 
---VZ: other
+
 Isenfluh and Sulwald 
 	hiking trails
 		Sulwald-Lobhornhütte 1.5 hrs
@@ -3198,13 +3280,7 @@ Isenfluh and Sulwald
 
 
 
-
 Lauterbrunnen
-	www.lauterbrunnen.swiss
-
-	796 m
-
-	base yourself in Lauterbrunnen
 
 	Lauterbrunnen Valley
 
@@ -4756,7 +4832,11 @@ Western Valleys
 
 
 
+<<<<<<< HEAD
+	
+=======
 =============================================
+>>>>>>> 691436ced89ea6b613b458d21b10f868a3dae782
 
 
 Discount Travel Passes
@@ -4770,6 +4850,111 @@ https://rail.myswitzerland.com/#/en/product/swissHalfFareCard
 https://swissca.mytraintravel.com/pass/swiss-half-fare-card-8025
 1 month	CHF 120 / 127.00 USD / 168 CAD
 
+<<<<<<< HEAD
+	classic ‘golden round-trip’
+		board a boat from Lucerne to Alpnachstad, then rise with the world’s steepest cog railway to Mt Pilatus
+		from the summit, cable cars bring you down to Kriens via Fräkmüntegg and Krienseregg, where bus 1 takes you back to Lucerne
+		
+		return trip costs Sfr97 (less with valid Swiss, Eurail or InterRail passes)
+		
+		
+	Fräkmüntegg
+		Pilatus Seilpark 
+			Sfr27
+			10am-5pm 
+			
+			11 head-spinning trails from high-wire bridges to tree climbs are graded according to difficulty
+			
+		Switzerland’s longest summer toboggan run 
+			Sfr8
+			10am-5pm
+			
+			speedy 1.35km downhill ride.
+		
+
+	hikes 
+		steep, partially roped 2.8km scramble from Fräkmüntegg to the summit
+		easy 3.5km walk through forest and moor from Krienseregg to Fräkmüntegg
+		1.5km trudge from Pilatus-Kulm to Tomlishorn, affording views that stretch as far as the Black Forest on a clear day
+		
+
+
+Stanserhorn
+	360-degree vistas of Lake Lucerne, Mts Titlis and Pilatus 
+	
+	getting to the summit 
+		ride on a vintage 19th-century funicular from Stans to Kälti
+		from here, the nearly transparent CabriO, launched in 2012 as the world's first cable car with an open upper deck, takes you the rest of the way, offering amazing on-the-go views
+		at the summit, CabriO employees distribute time-specific boarding passes for the return trip. Request your desired return time upon arrival; otherwise, you may spend more time up top than you bargained for!
+	
+
+Klewenalp
+	hiking
+
+	to get here
+		head first for Beckenried, accessible by bus from Stans or boat from Lucerne
+		upon disembarking at Beckenried's bus stop/boat dock, walk 200m to the cable car that whisks you up the mountain to Klewenalp (one-way/return Sfr24/38, 10 minutes)
+		
+		
+Mt Rigi
+	impressive views of Mt Titlis and the Jungfrau giants	
+		sunrises and sunsets viewed from Rigi's summit are the stuff of bucket lists
+
+	two rival railways carry passengers to the top
+		one-way/return Sfr42/68
+
+		one runs from Arth-Goldau (45 minutes)
+		the other from Vitznau (30 minutes)
+			option of diverting at Rigi Kaltbad on the return trip and taking the cable car down to Weggis
+			
+		Swiss Pass holders travel free.
+		
+	magnet for hikers
+		easy walks (one to two hours) lead down from Rigi Kulm to Rigi Kaltbad, with wonderful views
+		Rigi Lehnenweg, a scenic 17.5km trek around the mountain
+		
+	Mineralbad & Spa Rigi Kaltbad 
+		Sfr35
+
+
+
+Weggis
+Pop 4181 / Elev 440m
+Sheltered from cold northerlies by Mt Rigi, Weggis enjoys a mild climate, sprouting a few palm and fig trees by the lakefront. It’s hard to believe this genteel resort with small-town friendliness was the birthplace of the rebellious ‘Moderner Bund’ art movement, the forerunner of Dada. A cable car runs from here up to Rigi Kaltbad (10 minutes, one-way/return Sfr30/48).
+4Sleeping
+SeeHotel GotthardHOTEL
+(%041 390 21 14; www.gotthard-weggis.ch; Gotthardstrasse 11; s Sfr90-160, d Sfr150-265; hclosed mid-Oct-mid-Dec; iW)
+This friendly waterfront hotel has natty, modern and spotless rooms. The best have lake views and balconies, while others are attractively priced for budget travellers. Guests have access to free bikes and can use the wellness/swimming area at the Hotel Beau-Rivage, across the street.
+Post Hotel WeggisHOTEL
+(%041 392 25 25; www.poho.ch; Seestrasse 8; s Sfr159-229, d Sfr219-289, q Sfr379-449; paW)
+The Post's location opposite Weggis' boat dock is unbeatable. Other pluses include a spa, a 45,000-bottle wine cellar and multiple dining options, from the Asian-themed Poho Dining Lounge to the snug, wood-panelled Weggiser Stübli.
+Park Hotel WeggisLUXURY HOTEL
+(%041 392 05 05; www.phw.ch; Hertensteinstrasse 34; s Sfr350, d Sfr550-650; piW)
+This lavish lakefront beauty has manicured gardens and a great Zen-inspired spa. Understated elegance and smooth service is the order of the day. Revel in the lakefront views, the private beach or the attached Park Grill restaurant, specialising in Iberian pork and gourmet steaks from the American Great Plains.
+OFF THE BEATEN TRACK
+LOW-COST LAKESIDE LIVING
+
+Dreaming of a lakeside getaway that won't max out your budget? Look no further than the SYHA Hostel Rotschuo (%041 828 12 77; www.hostelrotschuo.ch; Seestrasse 163, Gersau; dm Sfr30-32, s Sfr 40-72, d Sfr64-108; W), midway between Weggis and Brunnen. You couldn't ask for a sweeter location, smack on the shores of Lake Lucerne, with its own kayaks and swimming platform. The nicest, lodge-style rooms with dreamy lake views are in the centuries-old main building (though be forewarned: ceilings are low and walls are thin); cheaper rooms are just up the hill. The fab breakfast includes local cheese and homemade granola, and dinner (Sfr17.50) is available nightly upon request.
+The hostel is only a 15-minute bus ride from either Weggis or Brunnen (bus 2, Gersau-Rotschuo stop).
+5Eating
+Tiffany’sGREEK
+(%041 390 18 12; www.tiffanys.ch; Seestrasse 48; snacks Sfr9.50-21.50; hnoon-7pm Mon, noon-10pm Wed-Fri, 10am-10pm Sat, 10am-7pm Sun; W)
+The owner of this Greek-style cafe has recreated a Paros taverna to a tee – from the blue-white paint job to the plastic fishnets and sunny terrace. Nibble on dolmades and aubergines while sipping cocktails, or sample one of their eight international breakfast combos.
+GrapeAMERICAN
+(%041 392 07 07; www.thegrape.ch; Seestrasse 60; pizza Sfr19-25, mains Sfr26-75; h10am-2pm & 6pm-midnight Mon, Tue & Thu, 10am-midnight Fri-Sun)
+Weggis’ California dreamer is this hip haunt with a menu that skips from wood-fired pizza to modern burger combos to steaks and sugary desserts. (Toblerone parfait with cherries and almonds, anyone?)
+8Information
+Tourist OfficeTOURIST INFORMATION
+(%041 227 18 00; www.wvrt.ch; Seestrasse 5; h8.30am-6pm Mon-Fri, 9am-4pm Sat & Sun)
+Next to Weggis' boat dock; rents bikes.
+Lake Uri
+Scything through rugged mountains, the fjord-like Lake Uri (Urnersee) finger of Lake Lucerne mirrors the country’s medieval past in its glassy turquoise waters. For memorable perspectives on the lake and the legendary events that unfolded here, take SGV's regular ferry service from Brunnen towards Flüelen.
+West across the lake from Brunnen, you’ll glimpse a near 30m-high natural obelisk, the Schillerstein, protruding from the water. Its gold inscription pays homage to Friedrich Schiller, the author of the play Wilhelm Tell, so instrumental in creating the Tell legend.
+The boat's first stop is the Rütli Meadow (Seelisberg), cradle of Swiss democracy. This is where the Oath of Eternal Alliance was allegedly signed by the three cantons of Uri, Schwyz and Nidwalden in 1291 and later where General Guisan gathered the Swiss army during WWII in a show of force against potential invaders. As such, this is hallowed ground to Swiss patriots and the focus of national day celebrations on 1 August.
+The next important port of call is the serene Tellskapelle (William Tell Chapel), covered in murals depicting four episodes in the Tell legend, including the one that’s supposed to have occurred on this spot, his escape from Gessler’s boat. There’s a huge carillon that chimes behind the chapel. Approaching from land instead of water you pass – would you Adam and Eve it – apple orchards, which might make your crossbow twitch if you had one.
+After crossing into Uri canton, the boat chugs into Flüelen at the lake's southeastern corner, which was historically a staging post for the mule trains crossing the St Gotthard Pass. Today it’s a stop on the main road and rail route. Near Flüelen is Altdorf, where William Tell is reputed to have performed his apple-shooting stunt. A statue of the man himself stands in the main square, and Schiller’s play is sometimes performed in Altdorf’s Tellspielhaus. In nearby Bürglen (believed to be William Tell’s birthplace), you can visit the Tell Museum (www.tellmuseum.ch; Postplatz, Bürglen; adult/child Sfr5.50/1.50; h10am-5pm Jul & Aug, 10am-11.30am & 1.30-5pm May, Jun, Sep & Oct), a collection of Tell-related objects, documents and artistic works. Both Altdorf and Bürglen are easily accessible by bus from Flüelen.
+=======
+>>>>>>> 691436ced89ea6b613b458d21b10f868a3dae782
 
 
 https://www.valais.ch/en/activities/excursions/mobility/adventure-card

@@ -21,9 +21,7 @@ optional
 hotels
 	Jun 13 - Jun 15 Olympic National Park
 	
-	Jun 15 - Jun 17 Tacoma
-		OR
-	Jun 15 - Jun 16 Tacoma
+	Jun 15 - Jun 16 Olympia
 	Jun 16 - Jun 17 Seattle
 	
 	Jun 17 - Jun 18 road Seattle to Burnaby
@@ -68,6 +66,7 @@ plan
 	Jun 16 - Mount Rainier
 				Tolmie Peak Trail
 				Skyline Trail
+				possible: other trail - review links for best trails at Mount Rainier
 				https://www.outdoorproject.com/travel/mount-rainiers-7-best-day-hikes
 				https://www.planetware.com/washington/top-rated-hikes-in-mount-rainier-national-park-us-wa-114.htm
 	
@@ -78,58 +77,84 @@ plan
 		https://www.expedia.ca/Hotel-Search?adults=2&destination=Burnaby%2C%20British%20Columbia%2C%20Canada&endDate=2020-06-18&guestRating=40&hotelName=&localDateFormat=dd%2FMM%2Fyyyy&regionId=9520&sort=PRICE_LOW_TO_HIGH&startDate=2020-06-17&useRewards=true
 		https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYAQm4ARfIAQzYAQHoAQH4AQuIAgGoAgO4Avz2-_AFwAIB&sid=f71f742cbda62167833d8567a39f18f2&tmpl=searchresults&ac_click_type=b&ac_position=1&checkin_month=6&checkin_monthday=17&checkin_year=2020&checkout_month=6&checkout_monthday=18&checkout_year=2020&class_interval=1&dest_id=-561859&dest_type=city&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&order=price&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=b257532f742700a7&ss=Burnaby%2C%20British%20Columbia%2C%20Canada&ss_all=0&ss_raw=bur&ssb=empty&sshis=0&ssne=Whistler&ssne_untouched=Whistler&top_ufis=1&nflt=fc%3D2%3Breview_score%3D80%3Bpri%3D1%3Bpri%3D2%3Boos%3D1%3B&rsf=#map_closed
 
+
+
+
+	option 1: orcas
+
+				Jun 18 - Garibaldi Provincial Park + Joffre Lakes Provincial Park + Nairn Falls Provincial Park
+								Burnaby
+									Orcas
+								any other campground (extra 1 hr drive) / Whistler hotel (extra 1 hr drive)
+							
+				Jun 19 - Garibaldi Provincial Park + Joffre Lakes Provincial Park + Nairn Falls Provincial Park
+								any other campground (extra 1 hr drive) / Whistler hotel (extra 1 hr drive)
+									Garibaldi Lake Trail						
+										OR
+									Wedgemount Lake
+									High Note Trail
+								Nairn Falls Campground / any other campground (extra 1 hr drive) / Whistler hotel (extra 1 hr drive)
+				
+				Jun 20 - Garibaldi Provincial Park + Joffre Lakes Provincial Park + Nairn Falls Provincial Park
+								Nairn Falls Campground / any other campground (extra 1 hr drive) / Whistler hotel (extra 1 hr drive)
+									Joffre Lakes Provincial Park
+									Nairn Falls Provincial Park											
+								Vancouver hotel
+
+		OR
 		
 	
-	Jun 18 - Garibaldi Provincial Park + Joffre Lakes Provincial Park + Nairn Falls Provincial Park
-					Burnaby
-						Garibaldi Lake Trail
-					Nairn Falls Campground / any other campground (extra 1 hr drive) / Whistler hotel (extra 1 hr drive)
+	option 2: no orcas
+				Jun 18 - Garibaldi Provincial Park + Joffre Lakes Provincial Park + Nairn Falls Provincial Park
+								Burnaby
+									Garibaldi Lake Trail
+								Nairn Falls Campground / any other campground (extra 1 hr drive) / Whistler hotel (extra 1 hr drive)
+							
+				Jun 19 - Garibaldi Provincial Park + Joffre Lakes Provincial Park + Nairn Falls Provincial Park
+								Nairn Falls Campground / any other campground (extra 1 hr drive) / Whistler hotel (extra 1 hr drive)
+									Joffre Lakes Provincial Park
+									Nairn Falls Provincial Park					
+								any other campground
 				
-	Jun 19 - Garibaldi Provincial Park + Joffre Lakes Provincial Park + Nairn Falls Provincial Park
-					Nairn Falls Campground / any other campground (extra 1 hr drive) / Whistler hotel (extra 1 hr drive)
-						Joffre Lakes Provincial Park
-						Nairn Falls Provincial Park					
-					any other campground
-	
-	Jun 20 - Garibaldi Provincial Park + Joffre Lakes Provincial Park + Nairn Falls Provincial Park
-					any other campground
-						Wedgemount Lake
-						High Note Trail
-					Vancouver hotel
+				Jun 20 - Garibaldi Provincial Park + Joffre Lakes Provincial Park + Nairn Falls Provincial Park
+								any other campground
+									Wedgemount Lake
+									High Note Trail
+								Vancouver hotel
 
-			
-				camping
-					https://goo.gl/maps/zPqanTTCN2612azs5
-					
-					Joffre Lakes Provincial Park
-						must be reserved!!!
-						camping is backcountry, no car access
-					Garibaldi Provincial Park
-						must be reserved!!!
-						camping is backcountry, no car access
-	
-				up to 4 months in advance				
-				http://www.env.gov.bc.ca/bcparks/reserve/
-				https://www.discovercamping.ca/bccweb/
-				http://www.env.gov.bc.ca/bcparks/fees/userfees.pdf?v=1579087337793
+						
+							camping
+								https://goo.gl/maps/zPqanTTCN2612azs5
+								
+								Joffre Lakes Provincial Park
+									must be reserved!!!
+									camping is backcountry, no car access
+								Garibaldi Provincial Park
+									must be reserved!!!
+									camping is backcountry, no car access
 				
-				!!!
-				NAIRN FALLS - frontcountry camping $22.00 /party/night
-					https://www.discovercamping.ca/bccweb/Facilities/SearchViewUnitAvailabity.aspx
-				
-				!!!
-				https://whistlerrvpark.ca/wp-content/cache/cache-enabler/whistlerrvpark.ca/index.html.gz
-					45 CAD
-					
-				!!!
-				https://www.parkbridge.com/en-ca/rv-cottages/riverside-resort
-					45 CAD
-					
-				!!!
-				http://www.sitesandtrailsbc.ca/search/search-result.aspx?site=REC0127&type=Site
-					Fees: $13.00 Camping
-					Campsites: 51
-					first come first served campsite, no reservation system exists
+							up to 4 months in advance				
+							http://www.env.gov.bc.ca/bcparks/reserve/
+							https://www.discovercamping.ca/bccweb/
+							http://www.env.gov.bc.ca/bcparks/fees/userfees.pdf?v=1579087337793
+							
+							!!!
+							NAIRN FALLS - frontcountry camping $22.00 /party/night
+								https://www.discovercamping.ca/bccweb/Facilities/SearchViewUnitAvailabity.aspx
+							
+							!!!
+							https://whistlerrvpark.ca/wp-content/cache/cache-enabler/whistlerrvpark.ca/index.html.gz
+								45 CAD
+								
+							!!!
+							https://www.parkbridge.com/en-ca/rv-cottages/riverside-resort
+								45 CAD
+								
+							!!!
+							http://www.sitesandtrailsbc.ca/search/search-result.aspx?site=REC0127&type=Site
+								Fees: $13.00 Camping
+								Campsites: 51
+								first come first served campsite, no reservation system exists
 				
 	
 	Jun 21 - Vancouver
@@ -147,7 +172,6 @@ plan
 
 Seattle
 	Pike Place Market
-		famous market
 	
 	
 Vancouver
@@ -184,7 +208,9 @@ Craft Breweries
 Garibaldi
 	Sea to Sky Highway
 		connecting Vancouver with Whistler, Hwy 99 offers breathtaking vistas, from the Pacific Ocean to lofty mountain peaks
+			Brandywine Falls Provincial Park
 		
+
 		
 Olympic National Park
 	Ruby Beach
