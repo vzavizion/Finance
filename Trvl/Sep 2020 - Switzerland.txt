@@ -2038,12 +2038,38 @@ Best hiking + price + time
 				
 				
 				
-			Allmendhubel: Northface Trail + Mountain View Trail
-				2.5 hrs + 2 hrs
+			Stechelberg car parking + cable car from Stechelberg to Mürren
+			Mürren			
+				attractions
+					Lauterbrunnen to Stechelberg
+						72 waterfalls cascading down the cliffs
+							Staubbach Falls
+					Mürren
+						Mürrenbach bridge
+					Allmendhubel		
+						Skyline Chill relaxation area
+				hikes
+					Northface Trail + Mountain View Trail + tram back (Grütschalp-Mürren)
+					VZ 2nd choice
+						Mürren - Allmendhubel						
+							Blumental Panorama Trail
+							Flower Trail					
+						Stechelberg - Oberhorn lake
+						Round hike Sausläger
+							alternative to Mountain View Trail
+						Schilthorn - Piz Gloria
+				hike: 2.5 hrs + 2 hrs
+				cable car Stechelberg to Mürren RT + tram back Grütschalp-Mürren OW: 1 hr						 
+
+				VZ 2nd choice							
+					Wengen
+						BBQ places
+					Schilthorn + Birg
+					
 			
 			
 			Grindelwald car parking + Mountain Bus Line 126 Grindelwald - Bussalp
-			Grindelwald
+			Bussalp - First - Grindelwald
 				attractions
 					Grindelwald
 						Alpine Dairy	
@@ -2086,13 +2112,37 @@ Best hiking + price + time
 				bus to Habkern/Lombachalp: 1.5 hrs
 								
 				VZ 2nd choice
+					lakeside towns
+						Thun
+							Altstadt
+							Schloss Thun
+								only outside
+						Spiez
+							Schloss Spiez
+						Brienz		
+							Brunngasse
+						lake cruises
+						Stockhorn
 					drve by
-						St. Beatus Caves
+						St. Beatus Caves							
 					hike
 						Gemmenalphorn hike
+							
+
+			Grimsel
+				attractions
+					Molki Meiringen
+				hikes	
+					Rundwanderung Gelmersee						
+					VZ 2nd choice
+						Triftbrücke						
+				hike: 3 hrs RT
+				drive: 1.5 hrs RT
 				
 			
+			
 			VZ 2nd choice
+				Cheese dairy Gental + Cheese dairy Engstlenalp
 				
 
 
@@ -3265,61 +3315,50 @@ Kleine Scheidegg
 =============================================
 =============================================
 =============================================
-=====================Mürren
+=====================Lauterbrunnen + Wengen
 		
 	
 
-
-
-Isenfluh and Sulwald 
-	hiking trails
-		Sulwald-Lobhornhütte 1.5 hrs
-		Isenfluh-Grütschalp  1.5 hrs
-		Sulwald-Chüebodmi-Soustal 1 hr
-		Isenfluh-Sulwald mountain trail 1.5 hrs
-
-
+	
 
 Lauterbrunnen
 
+
 	Lauterbrunnen Valley
 
-	!!!
-	Staubbach Falls
-		297m-high
-		8am-8pm
-		got for early-morning light
-		walk behind the falls, be prepared to get wet
-		illuminated in the evening
-
-	???
-	Trümmelbachfälle
-		CHF11.00
-		9am-5pm
-		
-		10 glacial waterfalls inside the mountain, illuminated and accessible by tunnel-lift
-
-		bus 141 from the train station (Sfr3.40, nine minutes) takes you to the falls
-
-	hikes
-		Lauterbrunnen to Mürren
-			2.5 hrs
+		!!!
+		Staubbach Falls
+			297m-high
+			8am-8pm
+			got for early-morning light
+			walk behind the falls, be prepared to get wet
+			illuminated in the evening
 			
-		Lauterbrunnen to Stechelberg
-			1.5 hrs
+		hikes
+			Lauterbrunnen to Mürren
+				2.5 hrs
+				
+			Lauterbrunnen to Stechelberg
+				1.5 hrs
 
-			922 m
-			72 waterfalls cascading down the cliffs
-			
-			Lauterbrunnen–Trümmelbachfälle–Stechelberg
+				922 m
+				72 waterfalls cascading down the cliffs
+				
+				Lauterbrunnen–Trümmelbachfälle–Stechelberg
 
-			easy, mostly flat walk, which takes you past many waterfalls and imposing cliffs
-			
+				easy, mostly flat walk, which takes you past many waterfalls and imposing cliffs			
 
+		other
+			???
+			Trümmelbachfälle
+				CHF11.00
+				9am-5pm
+				
+				10 glacial waterfalls inside the mountain, illuminated and accessible by tunnel-lift
 
-	base station of Schilthorn
-		see BASE jumpers
+				bus 141 from the train station (Sfr3.40, nine minutes) takes you to the falls
 
+				
 	car parking
 		parking for Wengen is available in Lauterbrunnen
 		parking for Mürren in Lauterbrunnen and Stechelberg
@@ -3355,37 +3394,31 @@ Lauterbrunnen
 			 
 	grocery
 		COOP
-		www.coop.ch
-		Zwischensaison Low season
-			Mo–Fr Mon–Fri 08.00–12.15h/13.30–18.30h
-			Sa Sat 08.00–17.00h · So geschlossen Sun closed
-		Saison
-			Mo–Fri Mon–Fri 08.00–18.30h
-			Sa Sat 08.00–18.00h · So geschlossen Sun closed
+			www.coop.ch
+			Zwischensaison Low season
+				Mo–Fr Mon–Fri 08.00–12.15h/13.30–18.30h
+				Sa Sat 08.00–17.00h · So geschlossen Sun closed
+			Saison
+				Mo–Fri Mon–Fri 08.00–18.30h
+				Sa Sat 08.00–18.00h · So geschlossen Sun closed
 
 
+				
+				
 Wengen
-	www.wengen.ch
-	
-	1,274 m
 
 	views
 		close-ups of ‘big three’ – Eiger (Ogre), Mönch (Monk) and Jungfrau (Virgin)
 		vista peers over to the misty Staubbach Falls, down to the Lauterbrunnen Valley
 
-	Europe’s longest toboggan run on the back of an old-fashioned sledge
-
 	hiking
 		forest trail down to Lauterbrunnen
 			1 hr
-		cable car to Männlichen or train to Allmend, Wengernalp or Kleine Scheidegg
 		
-		
-		other
-			Mendelssohnweg
-				# 41 on hike map				
-				Wengen–Staldenfluh–Mettlenalp–Wengernalp				
-				2h 50min
+		Mendelssohnweg
+			# 41 on hike map				
+			Wengen–Staldenfluh–Mettlenalp–Wengernalp				
+			2h 50min
 
 
 	BBQ places
@@ -3400,100 +3433,78 @@ Wengen
 		
 	grocery
 		COOP
-			Mon–Sun 08.00–18.30h
+			Mon–Sun 08.00–18.30h			
+			
+	other
+		Europe’s longest toboggan run on the back of an old-fashioned sledge		
 			
 			
-
-
-Gimmelwald
-	1,370 m
-
-	hikers away from the crowds
-		down from Mürren
-			30 to 40 minutes
-		up from Stechelberg
-			1.5 hrs
-
-	cable cars
-		Mürren or Stechelberg
-		Sfr5.80
-
+=============================================
+=============================================
+=============================================
+=====================Mürren
+		
+	
 
 
 Mürren
-	www.muerren.ch
 	
-	1,650 m
-	
-	Mürrenbach bridge
-	
-	two ways of reaching Mürren from Lauterbrunnen
-		cable car rises to Grütschalp, from where a tram takes a scenic route along the cliff edge to reach Mürren
+	cable cars
+		two ways of reaching Mürren from Lauterbrunnen
+			cable car rises to Grütschalp, from where a tram takes a scenic route along the cliff edge to reach Mürren
+			
+					Luftseilbahn Schilthorn
+						Stechelberg–Gimmelwald–Mürren–Birg–Schilthorn
+						
+						every 30min from Stechelberg
+						departures to Schilthorn peak from Stechelberg at 25 & 55min past the hour
+						departures to Stechelberg from Schilthorn peak at 3 & 33min past the hour
+						last ride 17.55h
+
+						departures Stechelberg–Gimmelwald–Mürren
+						last departure Sun–Thu 23.45h, Fri-Sat 00.55h	
+
+						Stechelberg–Gimmelwald–Mürren
+							RT CHF 22.40
+			
+				OR
+				
+			buses travel along the valley-floor road (past a magnificent series of waterfalls at Trümmelbach) to Stechelberg, from where a cable car climbs to Mürren			
+				
+					BLM Bergbahn Lauterbrunnen Mürren
+						Lauterbrunnen–Grütschalp–Winteregg–Mürren · 20min
+						
+						leaving from Lauterbrunnen 06.13/06.31/07.01/07.31/08.01/08.38h, thereafter connections XX.08/XX.38h
+							additionally 09.23–12.23h/14.23–16.53h always XX.23/XX.53h
+						last connection at 20.35h
+
+						leaving from Mürren 06.06/06.36/07.06/07.36/08.06/08.28/08.58h, thereafter connections XX.28/XX.58h
+							additionally 09.43–12.13/14.13–17.13h always XX.13/XX.43h
+						last connection at 19.58h
+						
+						Lauterbrunnen–Grütschalp–Winteregg–Mürren 
+							RT CHF 31.20
+				
+
+		Standseilbahn Allmendhubel
+			Mürren–Allmendhubel
+				09.00–17.00h, connections every 20min at XX.00/XX.20/XX.40
+				RT CHF 14.00
+				
+			
+		another cable car heads further up, to the ice-bound summit of the Schilthorn	
 		
-				Luftseilbahn Schilthorn
-					Stechelberg–Gimmelwald–Mürren–Birg–Schilthorn
-					
-					every 30min from Stechelberg
-					departures to the peak from Stechelberg at 25 & 55min past the hour
-					departures to Stechelberg from the peak at 3 & 33min past the hour
-					last ride 17.55h
-
-					departures Stechelberg–Gimmelwald–Mürren
-					last departure Sun–Thu 23.45h, Fri-Sat 00.55h		
-		
-			OR
-			
-		buses travel along the valley-floor road (past a magnificent series of waterfalls at Trümmelbach) to Stechelberg, from where a cable car climbs to Mürren			
-			
-				BLM Bergbahn Lauterbrunnen Mürren
-					Lauterbrunnen–Grütschalp–Winteregg–Mürren · 20min
-					
-					leaving from Lauterbrunnen 06.13/06.31/07.01/07.31/08.01/08.38h, thereafter connections XX.08/XX.38h
-						additionally 09.23–12.23h/14.23–16.53h always XX.23/XX.53h
-					last connection at 20.35h
-
-					leaving from Mürren 06.06/06.36/07.06/07.36/08.06/08.28/08.58h, thereafter connections XX.28/XX.58h
-						additionally 09.43–12.13/14.13–17.13h always XX.13/XX.43h
-					last connection at 19.58h			
-			
-
-		
-	another cable car heads further up, to the ice-bound summit of the Schilthorn
-	
-			Standseilbahn Allmendhubel
-				Mürren–Allmendhubel
-					09.00–17.00h, connections every 20min at XX.00/XX.20/XX.40
+		https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/schilthorn
+		https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/muerren-winteregg
+		https://schilthorn.ch/en/Infos/Timetable__and__Tariff
 	
 	
-	grocery
-		COOP
-			Mon–Fri 08.00–18.30h
-			Sat 08.00–18.00h
-			Sun 11.00–17.00h
-			
-	https://schilthorn.ch/fr/Infos/daten/karten/schilthorn_wanderplan.jpg
-			
-	https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/schilthorn
-	https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/muerren-winteregg
-
-
-
-Allmendhubel
-	Allmendhubel funicular
-		www.schilthorn.ch
-		one-way/return Sfr6.40/12.60
-		9am-5pm
-		every 20 mins
-
-	!!!
-	Skyline Chill relaxation area
 	
-	!!!
-	many walks
-	
+	terrific base for hiking	
+
 		!!!
 		famous Northface Trail
-			Allmendhubel via Schiltalp to the west			
+			Mürren-Schiltalp-Allmendhubel
 			
 			Difficulty easy
 			Distance 7.4 km 
@@ -3522,9 +3533,6 @@ Allmendhubel
 			funicular takes you back from Almendhubel to Mürren
 				OR
 			take Mountain View Trail from Almendhubel to Grütschalp			
-				
-			Allmendhubel–Blumental–Schiltalp–Spielbodenalp–Mürren
-	
 	
 			Starting Point
 				Mountain station Schilthorn, Mürren
@@ -3544,7 +3552,7 @@ Allmendhubel
 
 		!!!
 		Mountain View Trail
-			Mürren–Grütschalp
+			Mürren-Grütschalp
 			
 			Difficulty easy			
 			Distance 5.1 km 
@@ -3578,7 +3586,7 @@ Allmendhubel
 
 
 		!
-		Stechelberg - Oberhorn lake in the UNESCO aerea
+		Stechelberg - Oberhorn lake in the UNESCO area
 		
 			Difficulty moderate
 			Distance 8.35km
@@ -3591,6 +3599,8 @@ Allmendhubel
 			Starting Point
 				Stechelberg, Lauterbrunnen
 				46.544939, 7.902709
+				
+				possible to start from Gimmelwald (Gimmelwald-Stechelberg)
 				
 			Ending Point
 				Stechelberg, Lauterbrunnen
@@ -3626,6 +3636,39 @@ Allmendhubel
 			https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/round-hike-sauslaeger/23432036/
 			https://jungfrauregion.swiss/en/summer/tracks/round-hike-sauslaeger/
 
+		
+		!		
+		Mürren - Allmendhubel
+		
+			Blumental Panorama Trail
+				
+				Duration 1:00 h 
+				
+				Turn-by-turn directions
+					Allmendhubel–Suppenalp–Mürren
+			
+				trail
+					start above the Schilthorn cablecar station in Mürren, go over the Mürrenbach bridge, up to the right over the Children's-Adventure Trail to Suppenalp restaurant and continue via Blumental to Allmendhubel
+				
+			
+			Flower Trail: Mürren - Allmendhubel
+			
+				Difficulty easy
+				Distance 2.1 km 				
+				Duration 1:00 h 
+
+				Ascent 260 m 
+				Descent 3m 
+
+				Start
+					Mürren station (Schilthorn cableways / Schilthornbahn) (1638 m)
+					46.558140, 7.891233
+				Destination
+					Allmendhubel
+				Turn-by-turn directions
+					Mürren - Blumental - Allmendhubel
+				https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/muerren-allmendhubel-with-flower-trail/23432033/			
+			
 				
 
 		other
@@ -3655,28 +3698,50 @@ Allmendhubel
 			
 				https://jungfrauregion.swiss/en/summer/tracks/grauseeli/
 
-				
-			Blumental Panorama Trail
-				Allmendhubel–Suppenalp–Mürren
-				1h
-
 
 				
-		https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/schilthorn
-		https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/muerren-winteregg
+	Mürrenbach bridge
+	
+	
+	grocery
+		COOP
+			Mon–Fri 08.00–18.30h
+			Sat 08.00–18.00h
+			Sun 11.00–17.00h
+			
+	https://schilthorn.ch/fr/Infos/daten/karten/schilthorn_wanderplan.jpg
+			
+	
 
+	
+	
+
+Allmendhubel
+	
+	Allmendhubel funicular		
+		every 20 mins
+
+	!!!
+	Skyline Chill relaxation area
+	
+				
+	https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/schilthorn
+	https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/muerren-winteregg
+
+
+	
 
 
 Schilthorn
-	2,970 m
+		
+	45 min by bus and cable car from Lauterbrunnen
+		excursion trip from Interlaken to Lauterbrunnen, Grütschalp, Mürren, Schilthorn and returning through Stechelberg to Interlaken
+			from Lauterbrunnen via Grütschalp and Mürren
+				RT CHF 108.00
+			from Lauterbrunnen via the Stechelberg
+				RT CHF 108.00
 	
 	360-degree vista of 200 peaks stretching from Mt Titlis to Mont Blanc in France, and across to the German Black Forest
-	
-	45min by bus and cable car from Lauterbrunnen
-	
-	Skyline view platform
-	Thrill Walk
-	Bond World 007
 
 	Bond World 007
 		http://schilthorn.ch
@@ -3685,18 +3750,7 @@ Schilthorn
 
 		pose for photos secret-agent style
 		relive movie moments in a helicopter and bob sled
-
-	excursion trip from Interlaken to Lauterbrunnen, Grütschalp, Mürren, Schilthorn and returning through Stechelberg to Interlaken
-		from Interlaken
-			Sfr121.80 RT
-			Half-Fare Card and Swiss Card 50% off, Swiss Pass 65% off
-		from Lauterbrunnen via Grütschalp and Mürren
-			Sfr107 RT
-		from Lauterbrunnen via the Stechelberg
-			Sfr107 RT
-		from Mürren
-			Sfr77 RT
-		discounts for early-morning trips
+		
 
 	Birg station
 		2,677 m
@@ -3707,16 +3761,43 @@ Schilthorn
 			
 		Skyline Walk		
 		
-		Try to Ski
-			perfect offer for your first ski attempts. Specially equipped ski and clothing containers can be rented and two conveyor belts take you to the practice area
-		tubing sledging experience
-		igloo village is also available for the ultimate snow feeling
+		winter sports park
+			Try to Ski
+				perfect offer for your first ski attempts. Specially equipped ski and clothing containers can be rented and two conveyor belts take you to the practice area
+			tubing sledging experience
+			igloo village is also available for the ultimate snow feeling
+		
+	base station of Schilthorn
+		see BASE jumpers		
 		
 	https://shop.jungfrauregion.swiss/jrt_jr_en/tickets/bergbahn/angebote/schilthorn
+	https://schilthorn.ch/en/Infos/Timetable__and__Tariff
 
 
 
 
+	
+	
+	
+	
+other
+	
+	Gimmelwald
+		hikers away from the crowds
+			down from Mürren
+				30 to 40 minutes
+			up from Stechelberg
+				1.5 hrs	
+		
+
+	Isenfluh and Sulwald 
+		hiking trails
+			Sulwald-Lobhornhütte 1.5 hrs
+			Isenfluh-Grütschalp  1.5 hrs
+			Sulwald-Chüebodmi-Soustal 1 hr
+			Isenfluh-Sulwald mountain trail 1.5 hrs
+
+			
 
 
 
@@ -3734,6 +3815,9 @@ Cows
 	!!!
 	Almabtriebe in September
 		cows wreathed in flower garlands are brought down from the mountains for another winter of dung-shovelling
+		
+		dates unknown
+		
 
 	Cheese - try some whey and cottage cheese straight from the copper cauldron.
 		Cheese dairy Gental
@@ -3745,31 +3829,13 @@ Cows
 			Open from June to end of September, from 08.00 h.
 			Cheese is made in the mornings
 
-	Cheese Festival Wengen
-		Date: In september
-		http://www.wengen.ch
-
-
-
-
 
 
 
 =============================================
 =============================================
 =============================================
-=====================Thun
-
-
-
-lake cruises for Lake Thun and Lake Brienz
-	day pass valid for both lakes
-		www.bls.ch
-		Sfr66 from Tuesday to Sunday
-		Sfr39 on Monday
-		Eurail Passes, the Regional Pass and the Swiss Pass are valid on all boats
-		InterRail and Swiss Half-Fare Card get 50% off
-
+=====================Lakeside towns
 
 
 
@@ -3851,36 +3917,7 @@ Spiez
 			Sfr27 from Interlaken West
 
 
-Lake Thun
-	Schloss Oberhofen
-		Sfr10
-		castle 11am-5pm Tue-Sun
-		gardens 9am-dusk
-
-		frescoed chapel, ornate Napoleonic drawing room and Turkish smoking room
-		manicured English landscaped gardens with views of the Bernese Alps
-
-		25 minutes by boat from Thun
-			one way/return Sfr12/20
-
-	Schloss Hünegg
-		Sfr9
-		2-5pm Mon-Sat
-		11am-5pm Sun
-
-		feast of art-nouveau and neo-Renaissance styles
-		fabulous 19th-century stuccoed salons.
-
-	Giessbachfälle
-		free
-
-		plummet 500m over 14 rocky ridges
-
-		15-minute walk up to the most striking section of the falls
-
-		easily reached by boat (return from Brienz Sfr17.80, from Interlaken Ost Sfr39)
-
-
+			
 
 Brienz
 	Rothorn Bahn
@@ -3906,8 +3943,6 @@ Brienz
 		long views over Brienzersee to snow-dusted 4000m peaks
 
 		walking up from Brienz takes around five hours
-		
-		
 			
 
 	Brunngasse
@@ -3919,116 +3954,187 @@ Brienz
 		boat
 			Sfr29
 
-
-
-nearby
-	Stockhorn
-		Stockhorn railway from Erlenbach in the Simmental 
-		panoramic viewing platform 
-		hiking trails around the 2 mountain lakes
-			Oberstockensee 
-			Hinterstockensee
-				40 mins
-
-
-
-=============================================
-=============================================
-=============================================
-=====================...
-
-
-
-nearby
-	!!!
-	Triftbrücke
-		cable car one way/return Sfr14/22
-		9am-4pm
-
-		from cable car it’s a 1.5-2 hr walk OW to the Triftbrücke bridge (1870m) 
-			stunning view of the turquoise blue glacier lake and the tongue of the Triftgletscher
-			the way back leads past the SAC hut Windegg
-
-		170m-long, 100m-high suspension bridge, Europe’s longest and highest
-
-		Starting Point
-			Schwendi, Talstation Triftbahn
-			46.72119 N 8.31849 E
-
-		Ending Point
-			Triftbrücke
-
-		Step by Step Directions
-			Schwendi - Underi Trift - Triftbrücke
 			
-		https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/triftbruecke-und-furtwangsattel/23431907/
-		https://jungfrauregion.swiss/en/summer/tracks/triftbruecke-und-furtwangsattel/
+			
+			
+			
+lake cruises for Lake Thun and Lake Brienz
+	day pass valid for both lakes
+		www.bls.ch
+		Sfr66 from Tuesday to Sunday
+		Sfr39 on Monday		
 		
-		http://www.grimselwelt.ch/bahnen/triftbahn
-
-
-
-	Molki Meiringen
-		8am-12.15pm & 2-6.30pm Mon-Fri, 7.30am-5pm Sat
-
-		local dairy - tangy Haslital cheeses and homemade ice cream
-
-
-	TB !
-	Handeckfall Bridge	
-		VZ !
-		Gelmerbahn
-			Gelmersee				
-			Gelmerhütte
 			
-			Rundwanderung Gelmersee
+	Lake Thun
+		Schloss Oberhofen
+			Sfr10
+			castle 11am-5pm Tue-Sun
+			gardens 9am-dusk
+
+			frescoed chapel, ornate Napoleonic drawing room and Turkish smoking room
+			manicured English landscaped gardens with views of the Bernese Alps
+
+			25 minutes by boat from Thun
+				one way/return Sfr12/20
+
+		Schloss Hünegg
+			Sfr9
+			2-5pm Mon-Sat
+			11am-5pm Sun
+
+			feast of art-nouveau and neo-Renaissance styles
+			fabulous 19th-century stuccoed salons.
+
+		Giessbachfälle
+			free
+
+			plummet 500m over 14 rocky ridges
+
+			15-minute walk up to the most striking section of the falls
+
+			easily reached by boat (return from Brienz Sfr17.80, from Interlaken Ost Sfr39)
+
+		
+		
+
+
+
+Stockhorn
+	Stockhorn railway from Erlenbach in the Simmental 
+	panoramic viewing platform 
+	hiking trails around the 2 mountain lakes
+		Oberstockensee 
+		Hinterstockensee
+			40 mins
+			
+
+
+			
+
+=============================================
+=============================================
+=============================================
+=====================Grimsel
+
+
+
+
+
+!
+Triftbrücke
+	cable car
+	8am-4pm
+	RT CHF 24
+
+	from cable car it’s a 1.5 hrs walk OW to the Triftbrücke bridge (1870m) 
+		stunning view of the turquoise blue glacier lake and the tongue of the Triftgletscher
+		the way back leads past the SAC hut Windegg
+
+	170m-long, 100m-high suspension bridge, Europe’s longest and highest
+
+	Starting Point
+		Schwendi, Talstation Triftbahn
+		46.72119 N 8.31849 E
+
+	Ending Point
+		Triftbrücke
+
+	Step by Step Directions
+		Schwendi - Underi Trift - Triftbrücke
+		
+	https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/triftbruecke-und-furtwangsattel/23431907/
+	https://jungfrauregion.swiss/en/summer/tracks/triftbruecke-und-furtwangsattel/
 	
-				scenic loop
-				
-				hike begins with a breathtaking ride on the steepest open funicular in Europe
-				after the ascent, the hike around the Gelmersee begins
-				after circumnavigating the lake, the hike continues to Kunzentännlein
-				follow the old mule track to get back to the starting point
-				
-				extend the hike and experience the hospitality of the Gelmerhütte
-				
-				Parking
-					uncovered parking spaces at the Gelmerbahn
-				
-				Difficulty Medium
-				Distance 8.98km
-				Duration 3 hours
-				Ascent 199 vm
-				Descent 199 vm
+	https://www.grimselwelt.ch/en/transport-lift/trift
+	https://www.grimselwelt.ch/en/excursion-tips/trift
 
-				Starting Point
-					Handegg, Talstation Gelmerbahn
-					46.614435 N 8.320538 E
 
-					Ending Point
-					Handegg
 
-				Step by Step Directions
-					Gelmerbahn (Handegg) - Gelmersee - Chüenzentennlen - Handegg Stäfelti - Säumerstein - Widmannshöhe - Handegg
+!!!
+Molki Meiringen
+	8am-12.15pm & 2-6.30pm Mon-Fri, 7.30am-5pm Sat
+
+	local dairy - tangy Haslital cheeses and homemade ice cream
+
+
+
+TB ! VZ !!!
+Handeckfall Bridge
+
+	cable car
+		9-16 h
+		RT CHF 32
+		
+	VZ !
+	Gelmerbahn
+		Gelmersee				
+		Gelmerhütte
+		
+		!!!
+		Rundwanderung Gelmersee
+
+			scenic loop
+			
+			hike begins with a breathtaking ride on the steepest open funicular in Europe
+			after the ascent, the hike around the Gelmersee begins
+			after circumnavigating the lake, the hike continues to Kunzentännlein
+			follow the old mule track to get back to the starting point
+			
+			extend the hike and experience the hospitality of the Gelmerhütte
+				2h 15 from the Top station of the Gelmer funicular
+				3h from bus stop Kunzentännlein
 				
-				https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/rundwanderung-gelmersee/23431924/	
-				https://jungfrauregion.swiss/en/summer/tracks/rundwanderung-gelmersee/
+				bottom station of the Gelmer funicular can be reached from the Hotel and Nature Resort Handeck via the bridge over the Handeck waterfalls
+				https://www.outdooractive.com/en/route/ski-touring/bernese-oberland/gelmerhuette-2412-m.ue.m.-/24505710/
+				https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/vom-gelmersee-zur-gelmerhuette/24519445/
 				
-				http://www.grimselwelt.ch/bahnen/gelmerbahn
+				https://www.gelmerhuette.ch/
+			
+			Parking
+				uncovered parking spaces at the Gelmerbahn
+			
+			Difficulty Medium
+			Distance 8.98km
+			Duration 3 hours
+			Ascent 199 vm
+			Descent 199 vm
+
+			Starting Point
+				Handegg, Talstation Gelmerbahn
+				46.614435 N 8.320538 E
+
+				Ending Point
+				Handegg
+
+			Step by Step Directions
+				Gelmerbahn (Handegg) - Gelmersee - Chüenzentennlen - Handegg Stäfelti - Säumerstein - Widmannshöhe - Handegg
+			
+			https://www.outdooractive.com/en/route/hiking-trail/bernese-oberland/rundwanderung-gelmersee/23431924/	
+			https://jungfrauregion.swiss/en/summer/tracks/rundwanderung-gelmersee/
+			
+			https://www.grimselwelt.ch/en/transport-lift/gelmer
+			https://www.grimselwelt.ch/en/excursion-tips/gelmer-lake
+			https://www.grimselwelt.ch/en/excursion-tips/gelmer-hut
 			
 
-	Sidelhorn
-		Sidelhornbahn
-		hiking routes
-			to the summit of the Sidelhorn 
-			high trail to the Trübtensee
+
+Sidelhorn
+	Sidelhornbahn
+	hiking routes
+		to the summit of the Sidelhorn
+		high trail to the Trübtensee
 		
+	https://www.grimselwelt.ch/en/excursion-tips/sidelhorn
+		
+	
+
+
 
 
 =============================================
-
-
-
+=============================================
+=============================================
+=====================Meiringen
 
 
 
@@ -4083,9 +4189,6 @@ https://www.outdooractive.com/en/routes/#area=1039828&cat=Hiking%20Trail&filter=
 
 
 
-https://www.grimselwelt.ch/en/transport-lift/gelmer
-https://www.grimselwelt.ch/en/excursion-tips/sidelhorn
-https://www.grimselwelt.ch/en/transport-lift/trift
 
 
 
@@ -4482,6 +4585,7 @@ Engelberg
 		trek over the Surenenpass (2291m) to Attinghausen, where you can catch a bus to Altdorf and the southern end of Lake Uri
 
 		climb over Jochpass (2210m) to Meiringen via Engstlenalp
+			https://www.grimselwelt.ch/en/excursion-tips/engstlenalp
 		
 		
 		!
@@ -4542,6 +4646,7 @@ Engelberg
 
 				from Trübsee up to Jochpass
 					1.5 hrs
+					https://www.grimselwelt.ch/en/excursion-tips/engstlenalp
 
 				from Trübsee down to Engelberg
 					1.5 hrs
@@ -4562,6 +4667,8 @@ Engelberg
 				one-way/return Sfr31/44
 				
 				hiking trails
+				
+				https://www.grimselwelt.ch/en/excursion-tips/engstlenalp
 				
 			Stand
 				one-way/return Sfr36/51
@@ -4913,11 +5020,94 @@ Mt Rigi
 		easy walks (one to two hours) lead down from Rigi Kulm to Rigi Kaltbad, with wonderful views
 		Rigi Lehnenweg, a scenic 17.5km trek around the mountain
 		
+<<<<<<< HEAD
+?
+Entlebuch
+	Unesco Biosphere Reserve
+	home to some 17,000 people keen to preserve their traditional dairy farming lifestyle
+	wonderful hiking opportunities
+
+	
+
+
+
+Mt Pilatus
+	Legend has it that this 2132m peak was named after Pontius Pilate, whose corpse was thrown into a lake on its summit and whose restless ghost has haunted its heights ever since.
+
+	classic ‘golden round-trip’
+		board a boat from Lucerne to Alpnachstad, then rise with the world’s steepest cog railway to Mt Pilatus
+		from the summit, cable cars bring you down to Kriens via Fräkmüntegg and Krienseregg, where bus 1 takes you back to Lucerne
+		
+		return trip costs Sfr97 (less with valid Swiss, Eurail or InterRail passes)
+		
+		
+	Fräkmüntegg
+		Pilatus Seilpark 
+			Sfr27
+			10am-5pm 
+			
+			11 head-spinning trails from high-wire bridges to tree climbs are graded according to difficulty
+			
+		Switzerland’s longest summer toboggan run 
+			Sfr8
+			10am-5pm
+			
+			speedy 1.35km downhill ride.
+		
+
+	hikes 
+		steep, partially roped 2.8km scramble from Fräkmüntegg to the summit
+		easy 3.5km walk through forest and moor from Krienseregg to Fräkmüntegg
+		1.5km trudge from Pilatus-Kulm to Tomlishorn, affording views that stretch as far as the Black Forest on a clear day
+		
+
+
+Stanserhorn
+	360-degree vistas of Lake Lucerne, Mts Titlis and Pilatus 
+	
+	getting to the summit 
+		ride on a vintage 19th-century funicular from Stans to Kälti
+		from here, the nearly transparent CabriO, launched in 2012 as the world's first cable car with an open upper deck, takes you the rest of the way, offering amazing on-the-go views
+		at the summit, CabriO employees distribute time-specific boarding passes for the return trip. Request your desired return time upon arrival; otherwise, you may spend more time up top than you bargained for!
+	
+
+Klewenalp
+	hiking
+
+	to get here
+		head first for Beckenried, accessible by bus from Stans or boat from Lucerne
+		upon disembarking at Beckenried's bus stop/boat dock, walk 200m to the cable car that whisks you up the mountain to Klewenalp (one-way/return Sfr24/38, 10 minutes)
+		
+		
+Mt Rigi
+	impressive views of Mt Titlis and the Jungfrau giants	
+		sunrises and sunsets viewed from Rigi's summit are the stuff of bucket lists
+
+	two rival railways carry passengers to the top
+		one-way/return Sfr42/68
+
+		one runs from Arth-Goldau (45 minutes)
+		the other from Vitznau (30 minutes)
+			option of diverting at Rigi Kaltbad on the return trip and taking the cable car down to Weggis
+			
+		Swiss Pass holders travel free.
+		
+	magnet for hikers
+		easy walks (one to two hours) lead down from Rigi Kulm to Rigi Kaltbad, with wonderful views
+		Rigi Lehnenweg, a scenic 17.5km trek around the mountain
+		
 	Mineralbad & Spa Rigi Kaltbad 
 		Sfr35
 
 
 
+=======
+	Mineralbad & Spa Rigi Kaltbad 
+		Sfr35
+
+
+
+>>>>>>> f83cdcc1055f80aac664020a19186b856ffa879b
 Weggis
 Pop 4181 / Elev 440m
 Sheltered from cold northerlies by Mt Rigi, Weggis enjoys a mild climate, sprouting a few palm and fig trees by the lakefront. It’s hard to believe this genteel resort with small-town friendliness was the birthplace of the rebellious ‘Moderner Bund’ art movement, the forerunner of Dada. A cable car runs from here up to Rigi Kaltbad (10 minutes, one-way/return Sfr30/48).
