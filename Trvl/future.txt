@@ -617,6 +617,7 @@ Kazakhstan - LP Central Asia
 --Move to Priority 2 ???
 Uzbekistan - LP Central Asia
 Tajikistan - LP Central Asia
+Pakistan
 
 Bosnia and Herzegovina - RG - see Europe on a budget
 	http://www.bhtourism.ba/
@@ -729,8 +730,6 @@ Bahrain
 Brunei
 Kuwait
 Qatar
-
-Pakistan
 
 +Benin						LP West Africa
 +Burkina Faso				LP West Africa
