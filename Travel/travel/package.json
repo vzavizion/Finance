@@ -32,7 +32,7 @@
     "@progress/kendo-theme-default": "latest",
     "body-parser": "^1.18.3",
     "core-js": "^2.5.4",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "mongoose": "^5.2.2",
     "rxjs": "^6.2.1",
     "rxjs-compat": "^6.0.0",
